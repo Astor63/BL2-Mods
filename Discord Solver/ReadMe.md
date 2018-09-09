@@ -25,15 +25,15 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
   
 | Tech Specs      | Lascaux: Vanilla      | Discord Solver #1: Lascaux  | Discord Solver #2: Moxxi  | 
 | -------------   | -------------         | -------------               | -------------             | 
-| Bullet:         | Standard              | Explosive                   | Explosive                 | 
+| Bullet:         | Standard              | Gyrojets                    | Gyrojets                  | 
 | Burst Count:    | 9 to 14 rounds        | 9 to 14 rounds              | 9 to 14 rounds            | 
 | Critical Hit:   | None                  | None                        | 70%                       | 
 | Element:        | Never Elemental       | Explosive                   | Explosive                 | 
 | Element Chance: | None                  | None                        | None                      | 
 | Fire Cost:      | 1 ammo fire 2 bullets | 1 ammo fire 2 bullets       | 1 ammo fire 2 bullets     | 
-| Lifesteal:      | None                  | None                        | 2.5% of damage dealt      | 
+| Lifesteal:      | N/A                   | N/A                         | 2.5% of damage dealt      | 
 | Skin:           | Lascaux (Vanilla)     | Lascaux (Vanilla)           | Moxxi Signature           | 
-| Rarity:         | Unique                | Unique                      | Unique or Moxxi           | 
+| Rarity:         | Unique                | Unique                      | Moxxi                     | 
   
   
 ![Discord Solver - Lascaux vs Moxxi Version](https://i.imgur.com/ySWyM5T.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
