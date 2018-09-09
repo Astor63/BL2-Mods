@@ -3,7 +3,7 @@
 In their early days in the making of weapons, Dahl, in collaboration with Torgue create the Discord Solver, a SMG who fire explosive bullet. 
 Unfortunately, the agreement between the two weapons manufacturers did not last long, and the production of the SMG stopped quickly -How ironic for a weapon that's named Discord Solver!- and Torgue created the Pocket Rocket.
 
-Remnant of the past, a *"lost"* submachine gun (probably dropped by a bandit?) can still be found... submerged in a shallow pool in Frostburn Canyon.
+Remnant of the past, a *"lost"* Discord Solver (probably dropped by a bandit?) can still be found... submerged in a shallow pool in Frostburn Canyon.
 
 This is where you can find it.... 
 

@@ -5,7 +5,7 @@ Unfortunately, the agreement between the two weapons manufacturers did not last 
 
 It would seem that Moxxi still has a specimen of the Discord Solver in her private Signature collection of weapons, but no one has ever seen it, not even Marcus ... so maybe it's just a legend after all?
 
-Remnant of the past, a *"lost"* submachine gun (probably dropped by a bandit?) can still be found... submerged in a shallow pool in Frostburn Canyon.
+Anyway, remnant of the past, a *"lost"* Discord Solver (probably dropped by a bandit?) can still be found... submerged in a shallow pool in Frostburn Canyon.
 
 This is where you can find it... 
 
