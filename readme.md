@@ -7,7 +7,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
  * * * * *
  
-## [Quest Reward] [Double Quest Reward Redux v1.0.3](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Astor/Double%20Quest%20Reward%20Redux)
+## [Quest Reward] [Double Quest Reward Redux v1.0.3]
 
  - Upgrade the customization skin/head rewards to a Blue weapon/item rewards for 9 missions.
  - Choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired parts.
@@ -15,13 +15,13 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
  
  * * * * *
  
-## [Quest Reward] [Dr Zed E-Tech Geek v1.0.0](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Astor/Dr%20Zed%20E-Tech%20Geek)
+## [Quest Reward] [Dr Zed E-Tech Geek v1.0.0]
 
 - The 7 Missions given by Dr Zed in the main game will be rewarded with a E-Tech weapon/item, with the choice between 2 E-Tech weapons/items instead of a single one.
  
  * * * * * 
 
-## [Quest Reward] [Hammerlock Jakobs Sponsor v1.0.1](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Astor/Hammerlock%20Jakobs%20Sponsor) 
+## [Quest Reward] [Hammerlock Jakobs Sponsor v1.0.1]
 
 - Hammerlock give Jakobs weapon/item reward for few of his mission in the main game, but not all of them... Now he will... and with the choice between 2 Blue weapons/items instead of a single one!
  
