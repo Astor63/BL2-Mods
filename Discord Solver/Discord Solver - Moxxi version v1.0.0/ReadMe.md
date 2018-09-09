@@ -52,22 +52,11 @@ A great mod to check for the Discord Solver Moxxi version:
 
 - [Double Anarchy v4](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/DoubleAnarchyv4.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000) : Changes the SMGs accuracy accessory into the Double Accessory from Borderlands 1... and your Discord Solver will shot 4 bullets/projectiles at the cost on 2 ammo.
 
-### Credits:
-
-I find a lot of useful informations on the Ressource page from the [Wiki](https://github.com/BLCM/BLCMods/wiki) of course, but also on the [Resources page](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave/Resources) and the great [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf) ... all that made by [Dave](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave) , so thanks for your work, @DaveRabbit 
-
 ### Changelog:
 
 v1.0.0, September 8, 2018
  - Initial public release
  
- ### To do:
-
-- [ ] Show the Explosive icon on the weapon card (it's just cosmetic but I cannot find "how to" now)
-- [ ] Change the black parts of the weapon into a "brushed gold" color, for a look more Creamer style (it's just cosmetic but I have no idea how to do it)
-- [ ] Make (again) a new playthrough to be sure that all work correctly.
-- [ ] Clean the code and remove all my ~~shitty~~ notes. 
-
 ### Compatibility:
 
 - 100% compatible with UCP 4.1
@@ -76,7 +65,18 @@ v1.0.0, September 8, 2018
     - [ ]`set GD_Weap_SMG.Barrel.SMG_Barrel_Bandit_Lascaux ZoomWeaponAttributeEffects` 
   - This mod use the Pocket Rocket Firing Mode, so if you use any mode that changes the attributes from the Pocket Rocket, it will affect this mod, and obviously the firing of the Discord Solver. In this case, you can toggle the Firing Mode between Pocket Rocket to GyroJet explosive bullet.
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
+  
+### To do:
 
+- [ ] Show the Explosive icon on the weapon card (it's just cosmetic but I cannot find "how to" now)
+- [ ] Change the black parts of the weapon into a "brushed gold" color, for a look more Creamer style (it's just cosmetic but I have no idea how to do it)
+- [ ] Make (again) a new playthrough to be sure that all work correctly.
+- [ ] Clean the code and remove all my ~~shitty~~ notes. 
+
+### Credits & Thanks:
+
+I find a lot of useful informations on the Ressource page from the [Wiki](https://github.com/BLCM/BLCMods/wiki) of course, but also on the [Resources page](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave/Resources) and the great [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf) ... all that made by [Dave](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave) , so thanks for your work, @DaveRabbit   
+  
 ### Note: 
 
 Any critique would be appreciated as this is my 2nd weapon... and by the way, please leave constructive criticism if you make a video. 
