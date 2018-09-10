@@ -3,15 +3,20 @@
 
 I'm Astor, and I apologize in advance for some grammar and/or syntax errors, but my mother tongue is French.
 
+You are on BL2-Mods repository, where you can find all my Mods for Borderlands 2. (For the TPS Mods, please go to the TPS-Mods section) 
+
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
  * * * * *
  
-## [Quest Reward] [Double Quest Reward Redux v1.0.3]
+## [Quest Reward] [Double Quest Reward Redux v1.0.4]
 
  - Upgrade the customization skin/head rewards to a Blue weapon/item rewards for 9 missions.
  - Choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired parts.
- - In the mission Uncle Teddy, if you give the plans to Hyperion you will have the choice between 2 options: The Bitch (Legendary SMG Hyperion) or The Commerce (Unique Shock SMG Hyperion)
+ - In the mission Uncle Teddy, if you give the plans to Hyperion you will have 3 options: 
+   - the choice between 2 Bitch (Legendary SMG Hyperion) 
+   - the choice between 2 Commerce (Unique Shock SMG Hyperion)
+   - the choice between 1 Bitch (Legendary SMG Hyperion) or 1 Commerce (Unique Shock SMG Hyperion)
  
  * * * * *
  
