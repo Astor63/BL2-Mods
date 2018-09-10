@@ -4,7 +4,7 @@
 
 You are on my WIP repository, where you can have a preview all my upcoming Mods for Borderlands 2.  
 
-As the name say it, the mods are ==NOT== totally finished, so obviously, **the Mod won't work correctly**... and by *it won't work correctly*,I mean that the Mod can even break your game.
+As the name say it, the mods are **NOT** totally finished, so obviously, **the Mod won't work correctly**... and by *it won't work correctly*,I mean that the Mod can even break your game.
 
 So please be patient, and wait his release.
 
