@@ -16,10 +16,12 @@ It would seem that Moxxi still has a specimen of the Finesse in her private Sign
 ## What special with this weapon?
 
 - Both Version:
-  - Use SEAPP (Smart Elemental Adaptive Plasma Projectile): a Alien which adapt his Elemental following the impact:
+  - Use SEAPP (Smart Elemental Adaptive Plasma Projectile): a Alien Plasma Projectile which adapt his Elemental following the impact:
     - Incendiary on flech
     - Shock on shield
-    - Corrosive on armor	
+    - Corrosive on armor
+  - Splash damage booster by grenade
+  - Burst normarlized to 5 rounds  
   - Shot a double EAPP for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
 - Moxxi Version:
   - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of 70% Critical hit bonus & 2.5% lifesteal on damage dealt.
@@ -52,7 +54,6 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - Both Version:
   - The Elemental Effect Chance can toggle from 1% to 40%
   - The Plasma Projectile Speed Mode has a toggle option between Normal/Double/Triple Speed
-  - The Firing Mode has a toggle option between Pocket Rocket or GyroJet explosive bullet (see Compatibility below)
   - The Explosion Impact Type has a toggle option between Explosive/Explosive ForceFlinch/None
   - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
   - The working Flaps can be toggle beween On or Off
@@ -69,7 +70,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - Moxxi Version:
   - Fix for Akathis "No More Moxxi Lifesteal" - 1.5% passive health regeneration instead of 2.5% Lifesteal
   
-![Discord Solver as reward for Moxxi mission](https://i.imgur.com/8JPt8ap.png "Don't worry guys... even if my screen capture show French text, my mods are in English") 
+![Finesse as reward for Moxxi mission](https://i.imgur.com/8JPt8ap.png "Don't worry guys... even if my screen capture show French text, my mods are in English") 
 
 **Note:** You can toggle between the choice from 2 Moxxi Finesse or between the choice from 1 Moxxi Finesse & 1 Kiss of Death. 
 
@@ -81,7 +82,7 @@ A great mod to check for the Discord Solver:
 
 - Both Version: [Double Anarchy v4](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/DoubleAnarchyv4.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000) : Changes the SMGs accuracy accessory into the Double Accessory from Borderlands 1... and your Discord Solver will shot 4 bullets/projectiles at the cost on 2 ammo.
 
-![Discord Solver Lascaux Version with Double Anarchy Mod](https://i.imgur.com/fkJRAqD.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Finesse Moxxi Version with Double Anarchy Mod](https://i.imgur.com/fkJRAqD.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 ### Compatibility:
 

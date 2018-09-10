@@ -19,7 +19,9 @@ It would seem that Moxxi still has a specimen of the Finesse in her private Sign
   - Use SEAPP (Smart Elemental Adaptive Plasma Projectile): a Alien Plasma Projectile which adapt his Elemental following the impact:
     - Incendiary on flech
     - Shock on shield
-    - Corrosive on armor	
+    - Corrosive on armor
+  - Splash damage booster by grenade
+  - Burst normarlized to 5 rounds  
   - Shot a double EAPP for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
 - Moxxi Version:
   - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of 70% Critical hit bonus & 2.5% lifesteal on damage dealt.
