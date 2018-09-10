@@ -1,40 +1,40 @@
 ## Discord Solver (Lascaux & Moxxi Version)
 
-In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who fire explosive bullet. 
-Unfortunately, the agreement between the two weapons manufacturers did not last long, and the production of the SMG stopped quickly -How ironic for a weapon that's named Discord Solver!- and Torgue seized the patents to create the Pocket Rocket.
+In their early days in their making of weapons, Dahl, seized Alien Technology plans and created the Finesse: a Plasma Caster who fire SEAPP (Smart Elemental Adaptive Plasma Projectile). 
 
+Unfortunately, the mastery of this Alien technology was in its infancy, and especially very expensive, which made the price of sale of these weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary Plasma Caster only after a few (rare) copies sold.
 
-
-Anyway, remnant of the past, a *"lost"* Discord Solver (probably dropped by a bandit?) can still be found... submerged in a shallow pool in Frostburn Canyon.
+Anyway, remnant of the past, a *"lost"* Finesse (probably dropped by a gang leader?) can still be found... submerged in a shallow pool in Frostburn Canyon.
 
 This is where you can find it... 
 
-![Discord Solver - Where to find it](https://i.imgur.com/uHTxuc6.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
-
-It would seem that Moxxi still has a specimen of the Discord Solver in her private Signature collection of weapons, but no one has ever seen it, not even Marcus ... so maybe it's just a legend after all?
+![Finesse - Where to find it](https://i.imgur.com/uHTxuc6.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 ## What special with this weapon?
 
-- Both Version:
-  - Shot two explosive bullet for the cost of one bullet (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
-  - Keep almost all his Unique weapon specificity (very high firerate, variable burst-fire round, etc), but I change the Fire Mode to Explosive bullet... and I add some Grenade Damage too  
-  - Finally, to balance this "a bit too powerful" submachine gun, I "just" reduce the initial damage and the accuracy too (more powerful weapon, but more missing shot... but not that much)
-- Moxxi Version:
-  - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of 70% Critical hit bonus and 2.5% lifesteal on damage dealt.
+- Shout SEAPP (Smart Elemental Adaptive Plasma Projectile): a Alien Plasma Projectile which adapt his Elemental following the impact:
+  - Incendiary on flech
+  - Shock on shield
+  - Corrosive on armor
+  - Splash damage booster by grenade
+  - Burst normarlized to 5 rounds  
+  - Shot a double EAPP for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
   
-Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
+Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:    
   
-| Tech Specs      | Lascaux: Vanilla      | Discord Solver #1: Lascaux  | Discord Solver #2: Moxxi  | 
-| -------------   | -------------         | -------------               | -------------             | 
-| Bullet:         | Standard              | Gyrojets                    | Gyrojets                  | 
-| Burst Count:    | 9 to 14 rounds        | 9 to 14 rounds              | 9 to 14 rounds            | 
-| Critical Hit:   | None                  | None                        | 70%                       | 
-| Element:        | Never Elemental       | Explosive                   | Explosive                 | 
-| Element Chance: | None                  | None                        | None                      | 
-| Fire Cost:      | 1 ammo fire 2 bullets | 1 ammo fire 2 bullets       | 1 ammo fire 2 bullets     | 
-| Lifesteal:      | N/A                   | N/A                         | 2.5% of damage dealt      | 
-| Skin:           | Lascaux (Vanilla)     | Lascaux (Vanilla)           | Moxxi Signature           | 
-| Rarity:         | Unique                | Unique                      | Moxxi                     | 
+| Tech Specs        | Lascaux: Vanilla      | Finesse #1: Lascaux   |  
+| -------------     | -------------         | -------------         | 
+| Bullet:           | Standard              | SEAPP                 | 
+| Burst Count:      | 9 to 14 rounds        | 5 rounds              | 
+| Critical Hit:     | None                  | None                  | 
+| Elemental:        | Never Elemental       | Elemental Adaptive    | 
+| Elemental dmg/sec:| Never Elemental       | 8%                    | 
+| Elemental Chance: | None                  | 8%                    |  
+| Splash Format:    | None                  | Grenade               |  
+| Fire Cost:        | 2 bullets cost 1 ammo | 2 SEAPP cost 1 ammo   | 
+| Lifesteal:        | N/A                   | N/A                   | 
+| Skin:             | Lascaux (Vanilla)     | Lascaux (Vanilla)     | 
+| Rarity:           | Unique                | Unique                | 
   
   
 ![Discord Solver - Lascaux vs Moxxi Version](https://i.imgur.com/ySWyM5T.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
