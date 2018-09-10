@@ -28,7 +28,9 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Burst Count:      | 9 to 14 rounds        | 5 rounds              | 
 | Critical Hit:     | None                  | None                  | 
 | Elemental:        | Never Elemental       | Elemental Adaptive    | 
-| Elemental dmg/sec:| Never Elemental       | 8%                    | 
+| Shock dmg/sec:    | Never Elemental       | 3605                  | 
+| Corrosive dmg/sec:| Never Elemental       | 3605                  | 
+| Shock dmg/sec:    | Never Elemental       | 6316                  | 
 | Elemental Chance: | None                  | 8%                    |  
 | Splash Format:    | None                  | Grenade               |  
 | Fire Cost:        | 2 bullets cost 1 ammo | 2 SEAPP cost 1 ammo   | 

@@ -24,7 +24,7 @@ It would seem that Moxxi still has a specimen of the Finesse in her private Sign
   - Burst normarlized to 5 rounds  
   - Shot a double EAPP for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
 - Moxxi Version:
-  - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of 70% Critical hit bonus & 2.5% lifesteal on damage dealt.
+  - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of 95% Critical hit bonus & 2.5% lifesteal on damage dealt.
   
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
   
@@ -32,9 +32,11 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | -------------     | -------------         | -------------         | -------------         | 
 | Bullet:           | Standard              | SEAPP                 | SEAPP                 | 
 | Burst Count:      | 9 to 14 rounds        | 5 rounds              | 5 rounds              | 
-| Critical Hit:     | None                  | None                  | 70%                   | 
+| Critical Hit:     | None                  | None                  | 95%                   | 
 | Elemental:        | Never Elemental       | Elemental Adaptive    | Elemental Adaptive    | 
-| Elemental dmg/sec:| Never Elemental       | 8%                    | 8%                    | 
+| Shock dmg/sec:    | Never Elemental       | 3605                  | 3605                  | 
+| Corrosive dmg/sec:| Never Elemental       | 3605                  | 3605                  |
+| Shock dmg/sec:    | Never Elemental       | 6316                  | 6316                  |
 | Elemental Chance: | None                  | 8%                    | 8%                    | 
 | Splash Format:    | None                  | Grenade               | Grenade               | 
 | Fire Cost:        | 2 bullets cost 1 ammo | 2 SEAPP cost 1 ammo   | 1 SEAPP cost 1 ammo   | 
