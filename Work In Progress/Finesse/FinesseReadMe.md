@@ -1,36 +1,41 @@
 
-## Fiesse (Lascaux & Moxxi Version)
+## Finesse (Lascaux & Moxxi Version)
 
-In their early days in their making of weapons, Dahl, seized Alien Technology plans and created the Finesse, a Plasma Caster who fire EAPP (Elemental Adaptive Plasma Projectile). 
+In their early days in their making of weapons, Dahl, seized Alien Technology plans and created the Finesse: a Plasma Caster who fire SEAPP (Smart Elemental Adaptive Plasma Projectile). 
 
-Unfortunately, the mastery of this Alien technology was in its infancy, and especially very expensive, which made the price of sale of these weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary Plasma Caster only after a few (rare) copies sold 
+Unfortunately, the mastery of this Alien technology was in its infancy, and especially very expensive, which made the price of sale of these weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary Plasma Caster only after a few (rare) copies sold.
 
 Anyway, remnant of the past, a *"lost"* Finesse (probably dropped by a gang leader?) can still be found... submerged in a shallow pool in Frostburn Canyon.
 
 This is where you can find it... 
 
-![Discord Solver - Where to find it](https://i.imgur.com/uHTxuc6.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Finesse - Where to find it](https://i.imgur.com/uHTxuc6.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 It would seem that Moxxi still has a specimen of the Finesse in her private Signature collection of weapons, but no one has ever seen it, not even Marcus ... so maybe it's just a legend after all?
 
 ## What special with this weapon?
 
 - Both Version:
-  - Shot a double Elemental Adaptive Plasma projectile for the cost of 2 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+  - Use SEAPP (Smart Elemental Adaptive Plasma Projectile): a Alien which adapt his Elemental following the impact:
+    - Incendiary on flech
+    - Shock on shield
+    - Corrosive on armor	
+  - Shot a double EAPP for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
 - Moxxi Version:
-  - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of 70% Critical hit bonus and 2.5% lifesteal on damage dealt.
+  - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of 70% Critical hit bonus & 2.5% lifesteal on damage dealt.
   
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
   
 | Tech Specs        | Lascaux: Vanilla      | Finesse #1: Lascaux   | Finesse #2: Moxxi     | 
 | -------------     | -------------         | -------------         | -------------         | 
-| Bullet:           | Standard              | EAPP                  | EAPP                  | 
+| Bullet:           | Standard              | SEAPP                 | SEAPP                 | 
 | Burst Count:      | 9 to 14 rounds        | 5 rounds              | 5 rounds              | 
 | Critical Hit:     | None                  | None                  | 70%                   | 
 | Elemental:        | Never Elemental       | Elemental Adaptive    | Elemental Adaptive    | 
 | Elemental dmg/sec:| Never Elemental       | 8%                    | 8%                    | 
 | Elemental Chance: | None                  | 8%                    | 8%                    | 
-| Fire Cost:        | 2 bullets cost 1 ammo | 1 bullets cost 2 ammo | 1 bullets cost 2 ammo | 
+| Splash Format:    | None                  | Grenade               | Grenade               | 
+| Fire Cost:        | 2 bullets cost 1 ammo | 2 SEAPP cost 1 ammo   | 1 SEAPP cost 1 ammo   | 
 | Lifesteal:        | N/A                   | N/A                   | 2.5% of damage dealt  | 
 | Skin:             | Lascaux (Vanilla)     | Lascaux (Vanilla)     | Moxxi Signature       | 
 | Rarity:           | Unique                | Unique                | Moxxi                 | 
