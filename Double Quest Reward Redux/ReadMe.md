@@ -5,7 +5,7 @@
  - This Mod will give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a weapon/item with desired parts... and reduce the time spent doing "farming".
  - Upgrade the customization skin/head rewards to a Blue weapon/item rewards for 9 missions, because once you (already) get them during the 1st playthrough, you don't care anymore
 
-![Octo as reward for Capture The Flag in Sawtooth Cauldron](https://i.imgur.com/ObFnzWS.png)
+![Octo as reward for Capture The Flag in Sawtooth Cauldron](https://i.imgur.com/ObFnzWS.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
  
 **Note:** The main reason why I resurrected (and rebuild from scratch) the "Double Quest Reward" Mod is mainly because in the great Koby's original Mod -unfortunately now extinct!-, some Unique weapon/items (Lady Fist, Rocksalt, Dahlminator, Buffalo, Landscaper, Sandhawk, Pimpernel, etc...) where removed from the rewards, and that doesn't make sense to me.
 
@@ -28,7 +28,7 @@ For those who were familiar with the previous Mod, the weapon/Item marked with a
  
 Feel Free to use the BLCMM tool to select the option of your choice.
 
-![BLCMM - Pick the option of your choice](https://i.imgur.com/jU3Ef7j.png)
+![BLCMM - Pick the option of your choice](https://i.imgur.com/jU3Ef7j.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 ### Other Recommended Mods:
 

@@ -29,7 +29,7 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Bullet:         | Standard              | Gyrojets                    | Gyrojets                  | 
 | Burst Count:    | 9 to 14 rounds        | 9 to 14 rounds              | 9 to 14 rounds            | 
 | Critical Hit:   | None                  | None                        | 70%                       | 
-| Element:        | Never Elemental       | Explosive                   | Explosive                 | 
+| Element:        | Never Elemental       | Never Elemental             | Never Elemental           | 
 | Element Chance: | None                  | None                        | None                      | 
 | Fire Cost:      | 1 ammo fire 2 bullets | 1 ammo fire 2 bullets       | 1 ammo fire 2 bullets     | 
 | Lifesteal:      | N/A                   | N/A                         | 2.5% of damage dealt      | 
