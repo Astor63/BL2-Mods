@@ -35,7 +35,7 @@ ParameterValue =
             A = 54.000000
         )
 ```
-Je comprends également que pour éviter d'avoir une couleur bêtement "pleine" (comme appliquée uniformément au pinceau), il faut par la suite ajouter tout un tas d'autres valeurs (ColorHighlight/ColorMidtone/ColorShadow/ etc...) sur 3 couches spécifiée par la lettre prefixe:
+Je comprends également que pour éviter d'avoir une couleur métallique et pas une couleur bêtement "pleine" (comme appliquée uniformément au pinceau), il faut par la suite ajouter tout un tas d'autres valeurs (ColorHighlight/ColorMidtone/ColorShadow/ etc...) sur 3 couches spécifiée par la lettre prefixe:
 - A pour Primaire (AColorHighlight)
 - B pour Secondaire (BColorHighlight)
 - C pour Tertiaire (CColorHighlight) 
@@ -58,8 +58,10 @@ Ce que j'aimerai obtenir comme habillage est simple à définir: uniforme au sty
 
 ![Moxxi Signature Collection - Moxxi's Red](https://i.imgur.com/lOXtQWL.png)
 Et voici le mieux que j'arrive à obtenir... une espèce de rouge "fraise écrasée" qui de plus rend l'arme "brillante" comme une Gemstone...
+
 ![Finesse Moxxi Version - Moxxi's Red](https://i.imgur.com/mpnjl76.png)
 Donc, oui, je reconnais que c'est pour le moins assez loin du compte...
+
 ![Finesse Moxxi Version - Moxxi's Red](https://i.imgur.com/8gtQFHK.png)
 ... au moins, je peux me consoler en me disant que le logo Moxxi est bien positionné sur la crosse  :smile:
 
@@ -70,8 +72,9 @@ Par rapport, comparé à l'habillage original de la Lascaux, voici ce que j'obti
 ![Finesse Moxxi Version - Metal Part](https://i.imgur.com/9Z6V0yW.png)
 ... une teinte plus foncée qui est encore plus laide... surtout sur le réservoir e-tech situé sous le canon... ou les serflex métallique semblent avoir disparu car la couleur se fond dans la masse  :disappointed_relieved:
 
-Et voici ce que j'aimerai obtenir comme nuance de couleurs pour les parties métalliques
+Et voici ce que j'aimerai obtenir comme nuance de couleurs pour les parties métalliques:
+
 ![Finesse Moxxi Version - Moxxi's Red](https://i.imgur.com/Ko9vwnP.png)
 
-C'est jouable?
+Cela te semble-t-il réalisable sans trop de prise de tête?
 
