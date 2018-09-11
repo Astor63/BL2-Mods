@@ -1,8 +1,9 @@
 ﻿
 Bonjour
-Ce que je voudrais réaliser me semble simple, car il me semble comprendre la technique, mais apparemment je dois manquer d'imagination graphique car même en suivant pas-à-pas les informations du [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf), je m'emmêle irrémédiablement les pinceaux dans les couleurs.
 
-Je m'explique: dans l'exemple de ligne de code suivante, je comprends parfaitement que les paramêtres R/G/B/A correspondent aux valeurs RGB (comme en photographie) 
+Ce que je voudrais réaliser me semble simple, car il me semble comprendre la technique, mais apparemment je dois manquer d'imagination ou de visualisation graphique car même en suivant pas-à-pas les informations du [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf), je m'emmêle irrémédiablement les pinceaux dans les couleurs.
+
+Je m'explique: dans l'exemple de ligne de code suivant, je comprends parfaitement que les paramêtres R/G/B/A correspondent aux valeurs RGB (comme en photographie) 
 
 ```(
     (
@@ -24,7 +25,7 @@ Je m'explique: dans l'exemple de ligne de code suivante, je comprends parfaiteme
     )
 )
 ```
-Je sais les obtenir ces valeurs sans trop de problèmes avec l'outil pipette de Photoshop et il me semble donc que la base du rouge "Moxxi signature" que je souhaite obtenir devrait logiquement être:
+Je sais obtenir ces valeurs sans trop de problèmes avec l'outil pipette de Photoshop et il me semble donc que la base du rouge "Moxxi signature" que je souhaite obtenir devrait logiquement être:
 ``` 
 ParameterValue =
         (
@@ -37,7 +38,7 @@ ParameterValue =
 Je comprends également que pour éviter d'avoir une couleur bêtement "pleine" (comme appliquée uniformément au pinceau), il faut par la suite ajouter tout un tas d'autres valeurs (ColorHighlight/ColorMidtone/ColorShadow/ etc...) sur 3 couches spécifiée par la lettre prefixe:
 - A pour Primaire (AColorHighlight)
 - B pour Secondaire (BColorHighlight)
-- C pour tertiaire (CColorHighlight) 
+- C pour Tertiaire (CColorHighlight) 
 
 Par contre, je reste complètement hermétique aux valeurs ExpressionGUID = A/B/C/D
 ```
@@ -62,7 +63,7 @@ Donc, oui, je reconnais que c'est pour le moins assez loin du compte...
 ![Finesse Moxxi Version - Moxxi's Red](https://i.imgur.com/8gtQFHK.png)
 ... au moins, je peux me consoler en me disant que le logo Moxxi est bien positionné sur la crosse  :smile:
 
-#### Les parties métalliques "Moxxi Signature"
+## Les parties métalliques "Moxxi Signature"
 
 Par rapport, comparé à l'habillage original de la Lascaux, voici ce que j'obtiens:
 
@@ -71,4 +72,6 @@ Par rapport, comparé à l'habillage original de la Lascaux, voici ce que j'obti
 
 Et voici ce que j'aimerai obtenir comme nuance de couleurs pour les parties métalliques
 ![Finesse Moxxi Version - Moxxi's Red](https://i.imgur.com/Ko9vwnP.png)
+
+C'est jouable?
 
