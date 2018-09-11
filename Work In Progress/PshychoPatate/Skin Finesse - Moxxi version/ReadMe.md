@@ -1,7 +1,7 @@
 ﻿
 En fait ce que je voudrais réaliser me semble simple, mais même en suivant pas-à-pas les informations du [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf), je m'emmêle irrémédiablement les pinceaux dans les couleurs.
 
-Dans l'exemple de ligne de code suivante, je comprends parfaitement que les paramêtres R/G/B/A correspondent aux valeurs RGB (comme en photographie), et je sais les obtenir sans problème avec l'outil pipette de Photoshop
+Je m'explique: dans l'exemple de ligne de code suivante, je comprends parfaitement que les paramêtres R/G/B/A correspondent aux valeurs RGB (comme en photographie), 
 
 ```(
     (
@@ -23,7 +23,7 @@ Dans l'exemple de ligne de code suivante, je comprends parfaitement que les para
     )
 )
 ```
-Il me semble donc que la base du rouge "Moxxi signature" que je souhaite obtenir devrait logiquement être:
+Je sais les obtenir ces valeurs sans trop de problèmes avec l'outil pipette de Photoshop et il me semble donc que la base du rouge "Moxxi signature" que je souhaite obtenir devrait logiquement être:
 ``` 
 ParameterValue =
         (
@@ -33,7 +33,10 @@ ParameterValue =
             A = 54.000000
         )
 ```
-Je comprends également qu'il faut par la suite ajouter tout un tas d'autres valeurs afin de ne pas avoir une couleur uniforme ```
+Je comprends également que pour éviter d'avoir une couleur bêtement "pleine" (comme appliquée uniformément au pinceau), il faut par la suite ajouter tout un tas d'autres valeurs (ColorHighlight/ColorMidtone/ColorShadow/ etc...) sur 3 couches spécifiée par la lettre prefixe:
+- A pour Primaire (AColorHighlight)
+- B pour Secondaire (BColorHighlight)
+- C pour tertiaire (CColorHighlight) 
 
 Par contre, je reste complètement hermétique aux valeurs ExpressionGUID = A/B/C/D
 ```
