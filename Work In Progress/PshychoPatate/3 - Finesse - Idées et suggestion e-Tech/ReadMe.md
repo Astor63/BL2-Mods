@@ -12,5 +12,11 @@
   
 ## Note:
 
-Au départ, mon idée était de trouver une astuce pour que le rétro-éclairage des ailettes change de couleur en fonction de l'élément utilisé (orange pour le feu, vert pour le corrosif et bleu pour l'électricité), mais je me rends compte maintenant que cela tient du domaine de l'impossible... à moins qu'il soit possible de lier ce paramêtre avec le FireMode utilisé pour obtenir l'effet "Elémental Adaptatif"?   
+Au départ, mon idée était de trouver une astuce pour que le rétro-éclairage des ailettes change de couleur en fonction de l'élément utilisé (orange pour le feu, vert pour le corrosif et bleu pour l'électricité), mais je me rends compte maintenant que cela tient du domaine de l'impossible... à moins qu'il soit possible de lier ce paramêtre avec le FireMode utilisé pour obtenir l'effet "Elémental Adaptatif"?  
+
+## Autres petits problème sur lequel je sèche:
+
+- Comment insérer l'icone Explosif / Incendiaire / Corrosif / Electrique dans le bas de la WeaponCard ?
+- Comment insérer la mention "Elemental Chance" 
+- Comment insérer la mention "Elemental Dmg/Sec" ?
   
