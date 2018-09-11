@@ -14,9 +14,9 @@ Apparemment j'ai obtenu ce résultat en modifiant le paramètre p_EmissiveColor,
 Forcément comme j'ai conservé l'habillage d'origine sans effectuer aucune modification pour la version Lascaux, ben je n'ai pas d'éclairage lumineux à l'intérieur des ailettes.
 
 ## Questions:
-- Est-il possible de faire une overide sur l'habillage d'origine, ou fait totalement refaire l'habillage?
-
-- Est-ce bien le le paramètre p_EmissiveColor qui apporte l'éclairage lumineux à l'intérieur des ailettes ?
+1. Est-il possible de faire une overide sur l'habillage d'origine, ou fait totalement refaire l'habillage?
+2. Peut-on trouver les fichiers d'habillage d'origine?
+3. Si une overide est possible, est-ce bien le le paramètre p_EmissiveColor qui apporte l'éclairage lumineux à l'intérieur des ailettes ?
 
 
 
