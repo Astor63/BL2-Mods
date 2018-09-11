@@ -1,4 +1,4 @@
-## Discord Solver (Lascaux & Moxxi Version)
+﻿## Finesse (Moxxi Version)
 
 In their early days in their making of weapons, Dahl, seized Alien Technology plans and created the Finesse: a Plasma Caster who fire SEAPP (Smart Elemental Adaptive Plasma Projectile). 
 
@@ -15,13 +15,13 @@ This is where you can find it...
 ## What special with this weapon?
 
 - Shout SEAPP (Smart Elemental Adaptive Plasma Projectile): a Alien Plasma Projectile which adapt his Elemental following the impact:
-  - Incendiary on flesh
-  - Shock on shield
-  - Corrosive on armor
-  - Splash damage booster by grenade
-  - Burst normarlized to 5 rounds  
-  - Shot a double EAPP for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
-  - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of 95% Critical hit bonus & 2.5% lifesteal on damage dealt.
+  - Incendiary on flesh (3605,9 dmg/sec at level 50)
+  - Shock on shield (3605,9 dmg/sec at level 50)
+  - Corrosive on armor (3605,9 dmg/sec at level 50)
+- Elemental splash damage booster by grenade
+- Burst normarlized to 5 rounds  
+- Shot a double SEAPP for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+- As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of 95% Critical hit bonus & 2.5% lifesteal on damage dealt.
   
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
    
@@ -31,9 +31,9 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Burst Count:      | 9 to 14 rounds         | 5 rounds              | 
 | Critical Hit:     | None                   | 95%                   | 
 | Elemental:        | Never Elemental        | Elemental Adaptive    | 
-| Shock dmg/sec:    | Never Elemental        | 3605                  | 
-| Corrosive dmg/sec:| Never Elemental        | 3605                  | 
-| Shock dmg/sec:    | Never Elemental        | 6316                  |  
+| Shock dmg/sec:    | Never Elemental        | 3605,9                  | 
+| Corrosive dmg/sec:| Never Elemental        | 3605,9                  | 
+| Shock dmg/sec:    | Never Elemental        | 3605,9                  |  
 | Elemental Chance: | None                   | 8%                    | 
 | Splash Format:    | None                   | Grenade               | 
 | Fire Cost:        | 2 bullets cost 1 ammo  | 1 SEAPP cost 1 ammo   | 
@@ -47,7 +47,6 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
 
 - The Bullet Speed Mode has a toggle option between Normal/Double/Triple Speed
-- The Firing Mode has a toggle option between Pocket Rocket or GyroJet explosive bullet (see Compatibility below)
 - The Explosion Impact Type has a toggle option between Explosive/Explosive ForceFlinch/None
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 - The Weapon Card has a toggle option between Show/Hide the additional informations.
@@ -77,7 +76,13 @@ A great mod to check for the Finesse:
 ### Compatibility:
 
 - 100% compatible with UCP 4.1
-- Just be aware from the following: This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
+- Just be aware from the following: 
+  - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
+
+### Changelog:
+
+v1.0.0, September 15, 2018
+ - Initial public release 
   
 ### Credits & Thanks:
 

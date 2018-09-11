@@ -1,4 +1,5 @@
-## Discord Solver (Lascaux & Moxxi Version)
+﻿
+## Finesse (Lascaux & Moxxi Version)
 
 In their early days in their making of weapons, Dahl, seized Alien Technology plans and created the Finesse: a Plasma Caster who fire SEAPP (Smart Elemental Adaptive Plasma Projectile). 
 
@@ -10,82 +11,85 @@ This is where you can find it...
 
 ![Finesse - Where to find it](https://i.imgur.com/uHTxuc6.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
+It would seem that Moxxi still has a specimen of the Finesse in her private Signature collection of weapons, but no one has ever seen it, not even Marcus ... so maybe it's just a legend after all?
+
 ## What special with this weapon?
 
-- Shout SEAPP (Smart Elemental Adaptive Plasma Projectile): a Alien Plasma Projectile which adapt his Elemental following the impact:
-  - Incendiary on flech
-  - Shock on shield
-  - Corrosive on armor
+- Both Version:
+  - Use SEAPP (Smart Elemental Adaptive Plasma Projectile): a Alien Plasma Projectile which adapt his Elemental following the impact:
+    - Incendiary on flesh (3605,9 dmg/sec at level 50)
+    - Shock on shield (3605,9 dmg/sec at level 50)
+    - Corrosive on armor (3605,9 dmg/sec at level 50)
   - Splash damage booster by grenade
   - Burst normarlized to 5 rounds  
-  - Shot a double EAPP for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+  - Shot a double SEAPP for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+- Moxxi Version:
+  - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of 95% Critical hit bonus & 2.5% lifesteal on damage dealt.
   
-Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:    
+Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
   
-| Tech Specs        | Lascaux: Vanilla      | Finesse #1: Lascaux   |  
-| -------------     | -------------         | -------------         | 
-| Bullet:           | Standard              | SEAPP                 | 
-| Burst Count:      | 9 to 14 rounds        | 5 rounds              | 
-| Critical Hit:     | None                  | None                  | 
-| Elemental:        | Never Elemental       | Elemental Adaptive    | 
-| Shock dmg/sec:    | Never Elemental       | 3605                  | 
-| Corrosive dmg/sec:| Never Elemental       | 3605                  | 
-| Shock dmg/sec:    | Never Elemental       | 6316                  | 
-| Elemental Chance: | None                  | 8%                    |  
-| Splash Format:    | None                  | Grenade               |  
-| Fire Cost:        | 2 bullets cost 1 ammo | 2 SEAPP cost 1 ammo   | 
-| Lifesteal:        | N/A                   | N/A                   | 
-| Skin:             | Lascaux (Vanilla)     | Lascaux (Vanilla)     | 
-| Rarity:           | Unique                | Unique                | 
+| Tech Specs        | Lascaux: Vanilla      | Finesse #1: Lascaux   | Finesse #2: Moxxi     | 
+| -------------     | -------------         | -------------         | -------------         | 
+| Bullet:           | Standard              | SEAPP                 | SEAPP                 | 
+| Burst Count:      | 9 to 14 rounds        | 5 rounds              | 5 rounds              | 
+| Critical Hit:     | None                  | None                  | 95%                   | 
+| Elemental:        | Never Elemental       | Elemental Adaptive    | Elemental Adaptive    | 
+| Shock dmg/sec:    | Never Elemental       | 3605,9                  | 3605,9                  | 
+| Corrosive dmg/sec:| Never Elemental       | 3605,9                  | 3605,9                  |
+| Fire dmg/sec:    | Never Elemental       | 3605,9                  | 3605,9                  |
+| Elemental Chance: | None                  | 8%                    | 8%                    | 
+| Splash Format:    | None                  | Grenade               | Grenade               | 
+| Fire Cost:        | 2 bullets cost 1 ammo | 2 SEAPP cost 1 ammo   | 2 SEAPP cost 1 ammo   | 
+| Lifesteal:        | N/A                   | N/A                   | 2.5% of damage dealt  | 
+| Skin:             | Lascaux (Vanilla)     | Lascaux (Vanilla)     | Moxxi Signature       | 
+| Rarity:           | Unique                | Unique                | Moxxi                 | 
   
   
 ![Discord Solver - Lascaux vs Moxxi Version](https://i.imgur.com/ySWyM5T.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-**Note:** As the Discord Solver can be found submerged in a shallow pool in a cave, it's make sense to me to keep his Vanilla "Lascaux" skin (similar to the Lascaux cave paintings), but the Moxxi version, she get a ~~vivid red~~ ... gorgeous Moxxi Signature skin.
+**Note:** As the Finesse can be found submerged in a shallow pool in a cave, it's make sense to me to keep his Vanilla "Lascaux" skin (similar to the Lascaux cave paintings), but the Moxxi version, she get a ~~vivid red~~ ... gorgeous Moxxi Signature skin.
 
 ### Options: 
 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
 
-- Both Version:
-  - The Bullet Speed Mode has a toggle option between Normal/Double/Triple Speed
-  - The Firing Mode has a toggle option between Pocket Rocket or GyroJet explosive bullet (see Compatibility below)
+- **Both Version:**
+  - The Elemental Effect Chance can toggle from 1% to 40% (default is 8%)
+  - The Plasma Projectile Speed Mode has a toggle option between Normal/Double/Triple Speed
   - The Explosion Impact Type has a toggle option between Explosive/Explosive ForceFlinch/None
   - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
+  - The working Flaps can be toggle beween On or Off
   - The Weapon Card has a toggle option between Show/Hide the additional informations.
-- Moxxi Version:  
+- **Moxxi Version:**  
   - The Moxxi's Lifesteal can be toggle between the "Classic" instant healing or with Orb Transfusion (similar to the SR Chère-Amie)
-  - The Discord Solver Moxxi Version can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below)... on this way you can pick up your 1st Discord Sover in Frostburn Canyon (Level 7-10) and get another one as Mission Reward (Level 25-30) in Opportunity.
+  - The Finesse Moxxi Version can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below)... on this way you can pick up your 1st Finesse in Frostburn Canyon (Level 7-10) and get another one as Mission Reward (Level 25-30) in Opportunity.
 
 ... and few fix:
 
-- Both Version:
+- **Both Version:**
   - Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2)
   - Fix for Koby "Rarity Color Fix": Unique or Moxxi (just in case if you use this old mod)
-- Moxxi Version:
+- **Moxxi Version:**
   - Fix for Akathis "No More Moxxi Lifesteal" - 1.5% passive health regeneration instead of 2.5% Lifesteal
   
-![Discord Solver as reward for Moxxi mission](https://i.imgur.com/8JPt8ap.png "Don't worry guys... even if my screen capture show French text, my mods are in English") 
+![Finesse as reward for Moxxi mission](https://i.imgur.com/8JPt8ap.png "Don't worry guys... even if my screen capture show French text, my mods are in English") 
 
-**Note:** You can toggle between the choice from 2 Moxxi Discord Solver or between the choice from 1 Moxxi Discord Solver & 1 Kiss of Death. 
+**Note:** You can toggle between the choice from 2 Moxxi Finesse or between the choice from 1 Moxxi Finesse & 1 Kiss of Death. 
 
 ### Other Recommended Mods:
 
-A great mod to check for the Discord Solver:
+A great mod to check for the Finesse:
 
 - Moxxi Version: [No More Moxxi Lifesteal v2.0](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Akathris/NoMoreMoxxiLifestealv2.0.txt) by [Akathris](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Akathris) . His Mod is self explanatory: removes lifesteal from Moxxi weapons and changes it to passive health regeneration.
 
 - Both Version: [Double Anarchy v4](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/DoubleAnarchyv4.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000) : Changes the SMGs accuracy accessory into the Double Accessory from Borderlands 1... and your Discord Solver will shot 4 bullets/projectiles at the cost on 2 ammo.
 
-![Discord Solver Lascaux Version with Double Anarchy Mod](https://i.imgur.com/fkJRAqD.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Finesse Moxxi Version with Double Anarchy Mod](https://i.imgur.com/fkJRAqD.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 ### Compatibility:
 
 - 100% compatible with UCP 4.1
 - Just be aware from the following: 
-  - This Mod **KEEP** the specific burst from the Lascaux, so if you use the Bandit Brand Tweaks v1.2 by Orudeon, there is a option that reduce the burst to five-shot bursts.  To get back the specific burst, just open your Orudeon's Bandit Brand Tweaks folder, go to: *SMG/Burst Count/* (if you use the Gears Overhaul Orudeon's Mod v1.35, the path will be: *Brands Tweaks/Bandit Brand Tweaks v1.2 by Orudeon/SMG/Burst Count/*) and uncheck the following line:  
-  ```[ ] set GD_Weap_SMG.Barrel.SMG_Barrel_Bandit_Lascaux ZoomWeaponAttributeEffects``` 
-  - This mod use the Pocket Rocket Firing Mode, so if you use any mode that changes the attributes from the Pocket Rocket, it will affect this mod, and obviously the firing of the Discord Solver. In this case, you can toggle the Firing Mode between Pocket Rocket to GyroJet explosive bullet.
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
   
 ### Credits & Thanks:

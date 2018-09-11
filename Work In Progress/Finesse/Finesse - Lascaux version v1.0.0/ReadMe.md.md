@@ -1,4 +1,4 @@
-## Discord Solver (Lascaux & Moxxi Version)
+﻿## Finesse (Lascaux Version)
 
 In their early days in their making of weapons, Dahl, seized Alien Technology plans and created the Finesse: a Plasma Caster who fire SEAPP (Smart Elemental Adaptive Plasma Projectile). 
 
@@ -18,7 +18,7 @@ This is where you can find it...
   - Corrosive on armor
   - Splash damage booster by grenade
   - Burst normarlized to 5 rounds  
-  - Shot a double EAPP for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+  - Shot a double SEAPP for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
   
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:    
   
@@ -28,9 +28,9 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Burst Count:      | 9 to 14 rounds        | 5 rounds              | 
 | Critical Hit:     | None                  | None                  | 
 | Elemental:        | Never Elemental       | Elemental Adaptive    | 
-| Shock dmg/sec:    | Never Elemental       | 3605                  | 
-| Corrosive dmg/sec:| Never Elemental       | 3605                  | 
-| Shock dmg/sec:    | Never Elemental       | 6316                  | 
+| Shock dmg/sec:    | Never Elemental       | 3605,9                  | 
+| Corrosive dmg/sec:| Never Elemental       | 3605,9                  | 
+| Fire dmg/sec:     | Never Elemental       | 3605,9                  | 
 | Elemental Chance: | None                  | 8%                    |  
 | Splash Format:    | None                  | Grenade               |  
 | Fire Cost:        | 2 bullets cost 1 ammo | 2 SEAPP cost 1 ammo   | 
@@ -87,6 +87,11 @@ A great mod to check for the Discord Solver:
   ```[ ] set GD_Weap_SMG.Barrel.SMG_Barrel_Bandit_Lascaux ZoomWeaponAttributeEffects``` 
   - This mod use the Pocket Rocket Firing Mode, so if you use any mode that changes the attributes from the Pocket Rocket, it will affect this mod, and obviously the firing of the Discord Solver. In this case, you can toggle the Firing Mode between Pocket Rocket to GyroJet explosive bullet.
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
+
+### Changelog:
+
+v1.0.0, September 15, 2018
+ - Initial public release
   
 ### Credits & Thanks:
 
