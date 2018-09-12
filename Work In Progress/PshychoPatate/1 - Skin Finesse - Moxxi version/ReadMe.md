@@ -1,4 +1,10 @@
-﻿
+﻿# Update 12 /09/18
+J'ai changé l'arme qui me sert de base pour la réalisation de la Finesse, elle est maintenant réalisée à partir de la *SMG Commerce* (et non plus de la SMG Lascaux)
+
+Mais d'après ce que j'ai compris, cela ne changera rien pour la réalisation de l'habillage puisque c'est toujours une SMG (modifiée Alien).
+
+A toutes fin utiles, je t'ai mis un fichier dans le répertoire
+***
 Bonjour
 
 Ce que je voudrais réaliser graphiquement me semblait simple, car il me semble comprendre la technique, mais apparemment je dois manquer d'imagination (ou de visualisation graphique ?) car même en suivant pas-à-pas les informations du [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf), je m'emmêle irrémédiablement les pinceaux dans les couleurs.

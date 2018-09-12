@@ -1,35 +1,86 @@
-﻿
+﻿# Update 12 /09/18
+J'ai changé l'arme qui me sert de base pour la réalisation de la Finesse, elle est maintenant réalisée à partir de la *SMG Commerce* (et non plus de la SMG Lascaux)
+
+Mais d'après ce que j'ai compris, cela ne changera rien pour la réalisation de l'habillage puisque c'est toujours une SMG (modifiée Alien).
+
+A toutes fin utiles, je t'ai mis un fichier dans le répertoire
+***
 Bonjour
 
-Pas de panique, il n'y a pas grand chose à modifier pour la version Lascaux.
+Ce que je voudrais réaliser graphiquement me semblait simple, car il me semble comprendre la technique, mais apparemment je dois manquer d'imagination (ou de visualisation graphique ?) car même en suivant pas-à-pas les informations du [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf), je m'emmêle irrémédiablement les pinceaux dans les couleurs.
 
-## Eclairage Intérieur Ailettes e-Tech
+Je m'explique: dans l'exemple de ligne de code suivant, je comprends parfaitement que les paramêtres R/G/B/A correspondent aux valeurs RGB (comme en photographie) 
 
-En réalisant l'habillage de la Finesse Moxxi, j'ai réussi -presque par hasard!- a obtenir un éclairage lumineux à l'intérieur des ailettes.
+```(
+    (
+        ParameterName = "p_EmissiveColor",
+        ParameterValue =
+        (
+            R = 1.200000,
+            G = 0.000000,
+            B = 0.600000,
+            A = 1.000000
+        ),
+        ExpressionGUID =
+        (
+            A = 1475816242,
+            B = 1139906328,
+            C = -187360584,
+            D = -1825963319
+        )
+    )
+)
+```
+Je sais obtenir ces valeurs sans trop de problèmes avec l'outil pipette de Photoshop et il me semble donc que la base du rouge "Moxxi signature", similaire à celui du Heart Breaker ou du Creamer, que je souhaite obtenir devrait logiquement être:
+``` 
+ParameterValue =
+        (
+            R = 179.000000,
+            G = 33.000000,
+            B = 36.000000,
+            A = 54.000000
+        )
+```
+Je comprends également que pour obtenir une couleur métallique et non pas une couleur bêtement "pleine" (comme appliquée uniformément au pinceau), il faut par la suite ajouter tout un tas d'autres valeurs (ColorHighlight/ColorMidtone/ColorShadow/ etc...) sur 3 couches spécifiée par la lettre prefixe:
+- A pour Primaire (AColorHighlight)
+- B pour Secondaire (BColorHighlight)
+- C pour Tertiaire (CColorHighlight) 
 
-![Moxxi Signature Collection - Moxxi's Red](https://i.imgur.com/naW0t1P.png)
-Apparemment j'ai obtenu ce résultat en modifiant le paramètre p_EmissiveColor, car je retrouve maintenant cette même couleur à différents endroits sur l'arme.
+Par contre, je reste complètement hermétique aux valeurs ExpressionGUID = A/B/C/D
+```
+   ExpressionGUID =
+        (
+            A = 1475816242,
+            B = 1139906328,
+            C = -187360584,
+            D = -1825963319
+        )
+```
+Bref, voici ou j'ai besoin d'aide
 
-![Moxxi Signature Collection - Moxxi's Red](https://i.imgur.com/CdgiuqX.png)
-Forcément comme j'ai conservé l'habillage d'origine sans effectuer aucune modification pour la version Lascaux, ben je n'ai pas d'éclairage lumineux à l'intérieur des ailettes.
+## La couleur rouge "Moxxi Signature"
 
-## Questions:
-1. ~~Est-il possible de faire une overide sur l'habillage d'origine, ou totalement refaire l'habillage?~~
-2. ~~Peut-on trouver les fichiers d'habillage d'origine?~~
-3. ~~Si une overide est possible, est-ce bien le le paramètre p_EmissiveColor qui apporte l'éclairage lumineux à l'intérieur des ailettes ?~~
+Ce que j'aimerai obtenir comme habillage est simple à définir: uniforme au style du Heart Breaker / Creamer
 
-Problème à moitié résolu.
+![Moxxi Signature Collection - Moxxi's Red](https://i.imgur.com/lOXtQWL.png)
+Et voici le mieux que j'arrive à obtenir... une espèce de rouge "fraise écrasée" qui de plus rend l'arme "brillante" comme une Gemstone...
 
-Oui, une overide est possible et le paramêtre p_EmissiveColor colorise l'intérieur des ailettes, lui apportant un effet d'éclairage
+![Finesse Moxxi Version - Moxxi's Red](https://i.imgur.com/mpnjl76.png)
+Donc, oui, je reconnais que c'est pour le moins assez loin du compte...
 
-Par contre, j'ai créé 2 coloris différents pour faire un essai (Tan & Cream... afin de camoufler les zones Elementales colorées dans l'habillage), mais j'ai le même résultat "blanc cassé"... dont mon raisonnement est juste, mais mon code n'est pas correct.
+![Finesse Moxxi Version - Moxxi's Red](https://i.imgur.com/8gtQFHK.png)
+... au moins, je peux me consoler en me disant que le logo Moxxi est correctement positionné sur la crosse  :smile:
 
-![Imgur](https://i.imgur.com/lZKyUoU.png)
+## Les parties métalliques "Moxxi Signature"
 
-Tu pourrais vérifier le fichier?
+Comparé à l'habillage original de la Lascaux, voici ce que j'obtiens:
 
-Note: La même astuce pourrais être appliquée sur la version Moxxi avec une couleur qui s'intègrera dans le nouvel habillage... cela sera plus esthétique que ma couleur "vert d'eau" actuelle :wink:
+![Finesse Moxxi Version - Metal Part](https://i.imgur.com/9Z6V0yW.png)
+... une teinte plus foncée qui est encore plus laide... surtout sur le réservoir e-tech situé sous le canon... ou les serflex métallique semblent avoir disparu car leur couleur "aluminium" se fond maintenant dans la masse  :disappointed_relieved:
 
+Et voici ce que j'aimerai obtenir comme nuance de couleurs pour les parties métalliques:
 
+![Finesse Moxxi Version - Moxxi's Red](https://i.imgur.com/Ko9vwnP.png)
 
+Cela te semble-t-il réalisable sans trop de prise de tête?
 
