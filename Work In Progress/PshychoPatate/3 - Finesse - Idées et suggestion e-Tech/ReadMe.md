@@ -2,7 +2,8 @@
 
 - Modèle utilisé pour créer le Finesse
 
-  - SMG Lascaux: BL2(hwAAAABZNABB6ANBBIFEcmIpwQKNJQGLChYGLBVY/v8vYxnCYo3l)
+  - ~~SMG Lascaux: BL2(hwAAAABZNABB6ANBBIFEcmIpwQKNJQGLChYGLBVY/v8vYxnCYo3l)~~
+  - SMG Commerce: BL2(hwAAAACKdABCyANBDIFEdmI5wdKMZQELC5b//xRY/v8rY/HBgo3l)
 
 - Modèle d'habillage souhaité: 
 
