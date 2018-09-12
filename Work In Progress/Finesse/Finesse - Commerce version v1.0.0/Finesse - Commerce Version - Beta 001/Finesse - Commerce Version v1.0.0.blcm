@@ -1,0 +1,370 @@
+<BLCMM v="1">
+#<!!!You opened a file saved with BLCMM in FilterTool. Please update to BLCMM to properly open this file!!!>
+	<head>
+		<type name="BL2" offline="false"/>
+	</head>
+	<body>
+		<category name="Finesse - Commerce Version v1.0.0">
+			<comment>Mod author: Astor</comment>
+			<comment>Release Date: 15 September 2018</comment>
+			<comment>Version: 1.0.0</comment>
+			<comment>Changelog: v1.0.0 - Initial release</comment>
+			<comment>Replace Unique SMG Commerce (Hyperion)</comment>
+			<comment>Plasma Caster that fires 2 SEAPP that produces a adaptive elemental splash depending on the type of enemy it hits. </comment>
+			<comment>Note: Spawn in non-elemental only (SAEP Projectile). </comment>
+			<category name="Detailled description:">
+				<comment>Reduced damage but... Adaptive Elemental Splash:</comment>
+				<comment>- Incendiary on flesh</comment>
+				<comment>- Corrosive on armor </comment>
+				<comment>- Shock on shield</comment>
+				<comment>Note: Spawn in non-elemental only (explosive bullet with elemental splash). </comment>
+			</category>
+			<category name="Damn! It seem that there is some Black Magic Inside (best to keep all this checked)" locked="true">
+				<category name="Adaptive Element">
+					<category name="Corrosive Element">
+						<category name="Pistol Dahl Hornet">
+							<code profiles="default">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 DamageSource Class'WillowGame.WillowDmgSource_SubMachineGun'</code>
+							<code profiles="default">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+							<code profiles="default">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 DamageRadiusFormula (BaseValueConstant=100.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+							<code profiles="default">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 Definition ExplosionDefinition'GD_Explosions.Corrosive.Explosion_CorrosiveMaster'</code>
+						</category>
+					</category>
+					<category name="Fire Element">
+						<category name="Pistol Tinderbox">
+							<code profiles="default">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+							<code profiles="default">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 DamageRadiusFormula (BaseValueConstant=100.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+							<code profiles="default">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 DamageSource Class'WillowGame.WillowDmgSource_SubMachineGun'</code>
+							<code profiles="default">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 Definition ExplosionDefinition'GD_Explosions.Incendiary.Explosion_IncendiaryMaster'</code>
+						</category>
+					</category>
+					<category name="Shock Element">
+						<category name="Shotgun Twister">
+							<code profiles="default">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+							<code profiles="default">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 DamageRadiusFormula (BaseValueConstant=100.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+							<code profiles="default">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 Definition ExplosionDefinition'GD_Explosions.Shock.Explosion_ShockMaster'</code>
+							<code profiles="default">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 DamageSource Class'WillowGame.WillowDmgSource_SubMachineGun'</code>
+						</category>
+					</category>
+				</category>
+				<category name="Accuracy">
+					<comment>setGD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce ExternalAttributeEffects ((AttributeToModify=ResourcePoolAttributeDefinition'D_Attributes.AccuracyResourcePool.AccuracyMinValue',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=-1.500000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))</comment>
+				</category>
+				<category name="Impact Response (adaptive elemental splash)">
+					<category name="Work with: Hornet / Tinderbox / Twister" MUT="true">
+						<category name="Fire on Flesh / Shock on Shield / Corrosive on Armor">
+							<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ImpactResponses ((DamageSurfaceType=DMGSURFACE_Flesh,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5')),(DamageSurfaceType=DMGSURFACE_Armor,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5')),(DamageSurfaceType=DMGSURFACE_Shield,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5')))</code>
+						</category>
+						<category name="Fire on Flesh / Shock on Shield / Corrosive on Armor + Explosive on anything else (Experimental)">
+							<code profiles="">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ImpactResponses ((DamageSurfaceType=DMGSURFACE_Flesh,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5')),(DamageSurfaceType=DMGSURFACE_Armor,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5')),(DamageSurfaceType=DMGSURFACE_Shield,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5')),(DamageSurfaceType=DMGSURFACE_Generic,bDisableRegularBulletDamage=True,Behaviors=(Behavior_Explode'GD_Weap_Pistol.FiringModes.Bullets_Pistol_Torgue_GyroJet:Behavior_Explode_5')))</code>
+						</category>
+						<category name="Fire on Flesh / Shock on Shield / Corrosive on Armor + Bullet Plasma on anything else (Experimental)">
+							<code profiles="">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ImpactResponses ((DamageSurfaceType=DMGSURFACE_Flesh,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5')),(DamageSurfaceType=DMGSURFACE_Armor,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5')),(DamageSurfaceType=DMGSURFACE_Shield,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5')),(DamageSurfaceType=DMGSURFACE_Generic,bDisableRegularBulletDamage=True,Behaviors=(Behavior_Explode'GD_Weap_SMG.FiringModes.Bullet_Plasma_Default:Behavior_Explode_5')))</code>
+						</category>
+						<category name="Fire on Flesh / Shock on Shield / Corrosive on Armor + Explosion Elemental Plasma on anything else (Experimental)">
+							<code profiles="">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ImpactResponses ((DamageSurfaceType=DMGSURFACE_Flesh,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5')),(DamageSurfaceType=DMGSURFACE_Armor,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5')),(DamageSurfaceType=DMGSURFACE_Shield,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5')),(DamageSurfaceType=DMGSURFACE_Generic,bDisableRegularBulletDamage=True,Behaviors=(Behavior_Explode'GD_Weap_SMG.Explosions.Plasma_Elemental_Explosions:Behavior_Explode_5')))</code>
+						</category>
+					</category>
+				</category>
+				<category name="Non-Elemental Lock">
+					<code profiles="default">set GD_Weap_SMG.A_Weapons_Unique.SMG_Hyperion_3_Commerce:WeaponPartListCollectionDefinition_179 ElementalPartData (bEnabled=True,WeightedParts=((Part=WeaponPartDefinition'GD_Weap_SMG.elemental.SMG_Elemental_None',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.elemental.SMG_Elemental_Fire',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=0,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.elemental.SMG_Elemental_Corrosive',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=0,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.elemental.SMG_Elemental_Shock',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=0,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.elemental.SMG_Elemental_Slag',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=0,DefaultWeightIndex=0)))</code>
+				</category>
+				<category name="Plasma Caster Modification (Barrel + FX & Sound)">
+					<category name="Explosion Overide">
+						<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ExplosionOverideInstanceDataName ExplosionOverride</code>
+						<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ExplosionOverrideDefinition ExplosionCollectionDefinition'GD_Weap_SMG.Explosions.Plasma_Elemental_Explosions'</code>
+					</category>
+					<category name="Plasma Caster Barrel">
+						<code profiles="default">set GD_Weap_SMG.A_Weapons_Unique.SMG_Hyperion_3_Commerce:WeaponPartListCollectionDefinition_179 BarrelPartData (bEnabled=True,WeightedParts=((Part=WeaponPartDefinition'GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.Barrel.SMG_Barrel_Alien',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2)))</code>
+					</category>
+					<category name="Plasma Caster FX & Sound">
+						<category name="Plasma Caster Bullet Visual & FX">
+							<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce BeamTraceNumSteps 6.000000</code>
+							<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ConditionalPartSysTemplate EffectCollectionDefinition'GD_Weap_SMG.Effects.SMG_ETech_Tracers'</code>
+							<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce Lifetime 5.000000</code>
+							<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce OnAnyImpact (Behavior_Explode'GD_Weap_SMG.FiringModes.Bullet_Plasma_Default:Behavior_Explode_5')</code>
+							<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce PartSysTemplate ParticleSystem'FX_WEP_Trails.Particles.Alien.Part_Wep_Tracer_Alien_SMG'</code>
+							<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce TraceInterval 0.200000</code>
+						</category>
+						<category name="Plasma Caster Sound">
+							<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce SoundDefinition FiringModeSoundDefinition'GD_Weap_SMG.FiringModes.PlasmaSoundDefinition'</code>
+						</category>
+					</category>
+				</category>
+				<category name="Stats">
+					<category name="Incrased Mag Size">
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce AttributeSlotUpgrades ((SlotName="WeaponMagSize",GradeIncrease=2,bActivateSlot=True))</code>
+					</category>
+					<category name="Increase Explosion radius by 50%">
+						<code profiles="default">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Torgue_GyroJet:Behavior_Explode_5 DamageRadiusFormula (BaseValueConstant=100.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.250000)</code>
+					</category>
+					<category name="Explosion Damage">
+						<code profiles="default">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Torgue_GyroJet:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+					</category>
+				</category>
+			</category>
+			<category name="General Attributes (open to add some magic by yourself)">
+				<category name="Effect Chance (open to change a option)" MUT="true">
+					<category name="16% Chance (identical to a Moxxi SMG: Good/Bad Touch or Crit)">
+						<category name="Corrosive Element">
+							<code profiles="">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 StatusEffectChance (BaseValueScaleConstant=1.066000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+						<category name="Fire Element">
+							<code profiles="">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 StatusEffectChance (BaseValueScaleConstant=0.667000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+						<category name="Shock Element">
+							<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 StatusEffectChance (BaseValueConstant=2.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+					</category>
+					<comment>Easy Mode</comment>
+					<category name="24% Chance (Piece of Cake mode)">
+						<category name="Corrosive Element">
+							<code profiles="">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 StatusEffectChance (BaseValueScaleConstant=1.600000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+						<category name="Fire Element">
+							<code profiles="">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 StatusEffectChance (BaseValueScaleConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+						<category name="Shock Element">
+							<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 StatusEffectChance (BaseValueConstant=3.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+					</category>
+					<category name="32% Chance (Walk In The Park mode)">
+						<category name="Corrosive Element">
+							<code profiles="">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 StatusEffectChance (BaseValueScaleConstant=2.133000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+						<category name="Fire Element">
+							<code profiles="">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 StatusEffectChance (BaseValueScaleConstant=1.333000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+						<category name="Shock Element">
+							<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 StatusEffectChance (BaseValueConstant=4.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+					</category>
+					<category name="40% Chance (Disloyal mode)">
+						<category name="Corrosive Element">
+							<code profiles="">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 StatusEffectChance (BaseValueScaleConstant=2.666700,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+						<category name="Fire Element">
+							<code profiles="">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 StatusEffectChance (BaseValueScaleConstant=1.6667000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+						<category name="Shock Element">
+							<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 StatusEffectChance (BaseValueConstant=5.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+					</category>
+					<comment>Hard Gamer Mode</comment>
+					<category name="8% Chance (Heretic Mode)">
+						<category name="Corrosive Element">
+							<code profiles="">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 StatusEffectChance (BaseValueScaleConstant=0.533300,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+						<category name="Fire Element">
+							<code profiles="">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 StatusEffectChance (BaseValueScaleConstant=0.333300,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+						<category name="Shock Element">
+							<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 StatusEffectChance (BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+					</category>
+					<category name="4% Chance (Rebel mode)">
+						<category name="Corrosive Element">
+							<code profiles="">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 StatusEffectChance (BaseValueScaleConstant=0.266700,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+						<category name="Fire Element">
+							<code profiles="">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 StatusEffectChance (BaseValueScaleConstant=0.1667000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+						<category name="Shock Element">
+							<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 StatusEffectChance (BaseValueConstant=0.500000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+					</category>
+					<category name="2% Chance (Outlaw mode)">
+						<category name="Corrosive Element">
+							<code profiles="">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 StatusEffectChance (BaseValueScaleConstant=0.133300,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+						<category name="Fire Element">
+							<code profiles="">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 StatusEffectChance (BaseValueScaleConstant=0.083300,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+						<category name="Shock Element">
+							<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 StatusEffectChance (BaseValueConstant=0.250000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+					</category>
+					<category name="1% Chance (John Wick mode)">
+						<category name="Corrosive Element">
+							<code profiles="">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 StatusEffectChance (BaseValueScaleConstant=0.066700,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+						<category name="Fire Element">
+							<code profiles="">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 StatusEffectChance (BaseValueScaleConstant=0.041700,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+						<category name="Shock Element">
+							<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 StatusEffectChance (BaseValueConstant=0.125000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						</category>
+					</category>
+				</category>
+				<category name="Explosion Impact Type (open to change a option)" MUT="true">
+					<category name="Explosive Impact">
+						<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce DamageTypeDefinition WillowDamageTypeDefinition'GD_Explosive.DamageType.DmgType_Explosive_Impact'</code>
+					</category>
+					<category name="Explosive ForceFlinch Impact">
+						<code profiles="">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce DamageTypeDefinition WillowDamageTypeDefinition'GD_Explosive.DamageType.DmgType_Explosive_Impact_ForceFlinch'</code>
+					</category>
+					<category name="None">
+						<code profiles="">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce DamageTypeDefinition WillowDamageTypeDefinition None</code>
+					</category>
+					<category name="Amp Impact (Experimental)">
+						<comment>Not recommended - Used for test mode only</comment>
+						<code profiles="">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce DamageTypeDefinition WillowDamageTypeDefinition'GD_Amp.DamageType.DmgType_Amp_Impact'</code>
+					</category>
+				</category>
+				<category name="E-Tech Bullet Cost (open to change a option)" MUT="true">
+					<category name="Normal Cost: 1 E-Tech Projectile cost 2 ammos (default)">
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.800000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponProjectilesPerShot',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.800000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectChanceModifier',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.500000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.150000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponShotCost',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))</code>
+					</category>
+					<category name="Reduced Cost: 1 E-Tech Projectile cost 1 ammos">
+						<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.800000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponProjectilesPerShot',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.800000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectChanceModifier',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.500000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.150000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponShotCost',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))</code>
+					</category>
+				</category>
+				<category name="GyroJet Bullet Speed (open to change a option)" MUT="true">
+					<category name="Double Speed: 12.000 (default)">
+						<comment>Torgue GyroJet bullet are really slow, so they need a little boost!</comment>
+						<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce Speed 12000.000000</code>
+					</category>
+					<category name="Normal Speed:  6.000">
+						<code profiles="">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce Speed 6000.000000</code>
+					</category>
+					<category name="Triple Speed: 18.000">
+						<code profiles="">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce Speed 18000.000000</code>
+					</category>
+				</category>
+				<category name="Splash Format (open to change a option)" MUT="true">
+					<category name="Grenade (default)">
+						<code profiles="default">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Torgue_GyroJet:Behavior_Explode_5 DamageSource Class'WillowGame.WillowDmgSource_Grenade'</code>
+					</category>
+					<category name="Rocket">
+						<code profiles="">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Torgue_GyroJet:Behavior_Explode_5 DamageSource Class'WillowGame.WillowDmgSource_Rocket'</code>
+					</category>
+					<category name="Shotgun (Reaper)">
+						<code profiles="">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Torgue_GyroJet:Behavior_Explode_5 DamageSource Class'WillowGame.WillowDmgSource_Shotgun'</code>
+					</category>
+				</category>
+				<category name="No Elemental Splash Self-Damage (Disable this if your build -e.g. Backdraft Maya- depends on self-damage)">
+					<comment>Disable this if your build -e.g. Backdraft Maya- depends on self-damage</comment>
+					<category name="Elemental Splash Fire /Shock /Corrosive - No Self Damage">
+						<code profiles="default">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 InstigatorSelfDamageScale 0.000000</code>
+						<code profiles="default">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 InstigatorSelfDamageScale 0.000000</code>
+						<code profiles="default">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 InstigatorSelfDamageScale 0.000000</code>
+					</category>
+				</category>
+			</category>
+			<category name="Change the Plasma Caster Working Flaps On or Off (open to change a option)" MUT="true">
+				<category name="Working Flaps">
+					<category name="Enable flaps">
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce BoneControllers ((BoneName="AlienBarrelFin_LT",ControlType=WEAP_BONE_CONTROL_Flap,bUseInFirstPerson=True,bUseInThirdPerson=False,ControlTemplate=WillowSkelControl_RotateFlapFromFiring'GD_Weap_SMG.Barrel.SMG_Barrel_Alien:WillowSkelControl_RotateFlapFromFiring_0'),(BoneName="AlienBarrelFin_RT",ControlType=WEAP_BONE_CONTROL_Flap,bUseInFirstPerson=True,bUseInThirdPerson=False,ControlTemplate=WillowSkelControl_RotateFlapFromFiring'GD_Weap_SMG.Barrel.SMG_Barrel_Alien:WillowSkelControl_RotateFlapFromFiring_1'),(BoneName="AlienBarrelFin_LB",ControlType=WEAP_BONE_CONTROL_Flap,bUseInFirstPerson=True,bUseInThirdPerson=False,ControlTemplate=WillowSkelControl_RotateFlapFromFiring'GD_Weap_SMG.Barrel.SMG_Barrel_Alien:WillowSkelControl_RotateFlapFromFiring_2'),(BoneName="AlienBarrelFin_RB",ControlType=WEAP_BONE_CONTROL_Flap,bUseInFirstPerson=True,bUseInThirdPerson=False,ControlTemplate=WillowSkelControl_RotateFlapFromFiring'GD_Weap_SMG.Barrel.SMG_Barrel_Alien:WillowSkelControl_RotateFlapFromFiring_3'))</code>
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce bFlapsEnabled True</code>
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GestaltModeSkeletalMeshName SMG_Barrel_Alien</code>
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce FlapsCollapseDuration (BaseValueConstant=0.500000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce FlapsExpandDuration (BaseValueConstant=2.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MuzzleFlashPSTemplates EffectCollectionDefinition'GD_Weap_SMG.Effects.SMG_ETech_MuzzleFlashes'</code>
+					</category>
+				</category>
+				<category name="Fixed Flaps">
+					<category name="Disable flaps">
+						<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce bFlapsEnabled False</code>
+						<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GestaltModeSkeletalMeshName SMG_Barrel_Alien</code>
+					</category>
+				</category>
+			</category>
+			<category name="Change your Accessory slot 1 (open to change a option)" MUT="true">
+				<category name="Custom version (No bayonet on E-Tech & cannot spawn without accessory)">
+					<category name="For sure I need a accessory on my Finesse!">
+						<code profiles="">set GD_Weap_SMG.A_Weapons_Unique.SMG_Hyperion_3_Commerce:WeaponPartListCollectionDefinition_179 Accessory1PartData (bEnabled=True,WeightedParts=((Part=WeaponPartDefinition'GD_Weap_SMG.Accessory.SMG_Accessory_Bayonet_1',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=0,MaxGameStageIndex=0,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.Accessory.SMG_Accessory_None',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=0,MaxGameStageIndex=0,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.Accessory.SMG_Accessory_Body1_Accurate',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=3),(Part=WeaponPartDefinition'GD_Weap_SMG.Accessory.SMG_Accessory_Body2_Damage',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=3),(Part=WeaponPartDefinition'GD_Weap_SMG.Accessory.SMG_Accessory_Body3_Accelerated',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=3),(Part=WeaponPartDefinition'GD_Weap_SMG.Accessory.SMG_Accessory_Stock1_Stabilized',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=3),(Part=WeaponPartDefinition'GD_Weap_SMG.Accessory.SMG_Accessory_Stock2_Reload',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=3)))</code>
+					</category>
+				</category>
+				<category name="Vanilla version (No bayonet on E-Tech & can spawn without accessory)">
+					<category name="No problem, I can survive without accessory)">
+						<code profiles="">set GD_Weap_SMG.A_Weapons_Unique.SMG_Hyperion_3_Commerce:WeaponPartListCollectionDefinition_179 Accessory1PartData (bEnabled=True,WeightedParts=((Part=WeaponPartDefinition'GD_Weap_SMG.Accessory.SMG_Accessory_Bayonet_1',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=0,MaxGameStageIndex=0,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.Accessory.SMG_Accessory_Body1_Accurate',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=3),(Part=WeaponPartDefinition'GD_Weap_SMG.Accessory.SMG_Accessory_Body2_Damage',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=3),(Part=WeaponPartDefinition'GD_Weap_SMG.Accessory.SMG_Accessory_Body3_Accelerated',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=3),(Part=WeaponPartDefinition'GD_Weap_SMG.Accessory.SMG_Accessory_Stock1_Stabilized',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=3),(Part=WeaponPartDefinition'GD_Weap_SMG.Accessory.SMG_Accessory_Stock2_Reload',Manufacturers=((Manufacturer=None,DefaultWeightIndex=1)),MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=3)))</code>
+					</category>
+				</category>
+			</category>
+			<category name="Rarity Change (open to change a option)" MUT="true">
+				<category name="Rarity Color Vanilla">
+					<category name="Finesse (Legendary)">
+						<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce rarity (BaseValueConstant=5.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MonetaryValueMod AttributeDefinition'GD_Economy.Rarity.Att_Price_RarityMultiplier_05_Legendary'</code>
+					</category>
+				</category>
+				<category name="Rarity Colors Fix Option">
+					<category name="Finesse (Legendary)">
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce rarity (BaseValueConstant=75.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MonetaryValueMod AttributeDefinition'GD_Economy.Rarity.Att_Price_RarityMultiplier_05_Legendary'</code>
+					</category>
+				</category>
+			</category>
+			<category name="Show or Hide the new stats on the weapon card (open to change a option)" MUT="true">
+				<category name="Yes please! Show me all the stuff.">
+					<code profiles="default">set GD_Weap_SMG.Name.Title.Title__Unique_Commerce PartName Finesse</code>
+				</category>
+				<category name="Argh! No! Remove the Adaptive Elemental Bullet stuff">
+					<code profiles="">set GD_Weap_SMG.Name.Title.Title__Unique_Commerce:AttributePresentationDefinition_8 NoConstraintText I bet I just find your sensitive spot!<br> <font color = "#FFFFFF"> [funstat]Shot Plasma Projectile with [skill]adaptive elemental splash[-skill].</font></code>
+					<code profiles="">set GD_Weap_SMG.Name.Title.Title__Unique_Commerce PartName Finesse</code>
+				</category>
+			</category>
+			<category name="Plasma Caster Retro-Light Flaps" MUT="true">
+				<category name="Retro-Light Lascaux - Tan Custom for native skin">
+					<comment>setGD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MaterialVectorParameterValues ((ParameterName="p_EmissiveColor",ParameterValue=(R=2.080000,G=1.160000,B=0.650000,A=1.000000),ExpressionGUID=(A=1475816242,B=1139906328,C=-187360584,D=-1825963319)))</comment>
+					<comment>Tan = #d06e41</comment>
+					<comment>R 208</comment>
+					<comment>G 116</comment>
+					<comment>B 065</comment>
+				</category>
+				<category name="Retro-Light Lascaux - Cream Custom for native skin">
+					<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MaterialVectorParameterValues ((ParameterName="p_EmissiveColor",ParameterValue=(R=2.230000,G=1.910000,B=1.280000,A=1.000000),ExpressionGUID=(A=1475816242,B=1139906328,C=-187360584,D=-1825963319)))</code>
+					<comment>Cream = ##dfbf80</comment>
+					<comment>R 223</comment>
+					<comment>G 191</comment>
+					<comment>B 128</comment>
+				</category>
+			</category>
+		</category>
+	</body>
+</BLCMM>
+
+#Commands:
+set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 DamageSource Class'WillowGame.WillowDmgSource_SubMachineGun'
+set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
+set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 DamageRadiusFormula (BaseValueConstant=100.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
+set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 Definition ExplosionDefinition'GD_Explosions.Corrosive.Explosion_CorrosiveMaster'
+set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
+set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 DamageRadiusFormula (BaseValueConstant=100.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
+set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 DamageSource Class'WillowGame.WillowDmgSource_SubMachineGun'
+set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 Definition ExplosionDefinition'GD_Explosions.Incendiary.Explosion_IncendiaryMaster'
+set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
+set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 DamageRadiusFormula (BaseValueConstant=100.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
+set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 Definition ExplosionDefinition'GD_Explosions.Shock.Explosion_ShockMaster'
+set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 DamageSource Class'WillowGame.WillowDmgSource_SubMachineGun'
+set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ImpactResponses ((DamageSurfaceType=DMGSURFACE_Flesh,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5')),(DamageSurfaceType=DMGSURFACE_Armor,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5')),(DamageSurfaceType=DMGSURFACE_Shield,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5')))
+set GD_Weap_SMG.A_Weapons_Unique.SMG_Hyperion_3_Commerce:WeaponPartListCollectionDefinition_179 ElementalPartData (bEnabled=True,WeightedParts=((Part=WeaponPartDefinition'GD_Weap_SMG.elemental.SMG_Elemental_None',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.elemental.SMG_Elemental_Fire',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=0,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.elemental.SMG_Elemental_Corrosive',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=0,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.elemental.SMG_Elemental_Shock',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=0,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.elemental.SMG_Elemental_Slag',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=0,DefaultWeightIndex=0)))
+set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ExplosionOverideInstanceDataName ExplosionOverride
+set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ExplosionOverrideDefinition ExplosionCollectionDefinition'GD_Weap_SMG.Explosions.Plasma_Elemental_Explosions'
+set GD_Weap_SMG.A_Weapons_Unique.SMG_Hyperion_3_Commerce:WeaponPartListCollectionDefinition_179 BarrelPartData (bEnabled=True,WeightedParts=((Part=WeaponPartDefinition'GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.Barrel.SMG_Barrel_Alien',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2)))
+set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce BeamTraceNumSteps 6.000000
+set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ConditionalPartSysTemplate EffectCollectionDefinition'GD_Weap_SMG.Effects.SMG_ETech_Tracers'
+set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce Lifetime 5.000000
+set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce OnAnyImpact (Behavior_Explode'GD_Weap_SMG.FiringModes.Bullet_Plasma_Default:Behavior_Explode_5')
+set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce PartSysTemplate ParticleSystem'FX_WEP_Trails.Particles.Alien.Part_Wep_Tracer_Alien_SMG'
+set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce TraceInterval 0.200000
+set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce SoundDefinition FiringModeSoundDefinition'GD_Weap_SMG.FiringModes.PlasmaSoundDefinition'
+set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce AttributeSlotUpgrades ((SlotName="WeaponMagSize",GradeIncrease=2,bActivateSlot=True))
+set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Torgue_GyroJet:Behavior_Explode_5 DamageRadiusFormula (BaseValueConstant=100.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.250000)
+set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Torgue_GyroJet:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
+set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce DamageTypeDefinition WillowDamageTypeDefinition'GD_Explosive.DamageType.DmgType_Explosive_Impact'
+set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.800000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponProjectilesPerShot',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.800000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectChanceModifier',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.500000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.150000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponShotCost',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))
+set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce Speed 12000.000000
+set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Torgue_GyroJet:Behavior_Explode_5 DamageSource Class'WillowGame.WillowDmgSource_Grenade'
+set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 InstigatorSelfDamageScale 0.000000
+set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 InstigatorSelfDamageScale 0.000000
+set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 InstigatorSelfDamageScale 0.000000
+set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce BoneControllers ((BoneName="AlienBarrelFin_LT",ControlType=WEAP_BONE_CONTROL_Flap,bUseInFirstPerson=True,bUseInThirdPerson=False,ControlTemplate=WillowSkelControl_RotateFlapFromFiring'GD_Weap_SMG.Barrel.SMG_Barrel_Alien:WillowSkelControl_RotateFlapFromFiring_0'),(BoneName="AlienBarrelFin_RT",ControlType=WEAP_BONE_CONTROL_Flap,bUseInFirstPerson=True,bUseInThirdPerson=False,ControlTemplate=WillowSkelControl_RotateFlapFromFiring'GD_Weap_SMG.Barrel.SMG_Barrel_Alien:WillowSkelControl_RotateFlapFromFiring_1'),(BoneName="AlienBarrelFin_LB",ControlType=WEAP_BONE_CONTROL_Flap,bUseInFirstPerson=True,bUseInThirdPerson=False,ControlTemplate=WillowSkelControl_RotateFlapFromFiring'GD_Weap_SMG.Barrel.SMG_Barrel_Alien:WillowSkelControl_RotateFlapFromFiring_2'),(BoneName="AlienBarrelFin_RB",ControlType=WEAP_BONE_CONTROL_Flap,bUseInFirstPerson=True,bUseInThirdPerson=False,ControlTemplate=WillowSkelControl_RotateFlapFromFiring'GD_Weap_SMG.Barrel.SMG_Barrel_Alien:WillowSkelControl_RotateFlapFromFiring_3'))
+set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce bFlapsEnabled True
+set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GestaltModeSkeletalMeshName SMG_Barrel_Alien
+set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce FlapsCollapseDuration (BaseValueConstant=0.500000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
+set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce FlapsExpandDuration (BaseValueConstant=2.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
+set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MuzzleFlashPSTemplates EffectCollectionDefinition'GD_Weap_SMG.Effects.SMG_ETech_MuzzleFlashes'
+set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce rarity (BaseValueConstant=75.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
+set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MonetaryValueMod AttributeDefinition'GD_Economy.Rarity.Att_Price_RarityMultiplier_05_Legendary'
+set GD_Weap_SMG.Name.Title.Title__Unique_Commerce PartName Finesse
+
