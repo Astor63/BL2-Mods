@@ -1,15 +1,10 @@
-﻿
-## Finesse (Lascaux & Moxxi Version)
 
-In their early days in their making of weapons, Dahl, seized Alien Technology plans and created the Finesse: a Plasma Caster who fire SEAPP (Smart Elemental Adaptive Plasma Projectile). 
+## Finesse (Commerce & Moxxi Version)
 
-Unfortunately, the mastery of this Alien technology was in its infancy, and especially very expensive, which made the price of sale of these weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary Plasma Caster only after a few (rare) copies sold.
+In their early days in their making of weapons, Hyperion, seized Alien Technology plans and created the Finesse: a Plasma Caster who fire SEAPP (Smart Elemental Adaptive Plasma Projectile). 
 
-Anyway, remnant of the past, a *"lost"* Finesse (probably dropped by a gang leader?) can still be found... submerged in a shallow pool in Frostburn Canyon.
+Unfortunately, the mastery of this Alien technology was in its infancy, and atrociously expensive, which made the price of sale of these weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary Plasma Caster only after a few (rare) copies sold.
 
-This is where you can find it... 
-
-![Finesse - Where to find it](https://i.imgur.com/uHTxuc6.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 It would seem that Moxxi still has a specimen of the Finesse in her private Signature collection of weapons, but no one has ever seen it, not even Marcus ... so maybe it's just a legend after all?
 
@@ -17,59 +12,59 @@ It would seem that Moxxi still has a specimen of the Finesse in her private Sign
 
 - Both Version:
   - Use SEAPP (Smart Elemental Adaptive Plasma Projectile): a Alien Plasma Projectile which adapt his Elemental following the impact:
-    - Incendiary on flesh (3605,9 dmg/sec at level 50)
-    - Shock on shield (3605,9 dmg/sec at level 50)
-    - Corrosive on armor (3605,9 dmg/sec at level 50)
-  - Splash damage booster by grenade
-  - Burst normarlized to 5 rounds  
-  - Shot a double SEAPP for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+    - Incendiary on flesh
+    - Shock on shield
+    - Corrosive on armor
+  - Splash damage booster by grenade  
 - Moxxi Version:
-  - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of 95% Critical hit bonus & 2.5% lifesteal on damage dealt.
+  - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of:
+    - 95% Critical hit bonus 
+	- 2.5% lifesteal on damage dealt
   
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
   
-| Tech Specs        | Lascaux: Vanilla      | Finesse #1: Lascaux   | Finesse #2: Moxxi     | 
+| Tech Specs        | Commerce: Vanilla     | Finesse #1: Commerce  | Finesse #2: Moxxi     | 
 | -------------     | -------------         | -------------         | -------------         | 
 | Bullet:           | Standard              | SEAPP                 | SEAPP                 | 
 | Burst Count:      | 9 to 14 rounds        | 5 rounds              | 5 rounds              | 
 | Critical Hit:     | None                  | None                  | 95%                   | 
-| Elemental:        | Never Elemental       | Elemental Adaptive    | Elemental Adaptive    | 
-| Shock dmg/sec:    | Never Elemental       | 3605,9                  | 3605,9                  | 
-| Corrosive dmg/sec:| Never Elemental       | 3605,9                  | 3605,9                  |
-| Fire dmg/sec:    | Never Elemental       | 3605,9                  | 3605,9                  |
-| Elemental Chance: | None                  | 8%                    | 8%                    | 
+| Elemental:        | Shock                 | Elemental Adaptive    | Elemental Adaptive    | 
+| Shock dmg/sec:    | Never Elemental       | 3605,9                | 3605,9                | 
+| Corrosive dmg/sec:| N/A                   | 3605,9                | 3605,9                |
+| Shock dmg/sec:    | 3605.9                | 3605,9                | 3605,9                |
+| Elemental Chance: | 11.5%                 | 8%                    | 8%                    | 
 | Splash Format:    | None                  | Grenade               | Grenade               | 
-| Fire Cost:        | 2 bullets cost 1 ammo | 2 SEAPP cost 1 ammo   | 2 SEAPP cost 1 ammo   | 
+| Fire Cost:        | 1 bullets cost 1 ammo | 1 SEAPP cost 1 ammo   | 1 SEAPP cost 1 ammo   | 
 | Lifesteal:        | N/A                   | N/A                   | 2.5% of damage dealt  | 
-| Skin:             | Lascaux (Vanilla)     | Lascaux (Vanilla)     | Moxxi Signature       | 
-| Rarity:           | Unique                | Unique                | Moxxi                 | 
+| Skin:             | Commerce (Vanilla)    | Commerce (Vanilla)    | Moxxi Signature       | 
+| Rarity:           | Unique                | Legendary             | Moxxi                 | 
   
   
-![Discord Solver - Lascaux vs Moxxi Version](https://i.imgur.com/ySWyM5T.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Discord Solver - Commerce vs Moxxi Version](https://i.imgur.com/ySWyM5T.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-**Note:** As the Finesse can be found submerged in a shallow pool in a cave, it's make sense to me to keep his Vanilla "Lascaux" skin (similar to the Lascaux cave paintings), but the Moxxi version, she get a ~~vivid red~~ ... gorgeous Moxxi Signature skin.
+**Note:** As the Finesse can be found submerged in a shallow pool in a cave, it's make sense to me to keep his Vanilla "Commerce" skin (similar to the Commerce cave paintings), but the Moxxi version, she get a ~~vivid red~~ ... gorgeous Moxxi Signature skin.
 
 ### Options: 
 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
 
-- **Both Version:**
-  - The Elemental Effect Chance can toggle from 1% to 40% (default is 8%)
+- Both Version:
+  - The Elemental Effect Chance can toggle from 1% to 40%
   - The Plasma Projectile Speed Mode has a toggle option between Normal/Double/Triple Speed
   - The Explosion Impact Type has a toggle option between Explosive/Explosive ForceFlinch/None
   - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
   - The working Flaps can be toggle beween On or Off
   - The Weapon Card has a toggle option between Show/Hide the additional informations.
-- **Moxxi Version:**  
+- Moxxi Version:  
   - The Moxxi's Lifesteal can be toggle between the "Classic" instant healing or with Orb Transfusion (similar to the SR Chère-Amie)
-  - The Finesse Moxxi Version can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below)... on this way you can pick up your 1st Finesse in Frostburn Canyon (Level 7-10) and get another one as Mission Reward (Level 25-30) in Opportunity.
+  - The Finesse Moxxi Version can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below) 
 
 ... and few fix:
 
-- **Both Version:**
+- Both Version:
   - Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2)
   - Fix for Koby "Rarity Color Fix": Unique or Moxxi (just in case if you use this old mod)
-- **Moxxi Version:**
+- Moxxi Version:
   - Fix for Akathis "No More Moxxi Lifesteal" - 1.5% passive health regeneration instead of 2.5% Lifesteal
   
 ![Finesse as reward for Moxxi mission](https://i.imgur.com/8JPt8ap.png "Don't worry guys... even if my screen capture show French text, my mods are in English") 
@@ -78,7 +73,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 ### Other Recommended Mods:
 
-A great mod to check for the Finesse:
+A great mod to check for the Discord Solver:
 
 - Moxxi Version: [No More Moxxi Lifesteal v2.0](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Akathris/NoMoreMoxxiLifestealv2.0.txt) by [Akathris](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Akathris) . His Mod is self explanatory: removes lifesteal from Moxxi weapons and changes it to passive health regeneration.
 
@@ -90,7 +85,7 @@ A great mod to check for the Finesse:
 
 - 100% compatible with UCP 4.1
 - Just be aware from the following: 
-  - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
+      - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
   
 ### Credits & Thanks:
 
