@@ -1,4 +1,4 @@
-﻿## Finesse (Lascaux Version)
+﻿## Finesse (Commerce Version)
 
 In their early days in their making of weapons, Dahl, seized Alien Technology plans and created the Finesse: a Plasma Caster who fire SEAPP (Smart Elemental Adaptive Plasma Projectile). 
 
@@ -28,9 +28,9 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Burst Count:      | 9 to 14 rounds        | 5 rounds              | 
 | Critical Hit:     | None                  | None                  | 
 | Elemental:        | Never Elemental       | Elemental Adaptive    | 
-| Shock dmg/sec:    | Never Elemental       | 3605,9                  | 
-| Corrosive dmg/sec:| Never Elemental       | 3605,9                  | 
-| Fire dmg/sec:     | Never Elemental       | 3605,9                  | 
+| Shock dmg/sec:    | Never Elemental       | 3605,9                | 
+| Corrosive dmg/sec:| Never Elemental       | 3605,9                | 
+| Fire dmg/sec:     | Never Elemental       | 3605,9                | 
 | Elemental Chance: | None                  | 8%                    |  
 | Splash Format:    | None                  | Grenade               |  
 | Fire Cost:        | 2 bullets cost 1 ammo | 2 SEAPP cost 1 ammo   | 
