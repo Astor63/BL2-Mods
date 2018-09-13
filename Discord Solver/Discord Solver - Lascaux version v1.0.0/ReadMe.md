@@ -53,7 +53,7 @@ A great mod to check for the Discord Solver Lascaux version:
 
 ### Compatibility:
 
-- 100% compatible with UCP 4.1
+- 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
 - Just be aware from the following: 
   - This Mod **KEEP** the specific burst from the Lascaux, so if you use the Bandit Brand Tweaks v1.2 by Orudeon, there is a option that reduce the burst to a five-shot bursts.  To get back the specific burst, just open your Orudeon's Bandit Brand Tweaks folder, go to: *SMG/Burst Count/* (if you use the Gears Overhaul Orudeon's Mod v1.35, the path will be: *Brands Tweaks/Bandit Brand Tweaks v1.2 by Orudeon/SMG/Burst Count/*) and uncheck the following line:  
 ```
