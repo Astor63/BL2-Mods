@@ -69,7 +69,7 @@ A great mod to check for the Discord Solver Moxxi version:
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
 
-- Should be compatible with most other mods, as long as they do not touch the Pocket Rocket Firing Mode.
+- Should be compatible with most other mods, as long as they do not modify the Pocket Rocket Firing Mode.
 
 - Just be aware from the following: 
 
