@@ -23,13 +23,14 @@ _**Note:** As for my Double Quest Reward "Redux", this Mod will give you the cho
 - 100% compatible with UCP 4.1
 - Should be compatible with most other mods, as long as they do not touch the Quest Reward.
 - This mod was tested:
-  1. Stand alone 
-  2. With UCP 4.1  
-  3. With UCP 4.1 & [Better Quest](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Quest%20Rewards/Better%20Quests) by [Hemaxu](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Hemaxhu) .
-  4. With UCP 4.1 & [Better Loot](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech/BL2%20Better%20Loot%20Mod) by [Apocalyptech](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech)
-  5. With UCP 4.1 & [Cold Dead Hands](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech/BL2%20Cold%20Dead%20Hands) by [Apocalyptech](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech)
+  - Stand alone 
+  - With UCP 4.1  
+  - With UCP 4.1 & [Better Quest](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Quest%20Rewards/Better%20Quests) by [Hemaxu](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Hemaxhu) .
+  - With UCP 4.1 & [Better Loot](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech/BL2%20Better%20Loot%20Mod) by [Apocalyptech](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech)
+  - With UCP 4.1 & [Cold Dead Hands](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech/BL2%20Cold%20Dead%20Hands) by [Apocalyptech](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech)
 
-To be sure to get this mod working correctly (as intended), don't forget to place it **AFTER** UCP 4.1 and Better Quest (Better Loot & Cold Dead Hands can be placed after). 
+
+To be sure to get this mod working correctly (as intended), don't forget to place it **AFTER** UCP 4.1 and Better Quest (Better Loot & Cold Dead Hands can be placed anywhere regarding my mod). 
 
 **Know Issue:** Gemstone Rewards instead of E-Tech Rewards
 
