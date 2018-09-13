@@ -78,6 +78,8 @@ A great mod to check for the Discord Solver Moxxi version:
   
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
   
+**Note:**  To be sure to get the fix Orudeon's Bayonet Enhancements and/or Orudeon's Bayonet Buff working correctly (as intended), don't forget to place my mod **AFTER** Orudeon's Bayonet Enhancements & Bayonet Buff.
+  
 ### To do:
 
 - [ ] Show the Explosive icon on the weapon card (it's just cosmetic but I cannot find "how to" now)

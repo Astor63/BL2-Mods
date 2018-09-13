@@ -51,7 +51,7 @@ A great mod to check for the Discord Solver Lascaux version:
 - v1.0.0, September 8, 2018
   - Initial public release
 - v1.0.1, September 15, 2018  
-  - Added Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2) + Bayonet Buff
+  - Added Fix for Orudeon's Bayonet Enhancements (Bayonet in slot 2) + Bayonet Buff
 
 ### Compatibility:
 
@@ -65,6 +65,8 @@ A great mod to check for the Discord Solver Lascaux version:
   - This mod use the Pocket Rocket Firing Mode, so if you use any mode that changes the attributes from the Pocket Rocket, it will affect this mod, and obviously the firing of the Discord Solver. In this case, Just revert the modification done previously to the Pocket Rocket.
   
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
+  
+**Note:**  To be sure to get the fix Orudeon's Bayonet Enhancements and/or Orudeon's Bayonet Buff working correctly (as intended), don't forget to place my mod **AFTER** Orudeon's Bayonet Enhancements & Bayonet Buff.
  
 ### To do:
 
