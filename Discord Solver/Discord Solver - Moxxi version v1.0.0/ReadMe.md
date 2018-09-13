@@ -55,8 +55,8 @@ A great mod to check for the Discord Solver Moxxi version:
 
 ### Changelog:
 
-v1.0.0, September 8, 2018
- - Initial public release
+- v1.0.0, September 8, 2018
+  - Initial public release
  
 ### Compatibility:
 
