@@ -15,7 +15,7 @@ This is where you can find it...
 ## What special with this weapon?
 
 - Both Version:
-  - Keep almost all his Unique weapon specificity: very high firerate, variable burst-fire round, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
+  - Keep (almost) of all his Unique weapon specificity: very high firerate, variable burst-fire round, shot two bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
   - Initial damage reduced by 20%, but...
     - FireMode modified to shoot GyroJet Explosive bullet. 
 	- Shot two GyroJet explosive bullet for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).

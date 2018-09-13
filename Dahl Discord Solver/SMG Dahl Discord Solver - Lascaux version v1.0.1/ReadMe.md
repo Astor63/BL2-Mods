@@ -12,11 +12,11 @@ This is where you can find it....
 
 ## What special with this weapon?
 
-  - Keep almost all his Unique weapon specificity: very high firerate, variable burst-fire round, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
-  - Initial damage reduced by 20%, but...
-    - FireMode modified to shoot GyroJet Explosive bullet. 
-	- Shot two GyroJet explosive bullet for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
-    - Impact Explosion boosted by Grenade Damage.  
+- Keep (almost) of all his Unique weapon specificity: very high firerate, variable burst-fire round, shot two bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
+- Initial damage reduced by 20%, but...
+  - FireMode modified to shoot GyroJet Explosive bullet. 
+  - Shot two GyroJet explosive bullet for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+  - Impact Explosion boosted by Grenade Damage.  
 
 ![Discord Solver - Lascaux Version](https://i.imgur.com/EyebWpL.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
@@ -40,13 +40,15 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 ## Gibbed codes:
 
-- Stopping Lascaux (Damage) BL2(hwAAAAC/BQBB6ANBBIFEcmIpwQKNJQGLChYGLBRY/v8vY+nBYo3l) 
-- Flying Lascaux (Bullet Speed) BL2(hwAAAABZNABB6ANBBIFEcmIpwQKNJQGLChYGLBVY/v8vYxnCYo3l) 
-- Deft Lascaux (Accuracy) BL2(hwAAAAAmawBB6ANBBIFEcmIpwQKNJQGLChYGLBNY/v8vY7nBYo3l) 
-- Stoic Lascaux (Stability) BL2(hwAAAAD4IwBB6ANBBIFEcmIpwQKNJQGLChYGLBZY/v8vY0nCYo3l) 
-- Skirmish Lascaux (Reload Speed) BL2(hwAAAABCAABB6ANBBIFEcmIpwQKNJQGLChYGLBdY/v8vY3HCYo3l) 
-- Bladed Lascaux (Melee) BL2(hwAAAADydgBB6ANBBIFEcmIpwQKNJQGLChYGLBJY/v8vY4nBYo3l) 
-- Smooth Lascaux (No Accessory) BL2(hwAAAAAj3gBB6ANBBIFEcmIpwQKNJQGLChYGLBFY/v8vY0FAYo3l)
+| Prefix               | Accessory       | Gibbed code                 | 
+| -------------        | -------------   | -------------               | 
+| Stopping Lascaux     | Damage          | BL2(hwAAAAC/BQBB6ANBBIFEcmIpwQKNJQGLChYGLBRY/v8vY+nBYo3l) |  
+| Flying Lascaux       | Bullet Speed    | BL2(hwAAAABZNABB6ANBBIFEcmIpwQKNJQGLChYGLBVY/v8vYxnCYo3l) |
+| Deft Lascaux         | Accuracy        | BL2(hwAAAAAmawBB6ANBBIFEcmIpwQKNJQGLChYGLBNY/v8vY7nBYo3l) |
+| Stoic Lascaux        | Stability       | BL2(hwAAAAD4IwBB6ANBBIFEcmIpwQKNJQGLChYGLBZY/v8vY0nCYo3l) |
+| Skirmish Lascaux     | Reload Speed    | BL2(hwAAAABCAABB6ANBBIFEcmIpwQKNJQGLChYGLBdY/v8vY3HCYo3l) |
+| Bladed Lascaux       | Melee           | BL2(hwAAAADydgBB6ANBBIFEcmIpwQKNJQGLChYGLBJY/v8vY4nBYo3l) |
+| Smooth Lascaux       | No Accessory    | BL2(hwAAAAAj3gBB6ANBBIFEcmIpwQKNJQGLChYGLBFY/v8vY0FAYo3l) |
 
 ### Changelog:
 
