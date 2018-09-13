@@ -1,6 +1,6 @@
 ## Discord Solver (Lascaux & Moxxi Version)
 
-In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who shot Gyrojet explosive bullet. 
+In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who shot GyroJet explosive bullet. 
 
 Unfortunately, the agreement between the two weapons manufacturers did not last long, and the production of the SMG stopped quickly -How ironic for a weapon that's named Discord Solver!- and Torgue seized the patents to create the Pocket Rocket.
 
@@ -15,7 +15,7 @@ This is where you can find it...
 ## What special with this weapon?
 
 - Both Version:
-  - Shot two Gyrojet explosive bullet for the cost of one bullet (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+  - Shot two GyroJet explosive bullet for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
   - Keep almost all his Unique weapon specificity (very high firerate, variable burst-fire round, etc), but I change the Fire Mode to Explosive bullet... 
   - Impact explosion boosted by Grenade Damage. 
 - Moxxi Version:
@@ -25,12 +25,12 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
   
 | Tech Specs      | Lascaux: Vanilla      | Discord Solver #1: Lascaux  | Discord Solver #2: Moxxi  | 
 | -------------   | -------------         | -------------               | -------------             | 
-| Bullet:         | Standard              | Gyrojets                    | Gyrojets                  | 
+| Bullet:         | Standard              | GyroJets                    | GyroJets                  | 
 | Burst Count:    | 9 to 14 rounds        | 9 to 14 rounds              | 9 to 14 rounds            | 
 | Critical Hit:   | None                  | None                        | 70%                       | 
 | Element:        | Never Elemental       | Never Elemental             | Never Elemental           | 
 | Element Chance: | None                  | None                        | None                      | 
-| Fire Cost:      | 1 ammo fire 2 bullets | 1 ammo fire 2 bullets       | 1 ammo fire 2 bullets     | 
+| Fire Cost:      | 2 bullets cost 1 ammo | 2 bullets cost 1 ammo       | 2 bullets cost 1 ammo     | 
 | Lifesteal:      | N/A                   | N/A                         | 2.5% of damage dealt      | 
 | Skin:           | Lascaux (Vanilla)     | Lascaux (Vanilla)           | Moxxi Signature           | 
 | Rarity:         | Unique                | Unique                      | Moxxi                     | 
@@ -58,6 +58,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 - Both Version:
   - Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2)
+  - Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2) + Bayonet Buff
   - Fix for Koby "Rarity Color Fix": Unique or Moxxi (just in case if you use this old mod)
 - Moxxi Version:
   - Fix for Akathis "No More Moxxi Lifesteal" - 1.5% passive health regeneration instead of 2.5% Lifesteal

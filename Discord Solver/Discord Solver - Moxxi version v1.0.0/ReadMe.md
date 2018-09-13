@@ -39,6 +39,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 - Fix for Akathis "No More Moxxi Lifesteal" - 1.5% passive health regeneration instead of 2.5% Lifesteal
 - Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2)
+- Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2) + Bayonet Buff
 - Fix for Koby "Rarity Color Fix": Unique (just in case if you use this old mod)
 
 ![Discord Solver as reward for Moxxi mission](https://i.imgur.com/8JPt8ap.png "Don't worry guys... even if my screen capture show French text, my mods are in English") 
@@ -57,6 +58,8 @@ A great mod to check for the Discord Solver Moxxi version:
 
 - v1.0.0, September 8, 2018
   - Initial public release
+- v1.0.1, September 15, 2018  
+  - Added Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2) + Bayonet Buff
  
 ### Compatibility:
 
