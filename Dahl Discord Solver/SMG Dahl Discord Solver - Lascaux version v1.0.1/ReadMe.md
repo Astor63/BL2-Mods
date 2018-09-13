@@ -38,6 +38,16 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2) + Bayonet Buff
 - Fix for Koby "Rarity Color Fix": Unique (just in case if you use this old mod)  
 
+## Gibbed codes:
+
+- Stopping Lascaux (Damage) BL2(hwAAAAC/BQBB6ANBBIFEcmIpwQKNJQGLChYGLBRY/v8vY+nBYo3l) 
+- Flying Lascaux (Bullet Speed) BL2(hwAAAABZNABB6ANBBIFEcmIpwQKNJQGLChYGLBVY/v8vYxnCYo3l) 
+- Deft Lascaux (Accuracy) BL2(hwAAAAAmawBB6ANBBIFEcmIpwQKNJQGLChYGLBNY/v8vY7nBYo3l) 
+- Stoic Lascaux (Stability) BL2(hwAAAAD4IwBB6ANBBIFEcmIpwQKNJQGLChYGLBZY/v8vY0nCYo3l) 
+- Skirmish Lascaux (Reload Speed) BL2(hwAAAABCAABB6ANBBIFEcmIpwQKNJQGLChYGLBdY/v8vY3HCYo3l) 
+- Bladed Lascaux (Melee) BL2(hwAAAADydgBB6ANBBIFEcmIpwQKNJQGLChYGLBJY/v8vY4nBYo3l) 
+- Smooth Lascaux (No Accessory) BL2(hwAAAAAj3gBB6ANBBIFEcmIpwQKNJQGLChYGLBFY/v8vY0FAYo3l)
+
 ### Changelog:
 
 - v1.0.0, September 8, 2018
