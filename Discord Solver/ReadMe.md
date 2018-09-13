@@ -16,8 +16,9 @@ This is where you can find it...
 
 - Both Version:
   - Shot two GyroJet explosive bullet for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
-  - Keep almost all his Unique weapon specificity (very high firerate, variable burst-fire round, etc), but I change the Fire Mode to Explosive bullet... 
-  - Impact explosion boosted by Grenade Damage. 
+  - Keep almost all his Unique weapon specificity (very high firerate, variable burst-fire round, etc). 
+  - Fire Mode modified to shoot GyroJet Explosive bullet. 
+  - Impact Explosion boosted by Grenade Damage. 
 - Moxxi Version:
   - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of 70% Critical hit bonus and 2.5% lifesteal on damage dealt.
   

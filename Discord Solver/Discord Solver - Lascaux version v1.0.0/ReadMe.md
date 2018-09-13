@@ -1,6 +1,6 @@
 ## Discord Solver (Lascaux)
  
-In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who shot Gyrojet explosive bullet. 
+In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who shot GyroJet explosive bullet. 
 
 Unfortunately, the agreement between the two weapons manufacturers did not last long, and the production of the SMG stopped quickly -How ironic for a weapon that's named Discord Solver!- and Torgue seized the patents to create the Pocket Rocket.
 
@@ -12,9 +12,10 @@ This is where you can find it....
 
 ## What special with this weapon?
 
-- Shot two Gyrojet explosive bullet for the cost of one bullet (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
-- Keep almost all his Unique weapon specificity (very high firerate, variable burst-fire round, etc), but I change the Fire Mode to Explosive bullet... 
-- Impact explosion boosted by Grenade Damage. 
+- Shot two GyroJet explosive bullet for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+- Keep almost all his Unique weapon specificity (very high firerate, variable burst-fire round, etc). 
+- Fire Mode modified to shoot GyroJet Explosive bullet. 
+- Impact Explosion boosted by Grenade Damage. 
 
 ![Discord Solver - Lascaux Version](https://i.imgur.com/EyebWpL.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
