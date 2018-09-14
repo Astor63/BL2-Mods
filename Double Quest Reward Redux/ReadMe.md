@@ -115,7 +115,7 @@ So, yes... in the future, more addition will be done in this Mod (who by the way
 
 ### Credits & Thanks:
 
-I find a lot of useful informations on the Ressource page from the [Wiki](https://github.com/BLCM/BLCMods/wiki) of course, but also all the Mission Names and Mission Objectives on the [Resources page](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell/Resources) from [FromDarkHell](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell) , so thanks for your work, @FromDarkHell 
+I find a lot of useful informations on the Resource page from the [Wiki](https://github.com/BLCM/BLCMods/wiki) of course, but also all the Mission Names and Mission Objectives on the [Resources page](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell/Resources) from [FromDarkHell](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell) , so thanks for your work, @FromDarkHell 
 
 Note: This mod was totally build from scratch, but was (strongly) inspired by the -unfortunately now defunct!- "Double Quest Rewards" Mod initially created by Koby (among many others great Mods), hence the "Redux" in its name.
 

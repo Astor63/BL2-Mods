@@ -83,7 +83,7 @@ To summarize: Dark Green = don't work (is overwritten) / Light Green = work (ove
 
 ### Credits & Thanks:
 
-I find a lot of useful informations on the Ressource page from the [Wiki](https://github.com/BLCM/BLCMods/wiki) of course, but also all the Mission Names and Mission Objectives on the [Resources page](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell/Resources) from [FromDarkHell](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell) , so thanks for your work, @FromDarkHell 
+I find a lot of useful informations on the Resource page from the [Wiki](https://github.com/BLCM/BLCMods/wiki) of course, but also all the Mission Names and Mission Objectives on the [Resources page](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell/Resources) from [FromDarkHell](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell) , so thanks for your work, @FromDarkHell 
 
 
 ### Disclaimer
