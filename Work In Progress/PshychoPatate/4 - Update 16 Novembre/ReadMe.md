@@ -60,7 +60,7 @@ Parent Common_GunMaterials.MasterMaterials.Bandit.MasterMati_BanditUncommon
 ```
 Quel en est l'avantage?
 
-2. Dans to ReadMe, tu écris "Recreer/copier le skin d'une arme deja existante est extremement simple, il suffit de dump le materiel de l'arme a copier"
+2. Dans to ReadMe, tu écris "Recréer/copier le skin d'une arme deja existante est extremement simple, il suffit de dump le materiel de l'arme a copier"
 Bonne nouvelle, mais comment fait-on pour "dump le materiel de l'arme a copier" ?
 ... et ou? dans BLCMM ? dans Gibbed ???
 
