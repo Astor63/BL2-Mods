@@ -27,7 +27,7 @@ Let's take 2 of my mods:
 
 You activate the option to have the choice between 2 *SMG Dahl Discord Solver - Moxxi Edition* given by Moxxi as reward for the mission *Hell Hath No Fury*, but you still receive the choice from 2 *Kiss of Death* instead of the choice between 2 *SMG Dahl Discord Solver* as desired. :cry:
 
-Ah! You noticed the I write *"given by Moxxi as reward for the mission Hell Hath No Fury"* was present in the 2 mods, so you get the idea.   :thought_balloon:
+Ah! You noticed that *"given by Moxxi as reward for the mission Hell Hath No Fury"* was present in the 2 mods, so you get the idea.   :thought_balloon:
 
 Look on the example with picture below to understand why:
 
@@ -38,14 +38,14 @@ Right picture: To fix this overwriting problem and get the code working as inten
 ![Fix or option not working as intended](https://i.imgur.com/a0eZEVB.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 #### To summarize: 
 1. **Correct:**
- *- White* = work (nomal set command code)
+ *- White* = work (normal set command code)
  *- Blue* = work (hotfix)
  *- Light Green* = work (overwrite)
 2. **Incorrect:**
  *Dark Green* = don't work (is overwritten)... by moving the mod at the end of your patch, the problem will be solved in 90% of cases.  
 
 ### Note: 
-I know that all these informations wiki page [Functional Changes from FilterTool to BLCMM](https://github.com/BLCM/BLCMods/wiki/Functional-Changes-from-FilterTool-to-BLCMM), so these explanations are for those who skip them.
+I know that all these informations already are mentionned in the wiki page [Functional Changes from FilterTool to BLCMM](https://github.com/BLCM/BLCMods/wiki/Functional-Changes-from-FilterTool-to-BLCMM), so these additional explanations are just for those who don't get the memo :wink:
 
 ### Disclaimer
 
