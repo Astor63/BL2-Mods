@@ -45,7 +45,7 @@ Right picture: To fix this overwriting problem and get the code working as inten
  *Dark Green* = don't work (is overwritten)... by moving the mod at the end of your patch, the problem will be solved in 90% of cases.  
 
 ### Note: 
-I know that all these informations already are mentionned in thewiki page [Functional Changes from FilterTool to BLCMM](https://github.com/BLCM/BLCMods/wiki/Functional-Changes-from-FilterTool-to-BLCMM), so these additional explanations are just for those who don't get the memo :wink:
+I know that all these informations already are mentionned in the wiki page [Functional Changes from FilterTool to BLCMM](https://github.com/BLCM/BLCMods/wiki/Functional-Changes-from-FilterTool-to-BLCMM), so these additional explanations are just for those who don't get the memo :wink:
 
 ### Disclaimer
 
