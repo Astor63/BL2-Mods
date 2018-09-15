@@ -38,7 +38,7 @@ Right picture: To fix this overwriting problem and get the code working as inten
 ![Fix or option not working as intended](https://i.imgur.com/a0eZEVB.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 #### To summarize: 
 1. **Correct:**
- *- White* = work (nomal set command code)
+ *- White* = work (normal set command code)
  *- Blue* = work (hotfix)
  *- Light Green* = work (overwrite)
 2. **Incorrect:**
