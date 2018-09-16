@@ -71,4 +71,12 @@ J'ai trouvé: "How to dump things? Open the console, and type obj dump [your cod
 
 Je n'ai pas encore essayé, mais si je pouvais y trouver tous les codes d'une skin d'origine, cela me simplifierait grandement la tache pour déterminer ce qui coince... enfin, il me semble.
 
+## Update 2:
+
+Je pensais avoir trouvé comment "dumper", mais voici les -seules!- informations que je trouve dans la console:
+
+![Imgur](https://i.imgur.com/wGM49Uv.png)
+
+Comment puis-je trouver les infos d'une skin d'origine?
+
 
