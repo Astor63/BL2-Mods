@@ -9,6 +9,7 @@ Pour la coque je voulais obtenir un "Rouge Cartier"... qui est fait est plutôt 
 
 Et mon idée était de jouer sur un contraste "Rouge Cartier" pour la coque de l'arme et 2 teintes d'acier pour les "bColor" et "cColor"... un peu comme ceci:
 ![Imgur](https://i.imgur.com/9h6yt6i.jpg)
+
 Mon idée est que la simple vue des couleurs de la skin "Moxxi Cartier" fasse immédiatement penser à Cartier -évidemment!-, à la Joaillerie/Haute Couture Française en général et rappellent les montres Santos qui étaient très populaires dans les années 80 et avaient la particularité -outre d'être relativement chère- d'être réalisées en acier brossé... 
 ![Imgur](https://i.imgur.com/iIe1kke.jpg)
 L'idéal serait que le "Rouge Cartier" se distingue du rouge déjà appliqué sur la Moxxi classique
@@ -19,17 +20,26 @@ Concernant les parties métalliques, le type de "bColor" et "cColor" de la yello
 ![Imgur](https://i.imgur.com/IssnoYm.jpg)
 ... et en plus, je les possède déjà... c'est juste que je n'arrive pas à les appliquer   :disappointed:
 
+**Note:** fichiers joint:
+- *Yellow Jacket bColor + cColor - Modified* provient d'une skin Yellow Jacket (Jaune au lieu de bleu)
+- 'Yellow Jacket bColor + cColor - Original' dumpé sur la console, donc conforme à la version originale de la Yellow jacket
+
 Sinon, les "bColor" et "cColor" de la Bitch ne sont pas trop mal non plus, et bien que teinté de bleu, ils s'accordent assez bien avec le rouge délavé de la coque
 ![Imgur](https://i.imgur.com/B6S6VIr.jpg)
 ... mais je ne suis pas sûr que le mariage de couleurs "Acier Bleuté" se marie bien avec un "Rouge Cartier" ?
 
+**Note:** fichier joint:
+- 'Bitch bColor + cColor - Original' dumpé sur la console, donc conforme à la version originale de la Bitch
+
 Peut-être faudrait-il mixer le "bColor" (Acier Bleuté) de la Bitch avec le "cColor" (Acier argenté) suivant:
 ![Imgur](https://i.imgur.com/MWw9IcF.jpg)
+
+**Note:** fichier joint:
+- 'Bitch bColor + Dahlminator cColor - Original' Mix de 2 données dumpé sur la console, donc bColor conforme à la version originale de la Bitch cColor conforme à la version originale du Dahlminator
+
 Mon raisonnement est-il juste?
 
 Si oui, je pense qu'il me sera plus facile de repartir de zéro pour réaliser la skin Moxxi Cartier plutôt que d'essayer d'adapter ma skin actuelle... bricolée (2x) et qui de toutes manières n'en fait qu'à sa tête.
-
-Je pense que je suis capable de transposer les "bColor" et "cColor" sur un modèle de skin vierge, et je vais m'en occuper cet après-midi.
 
 Quand tu auras un peu de temps libre, pourrais-tu me réaliser les "aColor" dans une teinte bordeaux très classe? 
 
