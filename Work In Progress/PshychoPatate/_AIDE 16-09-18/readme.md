@@ -26,9 +26,9 @@ Donc par exemple, si je veux reproduire le skin du Butcher sur une autre arme, j
 et la je peux voir quels sont les parametres qui font son apparence (TextureParameterValues, Scalar et Vector).  
 Heureusement, il existe un autre moyen pour voir et recopier des parametres plutot que de les lire sur la console et les réécrire : l'**object explorer** du **[BLCMM](https://github.com/BLCM/BLCMods/wiki/Borderlands-Community-Mod-Manager)**.  
 Dans l'object explorer, le point le plus pratique est que l'on peut selectioner le texte pour le copier/coller. On peut aussi faire des recherches d'objet si on ne connait pas le nom de ce que l'on veut modifier.  
-**[Démonstration en vidéo (2 minutes)](https://youtu.be/uXD2dSlrbVM)**  
-Le fichier ou figure tous les materiaux vient d'ici : **[lien](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Dave/Resources)** ("WEAPON MATERIALS")
+**![Démonstration en vidéo (2 minutes)](https://youtu.be/uXD2dSlrbVM)**  
+Le fichier ou figure tous les materiaux vient d'ici : **![lien](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Dave/Resources)** ("WEAPON MATERIALS")
 
 ### Conclusion
-**[Application du skin de l'Interfacer sur le Butcher (3.5 minutes)](https://youtu.be/bRBYrEMs_q0)**  
-Le fichier ou figure tous les materiaux vient d'ici : **[lien](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Dave/Resources)** ("WEAPON MATERIALS")
+**![Application du skin de l'Interfacer sur le Butcher (3.5 minutes)](https://youtu.be/bRBYrEMs_q0)**  
+Le fichier ou figure tous les materiaux vient d'ici : **![lien](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Dave/Resources)** ("WEAPON MATERIALS")
