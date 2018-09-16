@@ -65,10 +65,10 @@ Parent Common_GunMaterials.MasterMaterials.Bandit.MasterMati_BanditUncommon
 Bonne nouvelle, mais comment fait-on pour "dump le materiel de l'arme a copier" ?
 ... et ou? dans BLCMM ? dans Gibbed ???~~
 
-Update Dimanche 16/9
+## Update Dimanche 16/9
 
 J'ai trouvé: "How to dump things? Open the console, and type obj dump [your code here]"... donc c'est dans le menu du jeu, auquel j'accède par F6... là ou je tape ma commande "exec patch.txt"
 
-Je n'ai pas encore essayé, mais si je pouvais y trouver tous les codes d'une skin d'origine, cela me simplifierait grandement la tache pour déterminer ce qui coince... enfin, je pense
+Je n'ai pas encore essayé, mais si je pouvais y trouver tous les codes d'une skin d'origine, cela me simplifierait grandement la tache pour déterminer ce qui coince... enfin, il me semble.
 
 

@@ -10,9 +10,9 @@ Note 1: C'est une bonne chose que tu n'ai pas utilisé de "pattern", comme cela 
 
 Note 2: Pour la version E-Tech, il ne me reste plus qu'à déplacer le logo Moxxi-Text sur l'ailette supérieure (comme sur le Slow Hand), et le résultat sera  (vraiment) parfait.
 
-#### Update Dimanche 16/9
+## Update Dimanche 16/9
 
-La skin est vraiment superbe et s'accorde parfaitement avec le HeartBreaker & le Creamer... je sui vraiment super content :wink:
+La skin est vraiment superbe et s'accorde parfaitement avec le HeartBreaker & le Creamer... je suis vraiment super content :wink:
 
 ![Imgur](https://i.imgur.com/7oox9lA.png)
 
