@@ -24,7 +24,7 @@ This is where you can find it...
   - 70% Critical hit bonus
   - 2.5% lifesteal on damage dealt.
 
-![Discord Solver - Moxxi Version](https://i.imgur.com/QXo8ljS.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Discord Solver Moxxi Signature Classic and Cartier](https://i.imgur.com/nfzLNMm.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 **Note:** As this version of the Discord Solver is a Moxxi weapon, you can choose between 2 Moxxi Signature skin : the *Classic* or the *Cartier* skin
 
