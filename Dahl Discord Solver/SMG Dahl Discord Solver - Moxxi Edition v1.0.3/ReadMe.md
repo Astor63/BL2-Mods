@@ -73,8 +73,10 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
   - Initial public release
 - v1.0.1, September 12, 2018  
   - Added Fix for Orudeon's Bayonet Enhancements (Bayonet in slot 2) + Bayonet Buff
-- v1.0.2, September 15, 2018  
+- v1.0.2, September 14, 2018  
   - Added GyroJet sound
+- v1.0.3, September 16, 2018
+  - Added Moxxi Signature *Classic* skin   
  
 ### Compatibility:
 
