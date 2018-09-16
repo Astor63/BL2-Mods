@@ -21,21 +21,23 @@ Concernant les parties métalliques, le type de "bColor" et "cColor" de la yello
 ... et en plus, je les possède déjà... c'est juste que je n'arrive pas à les appliquer   :disappointed:
 
 **Note:** fichiers joint:
-- *Yellow Jacket bColor + cColor - Modified* provient d'une skin Yellow Jacket (Jaune au lieu de bleu)
-- 'Yellow Jacket bColor + cColor - Original' dumpé sur la console, donc conforme à la version originale de la Yellow jacket
+- *Yellow Jacket bColor + cColor - Modified* provient d'une skin Yellow Jacket (Jaune au lieu de Bleu)
+- *Yellow Jacket bColor + cColor - Original* dumpé sur la console, donc conforme à la version originale de la Yellow jacket (comme sur la photo ci-dessus)
 
 Sinon, les "bColor" et "cColor" de la Bitch ne sont pas trop mal non plus, et bien que teinté de bleu, ils s'accordent assez bien avec le rouge délavé de la coque
 ![Imgur](https://i.imgur.com/B6S6VIr.jpg)
 ... mais je ne suis pas sûr que le mariage de couleurs "Acier Bleuté" se marie bien avec un "Rouge Cartier" ?
 
 **Note:** fichier joint:
-- 'Bitch bColor + cColor - Original' dumpé sur la console, donc conforme à la version originale de la Bitch
+- *Bitch bColor + cColor - Original* dumpé sur la console, donc conforme à la version originale de la Bitch (comme sur la photo ci-dessus)
 
 Peut-être faudrait-il mixer le "bColor" (Acier Bleuté) de la Bitch avec le "cColor" (Acier argenté) suivant:
 ![Imgur](https://i.imgur.com/MWw9IcF.jpg)
 
 **Note:** fichier joint:
-- 'Bitch bColor + Dahlminator cColor - Original' Mix de 2 données dumpé sur la console, donc bColor conforme à la version originale de la Bitch cColor conforme à la version originale du Dahlminator
+- *Bitch bColor + Dahlminator cColor - Original* Mix de 2 données dumpé sur la console, donc:
+  - bColor conforme à la version originale de la Bitch 
+  - cColor conforme à la version originale du Dahlminator
 
 Mon raisonnement est-il juste?
 
