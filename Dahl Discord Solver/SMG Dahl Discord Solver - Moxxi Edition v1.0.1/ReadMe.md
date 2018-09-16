@@ -1,5 +1,5 @@
 
-## Discord Solver (Moxxi Version)
+## SMG Dahl Discord Solver (Moxxi Edition)
  
 In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who shot GyroJet explosive bullet. 
  
@@ -33,12 +33,14 @@ This is where you can find it...
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
 
 - The Bullet Speed Mode has a toggle option between Normal/Double/Triple Speed
-- The Firing Mode has a toggle option between Pocket Rocket or GyroJet explosive bullet (see Compatibility below)
 - The Explosion Impact Type has a toggle option between Explosive/Explosive ForceFlinch/None
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 - The Weapon Card has a toggle option between Show/Hide the additional informations.
 - The Moxxi's Lifesteal can be toggle between the "Classic" instant healing or with Orb Transfusion (similar to the SR Chère-Amie)
-- The Discord Solver Moxxi Version can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below).
+- The Moxxi weapon skin has a toggle option between:
+  - The Moxxi Signature *Classic* Edition ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can used in any occasion.
+  - The Moxxi Signature *Cartier* Edition ("Red Cartier" in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.
+- The Discord Solver Moxxi Edition can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below).
 
 ... and few fix:
 
@@ -67,8 +69,10 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 - v1.0.0, September 8, 2018
   - Initial public release
-- v1.0.1, September 15, 2018  
-  - Added Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2) + Bayonet Buff
+- v1.0.1, September 12, 2018  
+  - Added Fix for Orudeon's Bayonet Enhancements (Bayonet in slot 2) + Bayonet Buff
+- v1.0.2, September 15, 2018  
+  - Added GyroJet sound
  
 ### Compatibility:
 
@@ -99,8 +103,8 @@ A great mod to check for the Discord Solver Moxxi version:
 ### To do:
 
 - [ ] Show the Explosive icon on the weapon card (it's just cosmetic but I cannot find "how to" now)
-- [ ] Change the black parts of the weapon into a "brushed gold" color, for a look more Creamer style (it's just cosmetic but I have no idea how to do it)
-- [ ] Make (again) a new playthrough to be sure that all work correctly.
+- [x] Change the black parts of the weapon into a "brushed gold" color, for a look more Creamer style (Thanks to PsychoPatate for his help)
+- [ ] Make (again) fews kills to be sure that all work correctly.
 - [ ] Clean the code and remove all my ~~shitty~~ notes. 
 
 ### Credits & Thanks:

@@ -1,4 +1,4 @@
-## Discord Solver (Lascaux)
+## SMG Dahl Discord Solver (Lascaux Edition)
  
 In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who shot GyroJet explosive bullet. 
 
@@ -27,7 +27,6 @@ This is where you can find it....
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
 
 - The Bullet Speed Mode has a toggle option between Normal/Double/Triple Speed
-- The Firing Mode has a toggle option between Pocket Rocket or GyroJet explosive bullet (see Compatibility below)
 - The Explosion Impact Type has a toggle option between Explosive/Explosive ForceFlinch/None
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 - The Weapon Card has a toggle option between Show/Hide the additional informations
@@ -90,7 +89,7 @@ A great mod to check for the Discord Solver Lascaux version:
 ### To do:
 
 - [ ] Show the Explosive icon on the weapon card (it's just cosmetic but I cannot find "how to" now)
-- [ ] Make (again) a new playthrough to be sure that all work correctly.
+- [ ] Make (again) few kills to be sure that all work correctly.
 - [ ] Clean the code and remove all my ~~shitty~~ notes. 
   
 ### Credits & Thanks:
