@@ -19,7 +19,9 @@ This is where you can find it...
   - Initial damage reduced by 20%, but...
     - FireMode modified to shoot the Pocket Rocket GyroJet Explosive bullet. 
     - Shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
-    - Impact Explosion boosted by Grenade Damage. 
+	- Explosion Radius incrasead by 50%.
+    - Impact Explosion boosted by Grenade Damage.
+    - Firing Mode Sound upgraded to GyroJet Explosive bullet sound (less Ratatatatatata and more Kaboom)	
 - Moxxi Version:
   - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of:
     - 70% Critical hit bonus

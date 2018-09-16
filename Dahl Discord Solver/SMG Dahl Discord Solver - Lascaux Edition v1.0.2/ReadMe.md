@@ -16,7 +16,9 @@ This is where you can find it....
 - Initial damage reduced by 20%, but...
   - FireMode modified to shoot the Pocket Rocket GyroJet Explosive bullet. 
   - Shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
-  - Impact Explosion boosted by Grenade Damage.  
+  - Explosion Radius incrasead by 50%.
+  - Impact Explosion boosted by Grenade Damage.
+  - Firing Mode Sound upgraded to GyroJet Explosive bullet sound (less Ratatatatatata and more Kaboom)  
 
 ![Discord Solver - Lascaux Version](https://i.imgur.com/EyebWpL.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
@@ -55,7 +57,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
   - Initial public release
 - v1.0.1, September 12, 2018  
   - Added Fix for Orudeon's Bayonet Enhancements (Bayonet in slot 2) + Bayonet Buff
-- v1.0.2, September 15, 2018  
+- v1.0.2, September 14, 2018  
   - Added GyroJet sound  
 
 ### Compatibility:

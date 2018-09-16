@@ -17,9 +17,11 @@ This is where you can find it...
 
 - Keep (almost) of all his Unique weapon specificity: very high firerate, variable burst-fire round, shot two bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux)  
 - Initial damage reduced by 20%, but...
-  - FireMode modified to shoot the Pocket Rocket GyroJet Explosive bullet. 
+  - FireMode upgraded to shoot the Pocket Rocket GyroJet Explosive bullet. 
   - Shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
-  - Impact Explosion boosted by Grenade Damage.  
+  - Explosion Radius incrasead by 50%.
+  - Impact Explosion boosted by Grenade Damage. 
+  - Firing Mode Sound upgraded to GyroJet Explosive bullet sound (less Ratatatatatata and more Kaboom) 
 - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of:
   - 70% Critical hit bonus
   - 2.5% lifesteal on damage dealt.
