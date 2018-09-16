@@ -14,8 +14,8 @@ This is where you can find it....
 
 - Keep (almost) of all his Unique weapon specificity: very high firerate, variable burst-fire round, shot two bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
 - Initial damage reduced by 20%, but...
-  - FireMode modified to shoot GyroJet Explosive bullet. 
-  - Shot two GyroJet explosive bullet for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+  - FireMode modified to shoot the Pocket Rocket GyroJet Explosive bullet. 
+  - Shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
   - Impact Explosion boosted by Grenade Damage.  
 
 ![Discord Solver - Lascaux Version](https://i.imgur.com/EyebWpL.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
@@ -26,7 +26,7 @@ This is where you can find it....
 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
 
-- The Bullet Speed Mode has a toggle option between Normal/Double/Triple Speed
+- The GyroJet Explosive Bullet Speed has a toggle option between Normal/Double/Triple Speed
 - The Explosion Impact Type has a toggle option between Explosive/Explosive ForceFlinch/None
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 - The Weapon Card has a toggle option between Show/Hide the additional informations
@@ -75,9 +75,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
   - This mod use the Pocket Rocket Firing Mode, so if you use any mode that changes the attributes from the Pocket Rocket, it will affect this mod, and obviously the firing of the Discord Solver. In this case, Just revert the modification done previously to the Pocket Rocket.
   
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
-  
-
-  
+   
 ### Other Recommended Mods:
 
 A great mod to check for the Discord Solver Lascaux version:

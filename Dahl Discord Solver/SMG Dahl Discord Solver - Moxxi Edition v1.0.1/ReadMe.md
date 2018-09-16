@@ -17,8 +17,8 @@ This is where you can find it...
 
 - Keep (almost) of all his Unique weapon specificity: very high firerate, variable burst-fire round, shot two bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux)  
 - Initial damage reduced by 20%, but...
-  - FireMode modified to shoot GyroJet Explosive bullet. 
-  - Shot two GyroJet explosive bullet for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+  - FireMode modified to shoot the Pocket Rocket GyroJet Explosive bullet. 
+  - Shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
   - Impact Explosion boosted by Grenade Damage.  
 - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of:
   - 70% Critical hit bonus
@@ -26,19 +26,19 @@ This is where you can find it...
 
 ![Discord Solver - Moxxi Version](https://i.imgur.com/QXo8ljS.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-**Note:** As this version of the Discord Solver is a Moxxi weapon, she get a ~~vivid red~~ ... gorgeous Moxxi Signature skin.
+**Note:** As this version of the Discord Solver is a Moxxi weapon, you can choose between 2 Moxxi Signature skin : the *Classic* or the *Cartier* skin
 
 ### Options: 
 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
 
-- The Bullet Speed Mode has a toggle option between Normal/Double/Triple Speed
+- The GyroJet Explosive Bullet Speed has a toggle option between Normal/Double/Triple Speed
 - The Explosion Impact Type has a toggle option between Explosive/Explosive ForceFlinch/None
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
-- The Weapon Card has a toggle option between Show/Hide the additional informations.
 - The Moxxi's Lifesteal can be toggle between the "Classic" instant healing or with Orb Transfusion (similar to the SR Chère-Amie)
+- The Weapon Card has a toggle option between Show/Hide the additional informations.
 - The Moxxi weapon skin has a toggle option between:
-  - The Moxxi Signature *Classic* Edition ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can used in any occasion.
+  - The Moxxi Signature *Classic* Edition ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can be used in any occasion.
   - The Moxxi Signature *Cartier* Edition ("Red Cartier" in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.
 - The Discord Solver Moxxi Edition can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below).
 
@@ -102,13 +102,13 @@ A great mod to check for the Discord Solver Moxxi version:
   
 ### To do:
 
-- [ ] Show the Explosive icon on the weapon card (it's just cosmetic but I cannot find "how to" now)
 - [x] Change the black parts of the weapon into a "brushed gold" color, for a look more Creamer style (Thanks to PsychoPatate for his help)
+- [ ] Show the Explosive icon on the weapon card (it's just cosmetic but I cannot find "how to" now)
 - [ ] Make (again) fews kills to be sure that all work correctly.
 - [ ] Clean the code and remove all my ~~shitty~~ notes. 
 
 ### Credits & Thanks:
-First of all, I need thanks [PsychoPatate](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/PsychoPatate "PsychoPatate") for his help -and his patience!-  when I was getting nowhere fast (in French: "Pédaler dans la semoule" :wink:) to realise my 1st *Moxxi Signature Classic* skin; so a big -and special- thanks to you @PsychoPatate.
+First of all, I need thanks [PsychoPatate](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/PsychoPatate "PsychoPatate") for his help -and his patience!-  when I was getting nowhere fast (in French: "lorsque je pédalais dans la semoule" :wink:) to realise my 1st *Moxxi Signature Classic* skin; so a big -and special- thanks to you @PsychoPatate.
 
 I find a lot of useful informations on the Resource page from the [Wiki](https://github.com/BLCM/BLCMods/wiki) of course, but also on the [Resources page](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave/Resources) and the great [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf) ... all that made by [Dave](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave) , so thanks for your great work, @DaveRabbit
 
