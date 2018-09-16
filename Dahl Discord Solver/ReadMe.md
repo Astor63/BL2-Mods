@@ -17,12 +17,14 @@ This is where you can find it...
 - Both Version:
   - Keep (almost) of all his Unique weapon specificity: very high firerate, variable burst-fire round, shot two bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
   - Initial damage reduced by 20%, but...
-    - FireMode modified to shoot GyroJet Explosive bullet. 
-	- Shot two GyroJet explosive bullet for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+    - FireMode modified to shoot the Pocket Rocket GyroJet Explosive bullet. 
+    - Shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
     - Impact Explosion boosted by Grenade Damage. 
 - Moxxi Version:
-  - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of 70% Critical hit bonus and 2.5% lifesteal on damage dealt.
-  
+  - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of:
+    - 70% Critical hit bonus
+    - 2.5% lifesteal on damage dealt. 
+	
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
   
 | Tech Specs      | Lascaux: Vanilla      | Discord Solver #1: Lascaux  | Discord Solver #2: Moxxi  | 
@@ -48,20 +50,20 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 - Both Version:
   - The Bullet Speed Mode has a toggle option between Normal/Double/Triple Speed
-  - The Firing Mode has a toggle option between Pocket Rocket or GyroJet explosive bullet (see Compatibility below)
   - The Explosion Impact Type has a toggle option between Explosive/Explosive ForceFlinch/None
   - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
   - The Weapon Card has a toggle option between Show/Hide the additional informations.
-- Moxxi Version:  
-  - The Moxxi's Lifesteal can be toggle between the "Classic" instant healing or with Orb Transfusion (similar to the SR Chère-Amie)
-  - The Discord Solver Moxxi Version can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below)... on this way you can pick up your 1st Discord Sover in Frostburn Canyon (Level 7-10) and get another one as Mission Reward (Level 25-30) in Opportunity.
+- The Moxxi weapon skin has a toggle option between:
+  - The Moxxi Signature *Classic* Edition ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can be used in any occasion.
+  - The Moxxi Signature *Cartier* Edition ("Red Cartier" in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.
+- The Discord Solver Moxxi Edition can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below).
 
 ... and few fix:
 
 - Both Version:
   - Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2)
   - Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2) + Bayonet Buff
-  - Fix for Koby "Rarity Color Fix": Unique or Moxxi (just in case if you use this old mod)
+  - Fix for Koby "Rarity Color Fix": Unique (just in case if you use this old mod)
 - Moxxi Version:
   - Fix for Akathis "No More Moxxi Lifesteal" - 1.5% passive health regeneration instead of 2.5% Lifesteal
   
@@ -98,6 +100,8 @@ A great mod to check for the Discord Solver:
 ![Discord Solver Lascaux Version with Double Anarchy Mod](https://i.imgur.com/fkJRAqD.png "Don't worry guys... even if my screen capture show French text, my mods are in English")  
   
 ### Credits & Thanks:
+
+First of all, I need thanks [PsychoPatate](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/PsychoPatate "PsychoPatate") for his help -and his patience!-  when I was getting nowhere fast (in French: "lorsque je pédalais dans la semoule" :wink:) to realise my 1st *Moxxi Signature Classic* skin; so a big -and special- thanks to you @PsychoPatate.
 
 I find a lot of useful informations on the Resource page from the [Wiki](https://github.com/BLCM/BLCMods/wiki) of course, but also on the [Resources page](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave/Resources) and the great [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf) ... all that made by [Dave](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave) , so thanks for your work, @DaveRabbit 
 
