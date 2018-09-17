@@ -1,4 +1,4 @@
-## SMG Dahl Discord Solver (Lascaux Edition)
+## SMG Dahl Discord Solver (Bloody Edition)
  
 In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who shot GyroJet explosive bullet. 
 
@@ -87,7 +87,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
    
 ### Other Recommended Mods:
 
-A great mod to check for the Discord Solver Lascaux version:
+A great mod to check for the Discord Solver Bloody version:
 
 - [Double Anarchy v4](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/DoubleAnarchyv4.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000) : Changes the SMGs accuracy accessory into the Double Accessory from Borderlands 1... and your Discord Solver will shot 4 bullets/projectiles at the cost on 2 ammo.
 

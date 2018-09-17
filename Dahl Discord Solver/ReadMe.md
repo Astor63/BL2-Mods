@@ -1,4 +1,4 @@
-## Discord Solver (Lascaux & Moxxi Version)
+## Discord Solver (Bloody & Moxxi Version)
 
 In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who shot GyroJet explosive bullet. 
 
@@ -29,7 +29,7 @@ This is where you can find it...
 	
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
   
-| Tech Specs      | Lascaux: Vanilla      | Discord Solver #1: Lascaux  | Discord Solver #2: Moxxi  | 
+| Tech Specs      | Lascaux: Vanilla      | Discord Solver #1: Bloody  | Discord Solver #2: Moxxi  | 
 | -------------   | -------------         | -------------               | -------------             | 
 | Bullet:         | Standard              | GyroJets                    | GyroJets                  | 
 | Burst Count:    | 9 to 14 rounds        | 9 to 14 rounds              | 9 to 14 rounds            | 
@@ -38,13 +38,11 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Element Chance: | None                  | None                        | None                      | 
 | Fire Cost:      | 2 bullets cost 1 ammo | 2 bullets cost 1 ammo       | 2 bullets cost 1 ammo     | 
 | Lifesteal:      | N/A                   | N/A                         | 2.5% of damage dealt      | 
-| Skin:           | Lascaux (Vanilla)     | Lascaux (Vanilla)           | Moxxi Signature           | 
+| Skin:           | Lascaux (Vanilla)     | Bloody                      | Moxxi Signature           | 
 | Rarity:         | Unique                | Unique                      | Moxxi                     | 
   
   
-![Discord Solver - Lascaux vs Moxxi Version](https://i.imgur.com/ySWyM5T.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
-
-**Note:** As the Discord Solver can be found submerged in a shallow pool in a cave, it's make sense to me to keep his Vanilla "Lascaux" skin (similar to the Lascaux cave paintings), but the Moxxi version, she get a ~~vivid red~~ ... gorgeous Moxxi Signature skin.
+![Discord Solver - Bloody vs Moxxi Version](https://i.imgur.com/O8mbY2i.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 ### Options: 
 
