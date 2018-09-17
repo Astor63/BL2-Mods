@@ -10,6 +10,8 @@ This is where you can find it....
 
 ![Discord Solver - Where to find it](https://i.imgur.com/uHTxuc6.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
+**Note:** If you are too lazy to walk to Frostburn Canyon, you will find the Gibbed Codes below.
+
 ## What special with this weapon?
 
 - Keep (almost) of all his Unique weapon specificity: very high firerate, variable burst-fire round, shot two bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
@@ -20,7 +22,9 @@ This is where you can find it....
   - Impact Explosion boosted by Grenade Damage.
   - Firing Mode Sound upgraded to GyroJet Explosive bullet sound (less Ratatatatatata and more Kaboom)  
 
-![Discord Solver - Lascaux Version](https://i.imgur.com/EyebWpL.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Discord Solver - Bloody Edition](https://i.imgur.com/uWxyrBy.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+ The Bloody Skin... because the problem with GyroJet explosive bullets is that when it explodes, it throws blood everywhere!
+
 
 **Note:** As the Discord Solver can be found submerged in a shallow pool in a cave, it's make sense to me to keep his Vanilla "Lascaux" skin (similar to the Lascaux cave paintings).
 
@@ -37,7 +41,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 - Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2)
 - Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2) + Bayonet Buff
-- Fix for Koby "Rarity Color Fix": Unique (just in case if you use this old mod)  
+- Fix for Koby "Rarity Color Fix": AfterMarket (just in case if you use this old mod)  
 
 ## Gibbed codes:
 
@@ -59,7 +63,10 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
   - Added Fix for Orudeon's Bayonet Enhancements (Bayonet in slot 2) + Bayonet Buff
 - v1.0.2, September 14, 2018  
   - Added GyroJet sound  
-
+- v1.0.3, September 17, 2018  
+  - Added a Bloody skin
+  - Added French Translation (Weapon Card)
+  
 ### Compatibility:
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
@@ -88,8 +95,9 @@ A great mod to check for the Discord Solver Lascaux version:
  
 ### To do:
 
+- [x] Make a new skin.
 - [ ] Show the Explosive icon on the weapon card (it's just cosmetic but I cannot find "how to" now)
-- [ ] Make (again) few kills to be sure that all work correctly.
+- [ ] Make (again) few kills to be sure that the submachine gun work correctly.
 - [ ] Clean the code and remove all my ~~shitty~~ notes. 
   
 ### Credits & Thanks:
