@@ -32,11 +32,11 @@ VectorParameterValues(12)=(ParameterName="p_DecalColor",ParameterValue=(R=1.7305
 ```
 ## Commentaires
 
-Dans ton aide du 16/9, tu écris; "Tout d'abord, je suis très étonné de voir que tu as fais tout ca sans jamais avoir utilisé de dump."
+Dans ton aide du 16/9, tu écris: "Tout d'abord, je suis très étonné de voir que tu as fais tout ca sans jamais avoir utilisé de dump."
 
-Ben non, mais maintenant que sais comment faire, cela va être nettement plus facile pour tout, aussi bien pour créer une arme que pour faire une skin.
+Ben maintenant que sais comment faire un dump, cela va être nettement plus facile pour tout, aussi bien pour créer une arme que pour faire une skin.
 
-En fait, j'utilise le système vielle école, le bon vieux Notepad+, et je regarde comment d'autres modders on fait pour réaliser une arme.
+En fait, j'utilise le système vielle école, le bon vieux Notepad+, et je regarde comment d'autres modders on fait pour réaliser une arme afin de comprendre la marche à suivre pour procéder.
 
 Dans le cas de la SMG à balle GyroJet explosive, j'ai constaté qu'il n'y avait pas de SMG à balles explosive (de type Torgue).
 
@@ -44,4 +44,4 @@ Il y a bien eu une tentative par le passé réalisée sur la base d'une SMG Mali
 
 Alors en regardant comment d'autres moddeurs avait procédé, par exemple pour la [Melt](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Submachine%20Guns/Melt.txt) sur base de la Hellfire ou la [Entendre](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Submachine%20Guns/Entendre.txt) sur base de la Chulain, il m'a suffit de réfléchir un peu à la manière de procéder, de coucher mes idées sur Notepap, d'ajouter un peu de magie vaudou lorsque c'était nécessaire... et hop, le tour était joué!
 
-En balançant la Discord Solver pour qu'elle ne soit pas "trop" puissante, j'ai eu d'autres idées pour l'améliorer, mais je vais  laisser la version SMG telle qu'elle est actuellement, et je vais créer une version E-Tech (Plasma Caster) qui sera vraiment une arme différente, et pleine de surprises... mais je n'en dit pas plus pour l'instant... patience, elle sera bientôt finie :wink:
+En balançant la Discord Solver pour qu'elle ne soit pas "trop" puissante, j'ai eu d'autres idées pour l'améliorer, mais je vais  laisser la version SMG telle qu'elle est actuellement, et je vais créer une version E-Tech (Plasma Caster) qui sera une arme vraiment différente, (les balles perdues n'exploseront plus, mais disparaîtront en fumée comme un pétard mouillé en se transformant en fumée rose d'impact plasma) et puis il y aura une "imperfection" dans l'arme qui produira un effet surprise que j'espère surprenant... mais je n'en dit pas plus pour l'instant... patience, elle sera bientôt finie :wink:
