@@ -10,11 +10,51 @@ Mais je rencontre encore quelques problèmes
 
 ### Finesse (Commerce)
 
-Jai un souci avec la couleur de la coque de l'arme avec les 2 skin Moxxi (Classic & Cartier) lorsque j'essaye de les porter sur la Finesse (créée sur la base de la Commerce)... on dirait qu'il y a une paterne metallique qui est appliquée par-dessus. 
+J'ai un souci avec la couleur de la coque de l'arme avec les 2 skin Moxxi (Classic & Cartier) lorsque j'essaye de les porter sur la Finesse (créée sur la base de la Commerce)... on dirait qu'il y a une paterne metallique qui est appliquée par-dessus.
 
-Entre la skin de la Moxxi et celle de la Commerce, j'ai remarqué ces -grandes?- différences dans le code:
+Pour installer la skin, j'ai changé le début des 4 lignes de code:
+ ```
+set Common_GunMaterials.Materials.SMG.Mati_DahlUniqueSMG_Lascaux
+ ```
+ au profit de:
+  ```
+ set Common_GunMaterials.Materials.SMG.Mati_Hyperion_UniqueSMG_Commerce
+ ```
+ Et j'ai laissé la ligne de code "Parent" inchangée puisqu'elle provient de la skin originale du HeartBreaker 
+ 
+ ```
+ set Common_GunMaterials.Materials.SMG.Mati_Hyperion_UniqueSMG_Commerce Parent Common_GunMaterials.MasterMaterials.Bandit.MasterMati_BanditUncommon
+  ```
+Jusque là, il me semblait avoir tout bon... et bien non... car voici ce que j'obtiens:
 
-- Skin Moxxi (2 Lignes de code)
+![Imgur](https://i.imgur.com/FefmhbC.png)
+
+... alors, j'ai refais la skin 2x en partant du HeartBreaker, puis du Creamer... même résultat.
+
+Comme j'avais remarqué en dumpant toutes les armes Moxxi que certaines d'entre elles utilisaient le code
+
+```
+set Common_GunMaterials.Materials.SMG.Mati_Hyperion_UniqueSMG_Commerce Parent Material'Common_Materials.Weapons.Master_Gun'
+
+```
+Je me suis dit que cela valait la peine de faire un essai en modifiant le paramêtre parent sur 
+
+```
+set Common_GunMaterials.Materials.SMG.Mati_Hyperion_UniqueSMG_Commerce Parent Material'Common_Materials.Weapons.Master_Gun'
+
+```
+Ben non... toujours le même résultat
+
+![Imgur](https://i.imgur.com/a9FQkMe.png)
+
+Et le pire, c'est que la skin cartier modifiée, donne le résultat contraire
+
+![Imgur](https://i.imgur.com/0fKY789.png)
+
+Alors je me suis mis à examiner attentivement le codage de la skin de la Moxxi Classic et celle de la Commerce, et j'ai remarqué ces -grandes?- différences dans le code:
+
+```
+- Skin Moxxi Classic (2 Lignes de code)
  ```
 (ParameterName="p_ReplacePattern",ParameterValue=1.000000,ExpressionGUID=(A=-2084339847,B=1096440125,C=439008937,D=45433490))
 (ParameterName="P_SimpleReflect",ParameterValue=Texture2D'Common_GunMaterials.Env.GlossyC',ExpressionGUID=(A=-858148940,B=1327945772,C=148462268,D=1899047224)),
