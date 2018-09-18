@@ -1,3 +1,4 @@
+
 Avant toute chose, je voudrai te remercier pour tes tutoriaux en video (AIDE 16-09-18)... maintenant c'est -presque!- un jeu d'enfant pour créer une skin.
 
 Bon, je n'y arrive pas encore en moins de 5 minutes comme sur ton exemple Butcher/Interfacer, mais j'arrive à réaliser une skin pas trop moche en 15/30 minutes... 10 minutes pour remplacer les 3 fichiers "parameter"... et  dans le cas de la Bloody Skin, 15/20 minutes pour chipoter à faire des essais avec les 3 paternes "sang" différentes, puis déplacer la paterne "sang" qui me convient le mieux pour avoir un bel effet
@@ -53,12 +54,13 @@ Et le pire, c'est que la skin cartier modifiée, donne le résultat contraire
 
 Alors je me suis mis à examiner attentivement le codage de la skin de la Moxxi Classic et celle de la Commerce, et j'ai remarqué ces -grandes?- différences dans le code:
 
-```
+
 - Skin Moxxi Classic (2 Lignes de code)
  ```
 (ParameterName="p_ReplacePattern",ParameterValue=1.000000,ExpressionGUID=(A=-2084339847,B=1096440125,C=439008937,D=45433490))
 (ParameterName="P_SimpleReflect",ParameterValue=Texture2D'Common_GunMaterials.Env.GlossyC',ExpressionGUID=(A=-858148940,B=1327945772,C=148462268,D=1899047224)),
  ```
+ 
 - Skin Commerce (2 lignes de codes)
 ```
 (ParameterName="p_ReplacePattern",ParameterValue=0.000000,ExpressionGUID=(A=-2084339847,B=1096440125,C=439008937,D=45433490))
@@ -70,7 +72,8 @@ ScalarParameterValues(4)=(ParameterName="p_UseFullColorDecal",ParameterValue=0.0
 VectorParameterValues(10)=(ParameterName="p_ReflectionChannelScale",ParameterValue=(R=1.000000,G=0.400000,B=0.000000,A=1.000000),ExpressionGUID=(A=1869386622,B=1303200947,C=-1616405849,D=714558284))
 VectorParameterValues(12)=(ParameterName="p_DecalColor",ParameterValue=(R=1.730582,G=3.275289,B=6.960011,A=1.000000),ExpressionGUID=(A=1691998600,B=1239094551,C=2074257317,D=1844701893))
 ```
-## Commentaires
+J'ai passé 4 heures à essayer de trouver ce qui coince, mais sans résultat... à part les 3 ligne en plus dans la skin de la Commerce, mais si le souci provient bien de là, j'ignore la manière d'y remédier
+## Note:
 
 Dans ton aide du 16/9, tu écris: "Tout d'abord, je suis très étonné de voir que tu as fais tout ca sans jamais avoir utilisé de dump."
 
@@ -84,4 +87,4 @@ Il y a bien eu une tentative par le passé réalisée sur la base d'une SMG Mali
 
 Alors en regardant comment d'autres moddeurs avait procédé, par exemple pour la [Melt](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Submachine%20Guns/Melt.txt) sur base de la Hellfire ou la [Entendre](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Submachine%20Guns/Entendre.txt) sur base de la Chulain, il m'a suffit de réfléchir un peu à la manière de procéder, de coucher mes idées sur Notepad, d'ajouter un peu de magie Vaudou lorsque mon code était récalcitrant... et hop, le tour est joué!
 
-En balançant la Discord Solver pour qu'elle ne soit pas "trop" puissante, j'ai eu d'autres idées pour l'améliorer, mais je vais  laisser la version SMG telle qu'elle est actuellement, et je vais créer une version E-Tech (Plasma Caster) qui sera une arme vraiment différente, (les balles perdues n'exploseront plus, mais disparaîtront en fumée comme un pétard mouillé en se transformant en fumée rose d'impact plasma) et puis il y aura une "imperfection" dans l'arme qui produira un effet surprise que j'espère surprenant... mais je n'en dit pas plus pour l'instant... patience, elle sera bientôt finie :wink:
+En balançant la Discord Solver pour qu'elle ne soit pas "trop" puissante, j'ai eu d'autres idées pour l'améliorer, mais je vais  laisser la version SMG telle qu'elle est actuellement, et je vais créer une version E-Tech (Plasma Caster) qui sera une arme vraiment différente, (les balles perdues n'exploseront plus "bêtement", mais disparaîtront en fumée rose d'impact plasma à la manière d'un pétard mouillé... et puis il y aura une "imperfection" dans l'arme qui produira un effet surprise quand l'arme est utilisée sous certaines conditions... et que j'espère surprenant... mais je n'en dit pas plus pour l'instant... patience, elle sera bientôt finie :wink:
