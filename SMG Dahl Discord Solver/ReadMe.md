@@ -29,7 +29,7 @@ This is where you can find it...
 	
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
   
-| Tech Specs      | Lascaux: Vanilla      | Discord Solver #1: Bloody  | Discord Solver #2: Moxxi  | 
+| Tech Specs      | Lascaux: Vanilla      | Discord Solver #1: Bloody   | Discord Solver #2: Moxxi  | 
 | -------------   | -------------         | -------------               | -------------             | 
 | Bullet:         | Standard              | GyroJets                    | GyroJets                  | 
 | Burst Count:    | 9 to 14 rounds        | 9 to 14 rounds              | 9 to 14 rounds            | 
