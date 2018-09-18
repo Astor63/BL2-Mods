@@ -25,9 +25,6 @@ This is where you can find it....
 ![Discord Solver - Bloody Edition](https://i.imgur.com/uWxyrBy.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
  The Bloody Skin... because the problem with GyroJet explosive bullets is that when it explodes, it throws blood everywhere!
 
-
-**Note:** As the Discord Solver can be found submerged in a shallow pool in a cave, it's make sense to me to keep his Vanilla "Lascaux" skin (similar to the Lascaux cave paintings).
-
 ### Options: 
 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
