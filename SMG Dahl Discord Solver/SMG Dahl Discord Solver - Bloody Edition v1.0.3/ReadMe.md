@@ -17,8 +17,9 @@ This is where you can find it....
 - Keep (almost) of all his Unique weapon specificity: very high firerate, variable burst-fire round, shot two bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
 - Initial damage reduced by 20%, but...
   - FireMode modified to shoot the Pocket Rocket GyroJet Explosive bullet. 
+  - The speed from the GyroJet Explosive bullet is 20x faster when fired by a SMG than a pistol (but it's still 20% slower than a normal bullet fired by a SMG) 
   - Shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
-  - Explosion Radius incrasead by 50%.
+  - Explosion Radius increased by 50%.
   - Impact Explosion boosted by Grenade Damage.
   - Firing Mode Sound upgraded to GyroJet Explosive bullet sound (less Ratatatatatata and more Kaboom)  
 
@@ -29,7 +30,7 @@ This is where you can find it....
 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
 
-- The GyroJet Explosive Bullet Speed has a toggle option between Normal/Double/Triple Speed
+- The GyroJet Explosive Bullet Speed has a toggle option between 5x/10x/15x/20x Speed Boost
 - The Explosion Impact Type has a toggle option between Explosive/Explosive ForceFlinch/None
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 - The Weapon Card has a toggle option between Show/Hide the additional informations
