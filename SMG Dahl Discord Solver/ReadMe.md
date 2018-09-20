@@ -43,7 +43,7 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Rarity:         | Unique                | Unique                      | Moxxi                     | 
   
   
-![Discord Solver - Bloody vs Moxxi Version](https://i.imgur.com/jTwGJgh.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Discord Solver - Bloody vs Moxxi Edition](https://i.imgur.com/eaFQ7En.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 ### Options: 
 
