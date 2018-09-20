@@ -1,3 +1,4 @@
+
 ## SMG Dahl Discord Solver (Bloody Edition)
  
 In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who shot GyroJet explosive bullet. 
@@ -19,12 +20,11 @@ This is where you can find it....
   - FireMode modified to shoot the Pocket Rocket GyroJet Explosive bullet. 
   - The speed from the GyroJet Explosive bullet is 20x faster when fired by a SMG than a pistol (but it's still 20% slower than a normal bullet fired by a SMG) 
   - Shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
-  - Explosion Radius increased by 50%.
   - Impact Explosion boosted by Grenade Damage.
-  - Firing Mode Sound upgraded to GyroJet Explosive bullet sound (less Ratatatatatata and more Kaboom)  
+  - Firing Mode Sound upgraded to GyroJet bullet sound. 
 
-![Discord Solver - Bloody Edition](https://i.imgur.com/uWxyrBy.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
- The Bloody Skin... because the problem with GyroJet explosive bullets is that when it explodes, it throws blood everywhere!
+![Discord Solver - Bloody Edition](https://i.imgur.com/jTwGJgh.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+Of course, the weapon skin is grunge... What did you expect for a weapon which stay forgetten in a pool in a cave since so long ? A pristine and shiny weapon perhaps? Well, no... she is dirty and all rusted! Be happy that this submachine gun is still able to shot fews bullets!
 
 ### Options: 
 
@@ -63,7 +63,14 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
   - Added GyroJet sound  
 - v1.0.3, September 17, 2018  
   - Added a Bloody skin
+- v1.0.4, September 20, 2018  
+  - Added a Grunge skin
+  - Balance the weapon, and clean the code  
   - Added French Translation (Weapon Card)
+  - Cosmetic:
+    - The bullet casings is ejected correctly on the right side.
+    - When the shot is fired, the muzzle "split" explosive residues
+   
   
 ### Compatibility:
 
@@ -89,14 +96,14 @@ A great mod to check for the Discord Solver Bloody version:
 
 - [Double Anarchy v4](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/DoubleAnarchyv4.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000) : Changes the SMGs accuracy accessory into the Double Accessory from Borderlands 1... and your Discord Solver will shot 4 bullets/projectiles at the cost on 2 ammo.
 
-![Discord Solver Lascaux Version with Double Anarchy Mod](https://i.imgur.com/fkJRAqD.png "Don't worry guys... even if my screen capture show French text, my mods are in English")  
+![Discord Solver Lascaux Version with Double Anarchy Mod](https://i.imgur.com/fR8Wi97.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
  
 ### To do:
 
-- [x] Make a new skin.
+- [x] Make a new ~~nice and shiny~~ grunge and bloody skin.
 - [ ] Show the Explosive icon on the weapon card (it's just cosmetic but I cannot find "how to" now)
 - [ ] Make (again) few kills to be sure that the submachine gun work correctly.
-- [ ] Clean the code and remove all my ~~shitty~~ notes. 
+- [ ] Clean the code and remove all my ~~shitty~~ smart notes. 
   
 ### Credits & Thanks:
 
