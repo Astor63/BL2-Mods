@@ -72,9 +72,17 @@ ScalarParameterValues(4)=(ParameterName="p_UseFullColorDecal",ParameterValue=0.0
 VectorParameterValues(10)=(ParameterName="p_ReflectionChannelScale",ParameterValue=(R=1.000000,G=0.400000,B=0.000000,A=1.000000),ExpressionGUID=(A=1869386622,B=1303200947,C=-1616405849,D=714558284))
 VectorParameterValues(12)=(ParameterName="p_DecalColor",ParameterValue=(R=1.730582,G=3.275289,B=6.960011,A=1.000000),ExpressionGUID=(A=1691998600,B=1239094551,C=2074257317,D=1844701893))
 ```
-J'ai passé 4 heures à essayer de trouver ce qui coince, mais sans résultat... à part les 3 ligne en plus dans la skin de la Commerce, mais si le souci provient bien de là, j'ignore la manière d'y remédier!
+J'ai passé 4 heures à essayer de trouver ce qui coince, mais sans résultat... à part les 3 lignes en plus dans la skin de la Commerce, mais si le souci provient bien de là, j'ignore la manière d'y remédier!
 
 Tu aurais une idée?
+
+## Update 22/9
+
+Je viens d'installer la skin Bloody de la DIscord Solver sur la Commerce, et, contre toute attente, elle va parfaitement!
+
+![Skin Grunge Lascaux on Commerce](https://imgur.com/zIpAGUV.jpg)
+
+La skin est crasseuse et terne à souhait... bref tout est tip-top... après cette (bonne) surprise, je ne comprends vraiment pas pourquoi les 2 skin Moxxi ne vont pas ???
 
 ## Note:
 
