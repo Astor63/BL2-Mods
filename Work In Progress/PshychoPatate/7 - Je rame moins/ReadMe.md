@@ -4,8 +4,8 @@ Avant toute chose, je voudrai te remercier pour tes tutoriaux en video (AIDE 16-
 Bon, je n'y arrive pas encore en moins de 5 minutes comme sur ton exemple Butcher/Interfacer, mais j'arrive à réaliser une skin pas trop moche en 15/30 minutes... 10 minutes pour remplacer les 3 fichiers "parameter"... et  dans le cas de la Bloody Skin, 15/20 minutes pour chipoter à faire des essais avec les 3 paternes "sang" différentes, puis déplacer la paterne "sang" qui me convient le mieux pour avoir un bel effet
 
 Et voilà le travail:
-![Discord Solver - Bloody Edition](https://i.imgur.com/uWxyrBy.png)
-__Quizz:__ Est-ce que les "parameter" de skins utilisés sont flagrants, ou faut-il réfléchir un instant pour le découvrir?
+![Discord Solver - Bloody Edition](https://i.imgur.com/jTwGJgh.png)
+__Quizz:__ Est-ce que les "parameter" de la skin utilisées sont flagrants, ou faut-il réfléchir un instant pour le découvrir?
 
 Mais je rencontre encore quelques problèmes
 
@@ -72,25 +72,17 @@ ScalarParameterValues(4)=(ParameterName="p_UseFullColorDecal",ParameterValue=0.0
 VectorParameterValues(10)=(ParameterName="p_ReflectionChannelScale",ParameterValue=(R=1.000000,G=0.400000,B=0.000000,A=1.000000),ExpressionGUID=(A=1869386622,B=1303200947,C=-1616405849,D=714558284))
 VectorParameterValues(12)=(ParameterName="p_DecalColor",ParameterValue=(R=1.730582,G=3.275289,B=6.960011,A=1.000000),ExpressionGUID=(A=1691998600,B=1239094551,C=2074257317,D=1844701893))
 ```
-J'ai passé 4 heures à essayer de trouver ce qui coince, mais sans résultat... à part les 3 ligne en plus dans la skin de la Commerce, mais si le souci provient bien de là, j'ignore la manière d'y remédier?
+J'ai passé 4 heures à essayer de trouver ce qui coince, mais sans résultat... à part les 3 lignes en plus dans la skin de la Commerce, mais si le souci provient bien de là, j'ignore la manière d'y remédier!
 
-Mention et logo Explosif
+Tu aurais une idée?
 
-### Logo Explosif sur la Weapon Card
+## Update 22/9
 
-J'ai d'abord pensé à insérer l'icone simplement dans la weapon card
-```
-set GD_Weap_SMG.Name.Title.Title__Unique_Lascaux DamageTypeIcon DAMAGE_TYPE_Explosive
-```
-Mais cela ne marche pas! 
+Je viens d'installer la skin Bloody de la DIscord Solver sur la Commerce, et, contre toute attente, elle va parfaitement!
 
-J'ai eu l'idée d'insérer le bout de compte suivant:
-```
-set GD_Weap_SMG.Name.Title.Title__Unique_Lascaux WeaponCardPresentations AttributePresentationDefinition'GD_Explosive.DamageType.DmgType_Explosive_Impact:AttributePresentationDefinition_2'
-```
-... mais sans résultat
+![Skin Grunge Lascaux on Commerce](https://imgur.com/zIpAGUV.jpg)
 
-
+La skin est crasseuse et terne à souhait... bref tout est tip-top... après cette (bonne) surprise, je ne comprends vraiment pas pourquoi les 2 skin Moxxi ne vont pas ???
 
 ## Note:
 
