@@ -1,6 +1,6 @@
 
 
-## SMG Dahl Discord Solver (Bloody & Moxxi Version)
+## SMG Dahl Discord Solver (Bloody/Grunge & Moxxi Version)
 
 In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who shot GyroJet explosive bullet. 
 
@@ -28,7 +28,8 @@ This is where you can find it...
 - Moxxi Version:
   - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of:
     - 70% Critical hit bonus
-    - 2.5% lifesteal on damage dealt. 
+    - 2.5% lifesteal on damage dealt
+    - A greater chance to get a extra bullet free 
 	
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
   
@@ -37,18 +38,18 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | **Bullet Tech:**   |                   |                           |           | 
 | Bullet Type:        | Standard              | GyroJets Explosive          | GyroJets Explosive        |
 | Fire Cost:          | 1 bullets cost 1 ammo | 1 bullets cost 1 ammo       | 1 bullets cost 1 ammo     |
-| Extra (free) Bullet:| 100% Chance           | 20% Chance                  | 30% Chance     |
 | Bullet Speed:       | 20.000                | 5x GyroJet Speed Boost      | 5x GyroJet Speed Boost   |
 | Burst Count:        | 9 to 14 rounds        | 9 to 14 rounds              | 9 to 14 rounds            | 
 | **Explosive Tech:** |                     |                           |           |
 | Element:            | Never Elemental       | Explosive                   | Explosive           | 
 | Explosion Chance:   | None                  | 100%                        | 100%                       |
 | Impact:             | Normal                | Explosive                   | Explosive           |  
-| Explosion Radius:   |None                   | 90                          |  90         |  
-| Splash Format:      |None                   | Grenade Boost               |  Grenade Boost         |  
+| Explosion Radius:   |None                   | 90                          | 90         |  
+| Splash Format:      |None                   | Grenade Boost               | Grenade Boost         |  
 | **Other:** |                     |                           |           |
 | Critical Hit:       | None                  | None                        | 70%                       |  
 | Lifesteal:          | N/A                   | N/A                         | 2.5% of damage dealt      | 
+| Extra (free) Bullet:| 100% Chance           | 20% Chance                  | 30% Chance     |
 | Skin:               | Lascaux (Vanilla)     | Bloody / Grunge             | Moxxi Signature           | 
 | Rarity:             | Unique                | Unique                      | Moxxi                     | 
   
