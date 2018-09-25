@@ -32,7 +32,7 @@ This is where you can find it...
 	
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
   
-| Tech Specs          | Lascaux: Vanilla      | Discord Solver #1: Bloody   | Discord Solver #2: Moxxi  | 
+| -Tech Specs-          | Lascaux: Vanilla      | Discord Solver #1: Bloody   | Discord Solver #2: Moxxi  | 
 | -------------       | -------------         | -------------               | -------------             |  
 | **Bullet Tech:**   |                   |                           |           | 
 | Bullet Type:        | Standard              | GyroJets Explosive          | GyroJets Explosive        |
@@ -60,10 +60,8 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
 
 - Both Version:
-  - The GyroJet Explosive Bullet Speed has a toggle option between 5x/10x/15x/20x Speed Boost
-  - The Explosion Impact Type has a toggle option between Explosive/Explosive ForceFlinch/None
   - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
-  - The Weapon Card has a toggle option between Show/Hide the additional informations... and English/French too.
+  - The Weapon Card has a toggle option between English/French.
 - The Moxxi weapon skin has a toggle option between:
   - The Moxxi Signature *Classic* Edition ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can be used in any occasion.
   - The Moxxi Signature *Cartier* Edition ("Red Cartier" in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.
