@@ -2,7 +2,7 @@
 
 ## SMG Dahl Discord Solver (Bloody/Grunge & Moxxi Version)
 
-In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who shot GyroJet explosive bullet. 
+In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG which shot GyroJet explosive bullet. 
 
 Unfortunately, the agreement between the two weapons manufacturers did not last long, and the production of the SMG stopped quickly -How ironic for a weapon that's named Discord Solver!- and Torgue seized the patents to create the Pocket Rocket.
 
@@ -17,8 +17,8 @@ This is where you can find it...
 ## What special with this weapon?
 
 - Both Version:
-  - Keep (almost) of all his Unique weapon specificity: very high firerate, variable burst-fire round, chance to shot two bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
-  - Initial damage reduced by 20%, but...
+  - Keep (almost) of all the Lascaux Unique Dahl SMG specificity: very high firerate, variable burst-fire round, chance to shot two bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
+  - Initial (too good) accuracy reduced, slower fireate, and slower reload, but...
     - FireMode modified to shoot the Pistol GyroJet Explosive Bullet. 
     - The speed from the GyroJet Explosive bullet is 5x faster when fired by a SMG than a pistol (but it's still a lot more slower than a normal bullet fired by a SMG) 
     - Chance  to shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
@@ -48,13 +48,12 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Explosion Radius:   | None                  | 90                          | 90         |  
 | Splash Format:      | None                  | Grenade Boost               | Grenade Boost         |  
 | **Other:** |                     |                           |           |
+| Extra (free) Bullet:| 100% Chance           | 20% Chance                  | 30% Chance     |
 | Critical Hit:       | None                  | None                        | 70%                       |  
 | Lifesteal:          | N/A                   | N/A                         | 2.5% of damage dealt      | 
-| Extra (free) Bullet:| 100% Chance           | 20% Chance                  | 30% Chance     |
 | Skin:               | Lascaux (Vanilla)     | Bloody / Grunge             | Moxxi Signature           | 
 | Rarity:             | Unique                | Unique                      | Moxxi                     | 
-  
-  
+
 ![Discord Solver - Bloody vs Moxxi Edition](https://i.imgur.com/eaFQ7En.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 ### Options: 
