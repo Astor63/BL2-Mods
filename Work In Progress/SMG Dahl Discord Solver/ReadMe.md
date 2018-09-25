@@ -1,5 +1,6 @@
 
 
+
 ## SMG Dahl Discord Solver (Bloody/Grunge & Moxxi Version)
 
 In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG which shot GyroJet explosive bullet. 
@@ -34,13 +35,13 @@ This is where you can find it...
 	
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
   
-| -Tech Specs-          | Lascaux: Vanilla      | Discord Solver #1: Bloody   | Discord Solver #2: Moxxi  | 
+| -Tech Specs-          | Lascaux: Vanilla      | Discord Solver #1: SMG   | Discord Solver #2: E-Tech  | 
 | -------------       | -------------         | -------------               | -------------             |  
 | **Bullet Tech:**   |                   |                           |           | 
-| Bullet Type:        | Standard              | GyroJets Explosive          | GyroJets Explosive        |
-| Fire Cost:          | 1 bullets cost 1 ammo | 1 bullets cost 1 ammo       | 1 bullets cost 1 ammo     |
-| Bullet Speed:       | 20.000                | 5x GyroJet Speed Boost      | 5x GyroJet Speed Boost   |
-| Burst Count:        | 9 to 14 rounds        | 9 to 14 rounds              | 9 to 14 rounds            | 
+| Bullet Type:        | Standard              | GyroJets Explosive          | Pocket Rocket GyroJets Explosive |
+| Fire Cost:          | 1 bullets cost 1 ammo | 1 bullets cost 1 ammo       | 1 bullets cost 2 ammo     |
+| Bullet Speed:       | 20.000                | 5x GyroJet Speed Boost      | 3x Pocket RocketGyroJet Speed Boost   |
+| Burst Count:        | 9 to 14 rounds        | 9 to 14 rounds              | 6 rounds            | 
 | **Explosive Tech:** |                     |                           |           |
 | Element:            | Never Elemental       | Explosive                   | Explosive           | 
 | Explosion Chance:   | None                  | 100%                        | 100%                       |
@@ -48,11 +49,11 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Explosion Radius:   | None                  | 90                          | 90         |  
 | Splash Format:      | None                  | Grenade Boost               | Grenade Boost         |  
 | **Other:** |                     |                           |           |
-| Extra (free) Bullet:| 100% Chance           | 20% Chance                  | 30% Chance     |
-| Critical Hit:       | None                  | None                        | 70%                       |  
-| Lifesteal:          | N/A                   | N/A                         | 2.5% of damage dealt      | 
-| Skin:               | Lascaux (Vanilla)     | Bloody / Grunge             | Moxxi Signature           | 
-| Rarity:             | Unique                | Unique                      | Moxxi                     | 
+| Extra (free) Bullet:| 100% Chance           | 20% (Bloody) / 30% (Moxxi)| 10% Chance     |
+| Critical Hit:       | None                  | None (Bloody) / 70% (Moxxi) | None                      |  
+| Lifesteal:          | N/A                   | N/A (Bloody) / 2.5% (Moxxi) | None      | 
+| Skin:               | Lascaux (Vanilla)     | Bloody / Grunge / Moxxi Signature |         | 
+| Rarity:             | Unique                | Unique / Moxxi                    | E-Tech                     | 
 
 ![Discord Solver - Bloody vs Moxxi Edition](https://i.imgur.com/eaFQ7En.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
