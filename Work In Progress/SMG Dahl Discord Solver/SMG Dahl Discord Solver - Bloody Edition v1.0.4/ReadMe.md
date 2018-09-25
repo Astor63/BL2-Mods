@@ -29,7 +29,7 @@ This is where you can find it....
     - Explosive Elemental Color Glow (similar to Torgue weapons)
 
 ![Discord Solver - Bloody Edition](https://i.imgur.com/jTwGJgh.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
-Of course, the weapon skin is grunge... What did you expect for a weapon which stay forgetten in a pool in a cave since so long ? A pristine and shiny weapon perhaps? Well, no... she is dirty and all rusted! Be happy that this submachine gun is still able to shot fews bullets!
+Of course, the weapon skin is grunge... What did you expect for a weapon which stay forgetten in a pool in a cave since so long? A pristine and shiny weapon perhaps? Well, no... she is dirty and all rusted! Be happy that this old submachine gun is still able to shot fews bullets!
 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
