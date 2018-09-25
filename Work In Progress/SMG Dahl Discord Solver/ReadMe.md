@@ -25,6 +25,7 @@ This is where you can find it...
     - Impact Explosion boosted by Grenade Damage.
     - Firing Mode Sound upgraded to GyroJet bullet sound.
     - MuzzleFlash upgraded to Explosive Bullet.
+    - Explosive Elemental Color Glow (similar to Torgue weapons)
 - Moxxi Version:
   - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of:
     - 70% Critical hit bonus
@@ -44,8 +45,8 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Element:            | Never Elemental       | Explosive                   | Explosive           | 
 | Explosion Chance:   | None                  | 100%                        | 100%                       |
 | Impact:             | Normal                | Explosive                   | Explosive           |  
-| Explosion Radius:   |None                   | 90                          | 90         |  
-| Splash Format:      |None                   | Grenade Boost               | Grenade Boost         |  
+| Explosion Radius:   | None                  | 90                          | 90         |  
+| Splash Format:      | None                  | Grenade Boost               | Grenade Boost         |  
 | **Other:** |                     |                           |           |
 | Critical Hit:       | None                  | None                        | 70%                       |  
 | Lifesteal:          | N/A                   | N/A                         | 2.5% of damage dealt      | 
@@ -63,10 +64,20 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - Both Version:
   - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
   - The Weapon Card has a toggle option between English/French.
-- The Moxxi weapon skin has a toggle option between:
-  - The Moxxi Signature *Classic* Edition ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can be used in any occasion.
-  - The Moxxi Signature *Cartier* Edition ("Red Cartier" in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.
-- The Discord Solver Moxxi Edition can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below).
+  - The Explosive Elemental Color Glow has a toggle option between On/Off
+
+- Bloody Version:
+  - The Bloody skin has a toogle option between:
+    - The Bloody Skin: Grunge and bloody
+    - The Grunge Skin: Grunge (without blood)
+    - The original Lascaux Skin 
+
+- Moxxi Version:
+   - The Discord Solver Moxxi Edition can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below).
+  - The Moxxi skin has a toggle option between:
+    - The Moxxi Signature *Classic* Edition ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can be used in any occasion.
+    - The Moxxi Signature *Cartier* Edition ("Red Cartier" in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.
+  
 
 ... and few fix:
 
