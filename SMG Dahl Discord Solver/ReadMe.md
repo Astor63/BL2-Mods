@@ -1,3 +1,4 @@
+
 ## Discord Solver - SMG & E-Tech Version
 
 In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG which shot GyroJet explosive bullet. 
@@ -37,13 +38,13 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | **Bullet Tech:**   |                   |                           |           | 
 | Bullet Type:        | Standard              | GyroJets Explosive          | Pocket Rocket GyroJets Explosive |
 | Fire Cost:          | 1 bullets cost 1 ammo | 1 bullets cost 1 ammo       | 1 bullets cost 2 ammo     |
-| Bullet Speed:       | 20.000                | 5x GyroJet Speed Boost      | 3x Pocket RocketGyroJet Speed Boost   |
-| Burst Count:        | 9 to 14 rounds        | 9 to 14 rounds              | 6 rounds            | 
+| Bullet Speed:       | 20.000                | 5x GyroJet Speed Boost      | 3x Pocket Rocket GyroJet Speed Boost|
+| Burst Count:        | 9 to 14 rounds        | 9 to 14 rounds              | 5 rounds [^2]            | 
 | **Explosive Tech:** |                     |                           |           |
 | Element:            | Never Elemental       | Explosive                   | Explosive           | 
 | Explosion Chance:   | None                  | 100%                        | 100%                       |
 | Impact:             | Normal                | Explosive                   | Explosive           |  
-| Explosion Radius:   | None                  | 90                          | 90         |  
+| Explosion Radius:   | None                  | 90 [^1]                     | 180         |  
 | Splash Format:      | None                  | Grenade Boost               | Grenade Boost         |  
 | **Other:** |                     |                           |           |
 | Extra (free) Bullet:| 100% Chance           | 20% (Bloody) / 30% (Moxxi)| 10% Chance     |
@@ -51,6 +52,9 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Lifesteal:          | N/A                   | N/A (Bloody) / 2.5% (Moxxi) | None      | 
 | Skin:               | Lascaux (Vanilla)     | Bloody / Grunge / Moxxi Signature |         | 
 | Rarity:             | Unique                | Unique / Moxxi                    | E-Tech                     | 
+[^1]:Same value as Dahl Brand Tweaks v1.2 in Orudeon Gears Overhaul v1.36 and avoid any files conflict.
+[^2]:Pistol GyroJet bullet explosion radius increased  by 50% = Upgraded to the same value as Torgue Brand Tweaks v1.1 in Orudeon Gears Overhaul v1.36 and avoid any files conflict.
+
 
 ![Discord Solver - Bloody vs Moxxi Edition](https://i.imgur.com/eaFQ7En.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
