@@ -15,10 +15,11 @@ This is where you can find it...
 
 ## What special with this weapon?
 
-Keep (almost) of all the Lascaux Unique Dahl SMG specificity: very high firerate, special firerate pattern, variable burst-fire round, chance to shot two Explosive bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
-Now, with GyroJet Explosive bullets, this SMG Dahl become really a powerful sub machine gun , see by yourself...
+Keep (almost) of all the Lascaux Unique Dahl SMG specificity: very high firerate, typical firerate pattern, variable burst-fire round, chance to shot two Explosive bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
+
+Now, with GyroJet Explosive bullets, this SMG Dahl become really a powerful sub machine gun, see by yourself:
   - SMG FireMode modified to shoot the Pistol GyroJet Explosive Bullet. 
-  - The speed from the GyroJet Explosive bullet is faster when fired by a SMG than a pistol (but it's still a lot more slower than a normal bullet fired by a SMG) 
+  - GyroJet Explosive bullet speed is faster when fired by a SMG than a pistol (but it's still a lot more slower than a normal bullet fired by a SMG) 
   - Chance  to shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
   - Impact Explosion boosted by Grenade Damage.
   - Firing Mode Sound upgraded to GyroJet bullet sound.
