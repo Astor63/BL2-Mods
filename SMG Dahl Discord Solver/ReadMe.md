@@ -1,5 +1,5 @@
 
-## Discord Solver - SMG & E-Tech Version
+## SMG Dahl Discord Solver - Men & Women Edition
 
 In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG which shot GyroJet explosive bullet. 
 
@@ -15,9 +15,9 @@ This is where you can find it...
 
 ## What special with this weapon?
 
-- Both Version:
-  - Keep (almost) of all the Lascaux Unique Dahl SMG specificity: very high firerate, variable burst-fire round, chance to shot two bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
-  - Initial (too good) accuracy reduced, slower fireate, and slower reload, but...
+Keep (almost) of all the Lascaux Unique Dahl SMG specificity: very high firerate, special firerate pattern, variable burst-fire round, chance to shot two Explosive bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
+- Now, this SMG Dahl become really a powerful sub machine gun , see by yourself...
+  - Both Version:
     - FireMode modified to shoot the Pistol GyroJet Explosive Bullet. 
     - The speed from the GyroJet Explosive bullet is 5x faster when fired by a SMG than a pistol (but it's still a lot more slower than a normal bullet fired by a SMG) 
     - Chance  to shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
@@ -30,30 +30,36 @@ This is where you can find it...
     - 70% Critical hit bonus
     - 2.5% lifesteal on damage dealt
     - A greater chance to get a extra bullet free 
-	
+
+As the SMG become somewhat more powerful with GyroJet Explosive bullet -and even more powerful with the Power Rocket Explosive Bullet- to equalize the power with the others SMG, the initial (too good) accuracy is reduced a little bit, the chance to shot simultaneously a second (free) GyroJet bullet too, the fireate was slowered a bit, and the reload too... and that proportionally with the gain of power	.
+
+In clear less disavantage for the Women Edition (GyroJet Explosive bullet), and more disavantage for the Men Edition (Pocket Rocket GyroJet Explosive bullet) 
+
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
   
-| -Tech Specs-          | Lascaux: Vanilla      | Discord Solver #1: SMG   | Discord Solver #2: E-Tech  | 
+| -Tech Specs-          | Lascaux: Vanilla      | Discord Solver #1: Women Edition   | Discord Solver #2: Men Edition  | 
 | -------------       | -------------         | -------------               | -------------             |  
 | **Bullet Tech:**   |                   |                           |           | 
-| Bullet Type:        | Standard              | GyroJets Explosive          | Pocket Rocket GyroJets Explosive |
-| Fire Cost:          | 1 bullets cost 1 ammo | 1 bullets cost 1 ammo       | 1 bullets cost 2 ammo     |
+| Bullet Type:        | Standard              | Pistol GyroJet Explosive          | Pocket Rocket GyroJet Explosive |
+| Fire Cost:          | 1 bullets cost 1 ammo | 1 GyroJet bullet cost 1 ammo       | 1 Pocket Rocket bullet cost 2 ammo     |
 | Bullet Speed:       | 20.000                | 5x GyroJet Speed Boost      | 3x Pocket Rocket GyroJet Speed Boost|
-| Burst Count:        | 9 to 14 rounds        | 9 to 14 rounds              | 5 rounds [^2]            | 
+| Burst Count:        | 9 to 14 rounds        | 9 to 14 rounds              | 9 to 14 rounds         | 
 | **Explosive Tech:** |                     |                           |           |
 | Element:            | Never Elemental       | Explosive                   | Explosive           | 
 | Explosion Chance:   | None                  | 100%                        | 100%                       |
 | Impact:             | Normal                | Explosive                   | Explosive           |  
-| Explosion Radius:   | None                  | 90 [^1]                     | 180         |  
-| Splash Format:      | None                  | Grenade Boost               | Grenade Boost         |  
+| Explosion Radius:   | None                  | 90                     | 180         |  
+| Splash Format:      | None                  | Grenade Boost               | Grenade Boost         |
+| **Disavantage:** |                     |                           |           |  
+| Accuracy:         |                |       -20%              |      -40%      |  
+| Firerate:   |                  |          -20%          |    -40%      |  
+| Reload Speed:      |                  |          -20%      |    -40%    |
+| Extra (free) Bullet:| 100% Chance           | 20% (Women) / 30% (Moxxi)| 10% (Men) / 20% (Moxxi)     |
 | **Other:** |                     |                           |           |
-| Extra (free) Bullet:| 100% Chance           | 20% (Bloody) / 30% (Moxxi)| 10% Chance     |
-| Critical Hit:       | None                  | None (Bloody) / 70% (Moxxi) | None                      |  
-| Lifesteal:          | N/A                   | N/A (Bloody) / 2.5% (Moxxi) | None      | 
-| Skin:               | Lascaux (Vanilla)     | Bloody / Grunge / Moxxi Signature |         | 
-| Rarity:             | Unique                | Unique / Moxxi                    | E-Tech                     | 
-[^1]:Same value as Dahl Brand Tweaks v1.2 in Orudeon Gears Overhaul v1.36 and avoid any files conflict.
-[^2]:Pistol GyroJet bullet explosion radius increased  by 50% = Upgraded to the same value as Torgue Brand Tweaks v1.1 in Orudeon Gears Overhaul v1.36 and avoid any files conflict.
+| Critical Hit:       | None                  | None (Women) / 70% (Moxxi) |None (Men) / 70% (Moxxi)                    |  
+| Lifesteal:          | N/A                   | N/A (Women) / 2.5% (Moxxi) |N/A (Men) / 2.5% (Moxxi)     | 
+| Skin:               | Lascaux (Vanilla)     | Bloody & Tiny Tina / Moxxi Signature | Bloody & Grunge / Moxxi Signature        | 
+| Rarity:             | Unique                | Unique / Moxxi                    | Unique / Moxxi                     | 
 
 
 ![Discord Solver - Bloody vs Moxxi Edition](https://i.imgur.com/eaFQ7En.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
