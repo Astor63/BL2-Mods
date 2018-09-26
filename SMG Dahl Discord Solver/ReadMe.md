@@ -16,24 +16,23 @@ This is where you can find it...
 ## What special with this weapon?
 
 Keep (almost) of all the Lascaux Unique Dahl SMG specificity: very high firerate, special firerate pattern, variable burst-fire round, chance to shot two Explosive bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
-- Now, this SMG Dahl become really a powerful sub machine gun , see by yourself...
-  - Both Version:
-    - FireMode modified to shoot the Pistol GyroJet Explosive Bullet. 
-    - The speed from the GyroJet Explosive bullet is 5x faster when fired by a SMG than a pistol (but it's still a lot more slower than a normal bullet fired by a SMG) 
-    - Chance  to shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
-    - Impact Explosion boosted by Grenade Damage.
-    - Firing Mode Sound upgraded to GyroJet bullet sound.
-    - MuzzleFlash upgraded to Explosive Bullet.
-    - Explosive Elemental Color Glow (similar to Torgue weapons)
-- Moxxi Version:
-  - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of:
+Now, with GyroJet Explosive bullets, this SMG Dahl become really a powerful sub machine gun , see by yourself...
+  - SMG FireMode modified to shoot the Pistol GyroJet Explosive Bullet. 
+  - The speed from the GyroJet Explosive bullet is faster when fired by a SMG than a pistol (but it's still a lot more slower than a normal bullet fired by a SMG) 
+  - Chance  to shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+  - Impact Explosion boosted by Grenade Damage.
+  - Firing Mode Sound upgraded to GyroJet bullet sound.
+  - MuzzleFlash upgraded to Explosive Bullet.
+  - Explosive Elemental Color Glow (similar to Torgue weapons)
+  
+- Moxxi Version: As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of:
     - 70% Critical hit bonus
     - 2.5% lifesteal on damage dealt
     - A greater chance to get a extra bullet free 
 
-As the SMG become somewhat more powerful with GyroJet Explosive bullet -and even more powerful with the Power Rocket Explosive Bullet- to equalize the power with the others SMG, the initial (too good) accuracy is reduced a little bit, the chance to shot simultaneously a second (free) GyroJet bullet too, the fireate was slowered a bit, and the reload too... and that proportionally with the gain of power	.
+As the SMG become now somewhat more powerful with GyroJet Explosive bullet -and even more powerful with the Power Rocket Explosive Bullet- to equalize the power with the others SMG, the initial (too good) accuracy is reduced a little bit, the chance to shot simultaneously a second (free) GyroJet bullet too, the fireate was slowered a bit, and the reload too... and that proportionally with the gain of power	.
 
-In clear less disavantage for the Women Edition (GyroJet Explosive bullet), and more disavantage for the Men Edition (Pocket Rocket GyroJet Explosive bullet) 
+In clear less disadvantage for the Women Edition (GyroJet Explosive bullet), and more disadvantage for the Men Edition (Pocket Rocket GyroJet Explosive bullet) 
 
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
   
