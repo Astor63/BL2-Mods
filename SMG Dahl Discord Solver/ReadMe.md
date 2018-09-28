@@ -1,5 +1,6 @@
 
-## SMG Dahl Discord Solver - Men & Women Edition
+
+## SMG Dahl Discord Solver (Bloody/Grunge & Moxxi Version)
 
 In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG which shot GyroJet explosive bullet. 
 
@@ -15,52 +16,43 @@ This is where you can find it...
 
 ## What special with this weapon?
 
-Keep (almost) of all the Lascaux Unique Dahl SMG specificity: very high firerate, typical firerate pattern, variable burst-fire round, chance to shot two Explosive bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
-
-Now, with GyroJet Explosive bullets, this SMG Dahl become really a powerful sub machine gun, see by yourself:
-  - SMG FireMode modified to shoot the Pistol GyroJet Explosive Bullet. 
-  - GyroJet Explosive bullet speed is faster when fired by a SMG than a pistol (but it's still a lot more slower than a normal bullet fired by a SMG) 
-  - Chance  to shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
-  - Impact Explosion boosted by Grenade Damage.
-  - Firing Mode Sound upgraded to GyroJet bullet sound.
-  - MuzzleFlash upgraded to Explosive Bullet.
-  - Explosive Elemental Color Glow (similar to Torgue weapons)
-  
-- Moxxi Version: As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of:
+- Both Version:
+  - Keep (almost) of all the Lascaux Unique Dahl SMG specificity: very high firerate, variable burst-fire round, chance to shot two bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
+  - Initial (too good) accuracy reduced, slower fireate, and slower reload, but...
+    - FireMode modified to shoot the Pistol GyroJet Explosive Bullet. 
+    - The speed from the GyroJet Explosive bullet is 5x faster when fired by a SMG than a pistol (but it's still a lot more slower than a normal bullet fired by a SMG) 
+    - Chance  to shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+    - Impact Explosion boosted by Grenade Damage.
+    - Firing Mode Sound upgraded to GyroJet bullet sound.
+    - MuzzleFlash upgraded to Explosive Bullet.
+    - Explosive Elemental Color Glow (similar to Torgue weapons)
+- Moxxi Version:
+  - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of:
     - 70% Critical hit bonus
     - 2.5% lifesteal on damage dealt
     - A greater chance to get a extra bullet free 
-
-As the SMG become now somewhat more powerful with GyroJet Explosive bullet -and even more powerful with the Power Rocket Explosive Bullet- to equalize the power with the others SMG, the initial (too good) accuracy is reduced a little bit, the chance to shot simultaneously a second (free) GyroJet bullet too, the fireate was slowered a bit, and the reload too... and that proportionally with the gain of power	.
-
-In clear less disadvantage for the Women Edition (GyroJet Explosive bullet), and more disadvantage for the Men Edition (Pocket Rocket GyroJet Explosive bullet) 
-
+	
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
   
-| -Tech Specs-          | Lascaux: Vanilla      | Discord Solver #1: Women Edition   | Discord Solver #2: Men Edition  | 
+| -Tech Specs-          | Lascaux: Vanilla      | Discord Solver #1: Bloody   | Discord Solver #2: Moxxi  | 
 | -------------       | -------------         | -------------               | -------------             |  
 | **Bullet Tech:**   |                   |                           |           | 
-| Bullet Type:        | Standard              | Pistol GyroJet Explosive          | Pocket Rocket GyroJet Explosive |
-| Fire Cost:          | 1 bullets cost 1 ammo | 1 GyroJet bullet cost 1 ammo       | 1 Pocket Rocket bullet cost 2 ammo     |
-| Bullet Speed:       | 20.000                | 5x GyroJet Speed Boost      | 3x Pocket Rocket GyroJet Speed Boost|
-| Burst Count:        | 9 to 14 rounds        | 9 to 14 rounds              | 9 to 14 rounds         | 
+| Bullet Type:        | Standard              | GyroJets Explosive          | GyroJets Explosive        |
+| Fire Cost:          | 1 bullets cost 1 ammo | 1 bullets cost 1 ammo       | 1 bullets cost 1 ammo     |
+| Bullet Speed:       | 20.000                | 5x GyroJet Speed Boost      | 5x GyroJet Speed Boost   |
+| Burst Count:        | 9 to 14 rounds        | 9 to 14 rounds              | 9 to 14 rounds            | 
 | **Explosive Tech:** |                     |                           |           |
 | Element:            | Never Elemental       | Explosive                   | Explosive           | 
 | Explosion Chance:   | None                  | 100%                        | 100%                       |
 | Impact:             | Normal                | Explosive                   | Explosive           |  
-| Explosion Radius:   | None                  | 90                     | 180         |  
-| Splash Format:      | None                  | Grenade Boost               | Grenade Boost         |
-| **Disavantage:** |                     |                           |           |  
-| Accuracy:         |                |       -20%              |      -40%      |  
-| Firerate:   |                  |          -20%          |    -40%      |  
-| Reload Speed:      |                  |          -20%      |    -40%    |
-| Extra (free) Bullet:| 100% Chance           | 20% (Women) / 30% (Moxxi)| 10% (Men) / 20% (Moxxi)     |
+| Explosion Radius:   | None                  | 90                          | 90         |  
+| Splash Format:      | None                  | Grenade Boost               | Grenade Boost         |  
 | **Other:** |                     |                           |           |
-| Critical Hit:       | None                  | None (Women) / 70% (Moxxi) |None (Men) / 70% (Moxxi)                    |  
-| Lifesteal:          | N/A                   | N/A (Women) / 2.5% (Moxxi) |N/A (Men) / 2.5% (Moxxi)     | 
-| Skin:               | Lascaux (Vanilla)     | Bloody & Tiny Tina / Moxxi Signature | Bloody & Grunge / Moxxi Signature        | 
-| Rarity:             | Unique                | Unique / Moxxi                    | Unique / Moxxi                     | 
-
+| Extra (free) Bullet:| 100% Chance           | 20% Chance                  | 30% Chance     |
+| Critical Hit:       | None                  | None                        | 70%                       |  
+| Lifesteal:          | N/A                   | N/A                         | 2.5% of damage dealt      | 
+| Skin:               | Lascaux (Vanilla)     | Bloody / Grunge             | Moxxi Signature           | 
+| Rarity:             | Unique                | Unique                      | Moxxi                     | 
 
 ![Discord Solver - Bloody vs Moxxi Edition](https://i.imgur.com/eaFQ7En.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
@@ -73,20 +65,14 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
   - The Weapon Card has a toggle option between English/French.
   - The Explosive Elemental Color Glow has a toggle option between On/Off
 
-- Men Version:
-  - The skin has a toggle option between:
+- Bloody Version:
+  - The Bloody skin has a toogle option between:
     - The Bloody Skin: Grunge and bloody
     - The Grunge Skin: Grunge (without blood)
     - The original Lascaux Skin 
 
-- Women Version:
-  - The skin has a toggle option between:
-    - The Girly Skin: Thanks to Tiny Tina to provide it.
-    - The Dirty Skin: 
-    - The original Lascaux Skin 	
-
 - Moxxi Version:
-  - The Discord Solver Moxxi Edition can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below).
+   - The Discord Solver Moxxi Edition can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below).
   - The Moxxi skin has a toggle option between:
     - The Moxxi Signature *Classic* Edition ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can be used in any occasion.
     - The Moxxi Signature *Cartier* Edition ("Red Cartier" in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.
