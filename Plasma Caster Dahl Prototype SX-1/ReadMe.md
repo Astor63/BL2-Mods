@@ -32,11 +32,6 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 - The Weapon Card has a toggle option between English/French.
 - The Explosive Elemental Color Glow has a toggle option between On/Off
-
-... and few fix:
-
-- Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2)
-- Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2) + Bayonet Buff
 - Fix for Koby "Rarity Color Fix": AfterMarket (just in case if you use this old mod)  
 
 ## Gibbed codes:
@@ -64,7 +59,6 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 - Just be aware from the following:
 
-  - To be sure to get the fix Orudeon's Bayonet Enhancements and/or Orudeon's Bayonet Buff working correctly (as intended), don't forget to place my mod **AFTER** Orudeon's Bayonet Enhancements & Bayonet Buff. 
   - This mod use the *Pocket Rocket Explosive GyroJet Firing Mode*, so if you use any mode that changes the attributes from the Pistol GyroJet Firing Mode, it will affect this mod, and obviously the firing of the Discord Solver. In this case, Just revert the modification done previously to the Pocket Rocket Explosive GyroJet Firing Mode.
   
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
@@ -77,8 +71,8 @@ A great mod to check for the Discord Solver Bloody version:
  
 ### To do:
 
-- [x] Make a new ~~nice and shiny~~ grunge and bloody skin.
-- [x] Clean the code and remove all my ~~shitty~~ smart notes. 
+- [x] Make a nice and shiny SX-1 skin.
+- [ ] Clean the code and remove all my ~~shitty~~ smart notes. 
 - [ ] Make (again) few kills to be sure that the submachine gun work correctly.
   
 ### Credits & Thanks:
