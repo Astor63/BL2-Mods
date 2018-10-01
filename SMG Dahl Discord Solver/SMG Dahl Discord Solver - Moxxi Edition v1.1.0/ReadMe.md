@@ -1,6 +1,7 @@
 
 
 
+
 ## SMG Dahl Discord Solver (Moxxi Edition)
  
 In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who shot GyroJet explosive bullet. 
@@ -31,7 +32,7 @@ This is where you can find it...
     - 2.5% lifesteal on damage dealt
     - A greater chance to get a extra bullet free 
 
-![Discord Solver Moxxi Signature Classic and Cartier](https://i.imgur.com/nfzLNMm.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Discord Solver Moxxi Signature Classic and Cartier](https://imgur.com/7V3SSin.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 **Note:** As this version of the Discord Solver is a Moxxi weapon, you can choose between 2 Moxxi Signature skin : the *Classic* or the *Cartier* skin
 

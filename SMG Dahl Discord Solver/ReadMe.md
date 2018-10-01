@@ -1,5 +1,6 @@
 
 
+
 ## SMG Dahl Discord Solver (Bloody/Grunge & Moxxi Version)
 
 In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG which shot GyroJet explosive bullet. 
@@ -54,7 +55,7 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Skin:               | Lascaux (Vanilla)     | Bloody / Grunge             | Moxxi Signature           | 
 | Rarity:             | Unique                | Unique                      | Moxxi                     | 
 
-![Discord Solver - Bloody vs Moxxi Edition](https://i.imgur.com/eaFQ7En.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Discord Solver - Bloody vs Moxxi Edition](https://imgur.com/hJBO69B.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 ### Options: 
 
