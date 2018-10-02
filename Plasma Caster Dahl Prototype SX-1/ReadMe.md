@@ -67,7 +67,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
    
 ### Other Recommended Mods:
 
-A great mod to check for the Prototype SX-1 Bloody version:
+A great mod to check for the Prototype SX-1:
 
 - [More Blood](https://github.com/BLCM/BLCMods/blob/a3706b44e0ab31632eb04bdc5056b57ae66f3a27/Borderlands%202%20mods/Juso/moreblood.blcm) by [Juso](https://github.com/BLCM/BLCMods/tree/a3706b44e0ab31632eb04bdc5056b57ae66f3a27/Borderlands%202%20mods/Juso) : because after you have exploded your enemies, only blood will remain.
 
