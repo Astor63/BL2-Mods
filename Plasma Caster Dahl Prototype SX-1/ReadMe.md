@@ -1,11 +1,11 @@
 
 ## Plasma Caster Dahl Prototype SX-1 
  
-After the commercial failure of the Discord Solver, a rogue engineer at Dahl took the plans and secretly worked on the realization of a Plasma Caster capable of firing explosive projectiles Gyrojet coated in a plasma ball.
+After the commercial failure of the Discord Solver, a rogue engineer of Dahl took the plans and secretly worked on the realization of a Plasma Caster capable of firing explosive projectiles Gyrojet coated in a plasma ball.
 
-The prototype was really a powerful and dangerous weapon, except that the plasma ball will only explose when in contact with a enemy and the missed shots disintegrate instantly -without exploding!- in a tiny cloud of pink smoke.
+The prototype was great and really a powerful and dangerous weapon, except that the plasma ball will only explose when coming in contact with a enemy and the missed shots disintegrate instantly "pschitt" like a damp squib (without exploding!) in a tiny cloud of pink smoke.
 
-Remorseful of his dishonest activity, he decided to get rid of his prototype forever by submerged it in a shallow pool in a cave in Frostburn Canyon.
+Remorseful of his dishonest activity, he decided to get rid of his prototype forever by submerging his weapon in a shallow pool in a cave in Frostburn Canyon.
 
 This is where you can find it.... 
 
@@ -16,7 +16,7 @@ This is where you can find it....
 
 ## What special with this weapon?
 
-- Keep the typical fire pattern from the Lascaux Unique Dahl SMG (for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux)) mixed  with the Plasma caster specificity, and get the chance to shot a extra explosive plasma projectile for the cost of two ammo.
+- Keep the typical fire pattern from the Lascaux Unique Dahl SMG (for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux)) mixed  with the Dahl Plasma Caster specificity (for more details again, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Plasma_Caster)), and get the chance to shot a extra explosive plasma projectile for the cost of two ammo.
 - Initial (too good) accuracy reduced, slower fireate, and slower reload, but...
   - FireMode modified to shoot the Pocket Rocket GyroJet Explosive Bullet embedded in a plasma ball (but exploding only in contact with a enemy). 
   - The speed from the GyroJet Explosive bullet is 3x faster when fired by a E-Tech Plasma Caster than a Pocket Rocket pistol (but it's still a lot more slower than a normal projectile fired by a Plasma Caster) 
