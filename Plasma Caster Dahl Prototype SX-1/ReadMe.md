@@ -1,32 +1,34 @@
+
 ## Plasma Caster Dahl Prototype SX-1 
  
-In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who shot GyroJet explosive bullet. 
+After the commercial failure of the Discord Solver, a rogue engineer at Dahl took the plans and secretly worked on the realization of a Plasma Caster capable of firing explosive projectiles Gyrojet coated in a plasma ball.
 
-Unfortunately, the agreement between the two weapons manufacturers did not last long, and the production of the SMG stopped quickly -How ironic for a weapon that's named Discord Solver!- and Torgue seized the patents to create the Pocket Rocket.
+The prototype was really a powerful and dangerous weapon, except that the plasma ball will only explose when in contact with a enemy and the missed shots disintegrate instantly -without exploding!- in a tiny cloud of pink smoke.
 
-Remnant of the past, a *"lost"* Discord Solver (probably dropped by a bandit?) can still be found... submerged in a shallow pool in Frostburn Canyon.
+Remorseful of his dishonest activity, he decided to get rid of his prototype forever by submerged it in a shallow pool in a cave in Frostburn Canyon.
 
 This is where you can find it.... 
 
-![Discord Solver - Where to find it](https://i.imgur.com/uHTxuc6.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Prototype SX-1 - Where to find it](https://i.imgur.com/uHTxuc6.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 **Note:** If you are too lazy to walk to Frostburn Canyon, you will find the Gibbed Codes below.
 
 
 ## What special with this weapon?
 
-- Keep (almost) of all the Lascaux Unique Dahl SMG specificity: very high firerate, variable burst-fire round, chance to shot two bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
+- Keep the typical fire pattern from the Lascaux Unique Dahl SMG (for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux)) mixed  with the Plasma caster specificity, and get the chance to shot a extra explosive plasma projectile for the cost of two ammo.
 - Initial (too good) accuracy reduced, slower fireate, and slower reload, but...
-  - FireMode modified to shoot the Pocket Rocket GyroJet Explosive Bullet embedded in a plasma ball (but will explose only when in contact with a enemy). 
-  - The speed from the GyroJet Explosive bullet is 3x faster when fired by a E-Tech Plasma Caster than a pistol (but it's still a lot more slower than a normal projectile fired by a Plasma Caster) 
-   - Chance  to shot two explosive plasma projectile simultaneously for the cost of two ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
-   - Impact Explosion boosted by Grenade Damage (only when hitting a enemy).
+  - FireMode modified to shoot the Pocket Rocket GyroJet Explosive Bullet embedded in a plasma ball (but exploding only in contact with a enemy). 
+  - The speed from the GyroJet Explosive bullet is 3x faster when fired by a E-Tech Plasma Caster than a Pocket Rocket pistol (but it's still a lot more slower than a normal projectile fired by a Plasma Caster) 
+  - Chance  to shot two explosive plasma projectile simultaneously for the cost of two ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+  - Impact Explosion boosted by Grenade Damage (only when hitting a enemy).
    - Firing Mode Sound upgraded to Plasma Caster sound.
    - MuzzleFlash upgraded to Plasma Caster.
    - Explosive Elemental Color Glow (similar to Torgue weapons)
 
-![Discord Solver - Bloody Edition](https://i.imgur.com/LnCikr1.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
-**Note:** Those who are a little bit curious will recognize the inspiration from the name (SX-1) and the skin color (Blue Grey & White) coming straight from the Belgian comics book "The secret of the Swordfish"
+![Prototype SX-1](https://imgur.com/lE00YK0.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
+**Note:** Those who are a little bit curious will recognize the inspiration from the name (SX-1) and the skin color (Blue/Grey & White) coming straight from the Belgian comics book "The Adventures of Blake & Mortimer: The Secret of the Swordfish" by E.P. Jacobs.
 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
@@ -43,7 +45,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 | Deft Lascaux         | Accuracy        | BL2(hwAAAAAmawBB6ANBBIFEcmIpwQKNJQGLChYGLBNY/v8vY7nBYo3l) |
 | Stoic Lascaux        | Stability       | BL2(hwAAAAD4IwBB6ANBBIFEcmIpwQKNJQGLChYGLBZY/v8vY0nCYo3l) |
 | Skirmish Lascaux     | Reload Speed    | BL2(hwAAAABCAABB6ANBBIFEcmIpwQKNJQGLChYGLBdY/v8vY3HCYo3l) |
-| ~~Bladed Lascaux~~       | ~~Melee~~         | E-Tech Plasma Caster **NEVER** spawn with a blade.  |
+| ~~Bladed Lascaux~~   | ~~Melee~~       | E-Tech Plasma Caster **NEVER** spawn with a blade.        |
 | Smooth Lascaux       | No Accessory    | BL2(hwAAAAAj3gBB6ANBBIFEcmIpwQKNJQGLChYGLBFY/v8vY0FAYo3l) |
 
 ### Changelog:
@@ -59,16 +61,18 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 - Just be aware from the following:
 
-  - This mod use the *Pocket Rocket Explosive GyroJet Firing Mode*, so if you use any mode that changes the attributes from the Pistol GyroJet Firing Mode, it will affect this mod, and obviously the firing of the Discord Solver. In this case, Just revert the modification done previously to the Pocket Rocket Explosive GyroJet Firing Mode.
+  - This mod use the *Pocket Rocket Explosive GyroJet Firing Mode*, so if you use any mode that changes the attributes from the Pistol GyroJet Firing Mode, it will affect this mod, and obviously the firing of the Prototype SX-1. In this case, Just revert the modification done previously to the Pocket Rocket Explosive GyroJet Firing Mode.
   
-  - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
+  - This mode use Grenade Damage for the Splash Format, so if you are going to use the Prototype SX-1 with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
    
 ### Other Recommended Mods:
 
-A great mod to check for the Discord Solver Bloody version:
+A great mod to check for the Prototype SX-1 Bloody version:
 
-- [Double Anarchy v4](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/DoubleAnarchyv4.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000) : Changes the SMGs accuracy accessory into the Double Accessory from Borderlands 1... and your Prototype SX-1 will have a chance to shot 2 GyroJet explosive bullets (instead of 1) at the ridiculous cost on 2 ammo.
- 
+- [More Blood](https://github.com/BLCM/BLCMods/blob/a3706b44e0ab31632eb04bdc5056b57ae66f3a27/Borderlands%202%20mods/Juso/moreblood.blcm) by [Juso](https://github.com/BLCM/BLCMods/tree/a3706b44e0ab31632eb04bdc5056b57ae66f3a27/Borderlands%202%20mods/Juso) : because after you have exploded your enemies, only blood will remain.
+
+![Discord Solver - More Blood](https://imgur.com/IqlwQov.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
 ### To do:
 
 - [x] Make a nice and shiny SX-1 skin.
