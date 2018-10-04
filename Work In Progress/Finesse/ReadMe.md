@@ -28,12 +28,12 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Burst Count:      | 9 to 14 rounds        | 5 rounds              | 5 rounds              | 
 | Critical Hit:     | None                  | None                  | 95%                   | 
 | Elemental:        | Shock                 | Elemental Adaptive    | Elemental Adaptive    | 
-| Shock dmg/sec:    | Never Elemental       | 3605,9                | 3605,9                | 
-| Corrosive dmg/sec:| N/A                   | 3605,9                | 3605,9                |
 | Shock dmg/sec:    | 3605.9                | 3605,9                | 3605,9                |
+| Fire dmg/sec:     | N/A                   | 3605,9                | 3605,9                | 
+| Corrosive dmg/sec:| N/A                   | 3605,9                | 3605,9                |
 | Elemental Chance: | 11.5%                 | 8%                    | 8%                    | 
 | Splash Format:    | None                  | Grenade               | Grenade               | 
-| Fire Cost:        | 1 bullets cost 1 ammo | 1 SEAPP cost 1 ammo   | 1 SEAPP cost 1 ammo   | 
+| Fire Cost:        | 1 bullets cost 1 ammo | 1 SEAPP cost 2 ammo   | 1 SEAPP cost 2 ammo   | 
 | Lifesteal:        | N/A                   | N/A                   | 2.5% of damage dealt  | 
 | Skin:             | Commerce (Vanilla)    | Commerce (Vanilla)    | Moxxi Signature       | 
 | Rarity:           | Unique                | Legendary             | Moxxi                 | 
@@ -41,20 +41,17 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
   
 ![Discord Solver - Commerce vs Moxxi Version](https://i.imgur.com/ySWyM5T.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-**Note:** As the Finesse can be found submerged in a shallow pool in a cave, it's make sense to me to keep his Vanilla "Commerce" skin (similar to the Commerce cave paintings), but the Moxxi version, she get a ~~vivid red~~ ... gorgeous Moxxi Signature skin.
 
 ### Options: 
 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
 
 - Both Version:
-  - The Elemental Effect Chance can toggle from 1% to 40%
-  - The Plasma Projectile Speed Mode has a toggle option between Normal/Double/Triple Speed
-  - The Explosion Impact Type has a toggle option between Explosive/Explosive ForceFlinch/None
   - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
-  - The working Flaps can be toggle beween On or Off
-  - The Weapon Card has a toggle option between Show/Hide the additional informations.
-- Moxxi Version:  
+  - The working Flaps can be toggle between On/Off
+  - The Elemental Color Glow can be toggle between On/Off
+
+/- Moxxi Version:  
   - The Moxxi's Lifesteal can be toggle between the "Classic" instant healing or with Orb Transfusion (similar to the SR Chère-Amie)
   - The Finesse Moxxi Version can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below) 
 
@@ -76,15 +73,16 @@ A great mod to check for the Discord Solver:
 
 - Moxxi Version: [No More Moxxi Lifesteal v2.0](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Akathris/NoMoreMoxxiLifestealv2.0.txt) by [Akathris](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Akathris) . His Mod is self explanatory: removes lifesteal from Moxxi weapons and changes it to passive health regeneration.
 
-- Both Version: [Double Anarchy v4](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/DoubleAnarchyv4.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000) : Changes the SMGs accuracy accessory into the Double Accessory from Borderlands 1... and your Discord Solver will shot 4 bullets/projectiles at the cost on 2 ammo.
+- Both Version: [Double Anarchy v4](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/DoubleAnarchyv4.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000) : Changes the SMGs accuracy accessory into the Double Accessory from Borderlands 1... and your Finesse will shot 2 Smart Elemental Adaptive Plasma Projectile at the cost on 4 ammos, and will have a chance to be doubled and shot 4 SEAPP at the ridiculous cost on 4 ammo.
 
 ![Finesse Moxxi Version with Double Anarchy Mod](https://i.imgur.com/fkJRAqD.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 ### Compatibility:
 
 - 100% compatible with UCP 4.1
+- Should be compatible with most other mods, as long as they do not modify the Commerce Firing Mode.
 - Just be aware from the following: 
-      - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
+  - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
   
 ### Credits & Thanks:
 
