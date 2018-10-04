@@ -104,7 +104,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 A great mod to check for the Discord Solver Bloody version:
 
-- [Double Anarchy v4](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/DoubleAnarchyv4.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000) : Changes the SMGs accuracy accessory into the Double Accessory from Borderlands 1... and your Discord Solver will have a chance to shot 4 GyroJet explosive bullets (instead of 2) at the ridiculous cost on 2 ammo.
+- [Double Anarchy v4](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/DoubleAnarchyv4.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000) : Changes the SMGs accuracy accessory into the Double Accessory from Borderlands 1... and your Discord Solver will have a chance to shot 2 GyroJet Explosive bullets at the cost on 2 ammo, and will have a chance to be doubled and shot 4 GyroJet Explosive bullets at the ridiculous cost on 2 ammo.
 
 ![Discord Solver - Double Anarchy](https://imgur.com/dZW6K2J.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
