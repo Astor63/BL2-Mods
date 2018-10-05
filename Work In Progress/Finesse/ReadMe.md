@@ -41,7 +41,6 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
   
 ![Discord Solver - Commerce vs Moxxi Version](https://i.imgur.com/ySWyM5T.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-
 ### Options: 
 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
