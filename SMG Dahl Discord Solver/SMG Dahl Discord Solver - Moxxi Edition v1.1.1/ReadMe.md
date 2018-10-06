@@ -54,8 +54,9 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 ... and few fix:
 
 - Fix for Akathis "No More Moxxi Lifesteal" - 1.5% passive health regeneration instead of 2.5% Lifesteal
-- Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2)
 - Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2) + Bayonet Buff
+- Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2)
+- Fix for Bayonet Buff in Slot 1
 - Fix for Koby "Rarity Color Fix": Unique (just in case if you use this old mod)
 
 ![Discord Solver as reward for Moxxi mission](https://i.imgur.com/8JPt8ap.png "Don't worry guys... even if my screen capture show French text, my mods are in English") 
@@ -79,9 +80,9 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - v1.0.0, September 8, 2018
   - Initial public release
 - v1.0.1, September 12, 2018  
-  - Added Fix for Orudeon's Bayonet Enhancements (Bayonet in slot 2) + Bayonet Buff
+  - Added Fix for Orudeon's Bayonet Enhancements (Bayonet in slot 2) + Bayonet Buff: Bayonet gain 100% bonus melee damage (up from 50%) 
 - v1.0.2, September 14, 2018  
-  - Added GyroJet sound
+  - Added GyroJet bullet firing sound 
 - v1.0.3, September 16, 2018
   - Added Moxxi Signature *Classic* skin
 - v1.0.4, September 20, 2018  
@@ -89,9 +90,11 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
   - Added French Translation (Weapon Card)
   - Cosmetic:
     - The bullet casings is ejected correctly on the right side.
-    - When the shot is fired, the muzzle "split" explosive residues
- - v1.1.0, September 25, 2018
-   -   Totally revamp the FireMode
+    - When the shot is fired, the muzzle "split" explosive residues.
+- v1.1.0, September 25, 2018
+  - Totally revamp the FireMode
+- v1.1.1, October 06, 2018  
+  - Added fix for Bayonet Buff in Slot 1: Bayonet gain 100% bonus melee damage (up from 50%)  
  
 
 ### Compatibility:

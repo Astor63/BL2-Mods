@@ -84,6 +84,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - Both Version:
   - Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2)
   - Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2) + Bayonet Buff
+  - Fix for Bayonet Buff in Slot 1
   - Fix for Koby "Rarity Color Fix": Unique (just in case if you use this old mod)
 - Moxxi Version:
   - Fix for Akathis "No More Moxxi Lifesteal" - 1.5% passive health regeneration instead of 2.5% Lifesteal
