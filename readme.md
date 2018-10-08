@@ -35,6 +35,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 ## [Skin] Moxxi Signature Classic Reskin Pack
 
 - Did you ever noticed that only the half from the Moxxi gears have almost a nice Moxxi Signature Classic skin... and a half have somewhat totally different... which looks more like Tiny Tina weapon skin than Moxxi weapon skin!
+
 Now with the *Moxxi Signature Classic Reskin Pack*, all the skin are uniform.
   
 * * * * *
