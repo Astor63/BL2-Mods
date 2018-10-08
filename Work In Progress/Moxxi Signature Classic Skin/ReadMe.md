@@ -1,19 +1,22 @@
+
 ## Moxxi Signature Classic Skin
 Did you ever noticed that only the half from the Moxxi gears have almost* a nice Moxxi Signature Classic skin?
 
 ![Moxxi Signature Gear Half With Moxxi Signature Skin](https://i.imgur.com/cR5GSYs.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
-(*) almost because the metal part located on the rifle butt from the SR Chère Amie are Gold/Grey instead of Gold/washed purple
+(*) almost because:
+1. The SMG Bad Touch wear a deeper red, and all the metal part are red coated, giving a look of plastic toy:
+2. There is some Grey metal part located on the rifle butt from the SR Chère Amie.
 
 ... and a half have somewhat totally different... which looks more like Tiny Tina weapon skin than Moxxi weapon skin
 
-![Moxxi Signature Gear Half Without Moxxi Signature Skin](https://i.imgur.com/PsHWEfX.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Moxxi Signature Gear Half Without Moxxi Signature Skin](https://imgur.com/KVfBrMT.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 That doesn't make sense to me... and it's just not prettier!
 
-But now with the *Moxxi Signature Classic Skin*, there are all identical
-
+But now with the *Moxxi Signature Classic Skin, there are all identical.
+![Moxxi Signature Classic Gear ](https://imgur.com/PSZkKsf.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 ### Changelog:
 
-- v1.0.0, September 30, 2018
+- v1.0.0, October 10, 2018
   - Initial public release
  
 ### Compatibility:
