@@ -42,7 +42,7 @@ Now with the *Moxxi Signature Classic Reskin Pack*, all the skin are uniform.
 
 ## [Skin] Moxxi Signature Elegance Skin Pack
 
-- Inspired from the *Santos*, a well know French jeweller watch... with the color from the golden screws inserted into a (silver) brushed steel bracelet, add the red from the little *Cartier* box... Et voila!
+- Inspired from the *Santos*, a well know French jeweller watch... with the color from the golden screws inserted into a (silver) brushed steel bracelet, and the addition from the red similar to the little *Cartier* box... Et voila!
 
 * * * * *
  
