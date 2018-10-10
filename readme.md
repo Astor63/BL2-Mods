@@ -32,12 +32,18 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 * * * * *
 
-## [Skin] Moxxi Signature Classic Reskin Pack
+## [Skin] Moxxi Signature Classic Skin Pack
 
 - Did you ever noticed that only the half from the Moxxi gears have almost a nice Moxxi Signature Classic skin... and a half have somewhat totally different... which looks more like Tiny Tina weapon skin than Moxxi weapon skin!
 
 Now with the *Moxxi Signature Classic Reskin Pack*, all the skin are uniform.
   
+* * * * *
+
+## [Skin] Moxxi Signature Elegance Skin Pack
+
+- from the Santos, a well know French jeweller watch, with the color from the golden screws inserted into a (silver) brushed steel bracelet, add the red from the little Cartier box... Et voila!
+
 * * * * *
  
  ## [New Weapon] Plasma Caster Dahl Prototype SX-1 v1.0.0
