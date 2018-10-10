@@ -5,11 +5,11 @@
 The idea is really very simple as it come from the *Santos*, a well know French jeweller watch.
 
 ![Moxxi Signature Elegance Gear ](https://imgur.com/h2lelSo.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
-I reproduce the color from the golden screws inserted into a (silver) brushed steel bracelet, add the red from the little *Cartier* box... Et voilà!
+I reproduce the color from the golden screws inserted into a (silver) brushed steel bracelet, add the red from the little *Cartier* box...
 
 ![Moxxi Signature Elegance Gear ](https://imgur.com/zCJd7K0.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-Here is the *Moxxi Signature Elegance Skin Pack*.
+Et Voila! Here is the *Moxxi Signature Elegance Skin Pack*.
 
 ### Changelog:
 - v1.0.0, October 10, 2018
