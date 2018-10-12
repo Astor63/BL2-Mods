@@ -1,10 +1,10 @@
 ## Moxxi Signature Pinky Skin Pack
 
-Recently, when a friend showed me his latest acquisitions for his Hot Wheels collection, I noticed the *Corvette Stingray (Barbie) Pink 2018*: all Pink & White! 
+Recently, when a friend showed me his latest acquisitions for hisCreate Moxxi Signature Pinky Skin Pack Hot Wheels collection, I noticed the *Corvette Stingray (Barbie) Pink 2018*: all Pink & White! 
 
 ![Moxxi Signature Pinky Skin - Barbie Corvette Hotwheels](https://imgur.com/q9HC6vU.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-That make me think immediately that girls can be very serious about colors... at least regarding the pink color... and I won't be surprised that some of them really like the Moxxi weapons with a pink skin, but unfortunately, there is only fews weapons available.
+That make me think immediately that girls can be very serious about colors... at least regarding the pink color... and I won't be surprised that some of them really like the Moxxi weapons with a pink skin, but unfortunately, there is only fews available.
 
 ![Moxxi Signature Pinky Skin - Vanilla Pink Skin](https://imgur.com/MFd8ZMQ.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
