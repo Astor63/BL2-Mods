@@ -1,22 +1,22 @@
 ## Moxxi Signature Pinky Skin Pack
 
-Recently, when a friend showed me his latest acquisitions for hise Hot Wheels collection, I noticed the *Corvette Stingray (Barbie) Pink 2018*... all Pink & White... 
+Recently, when a friend showed me his latest acquisitions for hise Hot Wheels collection, I noticed the *Corvette Stingray (Barbie) Pink 2018*: all Pink & White! 
 
 ![Moxxi Signature Pinky Skin - Barbie Corvette Hotwheels](https://imgur.com/q9HC6vU.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-... which make me think that girls can be very serious about colors... at least regarding the pink color... and I won't be surprised that some of them really like the Moxxi gears with a pink skin, but unfortunately, there is only fews available...
+That make me think immediately that girls can be very serious about colors... at least regarding the pink color... and I won't be surprised that some of them really like the Moxxi weapons with a pink skin, but unfortunately, there is only fews weapons available.
 
 ![Moxxi Signature Pinky Skin - Vanilla Pink Skin](https://imgur.com/MFd8ZMQ.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-So, I decided to adapt the Moxxi Signature Pink Skin slighty... .
+So, I decided to adapt the Moxxi Signature Pink Skin slighty...
 
 ![Moxxi Signature Pinky Skin - Vanilla Pink Skin vs Pinky Skin](https://imgur.com/PMcjD1O.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-I keep the vanilla pink color, colorize the metal part in white, and adapt the Moxxi logo in a more appropriate size when necessary..
+I keep the vanilla pink color, colorize the metal part in white, adapt the Moxxi logo in a more appropriate size when necessary... and repeat the same work on all the Moxxi weapons.
 
 ![Moxxi Signature Pinky Skin - Collection](https://imgur.com/YuDj2OC.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-... and now, like a Barbie girl in a Barbie world; you can feel the glamour in pink with the *Moxxi Signature Pinky Skin Pack*.
+And now, like a Barbie girl in a Barbie world; you can feel the glamour in pink with the *Moxxi Signature Pinky Skin Pack*.
 
 ### Changelog:
 - v1.0.0, October 15, 2018
