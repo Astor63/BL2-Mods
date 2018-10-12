@@ -31,7 +31,7 @@ This is where you can find it...
 
 ![Discord Solver Moxxi Signature Classic and Cartier](https://imgur.com/7pEjhq7.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-**Note:** As this version of the Discord Solver is a Moxxi weapon, you can choose between 2 Moxxi Signature skin : the *Classic* or the *Cartier* skin
+**Note:** As this version of the Discord Solver is a Moxxi weapon, you can choose between 3 Moxxi Signature skin : the *Classic* skin, the *Elegance* skin or the *Pinky* skin
 
 ### Options: 
 
