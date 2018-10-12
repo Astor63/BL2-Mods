@@ -48,7 +48,7 @@ Now with the *Moxxi Signature Classic Skin Pack*, there are all uniform to look 
 
 ## [Skin] Moxxi Signature Pinky Skin Pack
 
-- Like a Barbie girl in a Barbie world; you can now feel the glamour in pink with the *Moxxi Signature Pinky Skin Pack*.
+- Like a Barbie girl in a Barbie world, you can now feel the glamour in pink with the *Moxxi Signature Pinky Skin Pack*.
 
 * * * * *
  
