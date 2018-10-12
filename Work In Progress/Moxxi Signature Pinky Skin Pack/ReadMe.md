@@ -1,14 +1,14 @@
 ## Moxxi Signature Pinky Skin Pack
 
-I am convinced that girls can be very serious about colors... at least regarding the pink color... and I won't be surprised that some of them really like the few Moxxi gears with a pink skin...
-
-![Moxxi Signature Pinky Skin - Vanilla Pink Skin](https://imgur.com/MFd8ZMQ.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
-
-When a friend show me a recent Hot Wheels miniature car: the *Corvette Stingray (Barbie) Pink 2018*... all Pink & White... the idea come naturally and I decided to adapt the Moxxi Signature Pink Skin slighty...
+Recently, when a friend showed me his latest acquisitions for hise Hot Wheels collection, I noticed the *Corvette Stingray (Barbie) Pink 2018*... all Pink & White... 
 
 ![Moxxi Signature Pinky Skin - Barbie Corvette Hotwheels](https://imgur.com/q9HC6vU.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-... I keep the vanilla pink color, colorize the metal part in white, and adapt the Moxxi logo in a more appropriate size when necessary...
+which make me think that girls can be very serious about colors... at least regarding the pink color... and I won't be surprised that some of them really like the Moxxi gears with a pink skin, but unfortunately, there is only fews available...
+
+![Moxxi Signature Pinky Skin - Vanilla Pink Skin](https://imgur.com/MFd8ZMQ.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
+So, I decided to adapt the Moxxi Signature Pink Skin slighty...... I keep the vanilla pink color, colorize the metal part in white, and adapt the Moxxi logo in a more appropriate size when necessary...
 
 ![Moxxi Signature Pinky Skin - Vanilla Pink Skin vs Pinky Skin](https://imgur.com/PMcjD1O.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
