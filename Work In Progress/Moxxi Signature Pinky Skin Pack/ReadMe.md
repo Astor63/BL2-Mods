@@ -17,6 +17,7 @@ I keep the vanilla pink color, colorize the metal part in white, and adapt the M
 ![Moxxi Signature Pinky Skin - Collection](https://imgur.com/YuDj2OC.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 ... and now, like a Barbie girl in a Barbie world; you can feel the glamour in pink with the *Moxxi Signature Pinky Skin Pack*.
+
 ### Changelog:
 - v1.0.0, October 15, 2018
   - Initial public release
