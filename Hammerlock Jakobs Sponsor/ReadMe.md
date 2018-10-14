@@ -13,7 +13,11 @@
     - Symbiosis (Southern Shelf)	  
     - The Name Game (Three Horns - Divide)	  
     - This Town Ain't Big Enough (Southern Shelf)
-  	
+	
+- DLC Captain Scarlett and Her Pirate's Booty	
+  - The reward for the mission given by Hammerlock are now rewarded by a Purple Jakobs weapon: 
+    - Grendel (Hayter's Folly) 
+ 	
 ![Jakobs pistol as reward for Handsome Jack Here! in Southern Shelf](https://i.imgur.com/1TWYXxs.png)
 	
 _**Note:** As for my Double Quest Reward "Redux", this Mod will give you the choice between 2 weapons/items instead of a single one, so it will double the chance to get a weapon/item with desired parts._	
@@ -25,6 +29,9 @@ v1.0.0, September 2, 2018
  
 v1.0.1, September 5, 2018
 - Added Stalker of Stalkers in The Highlands... Ooops! I totally forget this mission... perhaps because the "Turn In" is done in a letter box in Overlook!
+
+v1.0.2, October 15, 2018
+- Added Grendel in Hayter's Folly (DLC Captain Scarlett and Her Pirate's Booty)
 
 ### Compatibility:
 
