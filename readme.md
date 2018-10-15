@@ -7,7 +7,31 @@ You are on BL2-Mods repository, where you can find all my Mods for Borderlands 2
 
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
+* * * * *
+ 
+## [Custom Gear] Plasma Caster Dahl Prototype SX-1
+
+The Prototype SX-1 was great and really a powerful and dangerous weapon, except that the plasma ball will only explode when coming in contact with a enemy and the missed shots disintegrate instantly "pschitt" like a damp squib (without exploding!) in a tiny cloud of pink smoke.
+
  * * * * *
+ 
+## [Custom Gear] SMG Dahl Discord Solver - Bloody Edition
+
+In their early days in the making of weapons, Dahl, in collaboration with Torgue create the Discord Solver, a SMG who fire explosive bullet. 
+
+Unfortunately, the agreement between the two weapons manufacturers did not last long, and the production of the SMG stopped quickly -How ironic for a weapon that's named Discord Solver!- and Torgue created the Pocket Rocket.
+
+Anyway, remnant of the past, a *"lost"* Discord Solver (probably dropped by a bandit?) can still be found... submerged in a shallow pool in Frostburn Canyon.
+
+* * * * *
+
+## [Custom Gear] SMG Dahl Discord Solver - Moxxi Edition
+
+It would seem that Moxxi still has a specimen of the Discord Solver in her private Signature collection of weapons, but no one has ever seen it, not even Marcus ... so maybe it's just a legend after all? 
+ 
+... or perhaps this weapon can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity...  Who know? 
+
+* * * * * 
  
 ## [Quest Reward] Double Quest Reward Redux
 
@@ -52,29 +76,6 @@ Like a Barbie girl in a Barbie world, you can now feel the glamour in pink with 
 
 * * * * *
  
-## [Custom Weapon] Plasma Caster Dahl Prototype SX-1
-
-The Prototype SX-1 was great and really a powerful and dangerous weapon, except that the plasma ball will only explode when coming in contact with a enemy and the missed shots disintegrate instantly "pschitt" like a damp squib (without exploding!) in a tiny cloud of pink smoke.
-
- * * * * *
- 
-## [Custom Weapon] SMG Dahl Discord Solver - Bloody Edition
-
-In their early days in the making of weapons, Dahl, in collaboration with Torgue create the Discord Solver, a SMG who fire explosive bullet. 
-
-Unfortunately, the agreement between the two weapons manufacturers did not last long, and the production of the SMG stopped quickly -How ironic for a weapon that's named Discord Solver!- and Torgue created the Pocket Rocket.
-
-Anyway, remnant of the past, a *"lost"* Discord Solver (probably dropped by a bandit?) can still be found... submerged in a shallow pool in Frostburn Canyon.
-
-* * * * *
-
-## [Custom Weapon] SMG Dahl Discord Solver - Moxxi Edition
-
-- It would seem that Moxxi still has a specimen of the Discord Solver in her private Signature collection of weapons, but no one has ever seen it, not even Marcus ... so maybe it's just a legend after all? 
- 
-  ... or perhaps this weapon can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity...  Who know? 
-
-* * * * *
  
 ## Acknowledgement
 
