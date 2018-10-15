@@ -28,24 +28,24 @@ This is where you can find it....
 
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
   
-| -Tech Specs-        | SMG Dahl Lascaux: Vanilla      | Plasma Caster Dahl Prototype SX-1|   
-| -------------       | -------------                  | -------------                    |   
-| **Bullet Tech:**    |                                |                                  |          
-| Bullet Type:        | Standard                       | GyroJets Explosive               | 
-| Fire Cost:          | 1 bullets cost 1 ammo          | 1 bullets cost 2 ammo            | 
+| -Tech Specs-        | SMG Dahl Lascaux: Vanilla      | Plasma Caster Dahl Prototype SX-1      |   
+| -------------       | -------------                  | -------------                          |   
+| **Bullet Tech:**    |                                |                                        |          
+| Bullet Type:        | Standard                       | GyroJets Explosive                     | 
+| Fire Cost:          | 1 bullets cost 1 ammo          | 1 bullets cost 2 ammo                  | 
 | Bullet Speed:       | 20.000 (Lascaux) / 6.000 (Plasma Caster)| 5x Pocket Rocket Speed Boost  | 
-| Burst Count:        | 9 to 14 rounds                 | 5 rounds                         | 
-| **Explosive Tech:** |                                |                                  |           
-| Element:            | Never Elemental                | Explosive                        | 
-| Explosion Chance:   | None                           | 100% (on ennemys only)           | 
-| Impact:             | Normal                         | Explosive (on ennemys only)      |  
-| Explosion Radius:   | None                           | 180                              |  
-| Splash Format:      | None                           | Grenade Boost                    | 
-| **Other:**          |                                |                                  |           
-| Extra (free) Bullet:| 100% Chance                    | 20% Chance                       | 
-| Critical Hit:       | None                           | None                             | 
-| Skin:               | Lascaux (Vanilla)              | Prototype SX-1                   | 
-| Rarity:             | Unique                         | Unique                           | 
+| Burst Count:        | 9 to 14 rounds                 | 5 rounds                               | 
+| **Explosive Tech:** |                                |                                        |           
+| Element:            | Never Elemental                | Explosive                              | 
+| Explosion Chance:   | None                           | 100% (on enemy only)                   | 
+| Impact:             | Normal                         | Explosive (on enemy only)              |  
+| Explosion Radius:   | None                           | 180                                    |  
+| Splash Format:      | None                           | Grenade Boost                          | 
+| **Other:**          |                                |                                        |           
+| Extra (free) Bullet:| 100% Chance                    | 20% Chance                             | 
+| Critical Hit:       | None                           | None                                   | 
+| Skin:               | Lascaux (Vanilla)              | Prototype SX-1                         | 
+| Rarity:             | Unique                         | Unique                                 | 
 
 ![Prototype SX-1](https://imgur.com/lE00YK0.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
