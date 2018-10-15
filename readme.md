@@ -22,33 +22,33 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
  
 ## [Quest Reward] Dr Zed E-Tech Geek
 
-- The 7 Missions given by Dr Zed in the main game will be rewarded with a E-Tech weapon/item, with the choice between 2 E-Tech weapons/items instead of a single one.
+The 7 Missions given by Dr Zed in the main game will be rewarded with a E-Tech weapon/item, with the choice between 2 E-Tech weapons/items instead of a single one.
  
- * * * * * 
+* * * * * 
 
 ## [Quest Reward] Hammerlock Jakobs Sponsor
 
-- Hammerlock give Jakobs weapon/item reward for few of his mission in the main game, but not all of them... Now he will... and with the choice between 2 Blue weapons/items instead of a single one!
+Hammerlock give Jakobs weapon/item reward for few of his mission in the main game, but not all of them... Now he will... and with the choice between 2 Blue weapons/items instead of a single one!
 
 * * * * *
 
 ## [Skin Pack] Moxxi Signature Classic Collection
 
-- Did you ever noticed that only the half from the Moxxi gears have almost a nice Moxxi Signature Classic skin... and a half have somewhat totally different... which looks more like Tiny Tina weapon skin than Moxxi weapon skin!
+Did you ever noticed that only the half from the Moxxi gears have almost a nice Moxxi Signature Classic skin... and a half have somewhat totally different... which looks more like Tiny Tina weapon skin than Moxxi weapon skin!
 
-Now with the *Moxxi Signature Classic Collection*, there are all uniform to look like an actual manufacturer.
+Now with the *Moxxi Signature Classic Collection* based on Creamer/Hear Breaker vanilla skin, there are all uniform to look like an actual manufacturer.
   
 * * * * *
 
 ## [Skin Pack] Moxxi Signature Elegance Collection
 
-- Inspired from the *Santos*, a well know French jeweller watch... with the color from the golden screws inserted into a (silver) brushed steel bracelet, and the addition from the red similar to the little *Cartier* box... Et voila!
+Inspired from the *Santos*, a well know French jeweller watch... with the color from the golden screws inserted into a (silver) brushed steel bracelet, and the addition from the red similar to the little *Cartier* box... Et voila!
 
 * * * * *
 
 ## [Skin Pack] Moxxi Signature Pinky Collection
 
-- Like a Barbie girl in a Barbie world, you can now feel the glamour in pink with the *Moxxi Signature Pinky Collection*.
+Like a Barbie girl in a Barbie world, you can now feel the glamour in pink with the *Moxxi Signature Pinky Collection* based on Slow Hand / Good Touch vanilla skin.
 
 * * * * *
  
@@ -70,9 +70,9 @@ Anyway, remnant of the past, a *"lost"* Discord Solver (probably dropped by a ba
 
 ## [Custom Weapon] SMG Dahl Discord Solver - Moxxi Edition
 
-It would seem that Moxxi still has a specimen of the Discord Solver in her private Signature collection of weapons, but no one has ever seen it, not even Marcus ... so maybe it's just a legend after all? 
+- It would seem that Moxxi still has a specimen of the Discord Solver in her private Signature collection of weapons, but no one has ever seen it, not even Marcus ... so maybe it's just a legend after all? 
  
-... or perhaps this weapon can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity...  Who know? 
+  ... or perhaps this weapon can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity...  Who know? 
 
 * * * * *
  
