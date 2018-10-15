@@ -9,7 +9,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 * * * * *
 
-** Compatibility & Troubleshooting
+## Compatibility & Troubleshooting
 
 A small reading information to clearly understand why a option or a fix in my mods don't work as intended, and how to simply fix it!
 
