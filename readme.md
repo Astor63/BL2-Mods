@@ -8,6 +8,12 @@ You are on BL2-Mods repository, where you can find all my Mods for Borderlands 2
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
 * * * * *
+
+** Compatibility & Troubleshooting
+
+A small reading information to clearly understand why a option or a fix in my mods don't work as intended, and how to simply fix it!
+
+* * * * *
  
 ## [Custom Gear] Plasma Caster Dahl Prototype SX-1
 
