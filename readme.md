@@ -8,7 +8,7 @@ This ReadMe is just here as a quick synopsis, for detailed informations, each Mo
 
 * * * * *
 
-##  :warning: To Read First: :warning: 
+## To Read First: 
 
 - **Compatibility & Troubleshooting:** a small reading information to clearly understand why a option or a fix in my mods don't work as intended, and how to simply fix it!
 
@@ -38,7 +38,7 @@ This ReadMe is just here as a quick synopsis, for detailed informations, each Mo
 
 ## Acknowledgement
 
-A ~~big~~ huge thanks to @LightChaosman and his great - [BLCMM (Borderlands Community Mod Manager) tool](https://github.com/BLCM/BLCMods/wiki/Borderlands-Community-Mod-Manager) tool who make the Mods creation a real pleasure. 
+A ~~big~~ huge thanks to @LightChaosman and his great - [BLCMM (Borderlands Community Mod Manager)](https://github.com/BLCM/BLCMods/wiki/Borderlands-Community-Mod-Manager) tool who make the Mods creation a real pleasure. 
 
 * * * * *
 
