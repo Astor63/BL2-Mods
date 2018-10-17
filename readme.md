@@ -8,7 +8,7 @@ This ReadMe is just here as a quick synopsis, for detailed informations, each Mo
 
 * * * * *
 
-## To Read First 
+##  :warning: To Read First: :warning: 
 
 - **Compatibility & Troubleshooting:** a small reading information to clearly understand why a option or a fix in my mods don't work as intended, and how to simply fix it!
 
