@@ -1,7 +1,4 @@
-
-
-
-## SMG Dahl Discord Solver (Bloody Edition)
+﻿## SMG Dahl Discord Solver (Bloody Edition)
  
 In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who shot GyroJet explosive bullet. 
 

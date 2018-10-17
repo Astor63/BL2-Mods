@@ -1,5 +1,4 @@
-
-## Moxxi Signature Classic Collection
+﻿## Moxxi Signature Classic Collection
 
 Did you ever noticed that only the half from the Moxxi gears have almost* a nice Moxxi Signature Classic skin?
 

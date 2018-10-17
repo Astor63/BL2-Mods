@@ -1,5 +1,4 @@
-
-## Plasma Caster Dahl Prototype SX-1 
+﻿## Plasma Caster Dahl Prototype SX-1 
  
 After the commercial failure of the Discord Solver, a rogue engineer at Dahl took the plans and secretly worked on the realization of a Plasma Caster capable of firing explosive projectiles Gyrojet coated in a plasma ball.
 

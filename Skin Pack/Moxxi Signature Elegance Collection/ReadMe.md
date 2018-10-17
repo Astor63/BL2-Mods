@@ -1,6 +1,4 @@
-
-
-## Moxxi Signature Elegance Collection
+﻿## Moxxi Signature Elegance Collection
 
 The idea is really very simple as it come from the *Santos*, a well know French jeweller watch.
 

@@ -1,4 +1,4 @@
-## Plasma Caster Hyperion Finesse
+﻿## Plasma Caster Hyperion Finesse - Circuit Board Edition
 
 In their early days in their making of weapons, Hyperion, seized Alien Technology plans and created the Finesse: a Plasma Caster which fire SEAPP (Smart Elemental Adaptive Plasma Projectile). 
 
@@ -6,7 +6,7 @@ Unfortunately, the mastery of this Alien technology was in its infancy, and espe
 
 ## What special with this weapon?
 
-- Fire SEAPP (Smart Elemental Adaptive Plasma Projectile): a Alien Plasma Projectile which adapt his Elemental following the impact:
+- Fire SEAPP (Smart Elemental Adaptive Plasma Projectile): a Alien Plasma Projectile which adapt his Elemental following the kind of impact:
   - Incendiary on flesh
   - Shock on shield
   - Corrosive on armor
@@ -29,11 +29,13 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Splash Format:    | None                   | Grenade               |  
 |**Other:**         |                        |                       | 
 | Critical Hit:     | None                   | None                  | 
-| Skin:             | Commerce (Vanilla skin)| Finesse skin          | 
-| Rarity:           | Unique                 | Unique                | 
+| Skin:             | Commerce (Vanilla skin)| Circuit Board skin          | 
+| Rarity:           | Unique                 | Unique / Legendary                | 
   
   
-![Finesse - Lascaux vs Moxxi Version](https://i.imgur.com/ySWyM5T.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Plasma Caster Finesse - Circuit Board Edition](https://imgur.com/iCrPoGi.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+The Circuit Board skin... as its name suggests, looks like a circuit board!
+
 ## Options: 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
@@ -43,16 +45,15 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 ## Other Recommended Mods:
 
-A great mod to check for the Finesse:
+A great mod to check for the Plasma Caster Finesse:
 
-
-- Both Version: [Double Anarchy v4](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/DoubleAnarchyv4.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000) : Changes the SMGs accuracy accessory into the Double Accessory from Borderlands 1... and your Finesse will shot 2 Plasma projectiles at the cost on 4 ammos.
+- Both Version: [Double Anarchy v4](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/DoubleAnarchyv4.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000) : Changes the SMGs accuracy accessory into the Double Accessory from Borderlands 1... and your Plasma Caster Finesse will shot 2 Plasma projectiles at the cost on 4 ammos.
 
 ## Compatibility:
 
 - 100% compatible with UCP 4.1
 - Just be aware from the following: 
-  - This mode use Grenade Damage for the Splash Format, so if you are going to use the Finesse with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
+  - This mode use Grenade Damage for the Splash Format, so if you are going to use the Plasma Caster Finesse with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
 
 ## Gibbed codes:
 
@@ -68,7 +69,7 @@ A great mod to check for the Finesse:
 
 ## Changelog:
 
-v1.0.0, October 15, 2018
+v1.0.0, October 30, 2018
  - Initial public release
   
 ## Credits & Thanks:

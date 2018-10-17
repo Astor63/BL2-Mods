@@ -1,5 +1,4 @@
-
-## Hammerlock Jakobs Sponsor
+﻿## Hammerlock Jakobs Sponsor
 
 ### What do this mod?
 

@@ -1,4 +1,4 @@
-## Moxxi Signature Pinky Collection
+﻿## Moxxi Signature Pinky Collection
 
 Recently, when a friend showed me his latest acquisitions for his Hot Wheels collection, I noticed the *Corvette Stingray (Barbie) Pink 2018*: all Pink & White! 
 
