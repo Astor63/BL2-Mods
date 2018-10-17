@@ -29,7 +29,7 @@ In their early days in their making of weapons, Hyperion, seized Alien Technolog
 
 - It would seem that Moxxi still has a specimen of the Discord Solver in her private Signature collection of weapons, but no one has ever seen it, not even Marcus... so maybe it's just a legend after all? 
  
-  ... or perhaps this weapon can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity...  Who know? 
+... or perhaps this weapon can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity...  Who know? 
 
 * * * * *
  
