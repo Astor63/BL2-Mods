@@ -6,7 +6,7 @@ Unfortunately, the mastery of this Alien technology was in its infancy, and espe
 
 ## Where to find it?
 
-The Plasma Caster Hyperion Finesse can be a drop from Assassin Wot fought during the side mission Assassinate the Assassins (Southpaw Steam & Power)... and can also drop from (the same) Assassin Wot at the end of the A History of Simulated Violence mission (Digistruct Peak). 
+The Plasma Caster Hyperion Finesse can be a drop from Assassin Wot fought during the side mission "Assassinate the Assassins" (Southpaw Steam & Power)... and can also drop from (the same) Assassin Wot at the end of the "A History of Simulated Violence" mission (Digistruct Peak). 
 
 ![Plasma Caster Finesse - Assasin Wot](https://imgur.com/N2sZWmh.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
