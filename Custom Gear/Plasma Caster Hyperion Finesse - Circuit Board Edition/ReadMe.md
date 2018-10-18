@@ -51,40 +51,35 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - The E-Tech Elemental Color Glow has a toggle option between On/Off
 - Fix for Koby "Rarity Color Fix": AfterMarket (just in case if you use this old mod) 
 
-## Other Recommended Mods:
-
-A great mod to check for the Plasma Caster Finesse:
-
-- Both Version: [Double Anarchy v4](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/DoubleAnarchyv4.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000) : Changes the SMGs accuracy accessory into the Double Accessory from Borderlands 1... and your Plasma Caster Finesse will shot 2 Plasma projectiles at the cost on 4 ammos.
-
 ## Compatibility:
 
 - 100% compatible with UCP 4.1
-- Just be aware from the following: 
+- Just be aware from the following:
+  - This mod use the following Firing Mode: Pocket Rocket/Tinderbox/Hornet/Twister, so if you use any mod wich changes the attributes from any of these Firing Mode, it will affect this mod, and obviously the firing of the Finesse. In this case, just revert the modification done previously to these Firing Mode.
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Plasma Caster Finesse with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
 
 ## Gibbed codes:
 
 | Prefix                       | Accessory    | Gibbed code                 | 
 | -------------                | -------------| -------------               | 
-| Rightsizing Commerce         | Damage      | BL2(hwAAAACKdABCyANBDIFEdmI5wdKMZQELC5b//xRY/v8rY/HBgo3l)|  
-| Proactive Commerce           | Bullet Speed| BL2(hwAAAABu3wBCyANBDIFEdmI5wdKMZQELC5b//xVY/v8rYyHCgo3l)|
-| Analytical Commerce          | Accuracy    | BL2(hwAAAAAUtABCyANBDIFEdmI5wdKMZQELC5b//xNY/v8rY8HBgo3l)|
-| Corporate Commerce           | Stability   | BL2(hwAAAADNUgBCyANBDIFEdmI5wdKMZQELC5b//xZY/v8rY1HCgo3l)|
-| Social Commerce              | Reload Speed| BL2(hwAAAAB2PABCyANBDIFEdmI5wdKMZQELC5b//xdY/v8rY3nCgo3l)|
-| ~~Cutting Edge Commerce~~    | ~~Melee~~   | E-Tech Plasma Caster **NEVER** spawn with a blade.       |
-| Inspiring/Energizing Commerce| No Accessory| BL2(hwAAAABvlgBCyANBDIFEdmI5wdKMZQELC5b//xFY/v8rY2FBgo3l)|
+| Rightsizing Commerce         | Damage       | BL2(hwAAAACKdABCyANBDIFEdmI5wdKMZQELC5b//xRY/v8rY/HBgo3l)|  
+| Proactive Commerce           | Bullet Speed | BL2(hwAAAABu3wBCyANBDIFEdmI5wdKMZQELC5b//xVY/v8rYyHCgo3l)|
+| Analytical Commerce          | Accuracy     | BL2(hwAAAAAUtABCyANBDIFEdmI5wdKMZQELC5b//xNY/v8rY8HBgo3l)|
+| Corporate Commerce           | Stability    | BL2(hwAAAADNUgBCyANBDIFEdmI5wdKMZQELC5b//xZY/v8rY1HCgo3l)|
+| Social Commerce              | Reload Speed | BL2(hwAAAAB2PABCyANBDIFEdmI5wdKMZQELC5b//xdY/v8rY3nCgo3l)|
+| ~~Cutting Edge Commerce~~    | ~~Melee~~    | E-Tech Plasma Caster **NEVER** spawn with a blade.       |
+| Inspiring/Energizing Commerce| No Accessory | BL2(hwAAAABvlgBCyANBDIFEdmI5wdKMZQELC5b//xFY/v8rY2FBgo3l)|
 
 ## Changelog:
 
-v1.0.0, October 30, 2018
+v1.0.0, October 20, 2018
  - Initial public release
   
 ## Credits & Thanks:
 
-I find a lot of useful informations on the Resource page from the [Wiki](https://github.com/BLCM/BLCMods/wiki) of course, but also on the [Resources page](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave/Resources) and the great [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf) ... all that made by [Dave](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave) , so thanks for your work, @DaveRabbit 
+I find a lot of useful informations on the Resource page from the [Wiki](https://github.com/BLCM/BLCMods/wiki) of course, but also on the [Resources page](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave/Resources) and the great [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf) ... all that made by [Dave](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave), so thanks for your work, @DaveRabbit 
 
-Oh! I almost forget... I also follow step-by-step this [How to make a modded weapon](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Tsunami-s%20Guns%20Cannons%20And%20Flamethrowers/(((How%20to%20make%20a%20modded%20weapon))).txt) guide writing by [Tsunami](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Tsunami-s%20Guns%20Cannons%20And%20Flamethrowers) , thanks to you too, @Tsunami7900  
+Oh! I almost forget... I also follow step-by-step this [How to make a modded weapon](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Tsunami-s%20Guns%20Cannons%20And%20Flamethrowers/(((How%20to%20make%20a%20modded%20weapon))).txt) guide writing by [Tsunami](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Tsunami-s%20Guns%20Cannons%20And%20Flamethrowers), thanks to you too, @Tsunami7900  
 
 ## Note: 
 
