@@ -41,11 +41,11 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Rarity:           | Unique                 | Unique / Legendary    | 
   
   
-![Plasma Caster Finesse - Circuit Board Edition](https://imgur.com/iCrPoGi.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Plasma Caster Finesse - Circuit Board Edition](https://imgur.com/6jOKygw.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 The Circuit Board skin... as its name suggests, looks like a circuit board!
 
 ## Options: 
-This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
+This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you:
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 - The Weapon Card has a toggle option between English/French.
 - The E-Tech Elemental Color Glow has a toggle option between On/Off
