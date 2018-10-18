@@ -41,15 +41,16 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Rarity:           | Unique                 | Unique / Legendary    | 
   
   
-![Plasma Caster Finesse - Circuit Board Edition](https://imgur.com/6jOKygw.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
-The Circuit Board skin... as its name suggests, looks like a circuit board!
+![Plasma Caster Finesse - Circuit Board Edition](https://imgur.com/FGWsUWG.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+The Circuit Board skins... as its name suggests, looks like a circuit board... and you have the choice between 2 Circuit Board skin: the Blue Circuit Board or the Yellow Circuit Board!
 
 ## Options: 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you:
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 - The Weapon Card has a toggle option between English/French.
 - The E-Tech Elemental Color Glow has a toggle option between On/Off
-- Fix for Koby "Rarity Color Fix": AfterMarket (just in case if you use this old mod) 
+- The skin has a toggle option between the Blue Circuit Board/Yellow Circuit Board/Vanilla Commerce Skin
+- Fix for Koby "Rarity Color Fix": AfterMarket/Legendary (just in case if you use this old mod) 
 
 ## Compatibility:
 
