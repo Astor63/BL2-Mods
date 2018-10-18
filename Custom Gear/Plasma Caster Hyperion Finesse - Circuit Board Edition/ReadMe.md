@@ -1,8 +1,16 @@
-﻿## Plasma Caster Hyperion Finesse - Circuit Board Edition
+## Plasma Caster Hyperion Finesse - Circuit Board Edition
 
 In their early days in their making of weapons, Hyperion, seized Alien Technology plans and created the Finesse: a Plasma Caster which fire SEAPP (Smart Elemental Adaptive Plasma Projectile). 
 
 Unfortunately, the mastery of this Alien technology was in its infancy, and especially very expensive, which made the price of sale of these weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary Plasma Caster only after a few (rare) copies sold.
+
+## Where to find it?
+
+The Plasma Caster Hyperion Finesse can be a drop from Assassin Wot fought during the side mission Assassinate the Assassins (Southpaw Steam & Power)... and can also drop from (the same) Assassin Wot at the end of the A History of Simulated Violence mission (Digistruct Peak). 
+
+![Plasma Caster Finesse - Assasin Wot](https://imgur.com/N2sZWmh.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
+Note: If you are too lazy to fight Assassin Wot, you will find the Gibbed Codes below.
 
 ## What special with this weapon?
 
@@ -29,8 +37,8 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Splash Format:    | None                   | Grenade               |  
 |**Other:**         |                        |                       | 
 | Critical Hit:     | None                   | None                  | 
-| Skin:             | Commerce (Vanilla skin)| Circuit Board skin          | 
-| Rarity:           | Unique                 | Unique / Legendary                | 
+| Skin:             | Commerce (Vanilla skin)| Circuit Board skin    | 
+| Rarity:           | Unique                 | Unique / Legendary    | 
   
   
 ![Plasma Caster Finesse - Circuit Board Edition](https://imgur.com/iCrPoGi.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
