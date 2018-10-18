@@ -19,7 +19,7 @@ Note: If you are too lazy to fight Assassin Wot, you will find the Gibbed Codes 
   - Shock on shield
   - Corrosive on armor
 - Elemental splash damage boosted by grenade
-- Shot a double SEAPP for the cost of 2 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+- Shot one SEAPP for the cost of 2 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
   
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:    
   
