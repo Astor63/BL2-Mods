@@ -53,7 +53,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 ## Compatibility:
 
-- 100% compatible with UCP 4.1
+- 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team).
 - Just be aware from the following:
   - This mod use the following Firing Mode: Pocket Rocket/Tinderbox/Hornet/Twister, so if you use any mod wich changes the attributes from any of these Firing Mode, it will affect this mod, and obviously the firing of the Finesse. In this case, just revert the modification done previously to these Firing Mode.
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Plasma Caster Finesse with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
