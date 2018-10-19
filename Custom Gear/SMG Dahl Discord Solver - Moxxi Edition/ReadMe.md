@@ -1,4 +1,4 @@
-﻿## SMG Dahl Discord Solver (Moxxi Edition)
+## SMG Dahl Discord Solver (Moxxi Edition)
  
 In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who shot GyroJet explosive bullet. 
  
@@ -30,25 +30,25 @@ This is where you can find it...
 	
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:  
   
-| -Tech Specs-        | Lascaux: Vanilla      | Discord Solver #2: Moxxi   | 
-| -------------       | -------------         |  -------------             |  
-| **Bullet Tech:**    |                       |                            | 
-| Bullet Type:        | Standard              |  GyroJets Explosive        |
-| Fire Cost:          | 1 bullets cost 1 ammo |  1 bullets cost 1 ammo     |
-| Bullet Speed:       | 20.000                |  5x GyroJet Speed Boost    |
-| Burst Count:        | 9 to 14 rounds        |  9 to 14 rounds            | 
-| **Explosive Tech:** |                       |                            |
-| Element:            | Never Elemental       |  Explosive                 | 
-| Explosion Chance:   | None                  |  100%                      |
-| Impact:             | Normal                | Explosive                  |  
-| Explosion Radius:   | None                  |  90                        |  
-| Splash Format:      | None                  |  Grenade Boost             |  
-| **Other:**          |                       |                            |
-| Extra (free) Bullet:| 100% Chance           |  30% Chance                |
-| Critical Hit:       | None                  |  70%                       |  
-| Lifesteal:          | N/A                   |  2.5% of damage dealt      | 
-| Skin:               | Lascaux (Vanilla)     |  Moxxi Signature           | 
-| Rarity:             | Unique                |  Moxxi                     | 	
+| -Tech Specs-        | Lascaux: Vanilla      | Discord Solver #2: Moxxi Edition| 
+| -------------       | -------------         |  -------------            |  
+| **Bullet Tech:**    |                       |                           | 
+| Bullet Type:        | Standard              | GyroJets Explosive        |
+| Fire Cost:          | 1 bullet cost 1 ammo  | 1 bullet cost 1 ammo      |
+| Bullet Speed:       | 20.000                | 5x GyroJet Speed Boost    |
+| Burst Count:        | 9 to 14 rounds        | 9 to 14 rounds            | 
+| **Explosive Tech:** |                       |                           |
+| Element:            | Never Elemental       | Explosive                 | 
+| Explosion Chance:   | None                  | 100%                      |
+| Impact:             | Normal                | Explosive                 |  
+| Explosion Radius:   | None                  | 90                        |  
+| Splash Format:      | None                  | Grenade Boost             |  
+| **Other:**          |                       |                           |
+| Extra (free) Bullet:| 100% Chance           | 30% Chance                |
+| Critical Hit:       | None                  | 70%                       |  
+| Lifesteal:          | N/A                   | 2.5% of damage dealt      | 
+| Skin:               | Lascaux (Vanilla)     | Moxxi Signature           | 
+| Rarity:             | Unique                | Moxxi                     | 	
 
 ![Discord Solver Moxxi Signature Classic and Cartier](https://imgur.com/W8VaHzJ.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
@@ -73,11 +73,29 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2) + Bayonet Buff
 - Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2)
 - Fix for Bayonet Buff in Slot 1
-- Fix for Koby "Rarity Color Fix": Unique (just in case if you use this old mod)
+- Fix for Koby "Rarity Color Fix": Moxxi Rarity (just in case if you use this old mod)
 
 ![Discord Solver as reward for Moxxi mission](https://imgur.com/5f32G5e.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English") 
 
-**Note:** You can toggle between the choice from 2 Moxxi Discord Solver or between the choice from 1 Moxxi Discord Solver & 1 Kiss of Death. 
+**Note:** You can toggle between the choice from 2 *Discord Solver Moxxi Edition* or between the choice from 1 *Discord Solver Moxxi Edition* & 1 grenade *Kiss of Death*. 
+
+### Compatibility:
+
+- 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
+
+- Should be compatible with most other mods, as long as they do not modify the Pocket Rocket Firing Mode.
+
+- Just be aware from the following:
+
+  - To be sure to get the fix Orudeon's Bayonet Enhancements and/or Orudeon's Bayonet Buff working correctly (as intended), don't forget to place my mod **AFTER** Orudeon's Bayonet Enhancements & Bayonet Buff. 
+ 
+  - This Mod **KEEP** the specific burst from the Lascaux, so if you use the Bandit Brand Tweaks v1.2 by Orudeon, there is a option that reduce the burst to five-shot bursts.  To get back the specific burst, just open your Orudeon's Bandit Brand Tweaks folder, go to: *SMG/Burst Count/* (if you use the Gears Overhaul Orudeon's Mod v1.35, the path will be: *Brands Tweaks/Bandit Brand Tweaks v1.2 by Orudeon/SMG/Burst Count/*) and uncheck the following line:  
+  ```
+  [ ] set GD_Weap_SMG.Barrel.SMG_Barrel_Bandit_Lascaux ZoomWeaponAttributeEffects ((AttributeToModify = AttributeDefinition'D_Attributes.Weapon.WeaponAutomaticBurstCount',ModifierType = MT_PreAdd,BaseModifierValue = (BaseValueConstant = 1.000000, BaseValueAttribute = None, InitializationDefinition = None, BaseValueScaleConstant = 1.000000)))
+  ``` 
+  - This mod use the *Pistol GyroJet Firing Mode*, so if you use any mode that changes the attributes from the Pistol GyroJet Firing Mode, it will affect this mod, and obviously the firing of the Discord Solver. In this case, Just revert the modification done previously to the Pistol GyroJet Firing Mode.
+  
+  - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
 
 ## Gibbed codes:
 
@@ -114,33 +132,11 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - v1.1.2, October 15, 2018  
   - Added Moxxi Signature Pinky Skin  
 
-### Compatibility:
-
-- 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
-
-- Should be compatible with most other mods, as long as they do not modify the Pocket Rocket Firing Mode.
-
-- Just be aware from the following:
-
-  - To be sure to get the fix Orudeon's Bayonet Enhancements and/or Orudeon's Bayonet Buff working correctly (as intended), don't forget to place my mod **AFTER** Orudeon's Bayonet Enhancements & Bayonet Buff. 
- 
-  - This Mod **KEEP** the specific burst from the Lascaux, so if you use the Bandit Brand Tweaks v1.2 by Orudeon, there is a option that reduce the burst to five-shot bursts.  To get back the specific burst, just open your Orudeon's Bandit Brand Tweaks folder, go to: *SMG/Burst Count/* (if you use the Gears Overhaul Orudeon's Mod v1.35, the path will be: *Brands Tweaks/Bandit Brand Tweaks v1.2 by Orudeon/SMG/Burst Count/*) and uncheck the following line:  
-  ```
-  [ ] set GD_Weap_SMG.Barrel.SMG_Barrel_Bandit_Lascaux ZoomWeaponAttributeEffects ((AttributeToModify = AttributeDefinition'D_Attributes.Weapon.WeaponAutomaticBurstCount',ModifierType = MT_PreAdd,BaseModifierValue = (BaseValueConstant = 1.000000, BaseValueAttribute = None, InitializationDefinition = None, BaseValueScaleConstant = 1.000000)))
-  ``` 
-  - This mod use the *Pistol GyroJet Firing Mode*, so if you use any mode that changes the attributes from the Pistol GyroJet Firing Mode, it will affect this mod, and obviously the firing of the Discord Solver. In this case, Just revert the modification done previously to the Pistol GyroJet Firing Mode.
-  
-  - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
-
 ### Other Recommended Mods:
 
 A great mod to check for the Discord Solver Moxxi version:
 
 - [No More Moxxi Lifesteal v2.0](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Akathris/NoMoreMoxxiLifestealv2.0.txt) by [Akathris](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Akathris) . His Mod is self explanatory: removes lifesteal from Moxxi weapons and changes it to passive health regeneration.
-
-- [Double Anarchy v4](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/DoubleAnarchyv4.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000) : Changes the SMGs accuracy accessory into the Double Accessory from Borderlands 1... and your Discord Solver will shot 2 GyroJet Explosive bullets at the cost on 2 ammo, and will have a chance to be doubled and shot 4 GyroJet Explosive bullets at the ridiculous cost on 2 ammo.   
-
-![Discord Solver - Double Anarchy](https://imgur.com/UGVHFHX.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
   
 ### To do:
 
