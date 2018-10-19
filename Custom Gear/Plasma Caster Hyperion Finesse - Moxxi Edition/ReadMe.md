@@ -78,6 +78,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 ## Compatibility:
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team).
+- Should be compatible with most other mods, as long as they do not modify the Pocket Rocket/Tinderbox/Hornet/Twister Firing Mode.
 - Just be aware from the following:
   - This mod use the following Firing Mode: Pocket Rocket/Tinderbox/Hornet/Twister, so if you use any mod wich changes the attributes from any of these Firing Mode, it will affect this mod, and obviously the firing of the Finesse. In this case, just revert the modification done previously to these Firing Mode.
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Plasma Caster Finesse with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
@@ -98,6 +99,12 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 v1.0.0, October 20, 2018
  - Initial public release
+
+### Other Recommended Mods:
+
+A great mod to check for the Finesse Moxxi version:
+
+- [No More Moxxi Lifesteal v2.0](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Akathris/NoMoreMoxxiLifestealv2.0.txt) by [Akathris](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Akathris). His Mod is self explanatory: removes lifesteal from Moxxi weapons and changes it to passive health regeneration.
   
 ## Credits & Thanks:
 

@@ -130,13 +130,13 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - v1.1.1, October 06, 2018  
   - Added fix for Bayonet Buff in Slot 1: Bayonet gain 100% bonus melee damage (up from 50%)  
 - v1.1.2, October 15, 2018  
-  - Added Moxxi Signature Pinky Skin  
+  - Added Moxxi Signature *Pinky* Skin  
 
 ### Other Recommended Mods:
 
 A great mod to check for the Discord Solver Moxxi version:
 
-- [No More Moxxi Lifesteal v2.0](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Akathris/NoMoreMoxxiLifestealv2.0.txt) by [Akathris](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Akathris) . His Mod is self explanatory: removes lifesteal from Moxxi weapons and changes it to passive health regeneration.
+- [No More Moxxi Lifesteal v2.0](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Akathris/NoMoreMoxxiLifestealv2.0.txt) by [Akathris](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Akathris). His Mod is self explanatory: removes lifesteal from Moxxi weapons and changes it to passive health regeneration.
   
 ### To do:
 
