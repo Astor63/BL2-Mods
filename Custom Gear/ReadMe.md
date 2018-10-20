@@ -29,17 +29,19 @@ Unfortunately, the agreement between the two weapons manufacturers did not last 
 
 Anyway, remnant of the past, a *"lost"* Discord Solver (probably dropped by a bandit?) can still be found... submerged in a shallow pool in Frostburn Canyon.
 
-## [Custom Weapon] SMG Hyperion Splish Splash - Splotched Edition
-
-A SMG which fire SEAEB (Smart Elemental Adaptive Explosive Bullet), a Gyrojet Explosive bullet adapting his Elemental following the kind of impact: Incendiary on flesh / Shock on shield / Corrosive on armor... Explosive on anything else.
-
-* * * * *
-
 ## [Custom Weapon] SMG Dahl Discord Solver - Moxxi Edition
 
 It would seem that Moxxi still has a specimen of the Discord Solver in her private Signature collection of weapons, but no one has ever seen it, not even Marcus... so maybe it's just a legend after all? 
  
 ... or perhaps this weapon can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity...  Who know? 
+
+* * * * *
+
+## [Custom Weapon] SMG Hyperion Splish Splash - Splotched Edition
+
+A SMG which fire SEAEB (Smart Elemental Adaptive Explosive Bullet), a Gyrojet Explosive bullet adapting his Elemental following the kind of impact: Incendiary on flesh / Shock on shield / Corrosive on armor... and Explosive on anything else.
+
+
 
 * * * * *
  

@@ -14,25 +14,26 @@ The Plasma Caster Hyperion Finesse can be a drop from Assassin Wot fought during
 
 ## What special with this weapon?
 
-- Fire SEAPP (Smart Elemental Adaptive Plasma Projectile) exploding only in contact with a enemy: a Alien Plasma Projectile which adapt his Elemental following the kind of impact:
+- Fire SEAEB (Smart Elemental Adaptive Explosive Bullet) a Gyrojet explosive bullet which adapt his Elemental following the kind of impact:
   - Incendiary on flesh
   - Shock on shield
   - Corrosive on armor
-- Elemental splash damage boosted by grenade (only when hitting a enemy).
-- Shot one SEAPP for the cost of 2 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+  - Explosive on anything else
+- Explosive & Elemental splash damage boosted by grenade.
+- Shot one SEAEB for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
 - Cosmetic:
-  - MuzzleFlash upgraded to Plasma Caster.
-  - E-Tech Elemental Color Glow ("inside" the flaps).
-  - Firing Mode Sound upgraded to Plasma Caster sound.
+  - MuzzleFlash upgraded to Explosive Bullet.
+  - Explosive Elemental Color Glow (similar to Torgue weapons)
+  - Firing Mode Sound upgraded to GyroJet bullet sound.
   
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:    
   
-| Tech Specs        | SMG Commerce (Vanilla) | Plasma Caster Finesse - Circuit Board Edition |  
+| Tech Specs        | SMG Commerce (Vanilla) | SMG Hyperion Splish Splash - Splotched Edition|  
 | -------------     | -------------          | -------------         | 
 | **Bullet Tech:**  |                        |                       |                                
 | Bullet:           | Standard               | SEAEB (Smart Elemental Adaptive Explosive Bullet)| 
 | Fire Cost:        | 1 bullet cost 1 ammo   | 1 SEAEB cost 1 ammo   |
-| Bullet Speed:     | 17.000 (Commerce)      | 4.500                 | 
+| Bullet Speed:     | 17.000 (Commerce)      | 5x GyroJet Speed Boost| 
 |**Elemental Tech:**|                        |                       |                                 
 | Elemental:        | Shock                  | Elemental Adaptive    | 
 | Shock dmg/sec:    | 7644,8 (level 72)      | 7644,8 (level 72)     | 
