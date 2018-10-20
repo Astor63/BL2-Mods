@@ -46,7 +46,8 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | **Other:**          |                       |                           |
 | Extra (free) Bullet:| 100% Chance           | 30% Chance                |
 | Critical Hit:       | None                  | 70%                       |  
-| Lifesteal:          | N/A                   | 2.5% of damage dealt      | 
+| Lifesteal:          | N/A                   | 2.5% of damage dealt      |
+| Mission Reward:     | N/A                   | *Hell Hath No Fury* (Opportunity)| 
 | Skin:               | Lascaux (Vanilla)     | Moxxi Signature           | 
 | Rarity:             | Unique                | Moxxi                     | 	
 

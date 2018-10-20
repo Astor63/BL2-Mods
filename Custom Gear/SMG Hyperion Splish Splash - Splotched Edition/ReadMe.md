@@ -1,16 +1,16 @@
-## Plasma Caster Hyperion Finesse - Moxxi Edition
+## SMG Hyperion Splish Splash - Splotched Edition
 
-In their early days in their making of weapons, Hyperion, seized Alien Technology plans and created the Finesse: a Plasma Caster which fire SEAPP (Smart Elemental Adaptive Plasma Projectile). 
+Hyperion, created the Splish Splash: a SMG which fire SEAEB (Smart Elemental Adaptive Explosive Bullet). 
 
 Unfortunately, the mastery of this Alien technology was in its infancy, and especially very expensive, which made the price of sale of these weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary Plasma Caster only after a few (rare) copies sold.
 
 ## Where to find it?
 
-The Plasma Caster Hyperion Finesse can be a drop from Assassin Wot fought during the side mission *Assassinate the Assassins* (Southpaw Steam & Power)... and can also drop from (the same) Assassin Wot at the end of the *A History of Simulated Violence* mission (Digistruct Peak)... or can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see in *options* below) 
+The Plasma Caster Hyperion Finesse can be a drop from Assassin Wot fought during the side mission *Assassinate the Assassins* (Southpaw Steam & Power)... and can also drop from (the same) Assassin Wot at the end of the *A History of Simulated Violence* mission (Digistruct Peak). 
 
 ![Plasma Caster Finesse - Assasin Wot](https://imgur.com/N2sZWmh.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-**Note:** Yep! Assassin Wot is this guy... butf you are too lazy to fight him, you will find the Gibbed Codes below.
+**Note:** If you are too lazy to fight Assassin Wot, you will find the Gibbed Codes below.
 
 ## What special with this weapon?
 
@@ -20,40 +20,36 @@ The Plasma Caster Hyperion Finesse can be a drop from Assassin Wot fought during
   - Corrosive on armor
 - Elemental splash damage boosted by grenade (only when hitting a enemy).
 - Shot one SEAPP for the cost of 2 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
-- As usual for the Vanilla Moxxi weapons, this Moxxi Plasma Caster will give you the benefice of:
-  - 70% Critical hit bonus
-  - 2.5% lifesteal on damage dealt 
 - Cosmetic:
   - MuzzleFlash upgraded to Plasma Caster.
   - E-Tech Elemental Color Glow ("inside" the flaps).
   - Firing Mode Sound upgraded to Plasma Caster sound.
-
+  
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:    
   
-| Tech Specs        | SMG Commerce (Vanilla) | Plasma Caster Finesse - Moxxi Edition |  
+| Tech Specs        | SMG Commerce (Vanilla) | Plasma Caster Finesse - Circuit Board Edition |  
 | -------------     | -------------          | -------------         | 
 | **Bullet Tech:**  |                        |                       |                                
-| Bullet:           | Standard               | SEAPP (Smart Elemental Adaptive Plasma Projectile)| 
-| Fire Cost:        | 1 bullet cost 1 ammo  | 1 SEAPP cost 2 ammo   |
-| Bullet Speed:     | 17.000 (Commerce) / 6.000 (Plasma Caster)| 4.500| 
+| Bullet:           | Standard               | SEAEB (Smart Elemental Adaptive Explosive Bullet)| 
+| Fire Cost:        | 1 bullet cost 1 ammo   | 1 SEAEB cost 1 ammo   |
+| Bullet Speed:     | 17.000 (Commerce)      | 4.500                 | 
 |**Elemental Tech:**|                        |                       |                                 
 | Elemental:        | Shock                  | Elemental Adaptive    | 
 | Shock dmg/sec:    | 7644,8 (level 72)      | 7644,8 (level 72)     | 
 | Corrosive dmg/sec:| N/A                    | 7644,8 (level 72)     | 
 | Fire dmg/sec:     | N/A                    | 7644,8 (level 72)     | 
 | Elemental Chance: | 10/12%                 | 20%                   |  
-| Impact:           | Piercing round         | Elemental Splash (on enemy only)| 
+| Impact:           | Piercing round         | Elemental Splash (on enemy only) & Explosive on anything else| 
 | Splash Format:    | None                   | Grenade               | 
 |**Other:**         |                        |                       | 
-| Critical Hit:     | None                   | 70%                   |
-| Lifesteal   :     | None                   | 2.5%                  | 
-| Mission Reward:   | N/A                    | *Hell Hath No Fury* (Opportunity)| 
-| Skin:             | Commerce (Vanilla skin)| Moxxi skin            | 
-| Rarity:           | Unique                 | Moxxi Rarity          | 
-
+| Critical Hit:     | None                   | None                  |
+| Mission Reward:   | N/A                    | *Uncle Teddy* (Arid Nexus - Badlands)|
+| Skin:             | Commerce (Vanilla skin)| Splotched skin        | 
+| Rarity:           | Unique                 | Unique                | 
   
-![Discord Solver Moxxi Signature Classic and Cartier](https://imgur.com/1ziVoro.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
-**Note:** As this version of the Finesse is a Moxxi weapon, you can choose between 3 Moxxi Signature skin : the Classic skin, the Elegance skin or the Pinky skin.
+  
+![SMG Hyperion Splish Splash - Splotched Edition](https://imgur.com/Ml9WlG5.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+**Note:** The Splotched skins... as its name suggests it, it's coverred with cover with splotches.
 
 ## Options: 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you:
@@ -61,27 +57,19 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 - The Weapon Card has a toggle option between English/French.
 - The E-Tech Elemental Color Glow has a toggle option between On/Off
-- The Moxxi skin has a toggle option between:
-  - The *Moxxi Signature Classic Edition* ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can be used in any occasion.
-  - The *Moxxi Signature Elegance Edition* ("Red Cartier" in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.
-  - The *Moxxi Signature Pinky Edition*: To feel the glamour in pink, like a Barbie girl in a Barbie world.
-- The *Plasma Caster Finesse Moxxi Edition* can become the reward given by Moxxi for the mission *Hell Hath No Fury* in Opportunity (see picture below).  
+- The skin has a toggle option between the Splotched/Vanilla Commerce Skin
+- The *SMG Splish Splash - Splotched Edition* can become the reward given by Hyperion for the mission *Uncle Teddy*  in Arid Nexus - Badlands. (see picture below) 
+- Fix for Koby *Rarity Color*: AfterMarket (just in case if you use this old mod) 
 
-... and few fix:
+![Splish Splash as reward for Hyperion mission](https://imgur.com/KIZBWIX.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English") 
 
-  - Fix for Akathis *No More Moxxi Lifesteal* - 1.5% passive health regeneration instead of 2.5% Lifesteal
-  - Fix for Koby *Rarity Color*: Moxxi Rarity (just in case if you use this old mod) 
-
-![Discord Solver as reward for Moxxi mission](https://imgur.com/zuvQYLV.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English") 
-
-**Note:** You can toggle between the choice from 2 *Finesse Moxxi Edition* or between the choice from 1 *Finesse Moxxi Edition* & 1 grenade *Kiss of Death*. 
+**Note:** You can toggle between the choice from 2 *Splish Splash - Splotched Edition* or between the choice from 1 *Splish Splash - Splotched Edition* & 1 SMG *Bitch* (Legendary). 
 
 ## Compatibility:
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team).
-- Should be compatible with most other mods, as long as they do not modify the Pocket Rocket/Tinderbox/Hornet/Twister Firing Mode.
 - Just be aware from the following:
-  - This mod use the following Firing Mode: Pocket Rocket/Tinderbox/Hornet/Twister, so if you use any mod wich changes the attributes from any of these Firing Mode, it will affect this mod, and obviously the firing of the Finesse. In this case, just revert the modification done previously to these Firing Mode.
+  - This mod use the following Firing Mode: Gyrojet Bullet/Tinderbox/Hornet/Twister, so if you use any mod wich changes the attributes from any of these Firing Mode, it will affect this mod, and obviously the firing of the Finesse. In this case, just revert the modification done previously to these Firing Mode.
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Plasma Caster Finesse with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
 
 ## Gibbed codes:
@@ -98,14 +86,8 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 ## Changelog:
 
-v1.0.0, October 20, 2018
+v1.0.0, October 25, 2018
  - Initial public release
-
-### Other Recommended Mods:
-
-A great mod to check for the Finesse Moxxi version:
-
-- [No More Moxxi Lifesteal v2.0](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Akathris/NoMoreMoxxiLifestealv2.0.txt) by [Akathris](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Akathris). His Mod is self explanatory: removes lifesteal from Moxxi weapons and changes it to passive health regeneration.
   
 ## Credits & Thanks:
 
