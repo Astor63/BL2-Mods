@@ -37,7 +37,7 @@ It would seem that Moxxi still has a specimen of the Discord Solver in her priva
 
 * * * * *
 
-## [Custom Weapon] SMG Hyperion Splish Splash - Splotched Edition
+## [Custom Weapon] SMG Hyperion Splish Splash - Stendahl Edition
 
 A SMG which fire SEAEB (Smart Elemental Adaptive Explosive Bullet), a Gyrojet Explosive bullet adapting his Elemental following the kind of impact: Incendiary on flesh / Shock on shield / Corrosive on armor... and Explosive on anything else.
 

@@ -20,7 +20,7 @@ This ReadMe is just here as a quick synopsis, for detailed informations, each Mo
 - **Plasma Caster Hyperion Finesse - Moxxi Edition:** same weapon as the Circuit Board Edition (above), but with usual Moxxi's bonus (Critical Hit & Lifesteal) added.
 - **SMG Dahl Discord Solver - Bloody Edition:** a submachine gun which fire GyroJet explosive bullet.
 - **SMG Dahl Discord Solver - Moxxi Edition:** same weapon as the Bloody Edition (above), but with usual Moxxi's bonus (Critical Hit & Lifesteal) added.
-- **SMG Hyperion Splish Splash - Splotched Edition:** a SMG which fire Explosive bullet which adapt his Elemental following the kind of impact: Incendiary on flesh / Shock on shield / Corrosive on armor... and Explosive on anything else.
+- **SMG Hyperion Splish Splash - Stendahl Edition:** a SMG which fire Explosive bullet which adapt his Elemental following the kind of impact: Incendiary on flesh / Shock on shield / Corrosive on armor... and Explosive on anything else.
 
 * * * * *
  

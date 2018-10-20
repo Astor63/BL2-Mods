@@ -1,14 +1,14 @@
-## SMG Hyperion Splish Splash - Splotched Edition
+## SMG Hyperion Splish Splash - Stendhal Edition
 
 Hyperion, created the Splish Splash: a SMG which fire SEAEB (Smart Elemental Adaptive Explosive Bullet). 
 
-Unfortunately, the mastery of this Alien technology was in its infancy, and especially very expensive, which made the price of sale of these weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary Plasma Caster only after a few (rare) copies sold.
+Unfortunately, the mastery of the Elemental technology was in its infancy, and especially very expensive, which made the price of sale of these weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary SMG only after a few (rare) copies sold.
 
 ## Where to find it?
 
-The Plasma Caster Hyperion Finesse can be a drop from Assassin Wot fought during the side mission *Assassinate the Assassins* (Southpaw Steam & Power)... and can also drop from (the same) Assassin Wot at the end of the *A History of Simulated Violence* mission (Digistruct Peak). 
+The SMG Hyperion Splish Splash can be a drop from Assassin Wot fought during the side mission *Assassinate the Assassins* (Southpaw Steam & Power)... and can also drop from (the same) Assassin Wot at the end of the *A History of Simulated Violence* mission (Digistruct Peak). 
 
-![Plasma Caster Finesse - Assasin Wot](https://imgur.com/N2sZWmh.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![SMG Hyperion Splish Splash - Assasin Wot](https://imgur.com/N2sZWmh.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 **Note:** If you are too lazy to fight Assassin Wot, you will find the Gibbed Codes below.
 
@@ -22,13 +22,13 @@ The Plasma Caster Hyperion Finesse can be a drop from Assassin Wot fought during
 - Explosive & Elemental splash damage boosted by grenade.
 - Shot one SEAEB for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
 - Cosmetic:
-  - MuzzleFlash upgraded to Explosive Bullet.
+  - MuzzleFlash upgraded to Gyrojet Explosive Bullet.
   - Explosive Elemental Color Glow (similar to Torgue weapons)
   - Firing Mode Sound upgraded to GyroJet bullet sound.
   
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:    
   
-| Tech Specs        | SMG Commerce (Vanilla) | SMG Hyperion Splish Splash - Splotched Edition|  
+| Tech Specs        | SMG Commerce (Vanilla) | SMG Hyperion Splish Splash - Stendhal Edition|  
 | -------------     | -------------          | -------------         | 
 | **Bullet Tech:**  |                        |                       |                                
 | Bullet:           | Standard               | SEAEB (Smart Elemental Adaptive Explosive Bullet)| 
@@ -45,12 +45,12 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 |**Other:**         |                        |                       | 
 | Critical Hit:     | None                   | None                  |
 | Mission Reward:   | N/A                    | *Uncle Teddy* (Arid Nexus - Badlands)|
-| Skin:             | Commerce (Vanilla skin)| Splotched skin        | 
+| Skin:             | Commerce (Vanilla skin)| Stendhal skin        | 
 | Rarity:           | Unique                 | Unique                | 
   
   
-![SMG Hyperion Splish Splash - Splotched Edition](https://imgur.com/Ml9WlG5.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
-**Note:** The Splotched skins... as its name suggests it, it's coverred with cover with splotches.
+![SMG Hyperion Splish Splash - Stendahl Edition](https://imgur.com/Ml9WlG5.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+**Note:** The Stendhal skin... like *Le Rose et le Vert* (French for *The Pink and the Green*), the unfinished novel from Stendhal.
 
 ## Options: 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you:
@@ -58,19 +58,19 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 - The Weapon Card has a toggle option between English/French.
 - The E-Tech Elemental Color Glow has a toggle option between On/Off
-- The skin has a toggle option between the Splotched/Vanilla Commerce Skin
-- The *SMG Splish Splash - Splotched Edition* can become the reward given by Hyperion for the mission *Uncle Teddy*  in Arid Nexus - Badlands. (see picture below) 
+- The skin has a toggle option between the Stendhal/Vanilla Commerce Skin
+- The *SMG Splish Splash - Stendhal Edition* can become the reward given by Hyperion for the mission *Uncle Teddy* in Arid Nexus - Badlands. (see picture below) 
 - Fix for Koby *Rarity Color*: AfterMarket (just in case if you use this old mod) 
 
-![Splish Splash as reward for Hyperion mission](https://imgur.com/KIZBWIX.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English") 
+![Splish Splash Stendhal Edition as reward for Hyperion mission](https://imgur.com/KIZBWIX.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English") 
 
-**Note:** You can toggle between the choice from 2 *Splish Splash - Splotched Edition* or between the choice from 1 *Splish Splash - Splotched Edition* & 1 SMG *Bitch* (Legendary). 
+**Note:** You can toggle between the choice from 2 *Splish Splash - Stendhal Edition* or between the choice from 1 *Splish Splash - Stendhal Edition* & 1 SMG *Bitch* (Legendary). 
 
 ## Compatibility:
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team).
 - Just be aware from the following:
-  - This mod use the following Firing Mode: Gyrojet Bullet/Tinderbox/Hornet/Twister, so if you use any mod wich changes the attributes from any of these Firing Mode, it will affect this mod, and obviously the firing of the Finesse. In this case, just revert the modification done previously to these Firing Mode.
+  - This mod use the following Firing Mode: Gyrojet Bullet/Tinderbox/Hornet/Twister, so if you use any mod wich changes the attributes from any of these Firing Mode, it will affect this mod, and obviously the firing of the Splish Splash. In this case, just revert the modification done previously to these Firing Mode.
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Plasma Caster Finesse with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
 
 ## Gibbed codes:
