@@ -20,10 +20,11 @@ This is where you can find it...
     - The speed from the GyroJet Explosive bullet is 5x faster when fired by a SMG than a pistol (but it's still a lot more slower than a normal bullet fired by a SMG) 
     - Chance  to shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
     - Impact Explosion boosted by Grenade Damage.
-    - Firing Mode Sound upgraded to GyroJet bullet sound.
-    - MuzzleFlash upgraded to Explosive Bullet.
-    - Explosive Elemental Color Glow (similar to Torgue weapons)
-  - As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of:
+- Cosmetic:
+  - MuzzleFlash upgraded to Explosive Bullet.
+  - Explosive Elemental Color Glow (similar to Torgue weapons)
+  - Firing Mode Sound upgraded to GyroJet bullet sound.
+- As usual for the Vanilla Moxxi weapons, this Moxxi SMG will give you the benefice of:
     - 70% Critical hit bonus
     - 2.5% lifesteal on damage dealt
     - A greater chance to get a extra bullet free 
@@ -38,7 +39,7 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Bullet Speed:       | 20.000                | 5x GyroJet Speed Boost    |
 | Burst Count:        | 9 to 14 rounds        | 9 to 14 rounds            | 
 | **Explosive Tech:** |                       |                           |
-| Element:            | Never Elemental       | Explosive                 | 
+| Element:            | N/A                   | Explosive                 | 
 | Explosion Chance:   | None                  | 100%                      |
 | Impact:             | Normal                | Explosive                 |  
 | Explosion Radius:   | None                  | 90                        |  
@@ -61,12 +62,12 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 -  The Weapon Card has a toggle option between English/French.
- - The Explosive Elemental Color Glow has a toggle option between On/Off
-  - The Discord Solver Moxxi Edition can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below).
-  - The Moxxi skin has a toggle option between:
-    - The Moxxi Signature *Classic* Edition ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can be used in any occasion.
-    - The Moxxi Signature *Elegance* Edition ("Red Cartier" in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.
-    - The Moxxi Signature *Pinky* Edition: To feel the glamour in pink, like a Barbie girl in a Barbie world.
+- The Explosive Elemental Color Glow has a toggle option between On/Off
+- The Discord Solver Moxxi Edition can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below).
+- The Moxxi skin has a toggle option between:
+  - The Moxxi Signature *Classic* Edition ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can be used in any occasion.
+  - The Moxxi Signature *Elegance* Edition ("Red Cartier" in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.
+  - The Moxxi Signature *Pinky* Edition: To feel the glamour in pink, like a Barbie girl in a Barbie world.
 
 ... and few fix:
 
@@ -97,6 +98,9 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
   - This mod use the *Pistol GyroJet Firing Mode*, so if you use any mode that changes the attributes from the Pistol GyroJet Firing Mode, it will affect this mod, and obviously the firing of the Discord Solver. In this case, Just revert the modification done previously to the Pistol GyroJet Firing Mode.
   
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
+   
+  - This Mod as a option which make the *Discord Solver - Moxxi Edition* becoming the reward given by Moxxi for the mission *Hell Hath No Fury* in Opportunity, so be sure that you place this mod **AFTER** my mod *Double Quest Reward Redux* or any other mod modifying the Quest Reward.
+ 
 
 ## Gibbed codes:
 

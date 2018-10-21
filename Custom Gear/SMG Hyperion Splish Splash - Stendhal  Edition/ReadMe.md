@@ -1,6 +1,6 @@
 ## SMG Hyperion Splish Splash - Stendhal Edition
 
-Hyperion, created the Splish Splash: a SMG which fire SEAEB (Smart Elemental Adaptive Explosive Bullet). 
+Hyperion, created the Splish Splash: a SMG which fire SEAMB (Smart Elemental Adaptive Maliwan Bullet). 
 
 Unfortunately, the mastery of the Elemental technology was in its infancy, and especially very expensive, which made the price of sale of these weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary SMG only after a few (rare) copies sold.
 
@@ -14,33 +14,32 @@ The SMG Hyperion Splish Splash can be a drop from Assassin Wot fought during the
 
 ## What special with this weapon?
 
-- Fire SEAEB (Smart Elemental Adaptive Explosive Bullet) a Gyrojet explosive bullet which adapt his Elemental following the kind of impact:
+- Fire SEAMB (Smart Elemental Adaptive Maliwan Bullet) a elemental explosive bullet which adapt his Elemental following the kind of impact:
   - Incendiary on flesh
   - Shock on shield
   - Corrosive on armor
-  - Explosive on anything else
-- Explosive & Elemental splash damage boosted by grenade.
-- Shot one SEAEB for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+- Elemental splash damage boosted by grenade.
+- Shot one SEAMB for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
 - Cosmetic:
-  - MuzzleFlash upgraded to Gyrojet Explosive Bullet.
-  - Explosive Elemental Color Glow (similar to Torgue weapons)
-  - Firing Mode Sound upgraded to GyroJet bullet sound.
+  - MuzzleFlash upgraded to Maliwan Bullet.
+  - E-Tech Elemental Color Glow.
+  - Firing Mode Sound upgraded to Maliwan bullet sound.
   
 Not clear? ... Well, perhaps it will be more easy to compare the difference in a table:    
   
 | Tech Specs        | SMG Commerce (Vanilla) | SMG Hyperion Splish Splash - Stendhal Edition|  
 | -------------     | -------------          | -------------         | 
 | **Bullet Tech:**  |                        |                       |                                
-| Bullet:           | Standard               | SEAEB (Smart Elemental Adaptive Explosive Bullet)| 
-| Fire Cost:        | 1 bullet cost 1 ammo   | 1 SEAEB cost 1 ammo   |
-| Bullet Speed:     | 17.000 (Commerce)      | 5x GyroJet Speed Boost| 
+| Bullet:           | Standard               | SEAMB (Smart Elemental Adaptive Maliwan Bullet)| 
+| Fire Cost:        | 1 bullet cost 1 ammo   | 1 SEAMB cost 1 ammo    |
+| Bullet Speed:     | 17.000 (Commerce)      | 4.500                 | 
 |**Elemental Tech:**|                        |                       |                                 
 | Elemental:        | Shock                  | Elemental Adaptive    | 
 | Shock dmg/sec:    | 7644,8 (level 72)      | 7644,8 (level 72)     | 
 | Corrosive dmg/sec:| N/A                    | 7644,8 (level 72)     | 
 | Fire dmg/sec:     | N/A                    | 7644,8 (level 72)     | 
-| Elemental Chance: | 10/12%                 | 20%                   |  
-| Impact:           | Piercing round         | Elemental Splash (on enemy only) & Explosive on anything else| 
+| Elemental Chance: | 10/12%                 | 15%                   |  
+| Impact:           | Piercing round         | Adaptive Elemental Splash (on enemy only)| 
 | Splash Format:    | None                   | Grenade               | 
 |**Other:**         |                        |                       | 
 | Critical Hit:     | None                   | None                  |
@@ -49,8 +48,8 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Rarity:           | Unique                 | Unique                | 
   
   
-![SMG Hyperion Splish Splash - Stendahl Edition](https://imgur.com/Ml9WlG5.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
-**Note:** The Stendhal skin... like *Le Rose et le Vert* (French for *The Pink and the Green*), the unfinished novel from Stendhal.
+![SMG Hyperion Splish Splash - Stendahl Edition](https://imgur.com/anIscvT.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+**Note:** The Stendhal skin... vaguely inspired by the book cover of *Le Rose et le Vert* (French for *The Pink and the Green*), the unfinished novel from Stendhal written in 1837.
 
 ## Options: 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you:
@@ -72,6 +71,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - Just be aware from the following:
   - This mod use the following Firing Mode: Gyrojet Bullet/Tinderbox/Hornet/Twister, so if you use any mod wich changes the attributes from any of these Firing Mode, it will affect this mod, and obviously the firing of the Splish Splash. In this case, just revert the modification done previously to these Firing Mode.
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Plasma Caster Finesse with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
+  - This Mod as a option which make the *Splish Splash - Stendhal Edition* becoming the reward given by Hyperion for the mission *Uncle Teddy*  in Arid Nexus - Badlands, so be sure that you place this mod **AFTER** my mod *Double Quest Reward Redux* or any other mod modifying the Quest Reward.
 
 ## Gibbed codes:
 

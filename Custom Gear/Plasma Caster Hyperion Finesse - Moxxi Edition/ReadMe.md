@@ -74,7 +74,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 ![Discord Solver as reward for Moxxi mission](https://imgur.com/zuvQYLV.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English") 
 
-**Note:** You can toggle between the choice from 2 *Finesse Moxxi Edition* or between the choice from 1 *Finesse Moxxi Edition* & 1 grenade *Kiss of Death*. 
+**Note:** You can toggle between the choice from 2 *Plasma Caster Hyperion Finesse - Moxxi Edition* or between the choice from 1 *Plasma Caster Hyperion Finesse - Moxxi Edition* & 1 grenade *Kiss of Death*. 
 
 ## Compatibility:
 
@@ -83,6 +83,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - Just be aware from the following:
   - This mod use the following Firing Mode: Pocket Rocket/Tinderbox/Hornet/Twister, so if you use any mod wich changes the attributes from any of these Firing Mode, it will affect this mod, and obviously the firing of the Finesse. In this case, just revert the modification done previously to these Firing Mode.
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Plasma Caster Finesse with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
+  - This Mod as a option which make the *Plasma Caster Hyperion Finesse - Moxxi Edition* becoming the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity, so be sure that you place this mod **AFTER** my mod *Double Quest Reward Redux* or any other mod modifying the Quest Reward.
 
 ## Gibbed codes:
 
