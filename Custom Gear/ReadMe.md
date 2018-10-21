@@ -37,9 +37,9 @@ It would seem that Moxxi still has a specimen of the Discord Solver in her priva
 
 * * * * *
 
-## [Custom Weapon] SMG Hyperion Splish Splash - Stendahl Edition
+## [Custom Weapon] SMG Hyperion Splish Splash - Stendhal Edition
 
-A SMG which fire SEAMB (Smart Elemental Adaptive Maliwan Bullet), a Elemental Explosive bullet adapting his Elemental following the kind of impact: Incendiary on flesh / Shock on shield / Corrosive on armor.
+A SMG which fire SEAMB (Smart Elemental Adaptive Maliwan Bullet), a Elemental Explosive bullet adapting his Elemental following the kind of impact: Incendiary on flesh / Shock on shield / Corrosive on armor... and Explosive on anything else.
 
 
 

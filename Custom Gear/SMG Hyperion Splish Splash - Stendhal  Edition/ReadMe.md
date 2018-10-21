@@ -1,6 +1,6 @@
 ## SMG Hyperion Splish Splash - Stendhal Edition
 
-Hyperion, created the Splish Splash: a SMG which fire SEAMB (Smart Elemental Adaptive Maliwan Bullet). 
+To help keep them competitive in a world that demands element-matching, Hyperion created the Splish Splash: a SMG which fire SEAMB (Smart Elemental Adaptive Maliwan Bullet). 
 
 Unfortunately, the mastery of the Elemental technology was in its infancy, and especially very expensive, which made the price of sale of these weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary SMG only after a few (rare) copies sold.
 
@@ -10,7 +10,7 @@ The SMG Hyperion Splish Splash can be a drop from Assassin Wot fought during the
 
 ![SMG Hyperion Splish Splash - Assasin Wot](https://imgur.com/N2sZWmh.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-**Note:** If you are too lazy to fight Assassin Wot, you will find the Gibbed Codes below.
+**Note:** If you are too lazy to fight Assassin Wot, The *SMG Splish Splash - Stendhal Edition* can become the reward given by Hyperion for the mission *Uncle Teddy* in Arid Nexus - Badlands.... or you can use the Gibbed Codes that you will find below.
 
 ## What special with this weapon?
 
@@ -18,6 +18,7 @@ The SMG Hyperion Splish Splash can be a drop from Assassin Wot fought during the
   - Incendiary on flesh
   - Shock on shield
   - Corrosive on armor
+  - Explosive on anything else.
 - Elemental splash damage boosted by grenade.
 - Shot one SEAMB for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
 - Cosmetic:
@@ -39,7 +40,7 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Corrosive dmg/sec:| N/A                    | 7644,8 (level 72)     | 
 | Fire dmg/sec:     | N/A                    | 7644,8 (level 72)     | 
 | Elemental Chance: | 10/12%                 | 15%                   |  
-| Impact:           | Piercing round         | Adaptive Elemental Splash (on enemy only)| 
+| Impact:           | Piercing round         | Adaptive Elemental Splash (on enemy only) - Explosive on anything else| 
 | Splash Format:    | None                   | Grenade               | 
 |**Other:**         |                        |                       | 
 | Critical Hit:     | None                   | None                  |
@@ -82,7 +83,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 | Analytical Commerce          | Accuracy     | BL2(hwAAAAAUtABCyANBDIFEdmI5wdKMZQELC5b//xNY/v8rY8HBgo3l)|
 | Corporate Commerce           | Stability    | BL2(hwAAAADNUgBCyANBDIFEdmI5wdKMZQELC5b//xZY/v8rY1HCgo3l)|
 | Social Commerce              | Reload Speed | BL2(hwAAAAB2PABCyANBDIFEdmI5wdKMZQELC5b//xdY/v8rY3nCgo3l)|
-| ~~Cutting Edge Commerce~~    | ~~Melee~~    | E-Tech Plasma Caster **NEVER** spawn with a blade.       |
+| Cutting Edge Commerce        | Melee        | BL2(hwAAAADHBwBCyANBDIFEdmI5wdKMZQELC5b//xJY/v8rY5HBgo3l)|
 | Inspiring/Energizing Commerce| No Accessory | BL2(hwAAAABvlgBCyANBDIFEdmI5wdKMZQELC5b//xFY/v8rY2FBgo3l)|
 
 ## Changelog:
