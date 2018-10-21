@@ -53,14 +53,20 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 **Note:** The Stendhal skin... vaguely inspired by the book cover of *Le Rose et le Vert* (French for *The Pink and the Green*), the unfinished novel from Stendhal written in 1837.
 
 ## Options: 
-This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you:
+This Mod has few options, so feel free to use the BLCMM tool to select the best option that suit you:
 
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 - The Weapon Card has a toggle option between English/French.
 - The E-Tech Elemental Color Glow has a toggle option between On/Off
 - The skin has a toggle option between the Stendhal/Vanilla Commerce Skin
 - The *SMG Splish Splash - Stendhal Edition* can become the reward given by Hyperion for the mission *Uncle Teddy* in Arid Nexus - Badlands. (see picture below) 
-- Fix for Koby *Rarity Color*: AfterMarket (just in case if you use this old mod) 
+
+... and few fix:
+
+- Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2) + Bayonet Buff
+- Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2)
+- Fix for Bayonet Buff in Slot 1
+- Fix for Koby "Rarity Color": AfterMarket (just in case if you use this old mod) 
 
 ![Splish Splash Stendhal Edition as reward for Hyperion mission](https://imgur.com/KIZBWIX.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English") 
 
