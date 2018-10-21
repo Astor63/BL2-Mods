@@ -32,8 +32,8 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | -------------     | -------------          | -------------         | 
 | **Bullet Tech:**  |                        |                       |                                
 | Bullet:           | Standard               | SEAMB (Smart Elemental Adaptive Maliwan Bullet)| 
-| Fire Cost:        | 1 bullet cost 1 ammo   | 1 SEAMB cost 1 ammo    |
-| Bullet Speed:     | 17.000 (Commerce)      | 4.500                 | 
+| Fire Cost:        | 1 bullet cost 1 ammo   | 1 SEAMB cost 2 ammo    |
+| Bullet Speed:     | 17.000 (Commerce)      | 15.000                 | 
 |**Elemental Tech:**|                        |                       |                                 
 | Elemental:        | Shock                  | Elemental Adaptive    | 
 | Shock dmg/sec:    | 7644,8 (level 72)      | 7644,8 (level 72)     | 
@@ -45,11 +45,11 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 |**Other:**         |                        |                       | 
 | Critical Hit:     | None                   | None                  |
 | Mission Reward:   | N/A                    | *Uncle Teddy* (Arid Nexus - Badlands)|
-| Skin:             | Commerce (Vanilla skin)| Stendhal skin        | 
+| Skin:             | Commerce (Vanilla skin)| Stendhal skin         | 
 | Rarity:           | Unique                 | Unique                | 
   
   
-![SMG Hyperion Splish Splash - Stendahl Edition](https://imgur.com/anIscvT.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![SMG Hyperion Splish Splash - Stendahl Edition](https://imgur.com/UHE3AZo.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 **Note:** The Stendhal skin... vaguely inspired by the book cover of *Le Rose et le Vert* (French for *The Pink and the Green*), the unfinished novel from Stendhal written in 1837.
 
 ## Options: 
@@ -58,7 +58,10 @@ This Mod has few options, so feel free to use the BLCMM tool to select the best 
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 - The Weapon Card has a toggle option between English/French.
 - The E-Tech Elemental Color Glow has a toggle option between On/Off
-- The skin has a toggle option between the Stendhal/Vanilla Commerce Skin
+- The skin has a toggle option between:
+  - Stendhal Shiny Edition
+  - Stendhal Mat Edition
+  - Vanilla Commerce Skin
 - The *SMG Splish Splash - Stendhal Edition* can become the reward given by Hyperion for the mission *Uncle Teddy* in Arid Nexus - Badlands. (see picture below) 
 
 ... and few fix:
