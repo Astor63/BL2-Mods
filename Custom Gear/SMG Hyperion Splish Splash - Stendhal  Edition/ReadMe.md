@@ -20,7 +20,7 @@ The SMG Hyperion Splish Splash can be a drop from Assassin Wot fought during the
   - Corrosive on armor
   - Explosive on anything else.
 - Elemental splash damage boosted by grenade.
-- Shot one SEAMB for the cost of 1 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+- Shot one SEAMB for the cost of 2 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
 - Cosmetic:
   - MuzzleFlash upgraded to Maliwan Bullet.
   - E-Tech Elemental Color Glow.
