@@ -118,20 +118,9 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 - v1.0.0, September 8, 2018
   - Initial public release
-- v1.0.1, September 12, 2018  
-  - Added Fix for Orudeon's Bayonet Enhancements (Bayonet in slot 2) + Bayonet Buff: Bayonet gain 100% bonus melee damage (up from 50%) 
-- v1.0.2, September 14, 2018  
-  - Added GyroJet bullet firing sound 
-- v1.0.3, September 16, 2018
-  - Added Moxxi Signature *Classic* skin
-- v1.0.4, September 20, 2018  
-  - Balance the weapon, and clean the code  
-  - Added French Translation (Weapon Card)
-  - Cosmetic:
-    - The bullet casings is ejected correctly on the right side.
-    - When the shot is fired, the muzzle "split" explosive residues.
 - v1.1.0, September 25, 2018
   - Totally revamp the FireMode
+  - Clean the code
 - v1.1.1, October 06, 2018  
   - Added fix for Bayonet Buff in Slot 1: Bayonet gain 100% bonus melee damage (up from 50%)  
 - v1.1.2, October 15, 2018  
@@ -145,7 +134,6 @@ A great mod to check for the Discord Solver Moxxi version:
   
 ### To do:
 
-- [x] Change the black parts of the weapon into a "brushed gold" color, for a look more Creamer style (Thanks to PsychoPatate for his help)
 - [x] Clean the code and remove all my ~~shitty~~ notes. 
 - [ ] Make (again) fews kills to be sure that all work correctly.
 
