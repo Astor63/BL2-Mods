@@ -1,12 +1,12 @@
 ## SMG Hyperion Splish Splash - Stendhal Edition
 
-To help keep them competitive in a world that demands element-matching, Hyperion created the Splish Splash: a SMG which fire SEAMB (Smart Elemental Adaptive Maliwan Bullet). 
+To help keep them competitive in a world that demands element-matching, Hyperion created the *SMG Splish Splash - Stendhal Edition*: a SMG which fire SEAMB (Smart Elemental Adaptive Maliwan Bullet). 
 
-Unfortunately, the mastery of the Elemental technology was in its infancy, and especially very expensive, which made the price of sale of these weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary SMG only after a few (rare) copies sold.
+Unfortunately, the mastery of the Elemental technology was in its infancy, and especially very expensive, making the price of sale of this weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary SMG only after a few (rare) copies sold.
 
 ## Where to find it?
 
-The SMG Hyperion Splish Splash can be a drop from Assassin Wot fought during the side mission *Assassinate the Assassins* (Southpaw Steam & Power)... and can also drop from (the same) Assassin Wot at the end of the *A History of Simulated Violence* mission (Digistruct Peak). 
+The *SMG Hyperion Splish Splash - Stendhal Edition* can be a drop from Assassin Wot fought during the side mission *Assassinate the Assassins* (Southpaw Steam & Power)... and can also drop from (the same) Assassin Wot at the end of the *A History of Simulated Violence* mission (Digistruct Peak). 
 
 ![SMG Hyperion Splish Splash - Assasin Wot](https://imgur.com/N2sZWmh.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
@@ -20,7 +20,8 @@ The SMG Hyperion Splish Splash can be a drop from Assassin Wot fought during the
   - Corrosive on armor
   - Explosive on anything else.
 - Elemental splash damage boosted by grenade.
-- Shot one SEAMB for the cost of 2 ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+- Elemental effect damage improved by 33%, element chance by a small amount, but base damage lowered by 32% to compensate.
+- Shot one SEAMB for the cost of 2 ammos (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
 - Cosmetic:
   - MuzzleFlash upgraded to Maliwan Bullet.
   - E-Tech Elemental Color Glow.
@@ -32,16 +33,18 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | -------------     | -------------          | -------------         | 
 | **Bullet Tech:**  |                        |                       |                                
 | Bullet:           | Standard               | SEAMB (Smart Elemental Adaptive Maliwan Bullet)| 
-| Fire Cost:        | 1 bullet cost 1 ammo   | 1 SEAMB cost 2 ammo    |
-| Bullet Speed:     | 17.000 (Commerce)      | 15.000                 | 
+| Bullet Damage:    | SMG Standard           | -32%                  |
+| Fire Cost:        | 1 bullet cost 1 ammo   | 1 SEAMB cost 2 ammo   |
+| Bullet Speed:     | 17.000                 | 15.000                | 
 |**Elemental Tech:**|                        |                       |                                 
 | Elemental:        | Shock                  | Elemental Adaptive    | 
-| Shock dmg/sec:    | 7644,8 (level 72)      | 7644,8 (level 72)     | 
-| Corrosive dmg/sec:| N/A                    | 7644,8 (level 72)     | 
-| Fire dmg/sec:     | N/A                    | 7644,8 (level 72)     | 
+| Shock dmg/sec:    | 7644,8 (level 72)      | 10.167,6 (level 72)   | 
+| Corrosive dmg/sec:| N/A                    | 10.167,6 (level 72)   | 
+| Fire dmg/sec:     | N/A                    | 10.167,6 (level 72)   | 
 | Elemental Chance: | 10/12%                 | 15%                   |  
 | Impact:           | Piercing round         | Adaptive Elemental Splash (on enemy only) - Explosive on anything else| 
 | Splash Format:    | None                   | Grenade               | 
+| Splash Radius:    | None                   | 170                   | 
 |**Other:**         |                        |                       | 
 | Critical Hit:     | None                   | None                  |
 | Mission Reward:   | N/A                    | *Uncle Teddy* (Arid Nexus - Badlands)|
@@ -56,8 +59,12 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 This Mod has few options, so feel free to use the BLCMM tool to select the best option that suit you:
 
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
+- No Elemental Splash Self-Damage can be turned On/Off.
 - The Weapon Card has a toggle option between English/French.
-- The E-Tech Elemental Color Glow has a toggle option between On/Off
+- The Elemental Color Glow has a toggle option between:
+  - E-Tech Elemental Color (Vanilla)
+  - Explosive Elemental Color (Alternate)
+  - Off
 - The skin has a toggle option between:
   - Stendhal Shiny Edition
   - Stendhal Mat Edition
@@ -66,9 +73,8 @@ This Mod has few options, so feel free to use the BLCMM tool to select the best 
 
 ... and few fix:
 
-- Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2) + Bayonet Buff
 - Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2)
-- Fix for Bayonet Buff in Slot 1
+- Custom Fix for Vanilla bayonet (Bayonet in slot 1 + Always spawn WITH accessory)
 - Fix for Koby "Rarity Color": AfterMarket (just in case if you use this old mod) 
 
 ![Splish Splash Stendhal Edition as reward for Hyperion mission](https://imgur.com/KIZBWIX.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English") 
@@ -79,9 +85,9 @@ This Mod has few options, so feel free to use the BLCMM tool to select the best 
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team).
 - Just be aware from the following:
-  - This mod use the following Firing Mode: Gyrojet Bullet/Tinderbox/Hornet/Twister, so if you use any mod wich changes the attributes from any of these Firing Mode, it will affect this mod, and obviously the firing of the Splish Splash. In this case, just revert the modification done previously to these Firing Mode.
-  - This mode use Grenade Damage for the Splash Format, so if you are going to use the Plasma Caster Finesse with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
-  - This Mod as a option which make the *Splish Splash - Stendhal Edition* becoming the reward given by Hyperion for the mission *Uncle Teddy*  in Arid Nexus - Badlands, so be sure that you place this mod **AFTER** my mod *Double Quest Reward Redux* or any other mod modifying the Quest Reward.
+  - This mod use the following Firing Mode: Tinderbox/Hornet/Twister, so if you use any mod wich changes the attributes from any of these Firing Mode, it will affect this mod, and obviously the Firing Mode of the *SMG Hyperion Splish Splash*. In this case, just revert the modification done previously to these Firing Mode.
+  - This mod use Grenade Damage for the Splash Format, so if you are going to use the *SMG Hyperion Splish Splash* with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
+  - This Mod as a option which make the *SMG Hyperion Splish Splash* becoming the reward given by Hyperion for the mission *Uncle Teddy*  in Arid Nexus - Badlands, so be sure that you place this mod **AFTER** my mod *Double Quest Reward Redux* or any other mod modifying the Quest Reward.
 
 ## Gibbed codes:
 
