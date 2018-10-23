@@ -60,17 +60,20 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 - The Weapon Card has a toggle option between English/French.
-- The E-Tech Elemental Color Glow has a toggle option between On/Off
+- The Elemental Color Glow has a toggle option between:
+  - E-Tech Elemental Color (Vanilla)
+  - Explosive Elemental Color (Alternate)
+  - Off
 - The Moxxi skin has a toggle option between:
-  - The *Moxxi Signature Classic Edition* ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can be used in any occasion.
-  - The *Moxxi Signature Elegance Edition* ("Red Cartier" in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.
-  - The *Moxxi Signature Pinky Edition*: To feel the glamour in pink, like a Barbie girl in a Barbie world.
+  - The *Moxxi Signature **Classic** Edition* ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can be used in any occasion.
+  - The *Moxxi Signature **Elegance** Edition* ("Red Cartier" in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.
+  - The *Moxxi Signature **Pinky** Edition*: To feel the glamour in pink, like a Barbie girl in a Barbie world.
 - The *Plasma Caster Finesse Moxxi Edition* can become the reward given by Moxxi for the mission *Hell Hath No Fury* in Opportunity (see picture below).  
 
 ... and few fix:
 
-  - Fix for Akathis *No More Moxxi Lifesteal* - 1.5% passive health regeneration instead of 2.5% Lifesteal
-  - Fix for Koby *Rarity Color*: Moxxi Rarity (just in case if you use this old mod) 
+  - Fix for Akathis *No More Moxxi Lifesteal*: 1.5% passive health regeneration instead of 2.5% Lifesteal
+  - Fix for Koby *Rarity Color*: *Moxxi* rarity (just in case if you use this old mod) 
 
 ![Discord Solver as reward for Moxxi mission](https://imgur.com/zuvQYLV.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English") 
 
@@ -81,7 +84,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team).
 - Should be compatible with most other mods, as long as they do not modify the Pocket Rocket/Tinderbox/Hornet/Twister Firing Mode.
 - Just be aware from the following:
-  - This mod use the following Firing Mode: Pocket Rocket/Tinderbox/Hornet/Twister, so if you use any mod wich changes the attributes from any of these Firing Mode, it will affect this mod, and obviously the firing of the Finesse. In this case, just revert the modification done previously to these Firing Mode.
+  - This mod use the following Firing Mode: Pocket Rocket/Tinderbox/Hornet/Twister, so if you use any mod wich changes the attributes from any of these Firing Mode, it will affect this mod, and obviously the Firing Mode of the Finesse. In this case, just revert the modification done previously to these Firing Mode.
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Plasma Caster Finesse with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
   - This Mod as a option which make the *Plasma Caster Hyperion Finesse - Moxxi Edition* becoming the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity, so be sure that you place this mod **AFTER** my mod *Double Quest Reward Redux* or any other mod modifying the Quest Reward.
 

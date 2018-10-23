@@ -1,4 +1,4 @@
-﻿## Plasma Caster Dahl Prototype SX-1 
+## Plasma Caster Dahl Prototype SX-1 
  
 After the commercial failure of the Discord Solver, a rogue engineer at Dahl took the plans and secretly worked on the realization of a Plasma Caster capable of firing explosive projectiles Gyrojet coated in a plasma ball.
 
@@ -48,13 +48,16 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 
 ![Prototype SX-1](https://imgur.com/lE00YK0.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-**Note:** Those who are a little bit curious will recognize the inspiration from the name (SX-1) and the skin color (Blue/Grey & White) coming straight from the Belgian comics book "The Adventures of Blake & Mortimer: The Secret of the Swordfish" by E.P. Jacobs.
+**Note:** Those who are a little bit curious will recognize the inspiration from the name (SX-1) and the skin color (Blue/Grey & White) coming straight from the Belgian comics book *The Adventures of Blake & Mortimer: The Secret of the Swordfish* by E.P. Jacobs.
 
-This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
-- The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
-- The Weapon Card has a toggle option between English/French.
-- The Explosive Elemental Color Glow has a toggle option between On/Off
-- Fix for Koby "Rarity Color Fix": AfterMarket (just in case if you use this old mod)  
+This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.  
+- The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)  
+- The Weapon Card has a toggle option between English/French.  
+- The Elemental Color Glow has a toggle option between:
+  - E-Tech Elemental Color (Vanilla)
+  - Explosive Elemental Color (Alternate)
+  - Off  
+- Fix for Koby *Rarity Color*: *AfterMarket* (just in case if you use this old mod)  
 
 ## Gibbed codes:
 
@@ -81,13 +84,13 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 - Just be aware from the following:
 
-  - This mod use the *Pocket Rocket Explosive GyroJet Firing Mode*, so if you use any mode that changes the attributes from the Pocket Rocket Firing Mode, it will affect this mod, and obviously the firing of the Prototype SX-1. In this case, Just revert the modification done previously to the Pocket Rocket Firing Mode.
+  - This mod use the *Pocket Rocket Explosive GyroJet Firing Mode*, so if you use any mode that changes the attributes from this Firing Mode, it will affect this mod, and obviously the firing mode of the *Plasma Caster Dahl Prototype SX-1*. In this case, Just revert the modification done previously to it.
   
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Prototype SX-1 with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
    
 ### Other Recommended Mods:
 
-A great mod to check for the Prototype SX-1 Bloody version:
+A great mod to check for the *Plasma Caster Dahl Prototype SX-1*:
 
 - [More Blood](https://github.com/BLCM/BLCMods/blob/a3706b44e0ab31632eb04bdc5056b57ae66f3a27/Borderlands%202%20mods/Juso/moreblood.blcm) by [Juso](https://github.com/BLCM/BLCMods/tree/a3706b44e0ab31632eb04bdc5056b57ae66f3a27/Borderlands%202%20mods/Juso) : because after you have exploded your enemies, only blood will remain.
 
@@ -95,7 +98,7 @@ A great mod to check for the Prototype SX-1 Bloody version:
 
 ### To do:
 
-- [x] Make a nice and shiny SX-1 skin.
+- [ ] Make a nice and shiny SX-1 skin.
 - [ ] Clean the code and remove all my ~~shitty~~ smart notes. 
 - [ ] Make (again) few kills to be sure that the submachine gun work correctly.
   

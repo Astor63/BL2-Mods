@@ -73,9 +73,9 @@ This Mod has few options, so feel free to use the BLCMM tool to select the best 
 
 ... and few fix:
 
-- Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2)
+- Fix for Orudeon's Bayonet Enhancements (Bayonet in slot 2)
 - Custom Fix for Vanilla bayonet (Bayonet in slot 1 + Always spawn WITH accessory)
-- Fix for Koby "Rarity Color": AfterMarket (just in case if you use this old mod) 
+- Fix for *Koby Rarity Color*: *AfterMarket* rarity (just in case if you use this old mod) 
 
 ![Splish Splash Stendhal Edition as reward for Hyperion mission](https://imgur.com/KIZBWIX.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English") 
 

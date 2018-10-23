@@ -49,17 +49,23 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
   
   
 ![Plasma Caster Finesse - Circuit Board Edition](https://imgur.com/FGWsUWG.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
-**Note:** The Circuit Board skins... as its name suggests, looks like a circuit board... and you have the choice between 2 Circuit Board skin: the Blue Circuit Board or the Yellow Circuit Board!
+**Note:** The Circuit Board skins... as its name suggests, looks like a circuit board... and you have the choice between 2 Circuit Board skin: the *Blue Circuit Board* or the *Yellow Circuit Board*!
 
 ## Options: 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you:
 
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 - The Weapon Card has a toggle option between English/French.
-- The E-Tech Elemental Color Glow has a toggle option between On/Off
-- The skin has a toggle option between the Blue Circuit Board/Yellow Circuit Board/Vanilla Commerce Skin
+- The Elemental Color Glow has a toggle option between:
+  - E-Tech Elemental Color (Vanilla)
+  - Explosive Elemental Color (Alternate)
+  - Off
+- The skin has a toggle option between:
+  - The *Blue* Circuit Board
+  - The *Yellow* Circuit Board
+  - The Vanilla Commerce Skin
 - The *Plasma Caster Finesse- Circuit Board Edition* can become the reward given by Hyperion for the mission *Uncle Teddy*  in Arid Nexus - Badlands. (see picture below) 
-- Fix for Koby *Rarity Color*: AfterMarket (just in case if you use this old mod) 
+- Fix for Koby *Rarity Color*: *AfterMarket* (just in case if you use this old mod) 
 
 ![Finesse as reward for Hyperion mission](https://imgur.com/CeuGBS7.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English") 
 

@@ -25,10 +25,10 @@
 			<category name="Damn! It seem that there is some Black Magic inside (best to keep all this checked)">
 				<category name="RAW Attributes Master">
 					<category name="Attribute Slot Upgrades">
-						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce AttributeSlotUpgrades ((SlotName="WeaponDamage",GradeIncrease=24,bActivateSlot=True),(SlotName="WeaponMagSize",GradeIncrease=7,bActivateSlot=True),(SlotName="WeaponSpread",GradeIncrease=7,bActivateSlot=True))</code>
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce AttributeSlotUpgrades ((SlotName="WeaponDamage",GradeIncrease=10,bActivateSlot=True),(SlotName="WeaponMagSize",GradeIncrease=7,bActivateSlot=True),(SlotName="WeaponSpread",GradeIncrease=7,bActivateSlot=True))</code>
 					</category>
 					<category name="Weapon Attributes Effect">
-						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.560000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectChanceModifier',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=0.450000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.800000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponShotCost',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=-2.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion',InitializationDefinition=None,BaseValueScaleConstant=3.000000)))</code>
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.300000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.560000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectChanceModifier',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=0.450000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.800000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponShotCost',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=-2.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion',InitializationDefinition=None,BaseValueScaleConstant=3.000000)))</code>
 					</category>
 					<category name="Weapon Card Attribute">
 						<code profiles="default">set WeaponPartDefinition'GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce' WeaponCardAttributes ((Attribute=AttributeDefinition'D_Attributes.GameplayAttributes.PlayerCriticalHitBonus',PriorityIncrease=8.000000),(Attribute=AttributeDefinition'D_Attributes.Weapon.WeaponShotCost',PriorityIncrease=0.600000),(Attribute=AttributeDefinition'D_Attributes.Weapon.WeaponSpread',PriorityIncrease=3.000000),(Attribute=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',PriorityIncrease=2.000000))</code>
@@ -80,9 +80,9 @@
 					</category>
 					<category name="Plasma Caster Firing Mode Visual">
 						<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce BeamTraceNumSteps 6.000000</code>
-						<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ConditionalPartSysTemplate EffectCollectionDefinition'GD_Weap_SMG.Effects.SMG_ETech_Tracers'</code>
+						<comment>setGD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ConditionalPartSysTemplate EffectCollectionDefinition'GD_Weap_SMG.Effects.SMG_ETech_Tracers'</comment>
 						<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce Lifetime 5.000000</code>
-						<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce PartSysTemplate ParticleSystem'FX_WEP_Trails.Particles.Alien.Part_Wep_Tracer_Alien_SMG'</code>
+						<comment>setGD_Weap_SMG.FiringModes.Bullet_SMG_Commerce PartSysTemplate ParticleSystem'FX_WEP_Trails.Particles.Alien.Part_Wep_Tracer_Alien_SMG'</comment>
 						<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce TraceInterval 0.200000</code>
 					</category>
 					<category name="Plasma Caster Firing Sound">
@@ -224,21 +224,37 @@
 				</category>
 			</category>
 			<category name="E-Tech Emissive Color (open to change a option)" MUT="true">
-				<category name="With E-Tech Emissive Color (Vanilla Version)">
-					<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MaterialVectorParameterValues ((ParameterName="p_EmissiveColor",ParameterValue=(R=1.200000,G=0.000000,B=0.600000,A=1.000000),ExpressionGUID=(A=1475816242,B=1139906328,C=-187360584,D=-1825963319)))</code>
-					<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce FiringGlowImpulse 0.250000</code>
-					<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GlowImpulseDecayDelay 0.200000</code>
-					<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GlowImpulseDecayRate 3.500000</code>
-					<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GlowScaleMaterialParamName p_EmissiveScale</code>
-					<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MaxGlowImpulseScale 5.000000</code>
+				<category name="With E-Tech Emissive Color (Vanilla version)">
+					<category name="Elemental Weapon + Flaps Color">
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MaterialVectorParameterValues ((ParameterName="p_EmissiveColor",ParameterValue=(R=1.200000,G=0.000000,B=0.600000,A=1.000000),ExpressionGUID=(A=1475816242,B=1139906328,C=-187360584,D=-1825963319)))</code>
+					</category>
+					<category name="Elemental Plasma Projectile Color">
+						<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce PartSysTemplate ParticleSystem'FX_WEP_Trails.Particles.Alien.Part_Wep_Tracer_Alien_SMG'</code>
+						<code profiles="default">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ConditionalPartSysTemplate EffectCollectionDefinition'FX_WEP_Trails.Particles.Part_Wep_Tracer_Wavy'</code>
+					</category>
+					<category name="Elemental Flaps Color">
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce FiringGlowImpulse 0.250000</code>
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GlowImpulseDecayDelay 0.200000</code>
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GlowImpulseDecayRate 3.500000</code>
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GlowScaleMaterialParamName p_EmissiveScale</code>
+						<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MaxGlowImpulseScale 5.000000</code>
+					</category>
 				</category>
 				<category name="With Explosive Emissive Color (Alternative version)">
-					<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MaterialVectorParameterValues ((ParameterName="p_EmissiveColor",ParameterValue=(R=3.480000,G=1.450000,B=0.460000,A=0.000000),ExpressionGUID=(A=1475816242,B=1139906328,C=-187360584,D=-1825963319)))</code>
-					<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce FiringGlowImpulse 0.250000</code>
-					<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GlowImpulseDecayDelay 0.200000</code>
-					<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GlowImpulseDecayRate 3.500000</code>
-					<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GlowScaleMaterialParamName p_EmissiveScale</code>
-					<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MaxGlowImpulseScale 5.000000</code>
+					<category name="Elemental Weapon + Flaps Color">
+						<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MaterialVectorParameterValues ((ParameterName="p_EmissiveColor",ParameterValue=(R=3.480000,G=1.450000,B=0.460000,A=0.000000),ExpressionGUID=(A=1475816242,B=1139906328,C=-187360584,D=-1825963319)))</code>
+					</category>
+					<category name="Elemental Plasma Projectile Color">
+						<code profiles="">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce PartSysTemplate ParticleSystem'FX_WEP_Trails.Particles.Part_Wep_Tracer_Wavy_Explosive'</code>
+						<code profiles="">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ConditionalPartSysTemplate EffectCollectionDefinition'FX_WEP_Trails.Particles.Part_Wep_Tracer_Wavy'</code>
+					</category>
+					<category name="Elemental Impulse Color">
+						<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce FiringGlowImpulse 0.250000</code>
+						<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GlowImpulseDecayDelay 0.200000</code>
+						<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GlowImpulseDecayRate 3.500000</code>
+						<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GlowScaleMaterialParamName p_EmissiveScale</code>
+						<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MaxGlowImpulseScale 5.000000</code>
+					</category>
 				</category>
 				<category name="Without Emissive Color">
 					<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce VectorParameterValues ((ParameterName="p_EmissiveColor",ParameterValue=(R=0.000000,G=0.000000,B=0.000000,A=1.000000),ExpressionGUID=(A=-2074486426,B=1296399582,C=-2021314681,D=-350758005)))</code>
@@ -267,12 +283,10 @@
 					</category>
 				</category>
 			</category>
-			<category name="Rarity Change (open to change a option)" MUT="true">
-				<category name="Fix for \"Koby's Rarity Color\" (just in case if you use it)">
-					<comment>Leave unchecked if you use the vanilla rarity system</comment>
-					<category name="Finesse (Commerce) \"Moxxi\" Rarity">
-						<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce rarity (BaseValueConstant=55.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
-					</category>
+			<category name="Fix for \"Koby's Rarity Color\" (just in case if you use it)">
+				<comment>Leave unchecked if you use the vanilla rarity system</comment>
+				<category name="Finesse (Commerce) \"Moxxi\" Rarity">
+					<code profiles="default">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce rarity (BaseValueConstant=55.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
 				</category>
 			</category>
 		</category>
@@ -280,8 +294,8 @@
 </BLCMM>
 
 #Commands:
-set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce AttributeSlotUpgrades ((SlotName="WeaponDamage",GradeIncrease=24,bActivateSlot=True),(SlotName="WeaponMagSize",GradeIncrease=7,bActivateSlot=True),(SlotName="WeaponSpread",GradeIncrease=7,bActivateSlot=True))
-set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.560000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectChanceModifier',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=0.450000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.800000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponShotCost',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=-2.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion',InitializationDefinition=None,BaseValueScaleConstant=3.000000)))
+set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce AttributeSlotUpgrades ((SlotName="WeaponDamage",GradeIncrease=10,bActivateSlot=True),(SlotName="WeaponMagSize",GradeIncrease=7,bActivateSlot=True),(SlotName="WeaponSpread",GradeIncrease=7,bActivateSlot=True))
+set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.300000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.560000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectChanceModifier',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=0.450000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.800000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponShotCost',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=-2.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion',InitializationDefinition=None,BaseValueScaleConstant=3.000000)))
 set WeaponPartDefinition'GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce' WeaponCardAttributes ((Attribute=AttributeDefinition'D_Attributes.GameplayAttributes.PlayerCriticalHitBonus',PriorityIncrease=8.000000),(Attribute=AttributeDefinition'D_Attributes.Weapon.WeaponShotCost',PriorityIncrease=0.600000),(Attribute=AttributeDefinition'D_Attributes.Weapon.WeaponSpread',PriorityIncrease=3.000000),(Attribute=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',PriorityIncrease=2.000000))
 set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
 set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 DamageRadiusFormula (BaseValueConstant=110.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
@@ -305,9 +319,7 @@ set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce ShellCasingSocket EjectPort
 set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GestaltModeSkeletalMeshName SMG_Barrel_Alien
 set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce CustomFiringModeDefinition FiringModeDefinition'GD_Weap_SMG.FiringModes.Bullet_Plasma_Default'
 set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce BeamTraceNumSteps 6.000000
-set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ConditionalPartSysTemplate EffectCollectionDefinition'GD_Weap_SMG.Effects.SMG_ETech_Tracers'
 set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce Lifetime 5.000000
-set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce PartSysTemplate ParticleSystem'FX_WEP_Trails.Particles.Alien.Part_Wep_Tracer_Alien_SMG'
 set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce TraceInterval 0.200000
 set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce SoundDefinition FiringModeSoundDefinition'GD_Weap_SMG.FiringModes.PlasmaSoundDefinition'
 set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ExplosionOverrideDefinition ExplosionCollectionDefinition'GD_Weap_SMG.Explosions.Plasma_Elemental_Explosions'
@@ -334,12 +346,15 @@ set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce bFlapsEnabled True
 set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce BoneControllers ((BoneName="AlienBarrelFin_LT",ControlType=WEAP_BONE_CONTROL_Flap,bUseInFirstPerson=True,bUseInThirdPerson=False,ControlTemplate=WillowSkelControl_RotateFlapFromFiring'GD_Weap_SMG.Barrel.SMG_Barrel_Alien:WillowSkelControl_RotateFlapFromFiring_0'),(BoneName="AlienBarrelFin_RT",ControlType=WEAP_BONE_CONTROL_Flap,bUseInFirstPerson=True,bUseInThirdPerson=False,ControlTemplate=WillowSkelControl_RotateFlapFromFiring'GD_Weap_SMG.Barrel.SMG_Barrel_Alien:WillowSkelControl_RotateFlapFromFiring_1'),(BoneName="AlienBarrelFin_LB",ControlType=WEAP_BONE_CONTROL_Flap,bUseInFirstPerson=True,bUseInThirdPerson=False,ControlTemplate=WillowSkelControl_RotateFlapFromFiring'GD_Weap_SMG.Barrel.SMG_Barrel_Alien:WillowSkelControl_RotateFlapFromFiring_2'),(BoneName="AlienBarrelFin_RB",ControlType=WEAP_BONE_CONTROL_Flap,bUseInFirstPerson=True,bUseInThirdPerson=False,ControlTemplate=WillowSkelControl_RotateFlapFromFiring'GD_Weap_SMG.Barrel.SMG_Barrel_Alien:WillowSkelControl_RotateFlapFromFiring_3'))
 set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce FlapsCollapseDuration (BaseValueConstant=0.500000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
 set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce FlapsExpandDuration (BaseValueConstant=2.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
-set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MaterialVectorParameterValues ((ParameterName="p_EmissiveColor",ParameterValue=(R=3.480000,G=1.450000,B=0.460000,A=0.000000),ExpressionGUID=(A=1475816242,B=1139906328,C=-187360584,D=-1825963319)))
+set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MaterialVectorParameterValues ((ParameterName="p_EmissiveColor",ParameterValue=(R=1.200000,G=0.000000,B=0.600000,A=1.000000),ExpressionGUID=(A=1475816242,B=1139906328,C=-187360584,D=-1825963319)))
+set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce PartSysTemplate ParticleSystem'FX_WEP_Trails.Particles.Alien.Part_Wep_Tracer_Alien_SMG'
+set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ConditionalPartSysTemplate EffectCollectionDefinition'FX_WEP_Trails.Particles.Part_Wep_Tracer_Wavy'
 set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce FiringGlowImpulse 0.250000
 set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GlowImpulseDecayDelay 0.200000
 set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GlowImpulseDecayRate 3.500000
 set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce GlowScaleMaterialParamName p_EmissiveScale
 set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MaxGlowImpulseScale 5.000000
+set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce rarity (BaseValueConstant=55.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
 
 #Hotfixes:
 set Transient.SparkServiceConfiguration_6 Keys ("SparkLevelPatchEntry-GBX_fixes1","SparkLevelPatchEntry-GBX_fixes2","SparkLevelPatchEntry-GBX_fixes3","SparkLevelPatchEntry-GBX_fixes4","SparkLevelPatchEntry-GBX_fixes5","SparkLevelPatchEntry-GBX_Fixes6","SparkLevelPatchEntry-GBX_Fixes7","SparkLevelPatchEntry-GBX_Fixes8","SparkLevelPatchEntry-GBX_Fixes9","SparkLevelPatchEntry-GBX_fixes10","SparkLevelPatchEntry-GBX_fixes11","SparkLevelPatchEntry-GBX_fixes12","SparkLevelPatchEntry-GBX_fixes13","SparkLevelPatchEntry-GBX_fixes14","SparkOnDemandPatchEntry-GBX_fixes15","SparkOnDemandPatchEntry-GBX_fixes16","SparkOnDemandPatchEntry-GBX_fixes17","SparkOnDemandPatchEntry-GBX_fixes18","SparkOnDemandPatchEntry-GBX_fixes19","SparkPatchEntry-GBX_fixes20","SparkPatchEntry-GBX_fixes21","SparkPatchEntry-GBX_fixes22","SparkPatchEntry-GBX_fixes23","SparkLevelPatchEntry-Reward2X1")

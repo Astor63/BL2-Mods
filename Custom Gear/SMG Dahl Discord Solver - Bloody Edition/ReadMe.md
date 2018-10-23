@@ -57,17 +57,20 @@ This Mod has few options, so feel free to use the BLCMM tool to select the best 
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 - The Weapon Card has a toggle option between English/French.
 - The Bloody skin has a toogle option between:
-    - The Bloody Skin: Grunge and bloody
-    - The Grunge Skin: Grunge (without blood)
+    - The *Bloody* Skin: Grunge and bloody
+    - The *Grunge* Skin: Grunge (without blood)
     - The original Lascaux Skin
-- The Explosive Elemental Color Glow has a toggle option between On/Off  
+- The Elemental Color Glow has a toggle option between:
+  - E-Tech Elemental Color (Vanilla)
+  - Explosive Elemental Color (Alternate)
+  - Off
 
 ... and few fix:
 
-- Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2) + Bayonet Buff
-- Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2)
-- Fix for Bayonet Buff in Slot 1
-- Fix for Koby "Rarity Color": AfterMarket (just in case if you use this old mod)  
+- Fix for Orudeon's *Bayonet Enhancements* (Bayonet in slot 2) + Orudeon's *Bayonet Buff*
+- Fix for Orudeon's *Bayonet Enhancements* (Bayonet in slot 2)
+- Fix for Orudeon's *Bayonet Buff* in Slot 1
+- Fix for Koby *Rarity Color*: *AfterMarket* rarity (just in case if you use this old mod)  
 
 ## Gibbed codes:
 
@@ -105,13 +108,13 @@ This Mod has few options, so feel free to use the BLCMM tool to select the best 
   ```
   [ ] set GD_Weap_SMG.Barrel.SMG_Barrel_Bandit_Lascaux ZoomWeaponAttributeEffects ((AttributeToModify = AttributeDefinition'D_Attributes.Weapon.WeaponAutomaticBurstCount',ModifierType = MT_PreAdd,BaseModifierValue = (BaseValueConstant = 1.000000, BaseValueAttribute = None, InitializationDefinition = None, BaseValueScaleConstant = 1.000000)))
   ``` 
-  - This mod use the *Pistol GyroJet Firing Mode*, so if you use any mode that changes the attributes from the Pistol GyroJet Firing Mode, it will affect this mod, and obviously the firing of the Discord Solver. In this case, Just revert the modification done previously to the Pistol GyroJet Firing Mode.
+  - This mod use the *Pistol GyroJet Firing Mode*, so if you use any mode that changes the attributes from this Firing Mode, it will affect this mod, and obviously the firing of the Discord Solver. In this case, Just revert the modification done previously to it.
   
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
    
 ### Other Recommended Mods:
 
-A great mod to check for the Discord Solver Bloody version:
+A great mod to check for the Discord Solver Bloody Edition:
 
 - [Double Anarchy v4](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/DoubleAnarchyv4.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000) : Changes the SMGs accuracy accessory into the Double Accessory from Borderlands 1... and your Discord Solver will shot 2 GyroJet Explosive bullets at the cost on 2 ammo, and will have a chance to be doubled and shot 4 GyroJet Explosive bullets at the ridiculous cost on 2 ammo.
 

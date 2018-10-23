@@ -62,20 +62,23 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 -  The Weapon Card has a toggle option between English/French.
-- The Explosive Elemental Color Glow has a toggle option between On/Off
-- The Discord Solver Moxxi Edition can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below).
+- The Elemental Color Glow has a toggle option between:
+  - E-Tech Elemental Color (Vanilla)
+  - Explosive Elemental Color (Alternate)
+  - Off
 - The Moxxi skin has a toggle option between:
-  - The Moxxi Signature *Classic* Edition ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can be used in any occasion.
-  - The Moxxi Signature *Elegance* Edition ("Red Cartier" in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.
-  - The Moxxi Signature *Pinky* Edition: To feel the glamour in pink, like a Barbie girl in a Barbie world.
+  - The *Moxxi Signature **Classic** Edition* ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can be used in any occasion.
+  - The *Moxxi Signature **Elegance** Edition* ("Red Cartier" in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.
+  - The Moxxi *Signature **Pinky** Edition*: To feel the glamour in pink, like a Barbie girl in a Barbie world.
+- The *Discord Solver Moxxi Edition* can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below).
 
 ... and few fix:
 
-- Fix for Akathis "No More Moxxi Lifesteal" - 1.5% passive health regeneration instead of 2.5% Lifesteal
-- Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2) + Bayonet Buff
-- Fix for Orudeon's "Bayonet Enhancements" (Bayonet in slot 2)
+- Fix for Akathis *No More Moxxi Lifesteal* - 1.5% passive health regeneration instead of 2.5% Lifesteal
+- Fix for Orudeon's *Bayonet Enhancements* (Bayonet in slot 2) + Bayonet Buff
+- Fix for Orudeon's *Bayonet Enhancements* (Bayonet in slot 2)
 - Fix for Bayonet Buff in Slot 1
-- Fix for Koby "Rarity Color Fix": Moxxi Rarity (just in case if you use this old mod)
+- Fix for Koby *Rarity Color*: *Moxxi* Rarity (just in case if you use this old mod)
 
 ![Discord Solver as reward for Moxxi mission](https://imgur.com/5f32G5e.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English") 
 
