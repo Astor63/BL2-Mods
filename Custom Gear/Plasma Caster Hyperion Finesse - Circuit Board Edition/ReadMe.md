@@ -95,8 +95,12 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 ## Changelog:
 
-v1.0.0, October 20, 2018
- - Initial public release
+- v1.0.0, October 20, 2018
+  - Initial public release
+- v1.0.1, October 22, 2018
+  - The Plasma Caster Finesse - Circuit Board Edition can become the reward given by Hyperion for the mission Uncle Teddy in Arid Nexus - Badlands.
+- v1.0.2, October 25, 2018
+  - Correct the wrong line of code (was *Set WeaponTypeDefinition'GD_Weap_SMG.A_Weapons...* instead of *Set GD_Weap_SMG.A_Weapons...*) repeated 9 times by using copy/paste to go faster.
   
 ## Credits & Thanks:
 

@@ -91,7 +91,9 @@ This Mod has few options, so feel free to use the BLCMM tool to select the best 
    - Totally revamp the FireMode
    - Clean the code  
 - v1.1.1, October 06, 2018  
-   - Added fix for Bayonet Buff in Slot 1: Bayonet gain 100% bonus melee damage (up from 50%)    
+   - Added fix for Bayonet Buff in Slot 1: Bayonet gain 100% bonus melee damage (up from 50%)
+- v1.1.2, October 25, 2018
+  - Correct the wrong line of code (was *Set WeaponTypeDefinition'GD_Weap_SMG.A_Weapons...* instead of *Set GD_Weap_SMG.A_Weapons...*) repeated 9 times by using copy/paste to go faster.-     
 
 ### Compatibility:
 

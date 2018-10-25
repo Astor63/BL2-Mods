@@ -103,9 +103,10 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 ## Changelog:
 
-v1.0.0, October 20, 2018
- - Initial public release
-
+- v1.0.0, October 20, 2018
+  - Initial public release
+- v1.0.1, October 25, 2018
+  - Correct the wrong line of code (was *Set WeaponTypeDefinition'GD_Weap_SMG.A_Weapons...* instead of *Set GD_Weap_SMG.A_Weapons...*) repeated 9 times by using copy/paste to go faster.
 ### Other Recommended Mods:
 
 A great mod to check for the Finesse Moxxi version:
