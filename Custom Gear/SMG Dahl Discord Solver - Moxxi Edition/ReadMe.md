@@ -16,9 +16,9 @@ This is where you can find it...
 ## What special with this weapon?
 - Keep (almost) of all the Lascaux Unique Dahl SMG specificity: very high firerate, variable burst-fire round, chance to shot two bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
   - Initial (too good) accuracy reduced, slower fireate, and slower reload, but...
-    - FireMode modified to shoot the Pistol GyroJet Explosive Bullet. 
+    - FireMode modified to shoot the *Pistol GyroJet Explosive Bullet*. 
     - The speed from the GyroJet Explosive bullet is 5x faster when fired by a SMG than a pistol (but it's still a lot more slower than a normal bullet fired by a SMG) 
-    - Chance  to shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
+    - Chance to shot two GyroJet explosive bullet simultaneously for the cost of one ammo (can be doubled if you use the Aaron00000's "Double Anarchy" mod).
     - Impact Explosion boosted by Grenade Damage.
 - Cosmetic:
   - MuzzleFlash upgraded to Explosive Bullet.
@@ -65,11 +65,10 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - The Elemental Color Glow has a toggle option between:
   - E-Tech Elemental Color (Vanilla)
   - Explosive Elemental Color (Alternate)
-  - Off
 - The Moxxi skin has a toggle option between:
   - The *Moxxi Signature **Classic** Edition* ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can be used in any occasion.
   - The *Moxxi Signature **Elegance** Edition* ("Red Cartier" in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.
-  - The Moxxi *Signature **Pinky** Edition*: To feel the glamour in pink, like a Barbie girl in a Barbie world.
+  - The *Moxxi Signature **Pinky** Edition*: (*Outrageous Pink* in the Good Touch/SlowHand style) to feel the glamour in pink, like a Barbie girl in a Barbie world.
 - The *Discord Solver Moxxi Edition* can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see picture below).
 
 ... and few fix:
@@ -88,17 +87,17 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
 
-- Should be compatible with most other mods, as long as they do not modify the Pocket Rocket Firing Mode.
+- Should be compatible with most other mods, as long as they do not modify the *Pistol Explosive GyroJet Bullet*.
 
 - Just be aware from the following:
 
   - To be sure to get the fix Orudeon's Bayonet Enhancements and/or Orudeon's Bayonet Buff working correctly (as intended), don't forget to place my mod **AFTER** Orudeon's Bayonet Enhancements & Bayonet Buff. 
  
-  - This Mod **KEEP** the specific burst from the Lascaux, so if you use the Bandit Brand Tweaks v1.2 by Orudeon, there is a option that reduce the burst to five-shot bursts.  To get back the specific burst, just open your Orudeon's Bandit Brand Tweaks folder, go to: *SMG/Burst Count/* (if you use the Gears Overhaul Orudeon's Mod v1.35, the path will be: *Brands Tweaks/Bandit Brand Tweaks v1.2 by Orudeon/SMG/Burst Count/*) and uncheck the following line:  
+  - This Mod **KEEP** the specific burst from the *Unique SMG Lascaux*, so if you use the Bandit Brand Tweaks v1.2 by Orudeon, there is a option that reduce the burst to five-shot bursts. To get back the specific burst, just open your Orudeon's Bandit Brand Tweaks folder, go to: *SMG/Burst Count/* (if you use the Gears Overhaul Orudeon's Mod v1.35, the path will be: *Brands Tweaks/Bandit Brand Tweaks v1.2 by Orudeon/SMG/Burst Count/*) and uncheck the following line:  
   ```
   [ ] set GD_Weap_SMG.Barrel.SMG_Barrel_Bandit_Lascaux ZoomWeaponAttributeEffects ((AttributeToModify = AttributeDefinition'D_Attributes.Weapon.WeaponAutomaticBurstCount',ModifierType = MT_PreAdd,BaseModifierValue = (BaseValueConstant = 1.000000, BaseValueAttribute = None, InitializationDefinition = None, BaseValueScaleConstant = 1.000000)))
   ``` 
-  - This mod use the *Pistol GyroJet Firing Mode*, so if you use any mode that changes the attributes from the Pistol GyroJet Firing Mode, it will affect this mod, and obviously the firing of the Discord Solver. In this case, Just revert the modification done previously to the Pistol GyroJet Firing Mode.
+  - This mod use the *Pistol Explosive GyroJet Bullet*, so if you use any mode that changes the attributes from this Firing Mode, it will affect this mod, and obviously the firing of the *Discord Solver*. In this case, just revert the modification done previously to it.
   
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Discord Solver with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
    

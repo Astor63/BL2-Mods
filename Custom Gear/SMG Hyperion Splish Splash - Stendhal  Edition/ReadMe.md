@@ -14,7 +14,7 @@ The *SMG Hyperion Splish Splash - Stendhal Edition* can be a drop from Assassin 
 
 ## What special with this weapon?
 
-- Fire SEAMB (Smart Elemental Adaptive Maliwan Bullet) a elemental explosive bullet which adapt his Elemental following the kind of impact:
+- Fire SEAMB (Smart Elemental Adaptive Maliwan Bullet) a elemental explosive bullet which adapt his Elemental Splash following the kind of impact:
   - Incendiary on flesh
   - Shock on shield
   - Corrosive on armor
@@ -59,12 +59,11 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 This Mod has few options, so feel free to use the BLCMM tool to select the best option that suit you:
 
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
-- No Elemental Splash Self-Damage can be turned On/Off.
+- *No Elemental Splash Self-Damage* can be turned On/Off.
 - The Weapon Card has a toggle option between English/French.
 - The Elemental Color Glow has a toggle option between:
   - E-Tech Elemental Color (Vanilla)
   - Explosive Elemental Color (Alternate)
-  - Off
 - The skin has a toggle option between:
   - Stendhal Shiny Edition
   - Stendhal Mat Edition
@@ -84,6 +83,7 @@ This Mod has few options, so feel free to use the BLCMM tool to select the best 
 ## Compatibility:
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team).
+- Should be compatible with most other mods, as long as they do not modify the *Tinderbox/Hornet/Twister Firing Mode*.
 - Just be aware from the following:
   - This mod use the following Firing Mode: Tinderbox/Hornet/Twister, so if you use any mod wich changes the attributes from any of these Firing Mode, it will affect this mod, and obviously the Firing Mode of the *SMG Hyperion Splish Splash*. In this case, just revert the modification done previously to these Firing Mode.
   - This mod use Grenade Damage for the Splash Format, so if you are going to use the *SMG Hyperion Splish Splash* with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.

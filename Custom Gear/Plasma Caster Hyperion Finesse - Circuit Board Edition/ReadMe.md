@@ -14,7 +14,7 @@ The Plasma Caster Hyperion Finesse can be a drop from Assassin Wot fought during
 
 ## What special with this weapon?
 
-- Fire SEAPP (Smart Elemental Adaptive Plasma Projectile) exploding only in contact with a enemy: a Alien Plasma Projectile which adapt his Elemental following the kind of impact:
+- Fire SEAPP (Smart Elemental Adaptive Plasma Projectile) exploding only in contact with a enemy and adapting his Elemental Splash following the kind of impact:
   - Incendiary on flesh
   - Shock on shield
   - Corrosive on armor
@@ -34,12 +34,12 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Fire Cost:        | 1 bullet cost 1 ammo  | 1 SEAPP cost 2 ammo   |
 | Bullet Speed:     | 17.000 (Commerce) / 6.000 (Plasma Caster)| 4.500| 
 |**Elemental Tech:**|                        |                       |                                 
-| Elemental:        | Shock                  | Elemental Adaptive    | 
+| Elemental:        | Shock                  | Adaptive (Corrosive/Fire/Shock)| 
 | Shock dmg/sec:    | 7644,8 (level 72)      | 7644,8 (level 72)     | 
 | Corrosive dmg/sec:| N/A                    | 7644,8 (level 72)     | 
 | Fire dmg/sec:     | N/A                    | 7644,8 (level 72)     | 
 | Elemental Chance: | 10/12%                 | 20%                   |  
-| Impact:           | Piercing round         | Elemental Splash (on enemy only)| 
+| Impact:           | Piercing round         | Adaptive Elemental Splash (on enemy only)| 
 | Splash Format:    | None                   | Grenade               | 
 |**Other:**         |                        |                       | 
 | Critical Hit:     | None                   | None                  |
@@ -59,7 +59,6 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - The Elemental Color Glow has a toggle option between:
   - E-Tech Elemental Color (Vanilla)
   - Explosive Elemental Color (Alternate)
-  - Off
 - The skin has a toggle option between:
   - The *Blue* Circuit Board
   - The *Yellow* Circuit Board
@@ -74,8 +73,9 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 ## Compatibility:
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team).
+- Should be compatible with most other mods, as long as they do not modify the *Tinderbox/Hornet/Twister Firing Mode*.
 - Just be aware from the following:
-  - This mod use the following Firing Mode: Pocket Rocket/Tinderbox/Hornet/Twister, so if you use any mod wich changes the attributes from any of these Firing Mode, it will affect this mod, and obviously the firing of the Finesse. In this case, just revert the modification done previously to these Firing Mode.
+  - This mod use the following Firing Mode: Tinderbox/Hornet/Twister, so if you use any mod wich changes the attributes from any of these Firing Mode, it will affect this mod, and obviously the firing of the Finesse. In this case, just revert the modification done previously to these Firing Mode.
   - This mode use Grenade Damage for the Splash Format, so if you are going to use the Plasma Caster Finesse with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
   - This Mod as a option which make the *Discord Solver - Circuit Board Edition* becoming the reward given by Hyperion for the mission *Uncle Teddy*  in Arid Nexus - Badlands, so be sure that you place this mod **AFTER** my mod *Double Quest Reward Redux* or any other mod modifying the Quest Reward.
 
