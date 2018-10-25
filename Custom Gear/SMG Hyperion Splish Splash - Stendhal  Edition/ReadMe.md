@@ -4,7 +4,7 @@ To help keep them competitive in a world that demands element-matching, Hyperion
 
 Unfortunately, the mastery of the Elemental technology was in its infancy, and especially very expensive, making the price of sale of this weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary SMG only after a few (rare) copies sold.
 
-## Where to find it?
+### Where to find it?
 
 The *SMG Hyperion Splish Splash - Stendhal Edition* can be a drop from Assassin Wot fought during the side mission *Assassinate the Assassins* (Southpaw Steam & Power)... and can also drop from (the same) Assassin Wot at the end of the *A History of Simulated Violence* mission (Digistruct Peak). 
 
@@ -12,7 +12,7 @@ The *SMG Hyperion Splish Splash - Stendhal Edition* can be a drop from Assassin 
 
 **Note:** If you are too lazy to fight Assassin Wot, The *SMG Splish Splash - Stendhal Edition* can become the reward given by Hyperion for the mission *Uncle Teddy* in Arid Nexus - Badlands.... or you can use the Gibbed Codes that you will find below.
 
-## What special with this weapon?
+### What special with this weapon?
 
 - Fire SEAMB (Smart Elemental Adaptive Maliwan Bullet) a elemental explosive bullet which adapt his Elemental Splash following the kind of impact:
   - Incendiary on flesh
@@ -56,7 +56,7 @@ To summarize: elemental effect damage is improved by 33%, elemental chance by a 
 ![SMG Hyperion Splish Splash - Stendahl Edition](https://imgur.com/UHE3AZo.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 **Note:** The Stendhal skin... vaguely inspired by the book cover of *Le Rose et le Vert* (French for *The Pink and the Green*), the unfinished novel from Stendhal written in 1837.
 
-## Options: 
+### Options: 
 This Mod has few options, so feel free to use the BLCMM tool to select the best option that suit you:
 
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
@@ -81,7 +81,7 @@ This Mod has few options, so feel free to use the BLCMM tool to select the best 
 
 **Note:** You can toggle between the choice from 2 *Splish Splash - Stendhal Edition* or between the choice from 1 *Splish Splash - Stendhal Edition* & 1 SMG *Bitch* (Legendary). 
 
-## Compatibility:
+### Compatibility:
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team).
 - Should be compatible with most other mods, as long as they do not modify the *Tinderbox/Hornet/Twister Firing Mode*.
@@ -90,7 +90,7 @@ This Mod has few options, so feel free to use the BLCMM tool to select the best 
   - This mod use Grenade Damage for the Splash Format, so if you are going to use the *SMG Hyperion Splish Splash* with a Siren character :warning: Maya :warning: , don't forget to toggle the Grenade Damage to Reaper Splash Damage.
   - This Mod as a option which make the *SMG Hyperion Splish Splash* becoming the reward given by Hyperion for the mission *Uncle Teddy*  in Arid Nexus - Badlands, so be sure that you place this mod **AFTER** my mod *Double Quest Reward Redux* or any other mod modifying the Quest Reward.
 
-## Gibbed codes:
+### Gibbed codes:
 
 | Prefix                       | Accessory    | Gibbed code                 | 
 | -------------                | -------------| -------------               | 
@@ -102,23 +102,23 @@ This Mod has few options, so feel free to use the BLCMM tool to select the best 
 | Cutting Edge Commerce        | Melee        | BL2(hwAAAADHBwBCyANBDIFEdmI5wdKMZQELC5b//xJY/v8rY5HBgo3l)|
 | Inspiring/Energizing Commerce| No Accessory | BL2(hwAAAABvlgBCyANBDIFEdmI5wdKMZQELC5b//xFY/v8rY2FBgo3l)|
 
-## Changelog:
+### Changelog:
 
 v1.0.0, October 25, 2018
  - Initial public release
   
-## Credits & Thanks:
+### Credits & Thanks:
 
 I find a lot of useful informations on the Resource page from the [Wiki](https://github.com/BLCM/BLCMods/wiki) of course, but also on the [Resources page](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave/Resources) and the great [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf) ... all that made by [Dave](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave), so thanks for your work, @DaveRabbit 
 
 Oh! I almost forget... I also follow step-by-step this [How to make a modded weapon](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Tsunami-s%20Guns%20Cannons%20And%20Flamethrowers/(((How%20to%20make%20a%20modded%20weapon))).txt) guide writing by [Tsunami](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Tsunami-s%20Guns%20Cannons%20And%20Flamethrowers), thanks to you too, @Tsunami7900  
 
-## Note: 
+### Note: 
 
 Any critique would be appreciated because I am new in weapon modding... and by the way, please leave constructive criticism if you make a video. 
 Enjoy!
 
-## Disclaimer
+### Disclaimer
 
 All files and content provided here were written by me (Astor), unless stated otherwise.
 

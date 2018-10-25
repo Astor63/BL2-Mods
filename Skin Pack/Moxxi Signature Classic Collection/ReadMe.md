@@ -17,20 +17,21 @@ That doesn't make sense to me... and it's just not prettier!
 But now with the *Moxxi Signature Classic Collection*, there are all uniform to look like an actual manufacturer.
 
 ![Moxxi Signature Classic Gear ](https://imgur.com/Y7eGuJ2.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
-## Changelog:
+
+### Changelog:
 
 - v1.0.0, October 10, 2018
   - Initial public release
  
-## Compatibility:
+### Compatibility:
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
 
-## To do:
+### To do:
 
 - [ ] Clean the code and remove all my ~~shitty~~ notes.
  
-## Other Recommended Mods:
+### Other Recommended Mods:
 
 Some great mods to check for the *Moxxi Signature Classic Collection*:
 
@@ -45,18 +46,18 @@ As this version of the Discord Solver is a Moxxi weapon, you can choose between 
 ![Finesse Moxxi Signature Classic and Cartier](https://imgur.com/1ziVoro.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 As this version of the Finesse is a Moxxi weapon, you can choose between 3 Moxxi Signature skin : the Classic skin, the Elegance skin or the Pinky skin.
 
-## Credits & Thanks:
+### Credits & Thanks:
 
 First of all, I need thanks [PsychoPatate](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/PsychoPatate "PsychoPatate") for his help, his kindness, his video tutorial -and his patience!-  when I was getting nowhere fast (in French: "lorsque je pédalais dans la semoule" :wink:) to realize my 1st *Moxxi Signature Classic* skin for the Discod Solver; so a big -and special- thanks to you @PsychoPatate.
 
 I find a lot of useful informations on the  great [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf) ... all that made by [Dave](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave) , so thanks for your great work, @DaveRabbit
   
-## Note: 
+### Note: 
 
 Any critique would be appreciated as this is my 1st Collection... and by the way, please leave constructive criticism if you make a video. 
 Enjoy!
 
-## Disclaimer
+### Disclaimer
 
 All files and content provided here were written by me (Astor), unless stated otherwise.
 

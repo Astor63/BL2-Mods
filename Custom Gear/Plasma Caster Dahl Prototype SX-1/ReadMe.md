@@ -13,7 +13,7 @@ This is where you can find it....
 **Note:** If you are too lazy to walk to Frostburn Canyon, you will find the Gibbed Codes below.
 
 
-## What special with this weapon?
+### What special with this weapon?
 
 - Keep the typical fire pattern from the Lascaux Unique Dahl SMG (for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux)) mixed  with the Plasma caster specificity, and get the chance to shot a extra explosive plasma projectile for the cost of two ammo.
 - Initial (too good) accuracy reduced, slower fireate, and slower reload, but...
@@ -59,7 +59,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
   - Explosive Elemental Color (Alternate) 
 - Fix for Koby *Rarity Color*: *AfterMarket* (just in case if you use this old mod)  
 
-## Gibbed codes:
+### Gibbed codes:
 
 | Prefix               | Accessory       | Gibbed code                 | 
 | -------------        | -------------   | -------------               | 

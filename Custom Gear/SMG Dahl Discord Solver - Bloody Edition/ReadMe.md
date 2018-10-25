@@ -13,7 +13,7 @@ This is where you can find it....
 **Note:** If you are too lazy to walk to Frostburn Canyon, you will find the Gibbed Codes below.
 
 
-## What special with this weapon?
+### What special with this weapon?
 
 
 - Keep (almost) of all the Lascaux Unique Dahl SMG specificity: very high firerate, variable burst-fire round, chance to shot two bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
@@ -71,7 +71,7 @@ This Mod has few options, so feel free to use the BLCMM tool to select the best 
 - Fix for Orudeon's *Bayonet Buff* in Slot 1
 - Fix for Koby *Rarity Color*: *AfterMarket* rarity (just in case if you use this old mod)  
 
-## Gibbed codes:
+### Gibbed codes:
 
 | Prefix               | Accessory       | Gibbed code                 | 
 | -------------        | -------------   | -------------               | 

@@ -18,19 +18,19 @@ I keep the vanilla pink color, colorize the metal part in white, adapt the Moxxi
 
 And now, like a Barbie girl in a Barbie world; you can feel the glamour in pink with the *Moxxi Signature Pinky Collection*.
 
-## Changelog:
+### Changelog:
 - v1.0.0, October 15, 2018
   - Initial public release
  
-## Compatibility:
+### Compatibility:
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
 
-## To do:
+### To do:
 
 - [ ] Clean the code and remove all my ~~shitty~~ notes.
 
-## Other Recommended Mods:
+### Other Recommended Mods:
 
 Some great mods to check for the *Moxxi Signature Pinky Collection*:
 
@@ -45,16 +45,16 @@ As this version of the Discord Solver is a Moxxi weapon, you can choose between 
 ![Finesse Moxxi Signature Classic and Cartier](https://imgur.com/1ziVoro.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 As this version of the Finesse is a Moxxi weapon, you can choose between 3 Moxxi Signature skin : the Classic skin, the Elegance skin or the Pinky skin.   
 
-## Credits & Thanks:
+### Credits & Thanks:
 
 Without the great [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf) ... I won't be able to make any skin, so thanks for your great work, @DaveRabbit
   
-## Note: 
+### Note: 
 
 Any critique would be appreciated as I am still beginner to make weapon skin... and by the way, please leave constructive criticism if you make a video. 
 Enjoy!
 
-## Disclaimer
+### Disclaimer
 
 All files and content provided here were written by me (Astor), unless stated otherwise.
 
