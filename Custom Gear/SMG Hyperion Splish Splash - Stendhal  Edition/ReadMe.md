@@ -33,15 +33,15 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | -------------     | -------------          | -------------         | 
 | **Bullet Tech:**  |                        |                       |                                
 | Bullet:           | Standard               | SEAMB (Smart Elemental Adaptive Maliwan Bullet)| 
-| Bullet Damage:    | SMG Standard           | -32%                  |
-| Fire Cost:        | 1 bullet cost 1 ammo   | 1 SEAMB cost 2 ammo   |
+| Bullet Damage:    | SMG Standard           | -20%                  |
+| Fire Cost:        | 1 bullet cost 1 ammo   | 1 SEAMB cost 2 ammos  |
 | Bullet Speed:     | 17.000                 | 15.000                | 
 |**Elemental Tech:**|                        |                       |                                 
 | Elemental:        | Shock                  | Elemental Adaptive    | 
-| Shock dmg/sec:    | 7644,8 (level 72)      | 10.167,6 (level 72)   | 
-| Corrosive dmg/sec:| N/A                    | 10.167,6 (level 72)   | 
-| Fire dmg/sec:     | N/A                    | 10.167,6 (level 72)   | 
-| Elemental Chance: | 10/12%                 | 15%                   |  
+| Shock dmg/sec:    | 7644,8                 | 10.167,6 (+33%)       | 
+| Corrosive dmg/sec:| N/A                    | 10.167,6 (+33%)       | 
+| Fire dmg/sec:     | N/A                    | 10.167,6 (+33%)       | 
+| Elemental Chance: | 10/12%                 | 15/17% (+5%)          |  
 | Impact:           | Piercing round         | Adaptive Elemental Splash (on enemy only) - Explosive on anything else| 
 | Splash Format:    | None                   | Grenade               | 
 | Splash Radius:    | None                   | 170                   | 
@@ -51,7 +51,8 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Skin:             | Commerce (Vanilla skin)| Stendhal skin         | 
 | Rarity:           | Unique                 | Unique                | 
   
-  
+To summarize: elemental effect damage is improved by 33%, elemental chance by a small amount (±5%), get the benefit from Maliwan Sniper bullet splash (50%), but the initial base damage is lowered by 20% to compensate. 
+
 ![SMG Hyperion Splish Splash - Stendahl Edition](https://imgur.com/UHE3AZo.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 **Note:** The Stendhal skin... vaguely inspired by the book cover of *Le Rose et le Vert* (French for *The Pink and the Green*), the unfinished novel from Stendhal written in 1837.
 

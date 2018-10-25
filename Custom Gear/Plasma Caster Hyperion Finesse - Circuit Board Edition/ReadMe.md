@@ -31,14 +31,15 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | -------------     | -------------          | -------------         | 
 | **Bullet Tech:**  |                        |                       |                                
 | Bullet:           | Standard               | SEAPP (Smart Elemental Adaptive Plasma Projectile)| 
-| Fire Cost:        | 1 bullet cost 1 ammo  | 1 SEAPP cost 2 ammo   |
-| Bullet Speed:     | 17.000 (Commerce) / 6.000 (Plasma Caster)| 4.500| 
+| Bullet Damage:    | SMG Standard           | -20% from Plasma Projectile Damage|
+| Fire Cost:        | 1 bullet cost 1 ammo  | 1 SEAPP cost 2 ammos   |
+| Bullet Speed:     | 17.000 (Commerce) / 6.000 (Plasma Caster)| 6.000| 
 |**Elemental Tech:**|                        |                       |                                 
 | Elemental:        | Shock                  | Adaptive (Corrosive/Fire/Shock)| 
-| Shock dmg/sec:    | 7644,8 (level 72)      | 7644,8 (level 72)     | 
-| Corrosive dmg/sec:| N/A                    | 7644,8 (level 72)     | 
-| Fire dmg/sec:     | N/A                    | 7644,8 (level 72)     | 
-| Elemental Chance: | 10/12%                 | 20%                   |  
+| Shock dmg/sec:    | 7644,8                 | 10.167,6 (+33%)       | 
+| Corrosive dmg/sec:| N/A                    | 10.167,6 (+33%)       | 
+| Fire dmg/sec:     | N/A                    | 10.167,6 (+33%)       | 
+| Elemental Chance: | 10/12%                 | 15/17% (+5%)          |  
 | Impact:           | Piercing round         | Adaptive Elemental Splash (on enemy only)| 
 | Splash Format:    | None                   | Grenade               | 
 |**Other:**         |                        |                       | 
@@ -47,7 +48,8 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Skin:             | Commerce (Vanilla skin)| Circuit Board skin    | 
 | Rarity:           | Unique                 | Unique / Legendary    | 
   
-  
+To summarize: elemental effect damage is improved by 33%, elemental chance by a small amount (±5%), get the benefit from Maliwan Sniper bullet splash (50%), but the initial base damage is lowered by 20% to compensate. 
+
 ![Plasma Caster Finesse - Circuit Board Edition](https://imgur.com/FGWsUWG.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 **Note:** The Circuit Board skins... as its name suggests, looks like a circuit board... and you have the choice between 2 Circuit Board skin: the *Blue Circuit Board* or the *Yellow Circuit Board*!
 
