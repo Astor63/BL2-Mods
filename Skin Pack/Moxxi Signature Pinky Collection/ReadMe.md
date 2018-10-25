@@ -1,4 +1,4 @@
-﻿## Moxxi Signature Pinky Collection
+## Moxxi Signature Pinky Collection
 
 Recently, when a friend showed me his latest acquisitions for his Hot Wheels collection, I noticed the *Corvette Stingray (Barbie) Pink 2018*: all Pink & White! 
 
@@ -18,28 +18,43 @@ I keep the vanilla pink color, colorize the metal part in white, adapt the Moxxi
 
 And now, like a Barbie girl in a Barbie world; you can feel the glamour in pink with the *Moxxi Signature Pinky Collection*.
 
-### Changelog:
+## Changelog:
 - v1.0.0, October 15, 2018
   - Initial public release
  
-### Compatibility:
+## Compatibility:
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
 
-### To do:
+## To do:
 
-- [ ] Clean the code and remove all my ~~shitty~~ notes. 
+- [ ] Clean the code and remove all my ~~shitty~~ notes.
 
-### Credits & Thanks:
+## Other Recommended Mods:
+
+Some great mods to check for the *Moxxi Signature Pinky Collection*:
+
+- [SMG Dahl Discord Solver - Moxxi Edition](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Astor/Custom%20Gear/SMG%20Dahl%20Discord%20Solver%20-%20Moxxi%20Edition) by [Astor](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Astor). A SMG which shot GyroJet explosive bullet.
+
+![Discord Solver Moxxi Signature Classic and Cartier](https://imgur.com/W8VaHzJ.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
+As this version of the Discord Solver is a Moxxi weapon, you can choose between 3 Moxxi Signature skin : the *Classic* skin, the *Elegance* skin or the *Pinky* skin.
+
+- [Plasma Caster Hyperion Finesse - Moxxi Edition](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Astor/Custom%20Gear/Plasma%20Caster%20Hyperion%20Finesse%20-%20Moxxi%20Edition) by [Astor](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Astor). A Plasma Caster which fire SEAPP (Smart Elemental Adaptive Plasma Projectile)  adapting his Elemental following the kind of impact.
+
+![Finesse Moxxi Signature Classic and Cartier](https://imgur.com/1ziVoro.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+As this version of the Finesse is a Moxxi weapon, you can choose between 3 Moxxi Signature skin : the Classic skin, the Elegance skin or the Pinky skin.   
+
+## Credits & Thanks:
 
 Without the great [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf) ... I won't be able to make any skin, so thanks for your great work, @DaveRabbit
   
-### Note: 
+## Note: 
 
 Any critique would be appreciated as I am still beginner to make weapon skin... and by the way, please leave constructive criticism if you make a video. 
 Enjoy!
 
-### Disclaimer
+## Disclaimer
 
 All files and content provided here were written by me (Astor), unless stated otherwise.
 

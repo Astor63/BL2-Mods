@@ -54,7 +54,7 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 
 To summarize: elemental effect damage is improved by 33%, elemental chance by a small amount (±5%), get the benefit from Maliwan Sniper bullet splash (50%), but the initial base damage is lowered by 20% to compensate. 
 
-![Discord Solver Moxxi Signature Classic and Cartier](https://imgur.com/1ziVoro.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Finesse Moxxi Signature Classic and Cartier](https://imgur.com/1ziVoro.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 **Note:** As this version of the Finesse is a Moxxi weapon, you can choose between 3 Moxxi Signature skin : the Classic skin, the Elegance skin or the Pinky skin.
 
 ## Options: 
@@ -107,11 +107,17 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
   - Initial public release
 - v1.0.1, October 25, 2018
   - Correct the wrong line of code (was *Set WeaponTypeDefinition'GD_Weap_SMG.A_Weapons...* instead of *Set GD_Weap_SMG.A_Weapons...*) repeated 9 times by using copy/paste to go faster.
-### Other Recommended Mods:
+## Other Recommended Mods:
 
-A great mod to check for the Finesse Moxxi version:
+Some great mods to check for the *Finesse - Moxxi Edition*:
 
 - [No More Moxxi Lifesteal v2.0](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Akathris/NoMoreMoxxiLifestealv2.0.txt) by [Akathris](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Akathris). His Mod is self explanatory: removes lifesteal from Moxxi weapons and changes it to passive health regeneration.
+
+- [SMG Dahl Discord Solver - Moxxi Edition](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Astor/Custom%20Gear/SMG%20Dahl%20Discord%20Solver%20-%20Moxxi%20Edition) by [Astor](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Astor). A SMG which shot GyroJet explosive bullet.
+ 
+![Discord Solver Moxxi Signature Classic and Cartier](https://imgur.com/W8VaHzJ.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
+**Note:** As this version of the Discord Solver is a Moxxi weapon, you can choose between 3 Moxxi Signature skin : the *Classic* skin, the *Elegance* skin or the *Pinky* skin.
   
 ## Credits & Thanks:
 

@@ -1,6 +1,6 @@
-## SMG Dahl Discord Solver (Moxxi Edition)
+## SMG Dahl Discord Solver - Moxxi Edition
  
-In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG who shot GyroJet explosive bullet. 
+In their early days in their making of weapons, Dahl, in collaboration with Torgue created the Discord Solver, a SMG which shot GyroJet explosive bullet. 
  
 Unfortunately, the agreement between the two weapons manufacturers did not last long, and the production of the SMG stopped quickly -How ironic for a weapon that's named Discord Solver!- and Torgue seized the patents to create the Pocket Rocket.
 
@@ -54,9 +54,9 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 
 ![Discord Solver Moxxi Signature Classic and Cartier](https://imgur.com/W8VaHzJ.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-**Note:** As this version of the Discord Solver is a Moxxi weapon, you can choose between 3 Moxxi Signature skin : the *Classic* skin, the *Elegance* skin or the *Pinky* skin
+**Note:** As this version of the Discord Solver is a Moxxi weapon, you can choose between 3 Moxxi Signature skin : the *Classic* skin, the *Elegance* skin or the *Pinky* skin.
 
-### Options: 
+## Options: 
 
 This Mod has few options & fix, so feel free to use the BLCMM tool to select the best option that suit you.
 
@@ -83,7 +83,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 
 **Note:** You can toggle between the choice from 2 *Discord Solver Moxxi Edition* or between the choice from 1 *Discord Solver Moxxi Edition* & 1 grenade *Kiss of Death*. 
 
-### Compatibility:
+## Compatibility:
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
 
@@ -116,7 +116,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 | Bladed Lascaux       | Melee           | BL2(hwAAAADydgBB6ANBBIFEcmIpwQKNJQGLChYGLBJY/v8vY4nBYo3l) |
 | Smooth Lascaux       | No Accessory    | BL2(hwAAAAAj3gBB6ANBBIFEcmIpwQKNJQGLChYGLBFY/v8vY0FAYo3l) |
 
-### Changelog:
+## Changelog:
 
 - v1.0.0, September 8, 2018
   - Initial public release
@@ -129,30 +129,35 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
   - Added Moxxi Signature *Pinky* Skin   
 - v1.1.3, October 25, 2018
   - Correct the wrong line of code (was *Set WeaponTypeDefinition'GD_Weap_SMG.A_Weapons...* instead of *Set GD_Weap_SMG.A_Weapons...*) repeated 9 times by using copy/paste to go faster.
-### Other Recommended Mods:
+## Other Recommended Mods:
 
-A great mod to check for the Discord Solver Moxxi version:
+Some great mods to check for the *Discord Solver - Moxxi Edition*:
 
 - [No More Moxxi Lifesteal v2.0](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Akathris/NoMoreMoxxiLifestealv2.0.txt) by [Akathris](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Akathris). His Mod is self explanatory: removes lifesteal from Moxxi weapons and changes it to passive health regeneration.
-  
-### To do:
+
+- [Plasma Caster Hyperion Finesse - Moxxi Edition](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Astor/Custom%20Gear/Plasma%20Caster%20Hyperion%20Finesse%20-%20Moxxi%20Edition) by [Astor](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Astor). A Plasma Caster which fire SEAPP (Smart Elemental Adaptive Plasma Projectile)  adapting his Elemental following the kind of impact.
+
+![Finesse Moxxi Signature Classic and Cartier](https://imgur.com/1ziVoro.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+As this version of the Finesse is a Moxxi weapon, you can choose between 3 Moxxi Signature skin : the Classic skin, the Elegance skin or the Pinky skin.
+
+## To do:
 
 - [x] Clean the code and remove all my ~~shitty~~ notes. 
 - [ ] Make (again) fews kills to be sure that all work correctly.
 
-### Credits & Thanks:
+## Credits & Thanks:
 First of all, I need thanks [PsychoPatate](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/PsychoPatate "PsychoPatate") for his help -and his patience!-  when I was getting nowhere fast (in French: "lorsque je pédalais dans la semoule" :wink:) to realise my 1st *Moxxi Signature Classic* skin; so a big -and special- thanks to you @PsychoPatate.
 
 I find a lot of useful informations on the Resource page from the [Wiki](https://github.com/BLCM/BLCMods/wiki) of course, but also on the [Resources page](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave/Resources) and the great [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf) ... all that made by [Dave](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/Dave), so thanks for your great work, @DaveRabbit
 
 Oh! I almost forget... I also follow step-by-step this [How to make a modded weapon](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Tsunami-s%20Guns%20Cannons%20And%20Flamethrowers/(((How%20to%20make%20a%20modded%20weapon))).txt) guide writing by [Tsunami](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Tsunami-s%20Guns%20Cannons%20And%20Flamethrowers) , thanks to you too, @Tsunami7900  
   
-### Note: 
+## Note: 
 
 Any critique would be appreciated as this is my 2nd weapon... and by the way, please leave constructive criticism if you make a video. 
 Enjoy!
 
-### Disclaimer
+## Disclaimer
 
 All files and content provided here were written by me (Astor), unless stated otherwise.
 
