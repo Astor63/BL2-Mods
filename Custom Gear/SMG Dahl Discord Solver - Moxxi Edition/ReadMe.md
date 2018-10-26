@@ -35,7 +35,7 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | -------------       | -------------         |  -------------            |  
 | **Bullet Tech:**    |                       |                           | 
 | Bullet Type:        | Standard              | GyroJets Explosive        |
-| Bullet Damage:      | SMG Standard          | -10%                      |
+| Bullet Damage:      | SMG Standard          | -10% from SMG Standard    |
 | Fire Cost:          | 1 bullet cost 1 ammo  | 1 bullet cost 1 ammo      |
 | Bullet Speed:       | 20.000                | 5x GyroJet Speed Boost    |
 | Burst Count:        | 9 to 14 rounds        | 9 to 14 rounds            | 
