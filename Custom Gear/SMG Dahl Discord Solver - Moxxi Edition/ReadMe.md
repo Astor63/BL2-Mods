@@ -35,6 +35,7 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | -------------       | -------------         |  -------------            |  
 | **Bullet Tech:**    |                       |                           | 
 | Bullet Type:        | Standard              | GyroJets Explosive        |
+| Bullet Damage:      | SMG Standard          | -10%                      |
 | Fire Cost:          | 1 bullet cost 1 ammo  | 1 bullet cost 1 ammo      |
 | Bullet Speed:       | 20.000                | 5x GyroJet Speed Boost    |
 | Burst Count:        | 9 to 14 rounds        | 9 to 14 rounds            | 
@@ -51,6 +52,8 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Mission Reward:     | N/A                   | *Hell Hath No Fury* (Opportunity)| 
 | Skin:               | Lascaux (Vanilla)     | Moxxi Signature           | 
 | Rarity:             | Unique                | Moxxi                     | 	
+
+To summarize: To compensate the benefit from GyroJet Explosive bonus, the initial base damage is lowered by 10%.
 
 ![Discord Solver Moxxi Signature Classic and Cartier](https://imgur.com/W8VaHzJ.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 

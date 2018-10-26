@@ -3,7 +3,7 @@
 The idea is really very simple as it come from the *Santos*, a well know French jeweller watch.
 
 ![Moxxi Signature Elegance Gear ](https://imgur.com/h2lelSo.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
-I reproduce the color from the golden screws inserted into a (silver) brushed steel bracelet, and the addition from the red similar to the little *Cartier* box...
+First, I take the red color similar to the little Cartier box, next I made the metal part looking like (silver) steel... add some discrete decorative gold parts like the golden screws inserted into a brushed steel bracelet... finally adapt the Moxxi logo in a more appropriate size when necessary... and repeat the same work on all the Moxxi weapons...
 
 ![Moxxi Signature Elegance Gear ](https://imgur.com/zCJd7K0.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 

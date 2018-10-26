@@ -32,8 +32,9 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | -Tech Specs-        | Lascaux: Vanilla      | Discord Solver #1: Bloody   | 
 | -------------       | -------------         | -------------               |  
 | **Bullet Tech:**    |                       |                             |                           
-| Bullet Type:        | Standard              | GyroJets Explosive          | 
-| Fire Cost:          | 1 bullet cost 1 ammo | 1 bullet cost 1 ammo       | 
+| Bullet Type:        | Standard              | GyroJets Explosive          |
+| Bullet Damage:      | SMG Standard          | -10%                        |
+| Fire Cost:          | 1 bullet cost 1 ammo  | 1 bullet cost 1 ammo        | 
 | Bullet Speed:       | 20.000                | 5x GyroJet Speed Boost      | 
 | Burst Count:        | 9 to 14 rounds        | 9 to 14 rounds              | 
 | **Explosive Tech:** |                       |                             |                           
@@ -48,6 +49,8 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Lifesteal:          | N/A                   | N/A                         | 
 | Skin:               | Lascaux (Vanilla)     | Bloody / Grunge             | 
 | Rarity:             | Unique                | Unique                      | 	
+
+To summarize: To compensate the benefit from GyroJet Explosive bonus, the initial base damage is lowered by 10%.
 
 ![Discord Solver - Bloody Edition](https://imgur.com/TBkblD3.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 Of course, the weapon skin is grunge... What did you expect for a weapon which stay forgetten in a pool in a cave since a eternity? A pristine and shiny weapon perhaps? Well, no... she is dirty and all rusted! Be happy that this old submachine gun is still able to shot fews bullets!

@@ -32,6 +32,7 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | -------------       | -------------                  | -------------                          |   
 | **Bullet Tech:**    |                                |                                        |          
 | Bullet Type:        | Standard                       | Pocket Rocket GyroJets Explosive                     | 
+| Bullet Damage:      | SMG Standard                   | -20% from Plasma Projectile Damage|
 | Fire Cost:          | 1 bullets cost 1 ammo          | 1 bullets cost 2 ammo                  | 
 | Bullet Speed:       | 20.000 (Lascaux) / 6.000 (Plasma Caster)| 5x Pocket Rocket Speed Boost  | 
 | Burst Count:        | 9 to 14 rounds                 | 5 rounds                               | 
@@ -46,6 +47,8 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Critical Hit:       | None                           | None                                   | 
 | Skin:               | Lascaux (Vanilla)              | Prototype SX-1                         | 
 | Rarity:             | Unique                         | Unique                                 | 
+
+To summarize: To compensate the benefit from Pocket Rocket GyroJets Explosive bonus, the Plasma Projectile initial base damage is lowered by 20%.
 
 ![Prototype SX-1](https://imgur.com/lE00YK0.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
