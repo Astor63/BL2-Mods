@@ -64,7 +64,7 @@ This Mod has few options, so feel free to use the BLCMM tool to select the best 
 - The Weapon Card has a toggle option between English/French.
 - The Elemental Color Glow has a toggle option between:
   - E-Tech Elemental Color (Vanilla)
-  - Explosive Elemental Color (Alternate)
+  - Explosive Elemental Color (similar to  Torgue weapons)
 - The skin has a toggle option between:
   - Stendhal Shiny Edition
   - Stendhal Mat Edition
@@ -73,8 +73,8 @@ This Mod has few options, so feel free to use the BLCMM tool to select the best 
 
 ... and few fix:
 
-- Fix for Orudeon's Bayonet Enhancements (Bayonet in slot 2)
-- Custom Fix for Vanilla bayonet (Bayonet in slot 1 + Always spawn WITH accessory)
+- Fix for Orudeon's *Bayonet Enhancements* (Bayonet in slot 2)
+- Custom Fix for Vanilla bayonet (Bayonet in slot 1 + Always spawn **WITH** accessory)
 - Fix for *Koby Rarity Color*: *AfterMarket* rarity (just in case if you use this old mod) 
 
 ![Splish Splash Stendhal Edition as reward for Hyperion mission](https://imgur.com/KIZBWIX.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English") 

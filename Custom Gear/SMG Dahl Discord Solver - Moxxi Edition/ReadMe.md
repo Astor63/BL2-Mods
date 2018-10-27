@@ -35,7 +35,7 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | -------------       | -------------         |  -------------            |  
 | **Bullet Tech:**    |                       |                           | 
 | Bullet Type:        | Standard              | GyroJets Explosive        |
-| Bullet Damage:      | SMG Standard          | -10% from SMG Standard    |
+| Bullet Damage:      | SMG Standard          | -20% from SMG Standard    |
 | Fire Cost:          | 1 bullet cost 1 ammo  | 1 bullet cost 1 ammo      |
 | Bullet Speed:       | 20.000                | 5x GyroJet Speed Boost    |
 | Burst Count:        | 9 to 14 rounds        | 9 to 14 rounds            | 
@@ -53,7 +53,7 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Skin:               | Lascaux (Vanilla)     | Moxxi Signature           | 
 | Rarity:             | Unique                | Moxxi                     | 	
 
-To summarize: To compensate the benefit from GyroJet Explosive bonus, the initial base damage is lowered by 10%.
+To summarize: To compensate the benefit from GyroJet Explosive bonus, the initial base damage is lowered by 20%.
 
 ![Discord Solver Moxxi Signature Classic and Cartier](https://imgur.com/W8VaHzJ.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
@@ -66,8 +66,8 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)
 -  The Weapon Card has a toggle option between English/French.
 - The Elemental Color Glow has a toggle option between:
+  - Explosive Elemental Color (similar to Torgue weapons) 
   - E-Tech Elemental Color (Vanilla)
-  - Explosive Elemental Color (Alternate)
 - The Moxxi skin has a toggle option between:
   - The *Moxxi Signature **Classic** Edition* ("Red Fire" in the RL Creamer/SG Heart Breaker style) which is timeless and can be used in any occasion.
   - The *Moxxi Signature **Elegance** Edition* ("Red Cartier" in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.

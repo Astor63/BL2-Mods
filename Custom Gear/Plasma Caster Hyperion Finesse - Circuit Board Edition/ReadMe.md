@@ -60,13 +60,13 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - The Weapon Card has a toggle option between English/French.
 - The Elemental Color Glow has a toggle option between:
   - E-Tech Elemental Color (Vanilla)
-  - Explosive Elemental Color (Alternate)
+  - Explosive Elemental Color (similar to  Torgue weapons)
 - The skin has a toggle option between:
   - The *Blue* Circuit Board
   - The *Yellow* Circuit Board
   - The Vanilla Commerce Skin
 - The *Plasma Caster Finesse- Circuit Board Edition* can become the reward given by Hyperion for the mission *Uncle Teddy*  in Arid Nexus - Badlands. (see picture below) 
-- Fix for Koby *Rarity Color*: *AfterMarket* (just in case if you use this old mod) 
+- Fix for Koby *Rarity Color*: *AfterMarket* or *Legendary* (just in case if you use this old mod) 
 
 ![Finesse as reward for Hyperion mission](https://imgur.com/CeuGBS7.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English") 
 

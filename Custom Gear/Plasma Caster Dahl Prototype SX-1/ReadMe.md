@@ -58,8 +58,8 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - The Splash Format has a toggle option between Grenade/Rocket/Reaper (see Compatibility below)  
 - The Weapon Card has a toggle option between English/French.  
 - The Elemental Color Glow has a toggle option between:
-  - E-Tech Elemental Color (Vanilla)
-  - Explosive Elemental Color (Alternate) 
+  - Explosive Elemental Color (similar to  Torgue weapons) 
+  - E-Tech Elemental Color (Vanilla) 
 - Fix for Koby *Rarity Color*: *AfterMarket* (just in case if you use this old mod)  
 
 ### Gibbed codes:

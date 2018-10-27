@@ -64,7 +64,7 @@ This Mod has few options & fix, so feel free to use the BLCMM tool to select the
 - The Weapon Card has a toggle option between English/French.
 - The Elemental Color Glow has a toggle option between:
   - E-Tech Elemental Color (Vanilla)
-  - Explosive Elemental Color (Alternate)
+  - Explosive Elemental Color (similar to  Torgue weapons)
 - The Moxxi skin has a toggle option between:
   - The *Moxxi Signature **Classic** Edition* (*Red Fire* in the RL Creamer/SG Heart Breaker style) which is timeless and can be used in any occasion.
   - The *Moxxi Signature **Elegance** Edition* (*Red Cartier* in the style from the renowned French jeweler) which is very stylish and sophisticated, and by the way the all time favorite from Aurelia the Baroness.
