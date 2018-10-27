@@ -25,37 +25,35 @@
 						<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce AttributeSlotUpgrades ((SlotName="WeaponAccuracyImpulse",GradeIncrease=5,bActivateSlot=True),(SlotName="WeaponDamage",GradeIncrease=0,bActivateSlot=True),(SlotName="WeaponReloadSpeed",GradeIncrease=2,bActivateSlot=True))</code>
 					</category>
 					<category name="Weapon Attributes Effect">
-						<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.560000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectChanceModifier',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=0.450000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponShotCost',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=-0.200000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponReloadSpeed',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Tediore',InitializationDefinition=None,BaseValueScaleConstant=-0.250000)))</code>
+						<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=-0.200000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.560000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponStatusEffectChanceModifier',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=0.450000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponReloadSpeed',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Tediore',InitializationDefinition=None,BaseValueScaleConstant=-0.250000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=-2.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponPerShotAccuracyImpulse',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=AttributeDefinition'D_Attributes.WeaponManufacturer.Weapon_Is_Hyperion',InitializationDefinition=None,BaseValueScaleConstant=3.000000)))</code>
 					</category>
 					<category name="Weapon Card Attribute">
 						<category name="Custom Presentation">
 							<code profiles="">set GD_Weap_SMG.ManufacturerMaterials.Mat_Hyperion_3_Commerce CustomPresentations (AttributePresentationDefinition'GD_Weap_Pistol.ManufacturerMaterials.Mat_Maliwan_1:AttributePresentationDefinition_1')</code>
 						</category>
-						<category name="Normal Presentation">
-							<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce WeaponCardAttributes ((Attribute=AttributeDefinition'D_Attributes.Weapon.WeaponShotCost',PriorityIncrease=0.600000))</code>
-						</category>
 					</category>
 				</category>
 				<category name="Adaptive Elemental Splash">
+					<comment>To keep the vanilla game values (or restore them in case if any mod modify it)</comment>
 					<category name="Corrosive Element">
-						<code profiles="">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						<code profiles="">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
 						<code profiles="">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 DamageRadiusFormula (BaseValueConstant=110.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
-						<code profiles="">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 Definition ExplosionDefinition'GD_Explosions.Corrosive.Explosion_CorrosiveMaster'</code>
+						<code profiles="">set GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5 Definition ExplosionDefinition'GD_Explosions.corrosive.Explosion_AlienPlasma_CorrosiveMaster'</code>
 					</category>
 					<category name="Explosive Element">
+						<code profiles="">set GD_Weap_SniperRifles.FiringModes.Bullet_Sniper_Maliwan:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=0.00000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=0.500000)</code>
 						<code profiles="">set GD_Weap_SniperRifles.FiringModes.Bullet_Sniper_Maliwan:Behavior_Explode_5 DamageRadiusFormula (BaseValueConstant=170.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
-						<code profiles="">set GD_Weap_SniperRifles.FiringModes.Bullet_Sniper_Maliwan:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=1.00000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=0.500000)</code>
 						<code profiles="">set GD_Weap_SniperRifles.FiringModes.Bullet_Sniper_Maliwan:Behavior_Explode_5 Definition ExplosionDefinition'GD_Explosions.explosive.Explosion_ExplosiveMaster'</code>
 					</category>
 					<category name="Fire Element">
-						<code profiles="">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						<code profiles="">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
 						<code profiles="">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 DamageRadiusFormula (BaseValueConstant=100.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
-						<code profiles="">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 Definition ExplosionDefinition'GD_Explosions.Incendiary.Explosion_IncendiaryMaster'</code>
+						<code profiles="">set GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5 Definition ExplosionDefinition'GD_Explosions.Incendiary.Explosion_AlienPlasma_IncendiaryMaster'</code>
 					</category>
 					<category name="Shock Element">
-						<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
+						<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 DamageFormula (BaseValueScaleConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
 						<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 DamageRadiusFormula (BaseValueConstant=120.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
-						<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 Definition ExplosionDefinition'GD_Explosions.shock.Explosion_ShockMaster'</code>
+						<code profiles="">set GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5 Definition ExplosionDefinition'GD_Explosions.shock.Explosion_AlienPlasma_ShockMaster'</code>
 					</category>
 				</category>
 				<category name="Custom Firing Mode">
@@ -65,12 +63,19 @@
 					<code profiles="">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ImpactResponses ((DamageSurfaceType=DMGSURFACE_Flesh,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Weap_Pistol.FiringModes.Bullets_Pistol_Bandit_Tinderbox:Behavior_Explode_5')),(DamageSurfaceType=DMGSURFACE_Armor,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Weap_Pistol.FiringModes.Bullet_Pistol_Dahl_Hornet:Behavior_Explode_5')),(DamageSurfaceType=DMGSURFACE_Shield,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Twister:Behavior_Explode_5')),(DamageSurfaceType=DMGSURFACE_Generic,bDisableRegularBulletDamage=False,Behaviors=(Behavior_Explode'GD_Weap_SniperRifles.FiringModes.Bullet_Sniper_Maliwan:Behavior_Explode_5')))</code>
 					<code profiles="">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce OnAnyImpact (Behavior_Explode'GD_Weap_SniperRifles.FiringModes.Bullet_Sniper_Maliwan:Behavior_Explode_5')</code>
 				</category>
+				<category name="MuzzleFlash Explosive Bullets">
+					<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce MuzzleFlashPSTemplates EffectCollectionDefinition'GD_Weap_SMG.Effects.SMG_Default_MuzzleFlashes'</code>
+					<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce ParticleEffects ParticleSystem'FX_WEP_Pistol.Particles.Part_Pistol_MuzzleFlash_Explosive'</code>
+					<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce ShellCasingPSCTemplate ParticleSystem'FX_WEP_Pistol.Particles.Part_Pistol_Shells'</code>
+					<code profiles="">set GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_Commerce ShellCasingSocket EjectPort</code>
+				</category>
 				<category name="Non-Elemental Lock">
 					<code profiles="">set GD_Weap_SMG.A_Weapons_Unique.SMG_Hyperion_3_Commerce:WeaponPartListCollectionDefinition_179 ElementalPartData (bEnabled=True,WeightedParts=((Part=WeaponPartDefinition'GD_Weap_SMG.elemental.SMG_Elemental_None',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.elemental.SMG_Elemental_Fire',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=0,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.elemental.SMG_Elemental_Corrosive',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=0,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.elemental.SMG_Elemental_Shock',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=0,DefaultWeightIndex=0),(Part=WeaponPartDefinition'GD_Weap_SMG.elemental.SMG_Elemental_Slag',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=0,DefaultWeightIndex=0)))</code>
 				</category>
 				<category name="Plasma Explosion Override">
 					<code profiles="">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ExplosionOverrideDefinition ExplosionCollectionDefinition'GD_Weap_SMG.Explosions.Plasma_Elemental_Explosions'</code>
 					<code profiles="">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce ExplosionOverideInstanceDataName ExplosionOverride</code>
+					<code profiles="">set GD_Weap_SMG.FiringModes.Bullet_SMG_Commerce DamageTypeDefinition WillowDamageTypeDefinition'GD_Explosive.DamageType.DmgType_Explosive_Impact'</code>
 				</category>
 			</category>
 			<category name="General Attributes (open to add some magic by yourself)">
@@ -122,12 +127,12 @@
 				</category>
 			</category>
 			<category name="Choose the language on the weapon card (open to change)" MUT="true">
-				<category name="English Text">
+				<category name="English (select to pick this language)">
 					<code profiles="">set GD_Weap_SMG.Name.Title.Title__Unique_Commerce:AttributePresentationDefinition_8 NoConstraintText Splashing... Spreading... Jetting... Receding... Enjoy yourself!</code>
 					<code profiles="">set GD_Weap_SMG.Name.Title.Title__Unique_Commerce PartName Splish Splash</code>
 					<code profiles="">set AttributePresentationDefinition'GD_Weap_Pistol.ManufacturerMaterials.Mat_Maliwan_1:AttributePresentationDefinition_1' Description High [skill]Elemental Effect[-skill] chance.</code>
 				</category>
-				<category name="French Text">
+				<category name="Français (Go away Brit & Yankees, there is nothing for you here)">
 					<code profiles="">set GD_Weap_SMG.Name.Title.Title__Unique_Commerce PartName Splish Splash</code>
 					<code profiles="">set GD_Weap_SMG.Name.Title.Title__Unique_Commerce:AttributePresentationDefinition_8 NoConstraintText Jaillir... Eclabousser... Diffuser... Répandre... Amusez-vous bien!</code>
 					<code profiles="">set AttributePresentationDefinition'GD_Weap_Pistol.ManufacturerMaterials.Mat_Maliwan_1:AttributePresentationDefinition_1' Description Forte probabilité d'[skill]effet élémental[-skill].</code>
