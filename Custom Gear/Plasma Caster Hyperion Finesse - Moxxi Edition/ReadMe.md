@@ -1,12 +1,15 @@
 ## Plasma Caster Hyperion Finesse - Moxxi Edition
 
-In their early days in their making of weapons, Hyperion, seized Alien Technology plans and created the Finesse: a Plasma Caster which fire SEAPP (Smart Elemental Adaptive Plasma Projectile). 
 
-Unfortunately, the mastery of this Alien technology was in its infancy, and especially very expensive, which made the price of sale of these weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary Plasma Caster only after a few (rare) copies sold.
+To help keep them competitive in a world that demands element-matching, Hyperion Hyperion hired a top-notch research & development team to revert the Alien technology and created a experimental bullet wrapped in a plasma projectile: the SEAPP (Smart Elemental Adaptive Plasma Projectile) which was capable of adapt itself to whichever type of resistance the enemy had.
+
+Short time after, they created the *Finesse*: a Plasma Caster able to fire SEAPP (Smart Elemental Adaptive Plasma Projectile). 
+
+Unfortunately, the mastery of the Elemental technology was in its infancy, and especially very expensive, making the price of sale of this weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary Plasma Caster only after a few (rare) copies sold.
 
 ### Where to find it?
 
-The Plasma Caster Hyperion Finesse can be a drop from Assassin Wot fought during the side mission *Assassinate the Assassins* (Southpaw Steam & Power)... and can also drop from (the same) Assassin Wot at the end of the *A History of Simulated Violence* mission (Digistruct Peak)... or can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see in *options* below) 
+The *Plasma Caster Hyperion Finesse* can be a drop from Assassin Wot fought during the side mission *Assassinate the Assassins* (Southpaw Steam & Power)... and can also drop from (the same) Assassin Wot at the end of the *A History of Simulated Violence* mission (Digistruct Peak)... or can become the reward given by Moxxi for the mission "Hell Hath No Fury" in Opportunity (see in *options* below) 
 
 ![Plasma Caster Finesse - Assasin Wot](https://imgur.com/N2sZWmh.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 

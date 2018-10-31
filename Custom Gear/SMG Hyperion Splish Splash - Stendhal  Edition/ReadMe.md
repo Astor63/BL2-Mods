@@ -1,6 +1,8 @@
 ## SMG Hyperion Splish Splash - Stendhal Edition
 
-To help keep them competitive in a world that demands element-matching, Hyperion created the *SMG Splish Splash - Stendhal Edition*: a SMG which fire SEAMB (Smart Elemental Adaptive Maliwan Bullet). 
+To help keep them competitive in a world that demands element-matching, Hyperion ~~hired~~ corrupted a top-notch research & development team from Maliwan to create a experimental bullet: the SEAMB (Smart Elemental Adaptive Maliwan Bullet) which was capable of adapt itself to whichever type of resistance the enemy had.
+
+Short time after, they created the *SMG Splish Splash - Stendhal Edition*: a SMG able to fire SEAMB (Smart Elemental Adaptive Maliwan Bullet). 
 
 Unfortunately, the mastery of the Elemental technology was in its infancy, and especially very expensive, making the price of sale of this weapons totally prohibitive, and therefore unavailable to the majority of bandits, which involved the production stoppage of this revolutionary SMG only after a few (rare) copies sold.
 
