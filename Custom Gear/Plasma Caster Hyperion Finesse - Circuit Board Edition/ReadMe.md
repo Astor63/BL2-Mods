@@ -50,7 +50,7 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Skin:             | Commerce (Vanilla skin)| Circuit Board skin    | 
 | Rarity:           | Unique                 | Unique / Legendary    | 
   
-To summarize: elemental effect damage is improved by 33%, elemental chance by a small amount (±5%), get the benefit from Maliwan Sniper bullet splash (50%), but the initial base damage is lowered by 20% to compensate. 
+To summarize: elemental effect damage is improved by 33%, elemental chance by a small amount (±5%), get the benefit from Maliwan Sniper bullet splash (50%), but the initial base damage is lowered by 20% to compensate the elemental adaptive splash. 
 
 ![Plasma Caster Finesse - Circuit Board Edition](https://imgur.com/FGWsUWG.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 **Note:** The Circuit Board skins... as its name suggests, looks like a circuit board... and you have the choice between 2 Circuit Board skin: the *Blue Circuit Board* or the *Yellow Circuit Board*!

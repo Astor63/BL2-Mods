@@ -53,7 +53,7 @@ Not clear? ... Well, perhaps it will be more easy to compare the difference in a
 | Skin:             | Commerce (Vanilla skin)| Stendhal skin         | 
 | Rarity:           | Unique                 | Unique                | 
   
-To summarize: elemental effect damage is improved by 33%, elemental chance by a small amount (±5%), get the benefit from Maliwan Sniper bullet splash (50%), but the initial base damage is lowered by 20% to compensate. 
+To summarize: elemental effect damage is improved by 33%, elemental chance by a small amount (±5%), get the benefit from Maliwan Sniper bullet splash (50%), but the initial base damage is lowered by 20% to compensate the elemental adaptive splash. 
 
 ![SMG Hyperion Splish Splash - Stendahl Edition](https://imgur.com/UHE3AZo.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 **Note:** The Stendhal skin... vaguely inspired by the book cover of *Le Rose et le Vert* (French for *The Pink and the Green*), the unfinished novel from Stendhal written in 1837.
@@ -106,7 +106,7 @@ This Mod has few options, so feel free to use the BLCMM tool to select the best 
 
 ### Changelog:
 
-v1.0.0, October 25, 2018
+v1.0.0, November 2, 2018
  - Initial public release
   
 ### Credits & Thanks:
