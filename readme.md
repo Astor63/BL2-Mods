@@ -25,7 +25,7 @@ This ReadMe is just here as a quick synopsis, for detailed informations, each Mo
 * * * * *
  
 ## Quest Reward: 
-- **Double Quest Reward Redux:** give you the choice to be rewarded between 2 Unique weapons/items instead of a single one
+- **Double Quest Reward Redux:** give you the choice to be rewarded between 2 Unique weapons/items instead of a single one.
 - **Dr Zed E-Tech Geek:** the missions given by Dr Zed give you the choice to be rewarded between 2 E-Tech weapons.
 - **Hammerlock Jakobs Sponsor:** the missions given by Hammerlock give you the choice to be rewarded between 2 Jakobs weapons.
 

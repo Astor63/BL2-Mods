@@ -2,7 +2,7 @@
 
 ### What do this mod?
 
- - This Mod will give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a weapon/item with desired parts... and reduce the time spent doing "farming".
+ - This Mod will give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a weapon/item with desired element/parts/accessory... and reduce the time spent doing "farming".
  - Upgrade the customization skin/head rewards to a Blue weapon/item rewards for 9 missions, because once you (already) get them during the 1st playthrough, you don't care anymore
 
 ![Octo as reward for Capture The Flag in Sawtooth Cauldron](https://i.imgur.com/ObFnzWS.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
@@ -34,7 +34,7 @@ Feel Free to use the BLCMM tool to select the option of your choice.
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
 - Should be compatible with most other mods, as long as they do not touch the Quest Reward.
-- This mod was tested -and work nicely!- with:
+- *Double Quest Reward Redux* was tested -and work nicely!- with:
   - [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)   
   - [Better Quest](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Quest%20Rewards/Better%20Quests) by [Hemaxu](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Hemaxhu).
   - [Better Loot](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech/BL2%20Better%20Loot%20Mod) & [Cold Dead Hands](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech/BL2%20Cold%20Dead%20Hands) by [Apocalyptech](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech)  
@@ -81,10 +81,10 @@ There's a few things which I'd considered adding to this mod, but were already w
 
 ### To do:
 
-- [x] Bring back some Unique weapon/Item as mission rewards for the main game
-- [x] Upgrade the customization skin/head rewards to weapon/item rewards for the main game
-- [x] Bring back some Unique weapon/Item as mission rewards for the DLCs
-- [ ] Upgrade the customization skin/head rewards to weapon/item rewards for the DLCs
+- [x] Bring back some Unique weapon/Item as mission rewards for the main game.
+- [x] Upgrade the customization skin/head rewards to weapon/item rewards for the main game.
+- [x] Bring back some Unique weapon/Item as mission rewards for the DLCs.
+- [ ] Upgrade the customization skin/head rewards to weapon/item rewards for the DLCs.
 - [ ] Make (again) a new playthrough to be sure that all the Unique weapon/item rewards are given correctly.
 - [ ] Clean the code and remove all my ~~shitty~~ notes.
 - [ ] Erase this to-do list.
@@ -93,7 +93,7 @@ So, yes... in the future, more addition will be done in this Mod (who by the way
 
 ### Credits & Thanks:
 
-I find a lot of useful informations on the Resource page from the [Wiki](https://github.com/BLCM/BLCMods/wiki) of course, but also all the Mission Names and Mission Objectives on the [Resources page](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell/Resources) from [FromDarkHell](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell) , so thanks for your work, @FromDarkHell 
+I find a lot of useful informations on the Resource page from the [Wiki](https://github.com/BLCM/BLCMods/wiki) of course, but also all the Mission Names and Mission Objectives on the [Resources page](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell/Resources) from [FromDarkHell](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell), so thanks for your work, @FromDarkHell 
 
 Note: This mod was totally build from scratch, but was (strongly) inspired by the -unfortunately now defunct!- "Double Quest Rewards" Mod initially created by Koby (among many others great Mods), hence the "Redux" in its name.
 

@@ -4,7 +4,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
  
 ## [Quest Reward] Double Quest Reward Redux
 
-- Give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired parts.
+- Give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired element/part/accessory.
 - Upgrade the customization skin/head rewards to a Blue weapon/item rewards for 9 missions.
  
  * * * * *
