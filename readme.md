@@ -13,6 +13,9 @@ This ReadMe is just here as a quick synopsis, for detailed informations, each Mo
 - **Compatibility & Troubleshooting:** a small reading information to clearly understand why a option or a fix in my mods don't work as intended, and how to simply fix it!
 
 * * * * *
+
+## Character Change 
+- **Gaige's Deathtrap in FFYL:** You can summon *Deathtrap* to fight alongside you while in *Fight For Your Live*.
  
 ## Custom Gear: 
 - **Plasma Caster Dahl Prototype SX-1:** a Plasma Caster which fire GyroJet explosive bullet.

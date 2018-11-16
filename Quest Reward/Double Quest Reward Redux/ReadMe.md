@@ -4,6 +4,10 @@
 
  - This Mod will give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a weapon/item with desired element/parts/accessory... and reduce the time spent doing "farming".
  - Upgrade the customization skin/head rewards to a Blue weapon/item rewards for 9 missions, because once you (already) get them during the 1st playthrough, you don't care anymore
+ - The following non-campign DLC Arena are include in the *Borderlands 2 - Main Game*:
+   - *Fink's Slaughterhouse* in *The Fridge*
+   - *Creature Slaughterdome* in *Wildlife Exploitation Preserve*
+   - *Hyperion Slaughter* in *Eridium Blight*
 
 ![Octo as reward for Capture The Flag in Sawtooth Cauldron](https://i.imgur.com/ObFnzWS.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
  
@@ -33,7 +37,7 @@ Feel Free to use the BLCMM tool to select the option of your choice.
 ### Compatibility:
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
-- Should be compatible with most other mods, as long as they do not touch the Quest Reward.
+- Should be compatible with most other mods, as long as they do not touch the Quest Rewards.
 - *Double Quest Reward Redux* was tested -and work nicely!- with:
   - [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)   
   - [Better Quest](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Quest%20Rewards/Better%20Quests) by [Hemaxu](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Hemaxhu).
@@ -45,7 +49,7 @@ To be sure to get this mod working correctly (as intended), don't forget to plac
 
 There's a few things which I'd considered adding to this mod, but were already well-covered in other mods, so instead I'll just mention them here:
 
-- [GearboxGunsPlus](https://github.com/BLCM/BLCMods/blob/eca477d33671be540718c816662cb08f4f0ad1cd/Borderlands%202%20mods/Aaron0000/Gear%20Packs/GearboxGunsPlus.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000) : His Mod spruces up the Gearbox guns (include the ~~crappy pistol~~ Basic Repeater) and changes the rarity of the Gearbox weapons (Assault Rifle, SMG & Sniper Rifle) to Blue.
+- [GearboxGunsPlus](https://github.com/BLCM/BLCMods/blob/eca477d33671be540718c816662cb08f4f0ad1cd/Borderlands%202%20mods/Aaron0000/Gear%20Packs/GearboxGunsPlus.txt) by [Aaron00000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000): His Mod spruces up the Gearbox guns (include the ~~crappy pistol~~ Basic Repeater) and changes the rarity of the Gearbox weapons (Assault Rifle, SMG & Sniper Rifle) to Blue.
 
 - [Better Quest](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Quest%20Rewards/Better%20Quests) by [Hemaxu](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Hemaxhu): His Mod give you weapon/item rewards above 'Green' level up to a Legendary, and does NOT replaces unique rewards.
 
@@ -67,14 +71,13 @@ There's a few things which I'd considered adding to this mod, but were already w
   - To Grandmother's House We Go (Eridium Blight)
    
 - v1.0.2, September 10, 2018   
-  - In the mission Uncle Teddy, if you give the plans to Una, the reward will be the Lady Fist, and if you give the plans to Hyperion you will have the choice to toggle between 2 options: The Bitch (Legendary SMG Hyperion) or The Commerce (Unique Shock SMG Hyperion)
+  - In the mission Uncle Teddy, if you give the plans to Una, the reward will be the Lady Fist, and if you give the plans to Hyperion you will have the choice to toggle between 2 options: Choice between 2 Bitch (Legendary SMG Hyperion) or 2 Commerce (Unique Shock SMG Hyperion)
  
 - v1.0.3, September 21, 2018
   - "Move" the Octo (Unique shotgun Tediore) reward from Slap Happy (Hammerlock mission) in The Highlands: Outwash to Capture The Flag in Sawtooth Cauldron, on this way, my Mod Hammerlock Jakobs Sponsor can reward the Tidal Wave (Unique shotgun Jakobs) with the Slap Happy mission.
 
 - v1.0.4, September 30, 2018  
-  - Added a 3rd option in *Uncle Teddy* mission in Arid Nexus - Badlands: the choice between 1 Plasma Caster Finesse or 1 SMG Bitch you give the plans to Hyperion.
-  - Added a option for the Moxxi Discord Solver given by Moxxi for the mission *Hell Hath No Fury* in Opportunity. 
+  - Added a 3rd option in *Uncle Teddy* mission in Arid Nexus - Badlands: the choice between 1 Unique SMG Commerce or 1 Legendary SMG Bitch you give the plans to Hyperion.
 
 - v1.0.5, October 25, 2018 
   - Added the choice between 2 Unique weapons/items instead of a single one for DLC 1 - Captain Scarlett and Her Pirate's Booty.
