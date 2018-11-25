@@ -45,6 +45,10 @@ Feel Free to use the BLCMM tool to select the option of your choice.
 
 :warning: To be sure to get this mod working correctly (as intended), don't forget to place it **AFTER** *UCP Patch* and *Better Quest*. (*Better Loot* & *Cold Dead Hands* can be placed anywhere regarding my mod). 
 
+### Help! The Mod doesn't work !?!
+
+Read this little [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Astor/Compatibility%20%26%20Troubleshooting) page... It's not that hard!  :wink:
+
 ### Other Recommended Mods:
 
 There's a few things which I'd considered adding to this mod, but were already well-covered in other mods, so instead I'll just mention them here:

@@ -17,6 +17,10 @@ Et Voila! Here is the *Moxxi Signature Elegance Collection*.
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
 
+### Help! The Mod doesn't work !?!
+
+Read this little [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Astor/Compatibility%20%26%20Troubleshooting) page... It's not that hard!  :wink:
+
 ### To do:
 
 - [ ] Clean the code and remove all my ~~shitty~~ notes.
