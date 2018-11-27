@@ -39,6 +39,14 @@ This ReadMe is just here as a quick synopsis, for detailed informations, each Mo
   - __SMG Hyperion *Splish Splash* - Stendhal Edition:__ A SMG which fire SEAMB (Smart Elemental Adaptive Maliwan Bullet) which adapt his Elemental following the kind of impact: Incendiary on flesh / Shock on shield / Corrosive on armor... and Explosive on anything else.
 
 * * * * *
+
+## Gears Improvement:
+
+- ### Shotgun:
+ 
+  - __*Landscaper* No Self-Damage:__ Made the grenades not inflicting self-damage to fixes the issue of where the delayed explosion would (repeatedly) put you down.
+
+* * * * *
  
 ## Quests Rewards: 
 
