@@ -1,23 +1,16 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
 * * * * *
- 
-## [Quest Reward] Double Quest Reward Redux
 
-- Give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired element/part/accessory.
-- Upgrade the customization skin/head rewards to a Blue weapon/item rewards for 9 missions.
- 
-* * * * *
- 
-## [Quest Reward] Dr Zed E-Tech Geek
+## Custom Gears:
 
-- The 7 Missions given by Dr Zed in the main game will be rewarded with a E-Tech weapon/item, with the choice between 2 E-Tech weapons/items instead of a single one.
- 
-* * * * * 
+- ### Plasma Caster:
 
-## [Quest Reward] Hammerlock Jakobs Sponsor
-
-- Hammerlock give Jakobs weapon/item reward for few of his mission in the main game, but not all of them... Now he will... and with the choice between 2 Blue weapons/items instead of a single one!
+  - __Plasma Caster Dahl Prototype SX-1:__ A Plasma Caster which fire GyroJet explosive bullet.
+  
+  - __Plasma Caster Hyperion Finesse - Circuit Board Edition:__ A Plasma Projectile which adapt his Elemental following the kind of impact: Incendiary on flesh / Shock on shield / Corrosive on armor.
+  
+  - __Plasma Caster Hyperion Finesse - Moxxi Edition:__ Same weapon as the Circuit Board Edition (above), but with usual Moxxi's bonus (Critical Hit & Lifesteal) added.
 
 * * * * *
  

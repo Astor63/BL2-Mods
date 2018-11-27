@@ -2,21 +2,13 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 * * * * *
  
-## [Custom Weapon] Plasma Caster Dahl Prototype SX-1
+## Quests Rewards: 
 
-The Prototype SX-1 was great and really a powerful and dangerous weapon, except that the plasma ball will only explode when coming in contact with a enemy and the missed shots disintegrate instantly "pschitt" like a damp squib (without exploding!) in a tiny cloud of pink smoke.
+- __Double Quests Rewards Redux:__ Gives you the choice to be rewarded between 2 Unique weapons/items instead of a single one.
 
-* * * * *
+- __Dr Zed E-Tech Geek:__ The missions given by Dr Zed give you the choice to be rewarded between 2 E-Tech weapons.
 
-## [Custom Weapon] Plasma Caster Hyperion Finesse - Circuit Board Edition
-
-In their early days in their making of weapons, Hyperion, seized Alien Technology plans and created the Finesse: a Plasma Caster which fire SEAPP (Smart Elemental Adaptive Plasma Projectile), a Alien Plasma Projectile which adapt his Elemental following the kind of impact: Incendiary on flesh / Shock on shield / Corrosive on armor. 
-
-* * * * *
-
-## [Custom Weapon] Plasma Caster Hyperion Finesse - Moxxi Edition
-
-A Plasma Caster which fire SEAPP (Smart Elemental Adaptive Plasma Projectile), a Alien Plasma Projectile which adapt his Elemental following the kind of impact: Incendiary on flesh / Shock on shield / Corrosive on armor, with, as usual for the Vanilla Moxxi weapons, the benefice of 70% Critical hit bonus + 2.5% lifesteal on damage dealt.
+- __Hammerlock Jakobs Sponsor:__ The missions given by Hammerlock give you the choice to be rewarded between 2 Jakobs weapons.
 
 * * * * *
  
