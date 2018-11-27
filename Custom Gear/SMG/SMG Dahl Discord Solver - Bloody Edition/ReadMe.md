@@ -15,7 +15,6 @@ This is where you can find it....
 
 ### What special with this weapon?
 
-
 - Keep (almost) of all the Lascaux Unique Dahl SMG specificity: very high firerate, variable burst-fire round, chance to shot two bullets for the cost of one ammo, etc... for more details, see [Borderlands Wiki](http://borderlands.wikia.com/wiki/Lascaux) 
 - Initial (too good) accuracy reduced, slower fireate, and slower reload, but...
   - FireMode modified to shoot the *Pistol GyroJet Explosive Bullet*. 
