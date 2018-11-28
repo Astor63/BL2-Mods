@@ -42,7 +42,7 @@ This ReadMe is just here as a quick synopsis, for detailed informations, each Mo
 
 ## Gears Improvement:
 
-- ### Shotgun:
+- ### Shotgun Improvement:
  
   - __*Landscaper* No Self-Damage:__ Made the grenades not inflicting self-damage to fixes the issue of where the delayed explosion would (repeatedly) put you down.
 
