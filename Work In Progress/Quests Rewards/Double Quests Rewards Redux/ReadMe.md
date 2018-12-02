@@ -32,17 +32,17 @@ The *Tidal Wave*, which apparently is not a weapon reward anywhere anymore is no
   - __Headhunter 5__ - *Sir Hammerlock vs. the Son of Crawmerax*: Unchanged for now.
 
 - ### Non-Campaign DLC:	
-  - __*Creature Slaughterdome:*__ Gives you the choice between 2 Moxxi's weapons as reward for the 5 rounds in *Creature Slaughter* Arena in *Wildlife Exploitation Preserve* (instead of just the *Creamer* as reward for the 5th round)
+  - __*Creature Slaughterdome:*__ Gives you the choice between 2 Maliwan weapons as reward for the 5 rounds in *Creature Slaughter* Arena in *Wildlife Exploitation Preserve* (instead of just the *Creamer* as reward for the 5th round)
   - __*Fink's Slaughterhouse:*__ Gives you the choice between 2 Bandit weapons as reward for the 5 rounds in *Hyperion Slaughter* Arena in *The Fridge* (instead of just the *Hail* as reward for the 5th round)
   - __*Hyperion Circle Of Slaughter:*__ Gives you the choice between 2 Hyperion weapons as reward for the 5 rounds in *Hyperion Slaughter* Arena in *One Chasm* (instead of just the *Chère-Amie* as reward for the 5th round)
 
 | -Arena-       | Creature Slaughterdome | Fink's Slaughterhouse                    | Hyperion Slaughter                        |
 | ------------- | -------------          | -------------                            | -------------                             | 
-| Round 1:      | Choice from Rubi or Crit | Choice from 2 Rare (Blue) Bandit Pistol  | Choice from 2 Rare (Blue) Hyperion Pistol | 
-| Round 2:      | Choice from Heart Breaker or Slowhand | Choice from 2 Rare (Blue) Bandit SMG     | Choice from 2 Rare (Blue) Hyperion SMG    | 
-| Round 3:      | Choice from Good Touch or Bad Touch | Choice from 2 Rare (Blue) Bandit Assult Rifle| Choice from 2 Rare (Blue) Hyperion Sniper Rifle| 
-| Round 4:      | Choice from Kitten or Hail | Choice from 2 Rare (Blue) Bandit Shotgun | Choice from 2 Rare (Blue) Hyperion Shotgun| 
-| Round 5:      | Choice from Creamer or Chère-Amie | Choice from 2 Unique Bone Shredder       | Choice from 2 Unique Fremington Edge      | 
+| Round 1:      | Choice from 2 Rare (Blue) Maliwan Pistol | Choice from 2 Rare (Blue) Bandit Pistol  | Choice from 2 Rare (Blue) Hyperion Pistol | 
+| Round 2:      | Choice from 2 Rare (Blue) Maliwan SMG | Choice from 2 Rare (Blue) Bandit SMG     | Choice from 2 Rare (Blue) Hyperion SMG    | 
+| Round 3:      | Choice from 2 Rare (Blue) Maliwan Sniper Rifle | Choice from 2 Rare (Blue) Bandit Assault Rifle| Choice from 2 Rare (Blue) Hyperion Sniper Rifle| 
+| Round 4:      | Choice from 2 Rare (Blue) Maliwan Nova or Spike Shield | Choice from 2 Rare (Blue) Bandit Shotgun | Choice from 2 Rare (Blue) Hyperion Shotgun| 
+| Round 5:      | Choice from Moxxi's Creamer or Chère-Amie | Choice from Moxxi's Good Touch or Bad Touch       | Choice from Moxxi's Heart Breaker or Slowhand      | 
 
 ### Note: 
 
