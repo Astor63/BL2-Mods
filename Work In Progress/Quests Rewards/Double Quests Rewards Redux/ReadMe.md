@@ -42,7 +42,7 @@ The *Tidal Wave*, which apparently is not a weapon reward anywhere anymore is no
 | Round 2:      | Choice from 2 Rare (Blue) Maliwan SMG | Choice from 2 Rare (Blue) Bandit SMG     | Choice from 2 Rare (Blue) Hyperion SMG    | 
 | Round 3:      | Choice from 2 Rare (Blue) Maliwan Sniper Rifle | Choice from 2 Rare (Blue) Bandit Assault Rifle| Choice from 2 Rare (Blue) Hyperion Sniper Rifle| 
 | Round 4:      | Choice from 2 Rare (Blue) Maliwan Nova or Spike Shield | Choice from 2 Rare (Blue) Bandit Shotgun | Choice from 2 Rare (Blue) Hyperion Shotgun| 
-| Round 5:      | Choice from Moxxi's Creamer or Chère-Amie | Choice from Moxxi's Good Touch or Bad Touch       | Choice from Moxxi's Heart Breaker or Slowhand      | 
+| Round 5:      |  Choice from Moxxi's Good Touch or Bad Touch| Choice from Moxxi's Creamer or Chère-Amie       | Choice from Moxxi's Heart Breaker or Slowhand      | 
 
 ### Note: 
 
