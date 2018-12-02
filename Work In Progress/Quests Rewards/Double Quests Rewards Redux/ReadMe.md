@@ -36,7 +36,7 @@ The *Tidal Wave*, which apparently is not a weapon reward anywhere anymore is no
   - __*Fink's Slaughterhouse:*__ Gives you the choice between 2 Bandit weapons as reward for the 5 rounds in *Hyperion Slaughter* Arena in *The Fridge* (instead of just the *Hail* as reward for the 5th round)
   - __*Hyperion Circle Of Slaughter:*__ Gives you the choice between 2 Hyperion weapons as reward for the 5 rounds in *Hyperion Slaughter* Arena in *One Chasm* (instead of just the *Chère-Amie* as reward for the 5th round)
 
-| -Arena-       | Creature Slaughterdome | Fink's Slaughterhouse                    | Hyperion Slaughter                        |
+| -Arena DLC-       | Creature Slaughterdome | Fink's Slaughterhouse                    | Hyperion Slaughter                        |
 | ------------- | -------------          | -------------                            | -------------                             | 
 | Round 1:      | Choice from 2 Rare (Blue) Maliwan Pistol | Choice from 2 Rare (Blue) Bandit Pistol  | Choice from 2 Rare (Blue) Hyperion Pistol | 
 | Round 2:      | Choice from 2 Rare (Blue) Maliwan SMG | Choice from 2 Rare (Blue) Bandit SMG     | Choice from 2 Rare (Blue) Hyperion SMG    | 
