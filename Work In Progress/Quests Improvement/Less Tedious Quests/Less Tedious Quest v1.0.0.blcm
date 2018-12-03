@@ -1,0 +1,82 @@
+<BLCMM v="1">
+#<!!!You opened a file saved with BLCMM in FilterTool. Please update to BLCMM to properly open this file!!!>
+	<head>
+		<type name="BL2" offline="false"/>
+	</head>
+	<body>
+		<category name="Less Tedious Quest v1.0.0">
+			<comment>Mod author: Astor</comment>
+			<comment>Release Date: 01 December 2018</comment>
+			<comment>Version: 1.0.0 - See ReadMe for Changelog ;)</comment>
+			<comment>Makes a few timed and objective count -failable!- optional mission less tedious to complete.</comment>
+			<category name="DLC 2 - Mr. Torgue's Campaign of Carnage">
+				<category name="Timed Missions (Open to choose a option)" MUT="true">
+					<category name="Increase Time by 50%">
+						<category name="Twelve O'Clock High Battle">
+							<category name="Description">
+								<comment>Twelve O'Clock High - Time limit 7:30 (instead of 5:00)</comment>
+							</category>
+							<category name="Twelve O'Clock High - Round 1">
+								<code profiles="default">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro SecondsToComplete 480</code>
+							</category>
+							<category name="Twelve O'Clock High - Round 2">
+								<code profiles="default">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro2 SecondsToComplete 480</code>
+							</category>
+							<category name="Twelve O'Clock High - Round 3">
+								<code profiles="default">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro3 SecondsToComplete 480</code>
+							</category>
+							<category name="Twelve O'Clock High - Round 3 Rematch">
+								<code profiles="default">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyroR3 SecondsToComplete 480</code>
+							</category>
+						</category>
+					</category>
+					<category name="Increase Time by 100%">
+						<category name="Twelve O'Clock High Battle">
+							<category name="Description">
+								<comment>Twelve O'Clock High - Time limit 10:00 (instead of 5:00)</comment>
+							</category>
+							<category name="Twelve O'Clock High - Round 1">
+								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro SecondsToComplete 600</code>
+							</category>
+							<category name="Twelve O'Clock High - Round 2">
+								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro2 SecondsToComplete 600</code>
+							</category>
+							<category name="Twelve O'Clock High - Round 3">
+								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro3 SecondsToComplete 600</code>
+							</category>
+							<category name="Twelve O'Clock High - Round 3 Rematch">
+								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyroR3 SecondsToComplete 600</code>
+							</category>
+						</category>
+					</category>
+					<category name=" No Time Limit">
+						<category name="Twelve O'Clock High Battle">
+							<category name="Description">
+								<comment>Twelve O'Clock High - No time limit (instead of 5:00)</comment>
+							</category>
+							<category name="Twelve O'Clock High - Round 1">
+								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro SecondsToComplete 0</code>
+							</category>
+							<category name="Twelve O'Clock High - Round 2">
+								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro2 SecondsToComplete 0</code>
+							</category>
+							<category name="Twelve O'Clock High - Round 3">
+								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro3 SecondsToComplete 0</code>
+							</category>
+							<category name="Twelve O'Clock High - Round 3 Rematch">
+								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyroR3 SecondsToComplete 0</code>
+							</category>
+						</category>
+					</category>
+				</category>
+			</category>
+		</category>
+	</body>
+</BLCMM>
+
+#Commands:
+set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro SecondsToComplete 480
+set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro2 SecondsToComplete 480
+set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro3 SecondsToComplete 480
+set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyroR3 SecondsToComplete 480
+
