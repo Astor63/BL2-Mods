@@ -21,8 +21,8 @@ The *Tidal Wave*, which apparently is not a weapon reward anywhere anymore is no
 
 
 - ### Campaign DLC: 	
-  - __DLC Campaign 1:__ Gives you the choice between 2 Unique weapons/items during some missions in *Captain Scarlett and Her Pirate's Booty*
-  - __DLC Campaign 3:__ Gives you the choice between 2 Unique weapons/items during some missions in *Sir Hammerlock's Big Game Hunt*.
+  - __DLC 1: *Captain Scarlett and Her Pirate's Booty*__ Gives you the choice between 2 Unique weapons/items during some missions in *Captain Scarlett and Her Pirate's Booty*
+  - __DLC 3: *Sir Hammerlock's Big Game Hunt*__ Gives you the choice between 2 Unique weapons/items during some missions in *Sir Hammerlock's Big Game Hunt*.
 
 - ### Headhunter DLC:
   - __Headhunter 1__ - *TK Baha's Bloody Harvest*: Unchanged for now.

@@ -12,59 +12,130 @@
 			<category name="DLC 2 - Mr. Torgue's Campaign of Carnage">
 				<category name="Timed Missions (Open to choose a option)" MUT="true">
 					<category name="Increase Time by 50%">
-						<category name="Twelve O'Clock High Battle">
+						<category name="Appetite for Destruction (Torgue Arena)">
+							<category name="Description">
+								<comment>Appetite for Destruction Round 2: Time limit 7:30 (instead of 5:00)</comment>
+								<comment>Appetite for Destruction Round 3 & 4: Time limit 6:45 (instead of 4:30)</comment>
+							</category>
+							<category name="Appetite for Destruction - Round 2">
+								<code profiles="default">set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoP2 SecondsToComplete 450</code>
+								<code profiles="default">set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoP2:Behavior_AddMissionTime_10 SecondsToAdd 450.000000</code>
+							</category>
+							<category name="Appetite for Destruction - Round 3">
+								<code profiles="default">set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoP3 SecondsToComplete 405</code>
+								<code profiles="default">set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoP3:Behavior_AddMissionTime_3 SecondsToAdd 405.000000</code>
+							</category>
+							<category name="Appetite for Destruction - Round 3 Rematch">
+								<code profiles="default">set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoPR3 SecondsToComplete 405</code>
+								<code profiles="default">set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoPR3:Behavior_AddMissionTime_7 SecondsToAdd 405.000000</code>
+							</category>
+						</category>
+						<category name="Bar Room Blitz (Pyro Pete's Bar)">
+							<category name="Description">
+								<comment>Bar Room Blitz Round 1: Time limit 7:30 (instead of 5:00)</comment>
+								<comment>Bar Room Blitz Round 2: Time limit 4:30 (instead of 3:00)</comment>
+								<comment>Bar Room Blitz Round 3 & 4: Time limit 4:00 (instead of 2:45)</comment>
+							</category>
+							<category name="Bar Room Blitz - Round 1">
+								<code profiles="default">set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight SecondsToComplete 450</code>
+								<code profiles="default">set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight:Behavior_AddMissionTime_1 SecondsToAdd 450</code>
+							</category>
+							<category name="Bar Room Blitz - Round 2">
+								<code profiles="default">set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight2 SecondsToComplete 270</code>
+								<code profiles="default">set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight2:Behavior_AddMissionTime_5 SecondsToAdd 270</code>
+							</category>
+							<category name="Bar Room Blitz - Round 3">
+								<code profiles="default">set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight3 SecondsToComplete 240</code>
+								<code profiles="default">set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight3:Behavior_AddMissionTime_11 SecondsToAdd 240</code>
+							</category>
+							<category name="Bar Room Blitz - Round 3 Rematch">
+								<code profiles="default">set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFightR3 SecondsToComplete 240</code>
+								<code profiles="default">set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFightR3:Behavior_AddMissionTime_15 SecondsToAdd 240</code>
+							</category>
+						</category>
+						<category name="Twelve O'Clock High Battle (The Forge)">
 							<category name="Description">
 								<comment>Twelve O'Clock High - Time limit 7:30 (instead of 5:00)</comment>
 							</category>
 							<category name="Twelve O'Clock High - Round 1">
-								<code profiles="default">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro SecondsToComplete 480</code>
+								<code profiles="default">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro SecondsToComplete 450</code>
+								<code profiles="default">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro:Behavior_AddMissionTime_9 SecondsToAdd 450.000000</code>
 							</category>
 							<category name="Twelve O'Clock High - Round 2">
-								<code profiles="default">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro2 SecondsToComplete 480</code>
+								<code profiles="default">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro2 SecondsToComplete 450</code>
+								<code profiles="default">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro2:Behavior_AddMissionTime_4 SecondsToAdd 450.000000</code>
 							</category>
 							<category name="Twelve O'Clock High - Round 3">
-								<code profiles="default">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro3 SecondsToComplete 480</code>
+								<code profiles="default">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro3 SecondsToComplete 450</code>
+								<code profiles="default">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro3:Behavior_AddMissionTime_0 SecondsToAdd 450.000000</code>
 							</category>
 							<category name="Twelve O'Clock High - Round 3 Rematch">
-								<code profiles="default">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyroR3 SecondsToComplete 480</code>
+								<code profiles="default">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyroR3 SecondsToComplete 450</code>
+								<code profiles="default">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyroR3:Behavior_AddMissionTime_3 SecondsToAdd 450.000000</code>
 							</category>
 						</category>
 					</category>
 					<category name="Increase Time by 100%">
-						<category name="Twelve O'Clock High Battle">
+						<category name="Bar Room Blitz (Pyro Pete's Bar)">
+							<category name="Description">
+								<comment>Bar Room Blitz Round 1: Time limit 10:00 (instead of 5:00)</comment>
+								<comment>Bar Room Blitz Round 2: Time limit 6:00 (instead of 3:00)</comment>
+								<comment>Bar Room Blitz Round 3 & 4: Time limit 5:30 (instead of 2:45)</comment>
+							</category>
+							<category name="Bar Room Blitz - Round 1">
+								<code profiles="">set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight SecondsToComplete 450</code>
+								<code profiles="">set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight:Behavior_AddMissionTime_1 SecondsToAdd 450</code>
+							</category>
+							<category name="Bar Room Blitz - Round 2">
+								<code profiles="">set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight2 SecondsToComplete 360</code>
+								<code profiles="">set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight2:Behavior_AddMissionTime_5 SecondsToAdd 360</code>
+							</category>
+							<category name="Bar Room Blitz - Round 3">
+								<code profiles="">set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight3 SecondsToComplete 330</code>
+								<code profiles="">set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight3:Behavior_AddMissionTime_11 SecondsToAdd 330</code>
+							</category>
+							<category name="Bar Room Blitz - Round 3 Rematch">
+								<code profiles="">set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFightR3 SecondsToComplete 330</code>
+								<code profiles="">set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFightR3:Behavior_AddMissionTime_15 SecondsToAdd 330</code>
+							</category>
+						</category>
+						<category name="Twelve O'Clock High Battle (The Forge)">
 							<category name="Description">
 								<comment>Twelve O'Clock High - Time limit 10:00 (instead of 5:00)</comment>
 							</category>
 							<category name="Twelve O'Clock High - Round 1">
 								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro SecondsToComplete 600</code>
+								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro:Behavior_AddMissionTime_9 SecondsToAdd 600.000000</code>
 							</category>
 							<category name="Twelve O'Clock High - Round 2">
 								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro2 SecondsToComplete 600</code>
+								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro2:Behavior_AddMissionTime_4 SecondsToAdd 600.000000</code>
 							</category>
 							<category name="Twelve O'Clock High - Round 3">
 								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro3 SecondsToComplete 600</code>
+								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro3:Behavior_AddMissionTime_0 SecondsToAdd 600.000000</code>
 							</category>
 							<category name="Twelve O'Clock High - Round 3 Rematch">
 								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyroR3 SecondsToComplete 600</code>
+								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyroR3:Behavior_AddMissionTime_3 SecondsToAdd 600.000000</code>
 							</category>
 						</category>
-					</category>
-					<category name=" No Time Limit">
-						<category name="Twelve O'Clock High Battle">
+						<category name="Appetite for Destruction (Torgue Arena)">
 							<category name="Description">
-								<comment>Twelve O'Clock High - No time limit (instead of 5:00)</comment>
+								<comment>Appetite for Destruction Round 2: Time limit 10:00 (instead of 5:00)</comment>
+								<comment>Appetite for Destruction Round 3 & 4: Time limit 9:00 (instead of 4:30)</comment>
 							</category>
-							<category name="Twelve O'Clock High - Round 1">
-								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro SecondsToComplete 0</code>
+							<category name="Appetite for Destruction - Round 2">
+								<code profiles="">set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoP2 SecondsToComplete 600</code>
+								<code profiles="">set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoP2:Behavior_AddMissionTime_10 SecondsToAdd 600.000000</code>
 							</category>
-							<category name="Twelve O'Clock High - Round 2">
-								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro2 SecondsToComplete 0</code>
+							<category name="Appetite for Destruction - Round 3">
+								<code profiles="">set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoP3 SecondsToComplete 540</code>
+								<code profiles="">set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoP3:Behavior_AddMissionTime_3 SecondsToAdd 540.000000</code>
 							</category>
-							<category name="Twelve O'Clock High - Round 3">
-								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro3 SecondsToComplete 0</code>
-							</category>
-							<category name="Twelve O'Clock High - Round 3 Rematch">
-								<code profiles="">set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyroR3 SecondsToComplete 0</code>
+							<category name="Appetite for Destruction - Round 3 Rematch">
+								<code profiles="">set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoPR3 SecondsToComplete 540</code>
+								<code profiles="">set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoPR3:Behavior_AddMissionTime_7 SecondsToAdd 540.000000</code>
 							</category>
 						</category>
 					</category>
@@ -75,8 +146,26 @@
 </BLCMM>
 
 #Commands:
-set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro SecondsToComplete 480
-set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro2 SecondsToComplete 480
-set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro3 SecondsToComplete 480
-set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyroR3 SecondsToComplete 480
+set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoP2 SecondsToComplete 450
+set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoP2:Behavior_AddMissionTime_10 SecondsToAdd 450.000000
+set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoP3 SecondsToComplete 405
+set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoP3:Behavior_AddMissionTime_3 SecondsToAdd 405.000000
+set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoPR3 SecondsToComplete 405
+set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoPR3:Behavior_AddMissionTime_7 SecondsToAdd 405.000000
+set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight SecondsToComplete 450
+set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight:Behavior_AddMissionTime_1 SecondsToAdd 450
+set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight2 SecondsToComplete 270
+set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight2:Behavior_AddMissionTime_5 SecondsToAdd 270
+set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight3 SecondsToComplete 240
+set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight3:Behavior_AddMissionTime_11 SecondsToAdd 240
+set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFightR3 SecondsToComplete 240
+set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFightR3:Behavior_AddMissionTime_15 SecondsToAdd 240
+set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro SecondsToComplete 450
+set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro:Behavior_AddMissionTime_9 SecondsToAdd 450.000000
+set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro2 SecondsToComplete 450
+set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro2:Behavior_AddMissionTime_4 SecondsToAdd 450.000000
+set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro3 SecondsToComplete 450
+set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro3:Behavior_AddMissionTime_0 SecondsToAdd 450.000000
+set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyroR3 SecondsToComplete 450
+set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyroR3:Behavior_AddMissionTime_3 SecondsToAdd 450.000000
 
