@@ -47,14 +47,20 @@ This ReadMe is just here as a quick synopsis, for detailed informations, each Mo
   - __*Landscaper* No Self-Damage:__ Made the grenades not inflicting self-damage to fixes the issue of where the delayed explosion would (repeatedly) put you down.
 
 * * * * *
- 
-## Quests Rewards: 
 
-- __Double Quests Rewards Redux:__ Gives you the choice to be rewarded between 2 Unique weapons/items instead of a single one.
+## Quests Improvement:
 
-- __Dr Zed E-Tech Geek:__ The missions given by Dr Zed give you the choice to be rewarded between 2 E-Tech weapons.
+- ### Quests Rewards: 
 
-- __Hammerlock Jakobs Sponsor:__ The missions given by Hammerlock give you the choice to be rewarded between 2 Jakobs weapons.
+  - __Double Quests Rewards Redux:__ Gives you the choice to be rewarded between 2 Unique weapons/items instead of a single one.
+
+  - __Dr Zed E-Tech Geek:__ The missions given by Dr Zed give you the choice to be rewarded between 2 E-Tech weapons.
+
+  - __Hammerlock Jakobs Sponsor:__ The missions given by Hammerlock give you the choice to be rewarded between 2 Jakobs weapons.
+
+- ### Less Tedious Quests:
+
+  - __Less Tedious Quests:__ As the title suggests it, makes a few timed **-failable!-** optional mission less tedious to complete.
 
 * * * * *
 
