@@ -1,29 +1,41 @@
 ## Less Tedious Quest
 
-As the title suggests it, makes a few timed and objective count __-failable!-__ optional mission less tedious to complete:
+As the title suggests it, makes a few timed __-failable!-__ optional mission less tedious, but still a little bit challenging, to complete by increasing the countdown time by 50% (x1.5) or 100% (x2) on the following missions:
 
+- __Borderlands 2: Main Game__
+  - Arms Dealing (The Highlands)
+  - Customer Service (Eridium Blight)
+  - Neither Rain Nor Sleet Nor Skags (Three Horns - Valley)
+- __DLC 1 - Captain Scarlett and Her Pirate's Booty__
+  - Faster Than the Speed of Love (Wurmwater)
+- __DLC 2 - Mr. Torgue's Campaign of Carnage__
+  - Appetite for Destruction (Torgue Arena)
+    - Round 1
+    - Round 2
+    - Round 3
+    - Round 3 Rematch
+  - Bar Room Blitz (Pyro Pete's Bar)
+    - Round 1
+    - Round 2
+    - Round 3
+    - Round 3 Rematch
+  - The Death Race (Badass Crater of Badassitude)
+    - Race 1
+    - Race 2
+    - Race 3
+    - Race 3 Rematch
+  - Twelve O'Clock High Battle (The Forge)
+    - Round 1
+    - Round 2
+    - Round 3
+    - Round 3 Rematch 
 
-### Timed Missions:
-
-- __*DLC 2 - Mr. Torgue's Campaign of Carnage*__
-
-  - __Option #1: *Extended time by 50%*__
-    - __*Twelve O'Clock High Battle*__ in *The Forge* - Time limit increased to 7:30 (instead of 5:50)
- 
-  - __Option #2: *Extended time by 100%*__
-    - __*Twelve O'Clock High Battle*__ in *The Forge* - Time limit increased to 10:00 (instead of 5:50)
-
-- __Option #3: *No time limit*__
-  - __*Twelve O'Clock High Battle*__ in *The Forge* - No time limit 
+Note: I don't make any mission untimed, because it's already done in [Darkhell's Quest Fixes](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/FromDarkHell/Quest%20Changes/QuestFix.txt) Mod.
 
 ### Compatibility:
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
 - Should be compatible with most other mods, as long as they do not touch the Quests.
-- *Less Tedious Quest* was tested -and work nicely!- with:
-  - [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)   
-  - [Better Quest](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Quest%20Rewards/Better%20Quests) by [Hemaxu](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Hemaxhu).
-  - [Better Loot](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech/BL2%20Better%20Loot%20Mod) & [Cold Dead Hands](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech/BL2%20Cold%20Dead%20Hands) by [Apocalyptech](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech)  
 
 ### Help! The Mod doesn't work !?!
 
@@ -31,11 +43,11 @@ Read this little [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMo
 
 ### Other Recommended Mods:
 
-- [QuestFix](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/FromDarkHell/Quest%20Changes/QuestFix.txt) by [FromDarkHell](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell): Which makes a few timed and objective count __-failable!-__ optional mission less tedious to complete.
+There's a few things which I'd considered adding to this mod, but were already well-covered in the [QuestFix](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/FromDarkHell/Quest%20Changes/QuestFix.txt) by [FromDarkHell](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell), so instead I'll just mention it here.
 
 ### Changelog:
 
-- v1.0.0, December 1, 2018
+- v1.0.0, December 5, 2018
   - Initial public release
  
 ### To do:

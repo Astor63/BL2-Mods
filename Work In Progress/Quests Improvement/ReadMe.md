@@ -12,7 +12,7 @@ So please be patient, and wait his release.
 
 ## Quests Improvement:
 
-- __Less Tedious Quest:__ As the title suggests it, makes a few timed and objective count **-failable!-** optional mission less tedious to complete.
+- __Less Tedious Quest:__ makes a few timed __-failable!-__ optional mission less tedious, but still a little bit challenging, to complete by increasing the countdown time by 50% (x1.5) or 100% (x2).
 
 - __Double Quests Rewards Redux:__ Give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired element/part/accessory.
 
