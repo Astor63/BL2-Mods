@@ -1,4 +1,4 @@
-## Less Tedious Quest
+## Less Tedious Quests
 
 As the title suggests it, makes a few timed __-failable!-__ optional mission less tedious, but still a little bit challenging, to complete by increasing the countdown time by 50% (x1.5) or 100% (x2) on the following missions:
 
@@ -30,7 +30,7 @@ As the title suggests it, makes a few timed __-failable!-__ optional mission les
     - Round 3
     - Round 3 Rematch 
 
-Note: I don't make any mission untimed, because it's already done in [Darkhell's Quest Fixes](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/FromDarkHell/Quest%20Changes/QuestFix.txt) Mod.
+Note: I don't make any mission untimed, because it's already done in the great [Darkhell's Quest Fixes](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/FromDarkHell/Quest%20Changes/QuestFix.txt) Mod.
 
 ### Compatibility:
 
@@ -47,7 +47,7 @@ There's a few things which I'd considered adding to this mod, but were already w
 
 ### Changelog:
 
-- v1.0.0, December 5, 2018
+- v1.0.0, December 7, 2018
   - Initial public release
  
 ### To do:
