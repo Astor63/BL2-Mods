@@ -1,23 +1,17 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## WIP - Work In Progress
-
-You are on my WIP repository, where you can have a preview all my upcoming Mods for Borderlands 2.
-
-As the name say it, the mods are **NOT** totally finished, so obviously, **the Mod won't work correctly**... and by *it won't work correctly*,I mean that the Mod can even break your game.
-
-So please be patient, and wait his release.
-  
 * * * * *
+ 
+## Quests Rewards: 
 
-## Quests Improvement:
+- __Double Quests Rewards Redux:__ Gives you the choice to be rewarded between 2 Unique weapons/items instead of a single one.
 
-- __Less Tedious Quest:__ makes a few timed __-failable!-__ optional mission less tedious, but still a little bit challenging, to complete by increasing the countdown time by 50% (x1.5) or 100% (x2).
+- __Dr Zed E-Tech Geek:__ The missions given by Dr Zed give you the choice to be rewarded between 2 E-Tech weapons.
 
-- __Double Quests Rewards Redux:__ Give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired element/part/accessory.
+- __Hammerlock Jakobs Sponsor:__ The missions given by Hammerlock give you the choice to be rewarded between 2 Jakobs weapons/items.
 
 * * * * *
-
+ 
 ## Acknowledgement
 
 A ~~big~~ huge thanks to @LightChaosman and his great - [BLCMM (Borderlands Community Mod Manager) tool](https://github.com/BLCM/BLCMods/wiki/Borderlands-Community-Mod-Manager) tool who make the Mods creation a real pleasure. 
