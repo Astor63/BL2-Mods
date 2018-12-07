@@ -1,20 +1,45 @@
-## Arena Battle Sponsored
+## Battle Arena Sponsored
 
-The weapons manufacturers are now sponsor in battle arena
+The rounds 1-4 from the following *Battle Arena* are now fully sponsored by weapons manufacturers... and of course, the reward for the final round is still a Moxxi's weapon.
 
-- ### Borderlands 2 - Main Game:	
-  - __*Creature Slaughterdome:*__ Gives you the choice between 2 Maliwan weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Creature Slaughter* Arena in *Wildlife Exploitation Preserve* (instead of just the *Creamer* as reward for the 5th round)
-  - __*Fink's Slaughterhouse:*__ Gives you the choice between 2 Bandit weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Hyperion Slaughter* Arena in *The Fridge* (instead of just the *Hail* as reward for the 5th round)
-  - __*Hyperion Circle Of Slaughter:*__ Gives you the choice between 2 Hyperion weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Hyperion Slaughter* Arena in *One Chasm* (instead of just the *Chère-Amie* as reward for the 5th round)
+## Borderlands 2 - Main Game
 
-| -Arena DLC-       | Creature Slaughterdome | Fink's Slaughterhouse                    | Hyperion Slaughter                        |
-| ------------- | -------------          | -------------                            | -------------                             | 
-| Round 1:      | Choice from 2 Rare (Blue) Maliwan Pistol | Choice from 2 Rare (Blue) Bandit Pistol  | Choice from 2 Rare (Blue) Hyperion Pistol | 
-| Round 2:      | Choice from 2 Rare (Blue) Maliwan SMG | Choice from 2 Rare (Blue) Bandit SMG     | Choice from 2 Rare (Blue) Hyperion SMG    | 
-| Round 3:      | Choice from 2 Rare (Blue) Maliwan Sniper Rifle | Choice from 2 Rare (Blue) Bandit Assault Rifle| Choice from 2 Rare (Blue) Hyperion Sniper Rifle| 
-| Round 4:      | Choice from 2 Rare (Blue) Maliwan Nova or Spike Shield | Choice from 2 Rare (Blue) Bandit Shotgun | Choice from 2 Rare (Blue) Hyperion Shotgun| 
-| Round 5:      |  Choice from Moxxi's Good Touch or Bad Touch| Choice from Moxxi's Creamer or Chère-Amie       | Choice from Moxxi's Heart Breaker or Slowhand      | 
+- ### *Creature Slaughterdome* sponsored by *Maliwan* 
 
+  - Gives you the choice between 2 random Maliwan weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Creature Slaughter* Arena in *Wildlife Exploitation Preserve* (instead of just the *Creamer* as reward for the 5th round)
+ 
+
+| Battle        | Creature Slaughterdome                                             | 
+| ------------- | -------------                                                      |
+| Round 1:      | Choice from 2 random Rare (Blue) Maliwan Pistol                    | 
+| Round 2:      | Choice from 2 random Rare (Blue) Maliwan SMG                       | 
+| Round 3:      | Choice from 2 random Rare (Blue) Maliwan Sniper Rifle              | 
+| Round 4:      | Choice from 2 random Rare (Blue) Maliwan Nova or Spike Shield      |
+| Round 5:      | Choice from 2 Moxxi's weapons: __*Good Touch*__ or __*Bad Touch*__ | 
+
+- ### *Fink's Slaughterhouse* sponsored by *Bandit* 
+
+  - Gives you the choice between 2 random Bandit weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Hyperion Slaughter* Arena in *The Fridge* (instead of just the *Hail* as reward for the 5th round)
+
+| Battle        | Fink's Slaughterhouse                                          | 
+| ------------- | -------------                                                  | 
+| Round 1:      | Choice from 2 random Rare (Blue) Bandit Pistol                 | 
+| Round 2:      | Choice from 2 random Rare (Blue) Bandit SMG                    |  
+| Round 3:      | Choice from 2 random Rare (Blue) Bandit Assault Rifle          |  
+| Round 4:      | Choice from 2 random Rare (Blue) Bandit Shotgun                | 
+| Round 5:      | Choice from Moxxi's weapons: __*Creamer*__ or __*Chère-Amie*__ | 
+
+- ### *Hyperion Circle Of Slaughter* sponsored by *Hyperion*
+
+  - Gives you the choice between 2 random Hyperion weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Hyperion Slaughter* Arena in *One Chasm* (instead of just the *Chère-Amie* as reward for the 5th round)
+
+| Battle        | Hyperion Circle Of Slaughter                                       |
+| ------------- | -------------                                                      | 
+| Round 1:      | Choice from 2 random Rare (Blue) Hyperion Pistol                   | 
+| Round 2:      | Choice from 2 random Rare (Blue) Hyperion SMG                      | 
+| Round 3:      | Choice from 2 randomRare (Blue) Hyperion Sniper Rifle              | 
+| Round 4:      | Choice from 2 randomRare (Blue) Hyperion Shotgun                   | 
+| Round 5:      | Choice from Moxxi's weapons: __*Heart Breaker*__ or __*Slowhand*__ | 
 
 ### Compatibility:
 
@@ -24,7 +49,11 @@ The weapons manufacturers are now sponsor in battle arena
   - [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)   
   - [Better Loot](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech/BL2%20Better%20Loot%20Mod) & [Cold Dead Hands](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech/BL2%20Cold%20Dead%20Hands) by [Apocalyptech](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech)  
 
-:warning: If you use [Better Quest](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Quest%20Rewards/Better%20Quests) by [Hemaxu](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Hemaxhu) mod, to be sure to get this mod working correctly (as intended), activate the *Hemaxu's Better Quest* Fix at the end of *Arena Battle Sponsored* mod, __AND__ don't forget to place this mod __AFTER__ *UCP Patch* and *Better Quest* (*Better Loot* & *Cold Dead Hands* can be placed anywhere regarding my mod).
+:warning: To be sure to get this mod working correctly (as intended), don't forget to place this mod __AFTER__ *UCP Patch* and *Better Quest* (*Better Loot* & *Cold Dead Hands* can be placed anywhere regarding my mod).
+
+### Know Issue:
+
+If you use [Better Quest](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Quest%20Rewards/Better%20Quests) by [Hemaxu](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Hemaxhu) mod, to avoid any conflict and be sure to get this mod working correctly (as intended), activate the *Hemaxu's Better Quest Compatibility Fix* at the end of *Arena Battle Sponsored* mod (which revert the *RewardItemPools* for the Arena Battle)
 
 ### Help! The Mod doesn't work !?!
 
