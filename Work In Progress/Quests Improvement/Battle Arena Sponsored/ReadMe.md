@@ -1,33 +1,37 @@
 ## Battle Arena Sponsored
 
-The rounds 1-4 from the following *Battle Arena* are now fully sponsored by weapons manufacturers... and of course, the reward for the final round is still a Moxxi's weapon.
+The normal rounds from the following *Battle Arena* are now fully sponsored by weapons manufacturers... and of course, the reward for the final round is still a Moxxi's weapon.
 
-## Borderlands 2 - Main Game
-
-- ### *Creature Slaughterdome* sponsored by *Maliwan* 
-
-  - Gives you the choice between 2 random Maliwan weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Creature Slaughter* Arena in *Wildlife Exploitation Preserve* (instead of just the *Creamer* as reward for the 5th round)
- 
-
-| Battle        | Creature Slaughterdome                                             | 
-| ------------- | -------------                                                      |
-| Round 1:      | Choice from 2 random Rare (Blue) Maliwan Pistol                    | 
-| Round 2:      | Choice from 2 random Rare (Blue) Maliwan SMG                       | 
-| Round 3:      | Choice from 2 random Rare (Blue) Maliwan Sniper Rifle              | 
-| Round 4:      | Choice from 2 random Rare (Blue) Maliwan Nova or Spike Shield      |
-| Round 5:      | Choice from 2 Moxxi's weapons: __*Good Touch*__ or __*Bad Touch*__ | 
+## Bandit Sponsor
 
 - ### *Fink's Slaughterhouse* sponsored by *Bandit* 
 
   - Gives you the choice between 2 random Bandit weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Hyperion Slaughter* Arena in *The Fridge* (instead of just the *Hail* as reward for the 5th round)
 
-| Battle        | Fink's Slaughterhouse                                          | 
-| ------------- | -------------                                                  | 
-| Round 1:      | Choice from 2 random Rare (Blue) Bandit Pistol                 | 
-| Round 2:      | Choice from 2 random Rare (Blue) Bandit SMG                    |  
-| Round 3:      | Choice from 2 random Rare (Blue) Bandit Assault Rifle          |  
-| Round 4:      | Choice from 2 random Rare (Blue) Bandit Shotgun                | 
-| Round 5:      | Choice from Moxxi's weapons: __*Creamer*__ or __*Chère-Amie*__ | 
+| Battle        | Fink's Slaughterhouse                                         | 
+| ------------- | -------------                                                 | 
+| Round 1:      | Choice from 2 random Rare (Blue) Bandit Pistol                | 
+| Round 2:      | Choice from 2 random Rare (Blue) Bandit SMG                   |  
+| Round 3:      | Choice from 2 random Rare (Blue) Bandit Assault Rifle         |  
+| Round 4:      | Choice from 2 random Rare (Blue) Bandit Shotgun               | 
+| Round 5:      | Choice from 2 Moxxi's weapons: __*Rubi*__ or __*Chère-Amie*__ | 
+
+## Dahl Sponsor 
+
+- ### *Murderlin's Temple* sponsored by *Dahl*
+
+  - Gives you the choice between 2 random Dahl weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Murderlin's Temple* Arena in *Flamerock Refuge* (instead of just the *Orc* as reward for the 5th round)... and a Legendary weapon for the Badass Round.
+
+| Battle           | Murderlin's Temple                                          |
+| -------------    | -------------                                               | 
+| Round 1:         | Choice from 2 random Rare (Blue) Dahl Pistol                | 
+| Round 2:         | Choice from 2 random Rare (Blue) Dahl SMG                   | 
+| Round 3:         | Choice from 2 random Rare (Blue) Dahl Assault Rifle         |
+| Round 4:         | Choice from 2 random Rare (Blue) Dahl Sniper Rifle          |
+| Round 5:         | Choice from 2 Moxxi's weapons: __*Crit*__ or __*Chere-Amie*__ | 
+| Badass Round:    | Choice from 2 Legendary Dahl Weapons (__*Veruc*__ or __*Pitchfork*__)   |
+
+## Hyperion Sponsor
 
 - ### *Hyperion Circle Of Slaughter* sponsored by *Hyperion*
 
@@ -37,9 +41,78 @@ The rounds 1-4 from the following *Battle Arena* are now fully sponsored by weap
 | ------------- | -------------                                                      | 
 | Round 1:      | Choice from 2 random Rare (Blue) Hyperion Pistol                   | 
 | Round 2:      | Choice from 2 random Rare (Blue) Hyperion SMG                      | 
-| Round 3:      | Choice from 2 randomRare (Blue) Hyperion Sniper Rifle              | 
-| Round 4:      | Choice from 2 randomRare (Blue) Hyperion Shotgun                   | 
-| Round 5:      | Choice from Moxxi's weapons: __*Heart Breaker*__ or __*Slowhand*__ | 
+| Round 3:      | Choice from 2 random Rare (Blue) Hyperion Sniper Rifle             | 
+| Round 4:      | Choice from 2 random Rare (Blue) Hyperion Shotgun                  | 
+| Round 5:      | Choice from 2 Moxxi's weapons: __*Heart Breaker*__ or __*Slowhand*__ |
+
+## Jakobs Sponsor
+
+- ### *Bar Room Blitz* sponsored by *Jakobs*
+
+  - Gives you the choice between 2 random Jakobs weapons as reward for the rounds 1-3 and the choice between 2 Moxxi's weapons for the Rematch round in *Bar Room Blitz* Arena in *Pyro Pete's Bar* (instead of just... well... nothing as reward for the Rematch Round)
+
+| Battle           | Bar Room Blitz                                 |
+| -------------    | -------------                                            | 
+| Round 1:         | Choice from 2 random Rare (Blue) Jakobs Pistol        | 
+| Round 2:         | Choice from 2 random Rare (Blue) Jakobs Shotgun          | 
+| Round 3:         | Choice from 2 random Rare (Blue) Jakobs Assault Rifle    |  
+| Round 3 Rematch: | Choice from 2 Moxxi's weapons: __*Good Touch*__ or __*Bad Touch*__ | 
+
+## Maliwan Sponsor
+
+- ### *Creature Slaughterdome* sponsored by *Maliwan* 
+
+  - Gives you the choice between 2 random Maliwan weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Creature Slaughter* Arena in *Wildlife Exploitation Preserve* (instead of just the *Creamer* as reward for the 5th round)
+ 
+| Battle        | Creature Slaughterdome                                             | 
+| ------------- | -------------                                                      |
+| Round 1:      | Choice from 2 random Rare (Blue) Maliwan Pistol                    | 
+| Round 2:      | Choice from 2 random Rare (Blue) Maliwan SMG                       | 
+| Round 3:      | Choice from 2 random Rare (Blue) Maliwan Sniper Rifle              | 
+| Round 4:      | Choice from 2 random Rare (Blue) Maliwan Nova or Spike Shield      |
+| Round 5:      | Choice from 2 Moxxi's weapons: __*Good Touch*__ or __*Bad Touch*__ | 
+
+
+## Tediore Sponsor
+
+- ### *Twelve O'Clock High* sponsored by *Tediore*
+
+  - Gives you the choice between 2 random Tediore weapons as reward for the rounds 1-3 and the choice between 2 Moxxi's weapons for the Rematch round in *Twelve O'Clock High* Arena in *The Forge* (instead of just... well... nothing as reward for the Rematch round)
+
+| Battle           | Twelve O'Clock High                                 |
+| -------------    | -------------                                       | 
+| Round 1:         | Choice from 2 random Rare (Blue) Tediore Pistol     | 
+| Round 2:         | Choice from 2 random Rare (Blue) Tediore SMG        | 
+| Round 3:         | Choice from 2 random Rare (Blue) Tediore Shotgun    |  
+| Round 3 Rematch: | Choice from 2 Moxxi's weapons: __*Heart Breaker*__ or __*Slow Hand*__ |
+
+
+## Torgue Sponsor
+
+- ### *Appetite For Destruction* sponsored by *Torgue*
+
+  - Gives you the choice between 2 random Torgue weapons as reward for the rounds 2-3 and the choice between 2 Moxxi's weapons for the Rematch round in *Appetite For Destruction* Arena in *Torgue Arena* (instead of just the *Blue Shield or Grenade* as reward for the Rematch round)
+
+| Battle           | Appetite For Destruction                                 |
+| -------------    | -------------                                            | 
+| Round 1:         | Weapon chest as *Story Mission* reward (Unchanged)       | 
+| Round 2:         | Choice from 2 random Rare (Blue) Torgue Pistol           | 
+| Round 3:         | Choice from 2 random Rare (Blue) Torgue Assault Rifle    |  
+| Round 3 Rematch: | Choice from 2 Moxxi's weapons: __*Creamer*__ or __*Rubi*__ | 
+
+## Vladof Sponsor
+
+- ### *The Death Race* sponsored by *Vladof*
+
+  - Gives you the choice between 2 random Vladof weapons as reward for the rounds 1-3 and the choice between 2 Moxxi's weapons for the Rematch race in *The Death Race* Arena in *Badass Crater of Badassitude* (instead of just... well... nothing as reward for the Rematch Race)
+
+| Race            | The Death Race                                            |
+| -------------   | -------------                                             | 
+| Race 1:         | Choice from 2 random Rare (Blue) Vladof Pistol            | 
+| Race 2:         | Choice from 2 random Rare (Blue) Vladof Assault Rifle     | 
+| Race 3:         | Choice from 2 random Rare (Blue) Vladof Sniper Rifle      |  
+| Race 3 Rematch: | Choice from 2 Moxxi's weapons: __*Hail*__ or __*Kitten*__ | 
+
 
 ### Compatibility:
 
