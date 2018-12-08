@@ -1,12 +1,12 @@
 ## Battle Arena Sponsored
 
-The normal rounds from the following *Battle Arena* are now fully sponsored by weapons manufacturers... and of course, the reward for the final round is still a Moxxi's weapon.
+The normal battles rounds from the following *Battle Arena* are now fully sponsored by weapons manufacturers... and of course, the reward for the final round is still a Moxxi's weapon.
 
 ## Bandit Sponsor
 
 - ### *Fink's Slaughterhouse* sponsored by *Bandit* 
 
-  - Gives you the choice between 2 random Bandit weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Hyperion Slaughter* Arena in *The Fridge* (instead of just the *Hail* as reward for the 5th round)
+  - Gives you the choice between 2 random Bandit weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Bandit Slaughterhouse* Arena in *The Fridge* (instead of just the *Hail* as reward for the 5th round)
 
 | Battle        | Fink's Slaughterhouse                                         | 
 | ------------- | -------------                                                 | 
@@ -29,8 +29,8 @@ The normal rounds from the following *Battle Arena* are now fully sponsored by w
 | Round 3:         | Choice from 2 random Rare (Blue) Dahl Assault Rifle         |
 | Round 4:         | Choice from 2 random Rare (Blue) Dahl Sniper Rifle          |
 | Round 5:         | Choice from 2 Moxxi's weapons: __*Crit*__ or __*Chere-Amie*__ | 
-| Badass Round:    | Choice from 2 Legendary Dahl Weapons (__*Veruc*__ or __*Pitchfork*__)   |
-
+| Badass Round:    | Choice from 2 Gemstones weapons (UCP Reward) or 2 Legendary Dahl Weapons (__*Veruc*__ or __*Pitchfork*__) |
+ 
 ## Hyperion Sponsor
 
 - ### *Hyperion Circle Of Slaughter* sponsored by *Hyperion*
@@ -72,7 +72,6 @@ The normal rounds from the following *Battle Arena* are now fully sponsored by w
 | Round 4:      | Choice from 2 random Rare (Blue) Maliwan Nova or Spike Shield      |
 | Round 5:      | Choice from 2 Moxxi's weapons: __*Good Touch*__ or __*Bad Touch*__ | 
 
-
 ## Tediore Sponsor
 
 - ### *Twelve O'Clock High* sponsored by *Tediore*
@@ -85,7 +84,6 @@ The normal rounds from the following *Battle Arena* are now fully sponsored by w
 | Round 2:         | Choice from 2 random Rare (Blue) Tediore SMG        | 
 | Round 3:         | Choice from 2 random Rare (Blue) Tediore Shotgun    |  
 | Round 3 Rematch: | Choice from 2 Moxxi's weapons: __*Heart Breaker*__ or __*Slow Hand*__ |
-
 
 ## Torgue Sponsor
 
@@ -113,7 +111,6 @@ The normal rounds from the following *Battle Arena* are now fully sponsored by w
 | Race 3:         | Choice from 2 random Rare (Blue) Vladof Sniper Rifle      |  
 | Race 3 Rematch: | Choice from 2 Moxxi's weapons: __*Hail*__ or __*Kitten*__ | 
 
-
 ### Compatibility:
 
 - 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
@@ -126,7 +123,48 @@ The normal rounds from the following *Battle Arena* are now fully sponsored by w
 
 ### Know Issue:
 
-If you use [Better Quest](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Quest%20Rewards/Better%20Quests) by [Hemaxu](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Hemaxhu) mod, to avoid any conflict and be sure to get this mod working correctly (as intended), activate the *Hemaxu's Better Quest Compatibility Fix* at the end of *Arena Battle Sponsored* mod (which revert the *RewardItemPools* for the Arena Battle)
+If you use [Better Quest](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Quest%20Rewards/Better%20Quests) by [Hemaxu](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Hemaxhu) mod, to avoid any conflict and be sure to get this mod working correctly (as intended), activate the *Hemaxu's Better Quest Compatibility Fix* at the end of *Arena Battle Sponsored* mod (which will revert the *RewardItemPools* for the Arena Battle part)
+
+__Note:__ Instead of using the *Hemaxu's Better Quest Compatibility Fix* (which is a hotfix overwriting a previous hotfix) a proper way to revert the *RewardItemPools* in Hemaxu's Better Quest, is to manually uncheck the following lines:
+```
+  [ ] set GD_Aster_TempleSlaughter.M_TempleSlaughter1 Reward.RewardItemPools 
+  [ ] set GD_Aster_TempleSlaughter.M_TempleSlaughter2 Reward.RewardItemPools 
+  [ ] set GD_Aster_TempleSlaughter.M_TempleSlaughter3 Reward.RewardItemPools 
+  [ ] set GD_Aster_TempleSlaughter.M_TempleSlaughter4 Reward.RewardItemPools 
+  [ ] set GD_Aster_TempleSlaughter.M_TempleSlaughter5 Reward.RewardItemPools 
+  [ ] set GD_Aster_TempleSlaughter.M_TempleSlaughter6Badass Reward.RewardItemPools 
+  [ ] set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoP2 Reward.RewardItemPools
+  [ ] set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoP3 Reward.RewardItemPools
+  [ ] set GD_IrisEpisode02_Battle.M_IrisEp2Battle_CoPR3 Reward.RewardItemPools
+  [ ] set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight Reward.RewardItemPools
+  [ ] set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight2 Reward.RewardItemPools
+  [ ] set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFight3 Reward.RewardItemPools
+  [ ] set GD_IrisEpisode03_Battle.M_IrisEp3Battle_BarFightR3 Reward.RewardItemPools
+  [ ] set GD_IrisEpisode04_Battle.M_IrisEp4Battle_Race Reward.RewardItemPools
+  [ ] set GD_IrisEpisode04_Battle.M_IrisEp4Battle_Race2 Reward.RewardItemPools
+  [ ] set GD_IrisEpisode04_Battle.M_IrisEp4Battle_Race4 Reward.RewardItemPools
+  [ ] set GD_IrisEpisode04_Battle.M_IrisEp4Battle_RaceR4 Reward.RewardItemPools
+  [ ] set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro Reward.RewardItemPools
+  [ ] set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro2 Reward.RewardItemPools
+  [ ] set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyro3 Reward.RewardItemPools
+  [ ] set GD_IrisEpisode05_Battle.M_IrisEp5Battle_FlyboyGyroR3 Reward.RewardItemPools
+  [ ] set GD_Z1_BanditSlaughter.M_BanditSlaughter1 Reward.RewardItemPools
+  [ ] set GD_Z1_BanditSlaughter.M_BanditSlaughter2 Reward.RewardItemPools
+  [ ] set GD_Z1_BanditSlaughter.M_BanditSlaughter3 Reward.RewardItemPools
+  [ ] set GD_Z1_BanditSlaughter.M_BanditSlaughter4 Reward.RewardItemPools
+  [ ] set GD_Z1_BanditSlaughter.M_BanditSlaughter5 Reward.RewardItemPools
+  [ ] set GD_Z2_CreatureSlaughter.M_CreatureSlaughter_1 Reward.RewardItemPools
+  [ ] set GD_Z2_CreatureSlaughter.M_CreatureSlaughter_2 Reward.RewardItemPools
+  [ ] set GD_Z2_CreatureSlaughter.M_CreatureSlaughter_3 Reward.RewardItemPools
+  [ ] set GD_Z2_CreatureSlaughter.M_CreatureSlaughter_4 Reward.RewardItemPools
+  [ ] set GD_Z2_CreatureSlaughter.M_CreatureSlaughter_5 Reward.RewardItemPools
+  [ ] set GD_Z3_RobotSlaughter.M_RobotSlaughter_1 Reward.RewardItemPools
+  [ ] set GD_Z3_RobotSlaughter.M_RobotSlaughter_2 Reward.RewardItemPools
+  [ ] set GD_Z3_RobotSlaughter.M_RobotSlaughter_3 Reward.RewardItemPools
+  [ ] set GD_Z3_RobotSlaughter.M_RobotSlaughter_4 Reward.RewardItemPools
+  [ ] set GD_Z3_RobotSlaughter.M_RobotSlaughter_5 Reward.RewardItemPools 
+``` 
+... on this way, you will get the same result, but you will avoid 72 hotfixes (36 in *Hemaxu's Better Quest* and 36 in my *Arena Battle Sponsored Compatibility Fix*).
 
 ### Help! The Mod doesn't work !?!
 
@@ -145,7 +183,6 @@ Read this little [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMo
 
 ### To do:
 
-
 - [ ] Make (again) a new playthrough to be sure that all the weapon/item rewards are given correctly.
 - [ ] Clean the code and remove all my ~~shitty~~ notes.
 - [ ] Erase this to-do list.
@@ -153,8 +190,6 @@ Read this little [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMo
 ### Credits & Thanks:
 
 I find a lot of useful informations on the Resource page from the [Wiki](https://github.com/BLCM/BLCMods/wiki) of course, but also all the Mission Names and Mission Objectives on the [Resources page](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell/Resources) from [FromDarkHell](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell), so thanks for your work, @FromDarkHell 
-
-Note: This mod was totally build from scratch, but was (strongly) inspired by the -unfortunately now defunct!- "Double Quest Rewards" Mod initially created by Koby (among many others great Mods), hence the "Redux" in its name.
 
 ### Disclaimer
 
