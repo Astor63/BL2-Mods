@@ -1,0 +1,104 @@
+<BLCMM v="1">
+#<!!!You opened a file saved with BLCMM in FilterTool. Please update to BLCMM to properly open this file!!!>
+	<head>
+		<type name="BL2" offline="false"/>
+	</head>
+	<body>
+		<category name="Orudeon Gear Overhaul French Translation v1.0.0">
+			<comment>Mod author: Astor</comment>
+			<comment>Release Date: 15 December 2018</comment>
+			<comment>Version: 1.0.0 - See ReadMe for Changelog ;)</comment>
+			<comment>Traduit en Français les ajouts de texte provenant de Orudeon's Gear Overhaul v1.35</comment>
+			<category name="Brands Tweaks">
+				<category name="Bandit Brand Tweaks V1.2 by Orudeon">
+					<category name="Extra Shot Chance">
+						<category name="French Text">
+							<code profiles="default">set AttributePresentationDefinition'GD_Weap_Pistol.ManufacturerMaterials.Mat_Maliwan_3_Rubi:AttributePresentationDefinition_1' Description Chance d'effectuer un [skill]double tir[-skill].</code>
+						</category>
+					</category>
+				</category>
+				<category name="Jakobs Brand Tweaks V1.4 by Orudeon">
+					<category name="Assault Rifles">
+						<category name="Full Auto">
+							<code profiles="default">set AttributePresentationDefinition'GD_Weap_AssaultRifle.A_Weapons.WT_Jakobs_AssaultRifle:AttributePresentationDefinition_3' Description [skill]Entièrement automatique.[-skill]</code>
+						</category>
+					</category>
+				</category>
+				<category name="Tediore Brand Overhaul V1.35 by Orudeon">
+					<category name="Shotguns Regen by Aaron0000">
+						<category name="French Text">
+							<code profiles="default">set GD_Weap_Shotgun.A_Weapons.WT_Tediore_Shotgun:AttributePresentationDefinition_2 NoConstraintText Explose comme une [skill]grenade[-skill] lorsqu'il est [skill]rechargé[-skill] et [skill]régénère les munitions[-skill] lentement.</code>
+						</category>
+					</category>
+					<category name="Pistol Regen by Aaron0000">
+						<category name="French Text">
+							<code profiles="default">set GD_Weap_Pistol.A_Weapons.WeaponType_Tediore_Pistol:AttributePresentationDefinition_2 NoConstraintText Explose comme une [skill]grenade[-skill] lorsqu'il est [skill]rechargé[-skill] et [skill]régénère les munitions[-skill] lentement.</code>
+						</category>
+					</category>
+					<category name="SMG Regen by Aaron0000">
+						<category name="French Text">
+							<code profiles="default">set GD_Weap_SMG.A_Weapons.WT_SMG_Tediore:AttributePresentationDefinition_0 NoConstraintText Explose comme une [skill]grenade[-skill] lorsqu'elle est [skill]rechargée[-skill] et [skill]régénère les munitions[-skill] lentement.</code>
+						</category>
+					</category>
+					<category name="Launcher Regen by Aaron0000">
+						<category name="French Text">
+							<code profiles="default">set GD_Weap_Launchers.A_Weapons.WT_Tediore_Launcher:AttributePresentationDefinition_0 NoConstraintText Explose comme une [skill]grenade[-skill] lorsqu'il est [skill]rechargé[-skill] et [skill]régénère les munitions[-skill] lentement.</code>
+						</category>
+					</category>
+				</category>
+			</category>
+			<category name="Shield Behavior Overhaul V1.3 by Orudeon">
+				<category name="Amp Shields">
+					<code profiles="default">set GD_Shields.A_Item.Shield_Impact:AttributePresentationDefinition_0 Description Procure un bonus [skill]Dommage Amplifié[-skill] au tir d'arme.</code>
+				</category>
+				<category name="Booster Shields">
+					<code profiles="default">set GD_AttributePresentation.Echo.AttrPresent_Att_DummyShieldBooster Description Recharge instantanément le bouclier de 20%.</code>
+				</category>
+				<category name="Spike Shields">
+					<code profiles="default">set GD_Shields.A_Item.Shield_Spike_Fire:AttributePresentationDefinition_0 Description Résiste aux [skill]Dégâts de Melée[-skill] et inflige des [skill]Dégâts de pointe[-skill][incendiary] Incendiaire[-incendiary] aux attaquants de mêlée.</code>
+					<code profiles="default">set GD_Shields.A_Item.Shield_Spike_Corrosive:AttributePresentationDefinition_7 Description Résiste aux [skill]Dégâts de Melée[-skill] et inflige des [skill]Dégâts de pointe[-skill][corrosive] Corrosif[-corrosive] aux attaquants de mêlée.</code>
+					<code profiles="default">set GD_Shields.A_Item.Shield_Spike_Shock:AttributePresentationDefinition_5 Description Résiste aux [skill]Dégâts de Melée[-skill] et inflige des [skill]Dégâts de pointe[-skill][shock] Electrique[-shock] aux attaquants de mêlée.</code>
+					<code profiles="default">set GD_Shields.A_Item.Shield_Spike_Explosive:AttributePresentationDefinition_0 Description Résiste aux [skill]Dégâts de Melée[-skill] et inflige des [skill]Dégâts de pointe[-skill][explosive] Explosif[-explosive] aux attaquants de mêlée.</code>
+				</category>
+			</category>
+			<category name="Shield Stat Tweaks v1.2 by Orudeon">
+				<category name="Maliwan">
+					<code profiles="default">set GD_Shields.Capacitor.Capacitor5_Maliwan_ShockRes:AttributePresentationDefinition_2 Description [shock]Immunise contre les dommages causés par les électrocutions.[-shock]</code>
+				</category>
+			</category>
+			<category name="Prefix Rework V2.1 by AngrierPat">
+				<category name="Handguns">
+					<category name="Stock and Accuracy Combined on Stock">
+						<category name="French Text">
+							<code profiles="default">set GD_Weap_Pistol.Accessory.Pistol_Accessory_Stock_Stability:AttributePresentationDefinition_0 NoConstraintText Augmentation de la [skill]stabilité[-skill] et de la [skill]précision[-skill] de l'arme.</code>
+						</category>
+					</category>
+				</category>
+				<category name="Assault Rifles">
+					<category name="Stability and Accuracy Combined on Stability">
+						<category name="French Text">
+							<code profiles="">set GD_Weap_AssaultRifle.Accessory.AR_Accessory_Foregrip_Stability:AttributePresentationDefinition_0 NoConstraintText Augmentation de la [skill]stabilité[-skill] et de la [skill]précision[-skill] de l'arme.</code>
+						</category>
+					</category>
+				</category>
+			</category>
+		</category>
+	</body>
+</BLCMM>
+
+#Commands:
+set AttributePresentationDefinition'GD_Weap_Pistol.ManufacturerMaterials.Mat_Maliwan_3_Rubi:AttributePresentationDefinition_1' Description Chance d'effectuer un [skill]double tir[-skill].
+set AttributePresentationDefinition'GD_Weap_AssaultRifle.A_Weapons.WT_Jakobs_AssaultRifle:AttributePresentationDefinition_3' Description [skill]Entièrement automatique.[-skill]
+set GD_Weap_Shotgun.A_Weapons.WT_Tediore_Shotgun:AttributePresentationDefinition_2 NoConstraintText Explose comme une [skill]grenade[-skill] lorsqu'il est [skill]rechargé[-skill] et [skill]régénère les munitions[-skill] lentement.
+set GD_Weap_Pistol.A_Weapons.WeaponType_Tediore_Pistol:AttributePresentationDefinition_2 NoConstraintText Explose comme une [skill]grenade[-skill] lorsqu'il est [skill]rechargé[-skill] et [skill]régénère les munitions[-skill] lentement.
+set GD_Weap_SMG.A_Weapons.WT_SMG_Tediore:AttributePresentationDefinition_0 NoConstraintText Explose comme une [skill]grenade[-skill] lorsqu'elle est [skill]rechargée[-skill] et [skill]régénère les munitions[-skill] lentement.
+set GD_Weap_Launchers.A_Weapons.WT_Tediore_Launcher:AttributePresentationDefinition_0 NoConstraintText Explose comme une [skill]grenade[-skill] lorsqu'il est [skill]rechargé[-skill] et [skill]régénère les munitions[-skill] lentement.
+set GD_Shields.A_Item.Shield_Impact:AttributePresentationDefinition_0 Description Procure un bonus [skill]Dommage Amplifié[-skill] au tir d'arme.
+set GD_AttributePresentation.Echo.AttrPresent_Att_DummyShieldBooster Description Recharge instantanément le bouclier de 20%.
+set GD_Shields.A_Item.Shield_Spike_Fire:AttributePresentationDefinition_0 Description Résiste aux [skill]Dégâts de Melée[-skill] et inflige des [skill]Dégâts de pointe[-skill][incendiary] Incendiaire[-incendiary] aux attaquants de mêlée.
+set GD_Shields.A_Item.Shield_Spike_Corrosive:AttributePresentationDefinition_7 Description Résiste aux [skill]Dégâts de Melée[-skill] et inflige des [skill]Dégâts de pointe[-skill][corrosive] Corrosif[-corrosive] aux attaquants de mêlée.
+set GD_Shields.A_Item.Shield_Spike_Shock:AttributePresentationDefinition_5 Description Résiste aux [skill]Dégâts de Melée[-skill] et inflige des [skill]Dégâts de pointe[-skill][shock] Electrique[-shock] aux attaquants de mêlée.
+set GD_Shields.A_Item.Shield_Spike_Explosive:AttributePresentationDefinition_0 Description Résiste aux [skill]Dégâts de Melée[-skill] et inflige des [skill]Dégâts de pointe[-skill][explosive] Explosif[-explosive] aux attaquants de mêlée.
+set GD_Shields.Capacitor.Capacitor5_Maliwan_ShockRes:AttributePresentationDefinition_2 Description [shock]Immunise contre les dommages causés par les électrocutions.[-shock]
+set GD_Weap_Pistol.Accessory.Pistol_Accessory_Stock_Stability:AttributePresentationDefinition_0 NoConstraintText Augmentation de la [skill]stabilité[-skill] et de la [skill]précision[-skill] de l'arme.
+
