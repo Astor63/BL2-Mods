@@ -1,14 +1,14 @@
-## *Orudeon's Bandit Brand Tweaks* Traduction Française
+## *Orudeon's Tediore Brand Overhaul* - Traduction Française
 
 Vous jouez à *Borderlands 2* en version Française et vous avez entièrement raison car les acteurs de doublage Français (Christophe Lemoine pour *Le Beau Jack*, Sophie Riffont pour *Moxxi*, Sylvain Lemarié pour *Marcus Kincaid*,  Isabelle Volpe pour *Tiny Tina*, Frédéric Souterelle pour *Sir Hammerlock*, Caroline Pascal pour *Gaige*, etc...) on fait un excellent travail.
 
-Le Mod *Orudeon's Bandit Brand Tweaks Traduction Française* est un simple patch de traduction qui permet d'obtenir en Français tous ajouts de textes (Anglais) du Mod *Bandit Brand Tweaks by Orudeon*.
+Le Mod *Orudeon's Tediore Brand Overhaul Traduction Française* est un simple patch de traduction qui permet d'obtenir en Français tous ajouts de textes (Anglais) du Mod *Orudeon's Tediore Brand Overhaul*.
 
-Ce Mod comprend la traduction Française des ajouts Anglais de la version *Orudeon's Bandit Brand Tweaks v1.21*
+Ce Mod comprend la traduction Française des ajouts Anglais de la version *Tediore Brand Overhaul V1.35 by Orudeon & Aaron0000*. 
 
 Placez ce Mod de traduction en toute dernière place de vos Mods puis prononcez la formule magique.
 
-![BL2 - Orudeon Bandit Brand Tweaks French Translation](https://imgur.com/bHxYSEx.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![BL2 - Orudeon Tediore Brand Overhaul French Translation](https://imgur.com/f66s9gv.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 __Note:__ Si vous avez oublié la formule magique, contentez-vous d'activer le Mod... cela devrait fonctionner également :wink:
 
 ### Notes de mise à jour:
@@ -20,9 +20,9 @@ __Note:__ Si vous avez oublié la formule magique, contentez-vous d'activer le M
 
 - 100% compatible avec:
   - la dernière version de [BL2 Community Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
-  - la dernière version (v1.21) de [Bandit Brand Tweaks](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Orudeon/Bandit%20Brand%20Tweaks%20V1.21%20by%20Orudeon.txt) de [Orudeon](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Orudeon)
+  - la dernière version de (V1.35a) [Tediore Brand Overhaul](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Orudeon/Tediore%20Brand%20Overhaul%20V1.35a%20by%20Orudeon.txt) de [Orudeon](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Orudeon)
 
-:warning: N'oubliez pas de placer ce Mod __APRES__ le Mod *Orudeon's Bandit Brand Tweaks* :warning:
+:warning: N'oubliez pas de placer ce Mod __APRES__ le Mod *Orudeon's Tediore Brand Overhaul* :warning:
 
 ### Aidez-moi! Le Mod ne fonctionne pas !?!
 
