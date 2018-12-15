@@ -1,18 +1,17 @@
-## *Orudeon's Jakobs Brand Tweaks* Traduction Française
+## *Aaron0000's Though Assault Rifles* - Traduction Française
 
 Vous jouez à *Borderlands 2* en version Française et vous avez entièrement raison car les acteurs de doublage Français (Christophe Lemoine pour *Le Beau Jack*, Sophie Riffont pour *Moxxi*, Sylvain Lemarié pour *Marcus Kincaid*,  Isabelle Volpe pour *Tiny Tina*, Frédéric Souterelle pour *Sir Hammerlock*, Caroline Pascal pour *Gaige*, etc...) on fait un excellent travail.
 
-Le Mod *Orudeon's Jakobs Brand Tweaks Traduction Française* est un simple patch de traduction qui permet d'obtenir en Français tous ajouts de textes (Anglais) du Mod *Orudeon's Jakobs Brand Tweaks.
-
-Ce Mod comprend la traduction Française des ajouts Anglais de la version *Jakobs Brand Tweaks v1.4 by Orudeon* 
+Le Mod *Aaron0000's Though Assault Rifles Traduction Française* est un simple patch de traduction qui permet d'obtenir en Français tous ajouts de textes (Anglais) du Mod *Aaron0000's Though Assault Rifles*.
 
 Placez ce Mod de traduction en toute dernière place de vos Mods puis prononcez la formule magique.
 
+![BL2 - Aaron0000's Though Assault Rifles French Translation](https://imgur.com/Oz9CAvy.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 __Note:__ Si vous avez oublié la formule magique, contentez-vous d'activer le Mod... cela devrait fonctionner également :wink:
 
 ### Notes de mise à jour:
 
-- v1.0.0, 15 Décembre 2018 
+- v1.0.0, 14 Décembre 2018 
   - Première publication publique
  
 ### Compatibilité:
