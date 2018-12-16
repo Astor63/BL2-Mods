@@ -18,9 +18,9 @@ __Note:__ Si vous avez oublié la formule magique, contentez-vous d'activer le M
 
 - 100% compatible avec:
   - la dernière version de [BL2 Community Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
-  - la dernière version (v1.4) de [Jakobs Brand Tweaks](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Orudeon/Jakobs%20Brand%20Tweaks%20V1.4%20by%20Orudeon.txt) de [Orudeon](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Orudeon)
+  - la dernière version de [Revolvers](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/Revolvers.txt) de [Aaron0000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000)
 
-:warning: N'oubliez pas de placer ce Mod __APRES__ le Mod *Orudeon's Jakobs Brand Tweaks* :warning:
+:warning: N'oubliez pas de placer ce Mod __APRES__ le Mod *Aaron0000's Revolvers* :warning:
 
 ### Aidez-moi! Le Mod ne fonctionne pas !?!
 
