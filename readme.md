@@ -48,11 +48,13 @@ This ReadMe is just here as a quick synopsis, for detailed informations, each Mo
 
 - __*Jakobs Brand Tweaks by Orudeon* French Translation:__ a simple translation Mod that allows you to obtain in French any text additions (in English) from the Mod *Orudeon's Jakobs Brand Tweaks v1.4*.
 
-- __*Tough Assault Rifles by Aaron0000* French Translation:__ a simple translation Mod that allows you to obtain in French any text additions (in English) from the Mod *Aaron0000's Revolvers*.
-
 - __*Revolvers by Aaron0000* French Translation:__ a simple translation Mod that allows you to obtain in French any text additions (in English) from the Mod *Orudeon's Tediore Brand Overhaul V1.35*.
 
-- __*Tough Assault Rifles by Aaron0000* French Translation:__ a simple translation Mod that allows you to obtain in French any text additions (in English) from the Mod *Aaron0000's Tough Assault Rifles*.
+- __*Shield Behavior Overgaul by Orudeon* French Translation:__ a simple translation Mod that allows you to obtain in French any text additions (in English) from the Mod *Orudeon's Shield Behavior Overgaul v1.3a*.
+
+- __*Tediore Brand Overgaul by Orudeon* French Translation:__ a simple translation Mod that allows you to obtain in French any text additions (in English) from the Mod *Orudeon's Tediore Brand Overgaul v1.35*.
+
+- __*Tough Assault Rifles by Aaron0000* French Translation:__ a simple translation Mod that allows you to obtain in French any text additions (in English) from the Mod *Aaron0000's Revolvers*.
 
 * * * * *
 
@@ -74,6 +76,12 @@ This ReadMe is just here as a quick synopsis, for detailed informations, each Mo
 
 * * * * *
 
+## Quality of Life 
+
+- __Shorter *Fast Travel* Waiting Time:__ Reduces the useless (and annoying) Fast Travel waiting time in co-op.
+
+* * * * *
+
 ## Quests Improvement:
 
 - __Battle Arena Sponsored:__ The Battle Arena are now fully sponsored by weapons manufacturers.
@@ -82,9 +90,9 @@ This ReadMe is just here as a quick synopsis, for detailed informations, each Mo
 
 - __Dr Zed E-Tech Geek:__ The missions given by Dr Zed give you the choice to be rewarded between 2 E-Tech weapons.
 
-- __Hammerlock Jakobs Sponsor:__ The missions given by Hammerlock give you the choice to be rewarded between 2 Jakobs weapons.
-
 - __Less Tedious Quests:__ As the title suggests it, makes a few timed **-failable!-** optional mission less tedious to complete.
+
+- __Sir Hammerlock's Jakobs Sponsor:__ The missions given by Sir Hammerlock give you the choice to be rewarded between 2 Jakobs weapons/items.
 
 * * * * *
 
