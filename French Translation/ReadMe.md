@@ -6,19 +6,21 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 - __*Jakobs Brand Tweaks by Orudeon* French Translation:__ a simple translation Mod that allows you to obtain in French any text additions (in English) from the Mod *Orudeon's Jakobs Brand Tweaks v1.4*.
 
-- __*Revolvers by Aaron0000* French Translation:__ a simple translation Mod that allows you to obtain in French any text additions (in English) from the Mod *Orudeon's Tediore Brand Overhaul V1.35*.
+- __*Revolvers by Aaron0000* French Translation:__ a simple translation Mod that allows you to obtain in French any text additions (in English) from the Mod *Aaron0000's Revolvers*.
 
 - __*Shield Behavior Overgaul by Orudeon* French Translation:__ a simple translation Mod that allows you to obtain in French any text additions (in English) from the Mod *Orudeon's Shield Behavior Overgaul v1.3a*.
 
 - __*Tediore Brand Overgaul by Orudeon* French Translation:__ a simple translation Mod that allows you to obtain in French any text additions (in English) from the Mod *Orudeon's Tediore Brand Overgaul v1.35*.
 
-- __*Tough Assault Rifles by Aaron0000* French Translation:__ a simple translation Mod that allows you to obtain in French any text additions (in English) from the Mod *Aaron0000's Revolvers*.
+- __*Tough Assault Rifles by Aaron0000* French Translation:__ a simple translation Mod that allows you to obtain in French any text additions (in English) from the Mod *Aaron0000's Tough Assault Rifles*.
 
 * * * * *
- 
-## Acknowledgement
 
-A ~~big~~ huge thanks to @LightChaosman and his great - [BLCMM (Borderlands Community Mod Manager)](https://github.com/BLCM/BLCMods/wiki/Borderlands-Community-Mod-Manager) tool who make the Mods creation a real pleasure. 
+## Credits:
+
+I am __NOT__ the author for the mods listed above, and I __DON'T__ modify them in anyway... so I cannot be can not be held responsible if the Mod blow up in your face! 
+
+Undeniably, to create such great mods, all the credits go to each respective authors... but perhaps I deserve a little credit too... at least to translate the new/additional line(s) of code ```Description``` in French without doing (too much) spelling mistakes :smirk: 
 
 * * * * *
  
