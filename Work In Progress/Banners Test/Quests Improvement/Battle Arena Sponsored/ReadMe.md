@@ -4,6 +4,8 @@ The normal battles rounds from the following *Battle Arena* are now fully sponso
 
 ## Bandit Sponsor
 
+![Bandit Slaughterdome sponsored by Bandit](https://imgur.com/TO9mNc0.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
 - ### *Fink's Slaughterhouse* sponsored by *Bandit* 
   - Gives you the choice between 2 random Bandit weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Bandit Slaughterhouse* Arena in *The Fridge* (instead of just the *Hail* as reward for the 5th round)
 
@@ -33,6 +35,8 @@ __Note:__ If you use my custom weapon mod: *Discord Solver Moxxi Edition*, this 
 
 ## Hyperion Sponsor
 
+![Hyperion Slaughterdome sponsored by Hyperion](https://imgur.com/H6u3YBV.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
 - ### *Hyperion Circle Of Slaughter* sponsored by *Hyperion*
   - Gives you the choice between 2 random Hyperion weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Hyperion Slaughter* Arena in *One Chasm* (instead of just the *Chère-Amie* as reward for the 5th round)
 
@@ -57,6 +61,8 @@ __Note:__ If you use my custom weapon mod: *Discord Solver Moxxi Edition*, this 
 | Round 3 Rematch: | Choice from 2 Moxxi's weapons: __*Good Touch*__ or __*Bad Touch*__ | 
 
 ## Maliwan Sponsor
+
+![Creature Slaughterdome sponsored by Maliwan](https://imgur.com/QkM5id5.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 - ### *Creature Slaughterdome* sponsored by *Maliwan* 
   - Gives you the choice between 2 random Maliwan weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Creature Slaughter* Arena in *Wildlife Exploitation Preserve* (instead of just the *Creamer* as reward for the 5th round)
