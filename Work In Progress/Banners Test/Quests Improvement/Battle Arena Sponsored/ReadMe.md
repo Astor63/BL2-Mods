@@ -52,6 +52,8 @@ __Note:__ If you use my custom weapon mod: *Discord Solver Moxxi Edition*, this 
 
 ## Jakobs Sponsor
 
+![Bar Room Blitz sponsored by Jakobs](https://imgur.com/weokShq.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
 - ### *Bar Room Blitz* sponsored by *Jakobs*
   - Gives you the choice between 2 random Jakobs weapons as reward for the rounds 1-3 and the choice between 2 Moxxi's weapons for the Rematch round in *Bar Room Blitz* Arena in *Pyro Pete's Bar* (instead of just... well... nothing as reward for the Rematch Round)
 
@@ -79,6 +81,8 @@ __Note:__ If you use my custom weapon mod: *Discord Solver Moxxi Edition*, this 
 
 ## Tediore Sponsor
 
+![Twelve O'Clock High sponsored by Tediore](https://imgur.com/4FHZuMV.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
 - ### *Twelve O'Clock High* sponsored by *Tediore*
   - Gives you the choice between 2 random Tediore weapons as reward for the rounds 1-3 and the choice between 2 Moxxi's weapons for the Rematch round in *Twelve O'Clock High* Arena in *The Forge* (instead of just... well... nothing as reward for the Rematch round)
 
@@ -93,6 +97,8 @@ __Note:__ If you use my custom weapon mod: *Plasma Caster Finesse Moxxi Edition*
 
 ## Torgue Sponsor
 
+![Appetite For Destruction sponsored by Torgue](https://imgur.com/AKpXvTH.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
 - ### *Appetite For Destruction* sponsored by *Torgue*
   - Gives you the choice between 2 random Torgue weapons as reward for the rounds 2-3 and the choice between 2 Moxxi's weapons for the Rematch round in *Appetite For Destruction* Arena in *Torgue Arena* (instead of just the *Blue Shield or Grenade* as reward for the Rematch round)
 
@@ -104,6 +110,8 @@ __Note:__ If you use my custom weapon mod: *Plasma Caster Finesse Moxxi Edition*
 | Round 3 Rematch: | Choice from 2 Moxxi's weapons: __*Creamer*__ or __*Rubi*__ | 
 
 ## Vladof Sponsor
+
+![The Death Race sponsored by Vladof](https://imgur.com/7EiSWJF.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 - ### *The Death Race* sponsored by *Vladof*
   - Gives you the choice between 2 random Vladof weapons as reward for the rounds 1-3 and the choice between 2 Moxxi's weapons for the Rematch race in *The Death Race* Arena in *Badass Crater of Badassitude* (instead of just... well... nothing as reward for the Rematch Race)
