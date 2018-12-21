@@ -4,7 +4,7 @@ The normal battles rounds from the following *Battle Arena* are now fully sponso
 
 ## Bandit Sponsor
 
-![Bandit Slaughterdome sponsored by Bandit](https://imgur.com/TO9mNc0.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Bandit Slaughterdome sponsored by Bandit](https://imgur.com/ZjV7T98.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 - ### *Fink's Slaughterhouse* sponsored by *Bandit* 
   - Gives you the choice between 2 random Bandit weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Bandit Slaughterhouse* Arena in *The Fridge* (instead of just the *Hail* as reward for the 5th round)
@@ -18,6 +18,8 @@ The normal battles rounds from the following *Battle Arena* are now fully sponso
 | Round 5:      | Choice from 2 Moxxi's weapons: __*Rubi*__ or __*Chère-Amie*__ | 
 
 ## Dahl Sponsor 
+
+![Murderlin's Temple sponsored by Dahl](https://imgur.com/DQ4ddwb.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 - ### *Murderlin's Temple* sponsored by *Dahl*
   - Gives you the choice between 2 random Dahl weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Murderlin's Temple* Arena in *Flamerock Refuge* (instead of just the *Orc* as reward for the 5th round)... and a Legendary weapon for the Badass Round.
@@ -35,7 +37,7 @@ __Note:__ If you use my custom weapon mod: *Discord Solver Moxxi Edition*, this 
 
 ## Hyperion Sponsor
 
-![Hyperion Slaughterdome sponsored by Hyperion](https://imgur.com/H6u3YBV.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Hyperion Slaughterdome sponsored by Hyperion](https://imgur.com/ngZCIBO.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 - ### *Hyperion Circle Of Slaughter* sponsored by *Hyperion*
   - Gives you the choice between 2 random Hyperion weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Hyperion Slaughter* Arena in *One Chasm* (instead of just the *Chère-Amie* as reward for the 5th round)
@@ -62,7 +64,7 @@ __Note:__ If you use my custom weapon mod: *Discord Solver Moxxi Edition*, this 
 
 ## Maliwan Sponsor
 
-![Creature Slaughterdome sponsored by Maliwan](https://imgur.com/QkM5id5.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Creature Slaughterdome sponsored by Maliwan](https://imgur.com/YcNXvGv.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 - ### *Creature Slaughterdome* sponsored by *Maliwan* 
   - Gives you the choice between 2 random Maliwan weapons as reward for the rounds 1-4 and the choice between 2 Moxxi's weapons for the 5th round in *Creature Slaughter* Arena in *Wildlife Exploitation Preserve* (instead of just the *Creamer* as reward for the 5th round)
