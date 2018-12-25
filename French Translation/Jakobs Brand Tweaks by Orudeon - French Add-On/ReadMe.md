@@ -1,28 +1,30 @@
-## *Aaron0000's Though Assault Rifles* - Traduction Française
+## *Orudeon's Jakobs Brand Tweaks* - Traduction Française
 
 Vous jouez à *Borderlands 2* en version Française et vous avez entièrement raison car les acteurs de doublage Français (Christophe Lemoine pour *Le Beau Jack*, Sophie Riffont pour *Moxxi*, Sylvain Lemarié pour *Marcus Kincaid*,  Isabelle Volpe pour *Tiny Tina*, Frédéric Souterelle pour *Sir Hammerlock*, Caroline Pascal pour *Gaige*, etc...) on fait un excellent travail.
 
-Le Mod *Aaron0000's Though Assault Rifles Traduction Française* est un simple patch de traduction, a ajouter après le Mod original, qui permet d'obtenir en Français tous ajouts de textes (Anglais) du Mod *Aaron0000's Though Assault Rifles*.
+Le Mod *Orudeon's Jakobs Brand Tweaks Traduction Française* est un simple patch de traduction, a ajouter après le Mod original, qui permet d'obtenir en Français tous ajouts de textes (Anglais) du Mod *Orudeon's Jakobs Brand Tweaks.
 
-Ce Mod comprend la traduction Française des ajouts Anglais de la version *Aaron0000's Though Assault Rifles*, mais pas le Mod original bien évidemment.
+__Note:__ Ce Mod comprend la traduction Française des ajouts Anglais de la version *Jakobs Brand Tweaks v1.4 by Orudeon*, mais pas le Mod original bien évidemment. 
 
-Placez ce Mod de traduction en toute dernière place de vos Mods puis prononcez la formule magique.
+### Utilisation:
 
-![BL2 - Aaron0000's Though Assault Rifles French Translation](https://imgur.com/Oz9CAvy.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+Placez ce Mod de traduction après le Mod original, ou a la toute dernière place de vos Mods, puis prononcez la formule magique.
+
+![BL2 - Orudeon Jakobs Brand Tweaks French Translation](https://imgur.com/GkVEnSb.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 __Note:__ Si vous avez oublié la formule magique, contentez-vous d'activer le Mod... cela devrait fonctionner également :wink:
 
 ### Notes de mise à jour:
 
-- v1.0.0, 17 Décembre 2018 
+- v1.0.0, 14 Décembre 2018 
   - Première publication publique
  
 ### Compatibilité:
 
 - 100% compatible avec:
   - la dernière version de [BL2 Community Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
-  - la dernière version (18-12-2018) de [Though Assault Rifles](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/ToughARs.txt) de [Aaron0000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000)
+  - la dernière version (v1.4) de [Jakobs Brand Tweaks](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Orudeon/Jakobs%20Brand%20Tweaks%20V1.4%20by%20Orudeon.txt) de [Orudeon](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Orudeon)
 
-:warning: N'oubliez pas de placer ce Mod __APRES__ le Mod *Aaron0000's Though Assault Rifles* :warning:
+:warning: N'oubliez pas de placer ce Mod __APRES__ le Mod *Orudeon's Jakobs Brand Tweaks* :warning:
 
 ### Aidez-moi! Le Mod ne fonctionne pas !?!
 

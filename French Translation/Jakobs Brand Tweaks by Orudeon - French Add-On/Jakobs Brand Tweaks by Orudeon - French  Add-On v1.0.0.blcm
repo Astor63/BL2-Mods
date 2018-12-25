@@ -2,9 +2,12 @@
 #<!!!You opened a file saved with BLCMM in FilterTool. Please update to BLCMM to properly open this file!!!>
 	<head>
 		<type name="BL2" offline="false"/>
+		<profiles>
+			<profile name="default" current="true"/>
+		</profiles>
 	</head>
 	<body>
-		<category name="Jakobs Brand Tweaks by Orudeon - French v1.0.0">
+		<category name="Jakobs Brand Tweaks by Orudeon - French  Add-On v1.0.0">
 			<comment>Mod author: Astor</comment>
 			<comment>Release Date: 14 December 2018</comment>
 			<comment>Version: 1.0.0 - See ReadMe for Changelog ;)</comment>

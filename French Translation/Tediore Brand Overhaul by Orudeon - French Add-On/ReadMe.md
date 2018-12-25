@@ -1,28 +1,30 @@
-## *Orudeon's Shield Stat Tweaks* - Traduction Française
+## *Orudeon's Tediore Brand Overhaul* - Traduction Française
 
 Vous jouez à *Borderlands 2* en version Française et vous avez entièrement raison car les acteurs de doublage Français (Christophe Lemoine pour *Le Beau Jack*, Sophie Riffont pour *Moxxi*, Sylvain Lemarié pour *Marcus Kincaid*,  Isabelle Volpe pour *Tiny Tina*, Frédéric Souterelle pour *Sir Hammerlock*, Caroline Pascal pour *Gaige*, etc...) on fait un excellent travail.
 
-Le Mod *Orudeon's Shield Stat Tweaks Traduction Française* est un simple patch de traduction, a ajouter après le Mod original, qui permet d'obtenir en Français tous ajouts de textes (Anglais) du Mod *Orudeon's Shield Stat Tweaks*.
+Le Mod *Orudeon's Tediore Brand Overhaul Traduction Française* est un simple patch de traduction, a ajouter après le Mod original, qui permet d'obtenir en Français tous ajouts de textes (Anglais) du Mod *Orudeon's Tediore Brand Overhaul*.
 
-Ce Mod comprend la traduction Française des ajouts Anglais de la version *Shield Stat Tweaks V1.1 by Orudeon*, mais pas le Mod original bien évidemment. 
+__Note:__ Ce Mod comprend la traduction Française des ajouts Anglais de la version *Tediore Brand Overhaul V1.35 by Orudeon & Aaron0000*, mais pas le Mod original bien évidemment. 
 
-Placez ce Mod de traduction en toute dernière place de vos Mods puis prononcez la formule magique.
+### Utilisation:
 
-![BL2 - Orudeon Shield Stat Tweaks French Translation](https://imgur.com/LUHPS6i.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+Placez ce Mod de traduction après le Mod original, ou a la toute dernière place de vos Mods, puis prononcez la formule magique.
+
+![BL2 - Orudeon Tediore Brand Overhaul French Translation](https://imgur.com/f66s9gv.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 __Note:__ Si vous avez oublié la formule magique, contentez-vous d'activer le Mod... cela devrait fonctionner également :wink:
 
 ### Notes de mise à jour:
 
-- v1.0.0, 22 Décembre 2018 
+- v1.0.0, 15 Décembre 2018 
   - Première publication publique
  
 ### Compatibilité:
 
 - 100% compatible avec:
   - la dernière version de [BL2 Community Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
-  - la dernière version (v1.1) de [Shield Stat Tweaks](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Orudeon/Shield%20Stat%20Tweaks%20V1.1%20by%20Orudeon.txt) de [Orudeon](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Orudeon)
+  - la dernière version (V1.35a) de [Tediore Brand Overhaul](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Orudeon/Tediore%20Brand%20Overhaul%20V1.35a%20by%20Orudeon.txt) de [Orudeon](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Orudeon)
 
-:warning: N'oubliez pas de placer ce Mod __APRES__ le Mod *Orudeon's Shield Stat Tweaks* :warning:
+:warning: N'oubliez pas de placer ce Mod __APRES__ le Mod *Orudeon's Tediore Brand Overhaul* :warning:
 
 ### Aidez-moi! Le Mod ne fonctionne pas !?!
 

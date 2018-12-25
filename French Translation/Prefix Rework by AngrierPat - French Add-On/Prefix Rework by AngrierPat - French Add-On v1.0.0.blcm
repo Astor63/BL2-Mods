@@ -2,11 +2,14 @@
 #<!!!You opened a file saved with BLCMM in FilterTool. Please update to BLCMM to properly open this file!!!>
 	<head>
 		<type name="BL2" offline="false"/>
+		<profiles>
+			<profile name="default" current="true"/>
+		</profiles>
 	</head>
 	<body>
-		<category name="Prefix Rework by AngrierPat French Translation v1.0.0">
+		<category name="Prefix Rework by AngrierPat French Add-On v1.0.0">
 			<comment>Mod author: Astor</comment>
-			<comment>Release Date: 15 December 2018</comment>
+			<comment>Release Date: 28 December 2018</comment>
 			<comment>Version: 1.0.0 - See ReadMe for Changelog ;)</comment>
 			<comment>Traduit en Français les ajouts de texte Anglais provenant de AngrierPat's Prefix Rework V2.1</comment>
 			<category name="Handguns">

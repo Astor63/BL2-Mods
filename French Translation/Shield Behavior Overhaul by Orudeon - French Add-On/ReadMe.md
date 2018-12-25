@@ -1,28 +1,46 @@
-## *Aaron0000's Revolvers* - Traduction Française
+## *Orudeon's Shield Behavior Overhaul* - Traduction Française
 
 Vous jouez à *Borderlands 2* en version Française et vous avez entièrement raison car les acteurs de doublage Français (Christophe Lemoine pour *Le Beau Jack*, Sophie Riffont pour *Moxxi*, Sylvain Lemarié pour *Marcus Kincaid*,  Isabelle Volpe pour *Tiny Tina*, Frédéric Souterelle pour *Sir Hammerlock*, Caroline Pascal pour *Gaige*, etc...) on fait un excellent travail.
 
-Le Mod *Aaron0000's Revolvers Traduction Française* est un simple patch de traduction, a ajouter après le Mod original, qui permet d'obtenir en Français tous ajouts de textes (Anglais) du Mod *Aaron0000's Revolvers*.
+Le Mod *Orudeon's Shield Behavior Overhaul Traduction Française* est un simple patch de traduction, a ajouter après le Mod original, qui permet d'obtenir en Français tous ajouts de textes (Anglais) du Mod *Orudeon's Shield Behavior Overhaul*.
 
-Ce Mod comprend la traduction Française des ajouts Anglais de la version *Aaron0000's Revolvers*, mais pas le Mod original bien évidemment.
+__Note:__ Ce Mod comprend la traduction Française des ajouts Anglais de la version *Shield Behavior Overhaul V1.3a by Orudeon*, mais pas le Mod original bien évidemment. 
 
-Placez ce Mod de traduction en toute dernière place de vos Mods puis prononcez la formule magique.
+### Utilisation:
 
-![BL2 - Aaron0000's Revolvers French Translation](https://imgur.com/TgXHsBN.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+Placez ce Mod de traduction après le Mod original, ou a la toute dernière place de vos Mods, puis prononcez la formule magique.
+
+### Orudeon's Shield Behavior Overhaul - Bouclier Amplificateur de tir
+
+![BL2 - Orudeon Shield Behavior Overhaul French Translation](https://imgur.com/LUHPS6i.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
+### Orudeon's Shield Behavior Overhaul - Bouclier à Pointe Corrosive
+
+![BL2 - Orudeon Shield Behavior Overhaul French Translation](https://imgur.com/iAkBCK9.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
+### Orudeon's Shield Behavior Overhaul - Bouclier à Pointe Explosive
+
+![BL2 - Orudeon Shield Behavior Overhaul French Translation](https://imgur.com/WrI5Bxu.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
+### Orudeon's Shield Behavior Overhaul - Bouclier à Pointe Incendiaire
+![BL2 - Orudeon Shield Behavior Overhaul French Translation](https://imgur.com/FiNEmrP.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
+### Orudeon's Shield Behavior Overhaul - Bouclier à Pointe Electrique
+![BL2 - Orudeon Shield Behavior Overhaul French Translation](https://imgur.com/EAMKb69.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 __Note:__ Si vous avez oublié la formule magique, contentez-vous d'activer le Mod... cela devrait fonctionner également :wink:
 
 ### Notes de mise à jour:
 
-- v1.0.0, 18 Décembre 2018 
+- v1.0.0, 20 Décembre 2018 
   - Première publication publique
  
 ### Compatibilité:
 
 - 100% compatible avec:
   - la dernière version de [BL2 Community Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
-  - la dernière version (18-12-2018) de [Revolvers](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Weapon-Item%20Parts%20and%20Accessories/Revolvers.txt) de [Aaron0000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000)
+  - la dernière version (V1.3a) de [Shield Behavior Overhaul](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Orudeon/Shield%20Behavior%20Overhaul%20V1.3a%20by%20Orudeon.txt) de [Orudeon](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Orudeon)
 
-:warning: N'oubliez pas de placer ce Mod __APRES__ le Mod *Aaron0000's Revolvers* :warning:
+:warning: N'oubliez pas de placer ce Mod __APRES__ le Mod *Orudeon's Shield Behavior Overhaul* :warning:
 
 ### Aidez-moi! Le Mod ne fonctionne pas !?!
 
