@@ -1,14 +1,16 @@
-## *Orudeon's Jakobs Brand Tweaks* - Traduction Française
+## *Community Patch Team's UCP 4.1* Traduction Française
 
 Vous jouez à *Borderlands 2* en version Française et vous avez entièrement raison car les acteurs de doublage Français (Christophe Lemoine pour *Le Beau Jack*, Sophie Riffont pour *Moxxi*, Sylvain Lemarié pour *Marcus Kincaid*,  Isabelle Volpe pour *Tiny Tina*, Frédéric Souterelle pour *Sir Hammerlock*, Caroline Pascal pour *Gaige*, etc...) on fait un excellent travail.
 
-Le Mod *Orudeon's Jakobs Brand Tweaks Traduction Française* est un simple patch de traduction, a ajouter après le Mod original, qui permet d'obtenir en Français tous ajouts de textes (Anglais) du Mod *Orudeon's Jakobs Brand Tweaks.
+Le Mod *Community Patch Team's UCP 4.1 Traduction Française* est un simple patch de traduction qui permet d'obtenir en Français tous ajouts de textes (Anglais) du Mod *Community Patch Team's UCP 4.1*.
 
-![BL2 - Orudeon Jakobs Brand Tweaks French Translation](https://imgur.com/GkVEnSb.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+Ce Mod comprend la traduction Française des ajouts Anglais de la version *UCP 4.1* du Community Patch Team.
+
+![BL2 - UCP 4.1 French Translation](https://imgur.com/E7yuwNu.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 ### Utilisation:
 
-Ce Mod comprend la traduction Française des ajouts Anglais de la version *Jakobs Brand Tweaks v1.4 by Orudeon*, mais pas le Mod original bien évidemment. 
+Ce Mod comprend la traduction Française des ajouts Anglais de la version *UCP 4.1 by Community Patch Team*, mais pas le Mod original bien évidemment. 
 
 Placez ce Mod de traduction juste après le mod à traduire puis prononcez la formule magique.
 
@@ -17,16 +19,15 @@ __Note:__ Si vous avez oublié la formule magique, contentez-vous d'activer le M
 
 ### Notes de mise à jour:
 
-- v1.0.0, 14 Décembre 2018 
+- v1.0.0, 27 Décembre 2018
   - Première publication publique
  
 ### Compatibilité:
 
-- 100% compatible avec:
-  - la dernière version de [BL2 Community Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
-  - la dernière version (v1.4) de [Jakobs Brand Tweaks](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Orudeon/Jakobs%20Brand%20Tweaks%20V1.4%20by%20Orudeon.txt) de [Orudeon](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Orudeon)
+- 100% compatible avec la dernière version de [UCP 4.1](https://github.com/BLCM/BLCMods/blob/6ad6e7c89b8c55eed9091a2676bd5414cdc0b78b/Borderlands%202%20mods/Community%20Patch%20Team/Patch.txt) du [Community Patch Team](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team) 
+ 
 
-:warning: N'oubliez pas de placer ce Mod __APRES__ le Mod *Orudeon's Jakobs Brand Tweaks* :warning:
+:warning: N'oubliez pas de placer ce Mod __APRES__ le Mod *Community Patch Team's UCP 4.1* :warning:
 
 ### Aidez-moi! Le Mod ne fonctionne pas !?!
 
