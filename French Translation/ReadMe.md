@@ -6,7 +6,11 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
   - __*UCP 4.1 by Community Patch Team* French Translation:__ a simple *Add-On Translation Mod* that allows you to obtain in French any text additions (in English) from the Mod *Community Patch Team's UCP 4.1*.
 
-- ### *Gears Overhaul*:
+- ### *Gameplay Overhauls*:
+
+  - __*Slag Overhaul by B33PB00PJOE* French Translation:__ a simple *Add-On Translation Mod* that allows you to obtain in French any text additions (in English) from the Mod *B33PB00PJOE's Slag Overhaul*.
+
+- ### *Gears Overhauls*:
 
   - __*Bandit Brand Tweaks by Orudeon* French Translation:__ a simple *Add-On Translation Mod* that allows you to obtain in French any text additions (in English) from the Mod *Orudeon's Bandit Brand Tweaks v1.21*.
 
