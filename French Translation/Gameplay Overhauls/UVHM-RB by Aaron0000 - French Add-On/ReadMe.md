@@ -1,12 +1,13 @@
-## *B33PB00PJOE's Slag Overhaul* - Traduction Française
+## *Aaron0000's UVHM-RB* - Traduction Française
 
 Vous jouez à *Borderlands 2* en version Française et vous avez entièrement raison car les acteurs de doublage Français (Christophe Lemoine pour *Le Beau Jack*, Sophie Riffont pour *Moxxi*, Sylvain Lemarié pour *Marcus Kincaid*,  Isabelle Volpe pour *Tiny Tina*, Frédéric Souterelle pour *Sir Hammerlock*, Caroline Pascal pour *Gaige*, etc...) on fait un excellent travail.
 
-Le Mod *B33PB00PJOE's Slag Overhaul Traduction Française* est un simple patch de traduction qui permet d'obtenir en Français tous ajouts de textes (Anglais) du Mod *B33PB00PJOE's Slag Overhaul*. 
+Le Mod *Aaron0000's UVHM-RB Traduction Française* est un simple patch de traduction, a ajouter après le Mod original, qui permet d'obtenir en Français tous ajouts de textes (Anglais) du Mod *Aaron0000's UVHM-RB*.
+
 
 ### Utilisation:
 
-Ce Mod comprend la traduction Française des ajouts Anglais de la version *Slag Overhaul by B33PB00PJOE*, mais pas le Mod original bien évidemment.
+Ce Mod comprend la traduction Française des ajouts Anglais de la version *Aaron0000's UVHM-RB*, mais pas le Mod original bien évidemment.
 
 Placez ce Mod de traduction juste après le mod à traduire puis prononcez la formule magique.
 
@@ -15,16 +16,16 @@ __Note:__ Si vous avez oublié la formule magique, contentez-vous d'activer le M
 
 ### Notes de mise à jour:
 
-- v1.0.0, 02 Janvier 2019 
+- v1.0.0, 04 Janvier 2019 
   - Première publication publique
  
 ### Compatibilité:
 
 - 100% compatible avec:
   - la dernière version de [BL2 Community Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
-  - la dernière version de [Slag Overhaul](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/B33PB00PJOE/SlagOverhaul.txt) de [B33PB00PJOE](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/B33PB00PJOE)
+  - la dernière version (v2.2) de [UVHM-RB](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Overhauls/UVHM-RB-V2.2.txt) de [Aaron0000](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Aaron0000)
 
-:warning: N'oubliez pas de placer ce Mod __APRES__ le Mod *B33PB00PJOE's Slag Overhaul* :warning:
+:warning: N'oubliez pas de placer ce Mod __APRES__ le Mod *Aaron0000's UVHM-RB* :warning:
 
 ### Aidez-moi! Le Mod ne fonctionne pas !?!
 
