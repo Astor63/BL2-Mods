@@ -16,7 +16,7 @@ __Note:__ Si vous avez oublié la formule magique, contentez-vous d'activer le M
 
 ### Notes de mise à jour:
 
-- v1.0.0, 04 Janvier 2019 
+- v1.0.0, 05 Janvier 2019 
   - Première publication publique
  
 ### Compatibilité:
