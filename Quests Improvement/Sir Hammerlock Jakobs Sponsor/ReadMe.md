@@ -15,7 +15,7 @@ __Note:__ As for my *Double Quest Reward Redux*, this Mod will give you the choi
 
 ### Changelog:
 
-- v1.0.4, January 11, 2019
+- v1.0.4, January 22, 2019
   - Added Jakobs weapon reward for DLC Campaign 2 - *Mr. Torgue's Campaign of Carnage*
 - v1.0.3, November 30, 2018
   - Added Jakobs weapon reward for DLC Campaign 3 - *Sir Hammerlock's Big Game Hunt*
